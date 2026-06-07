@@ -3,7 +3,28 @@
   "last_digest_date": null,
   "orange_queue": [],
   "orange_slots_sent": {},
-  "red_cooldowns": {},
+  "red_cooldowns": {
+    "AL2SI.PA": {
+      "ts": 1780866297.616801,
+      "variation": -8.73394187437285
+    },
+    "ALHAF.PA": {
+      "ts": 1780866297.6168022,
+      "variation": -8.163269526359606
+    },
+    "ALKAL.PA": {
+      "ts": 1780866297.6167986,
+      "variation": -9.711689355142518
+    },
+    "LQQ.PA": {
+      "ts": 1780866297.6168041,
+      "variation": -4.324716115003624
+    },
+    "SIVE.ST": {
+      "ts": 1780866297.6168036,
+      "variation": -9.164261611806557
+    }
+  },
   "seen_news": {
     "AL2SI.PA": [
       "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSU9EY2ZPaUNkNFZ1QUMtRTF0cndlYmR0M0JkdjRUOVpBaGVrUEdBbk5UWW90c2h0WWVqNWw2RmdyZDBub1pFRHhIeVNPR21VQkNmTGFvMDBlNXJBcFVZTXFzSkYweU51VnJoSjc4RHg1MkJyTE5mTXVScEEyZW1yU3hLTHhCU0tmS2Zma3l2SWhPZEtvRVhaa0JEMW5Bckt2bkFKQzFubGt0bFRLOXJvVTc1aVktWW5DcHdTVlRDemd1NU1SdkQwSTVGOFJGQk1C?oc=5",
