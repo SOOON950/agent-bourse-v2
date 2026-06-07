@@ -8,28 +8,35 @@
       "ticker": "ALRIB.PA",
       "titre": "Riber au plus haut en Bourse depuis 2001 - Les Echos",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHlfVHZ5UGhEZDJNMDlZSDZkdnFQV1hVVVRmakhiczRiM0x5YjlxN25uSFcydkpKUVFYb2g5RHItdTB6dXhsNlF2MG10WGtKUlJxSjZwSF9YMG9TQlJfd0F3S0dPdU4wNkVMWWlFUU9YYmxMSTZjOWwwSWVra2VuM0lJZno3RWZhOXRpenY2VVZWeU1ZdFg4Nms5TC00Z1F0ek9CdHlsTHVyV2VKMWRRdDB3?oc=5",
+      "nom": "Median Technologies",
+      "ticker": "ALMDT.PA",
+      "titre": "Median Technologies : en net repli après les annonces - Boursier.com",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {},
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1780870625.633034,
+      "ts": 1780875228.6302001,
       "variation": -8.73394187437285
     },
     "ALHAF.PA": {
-      "ts": 1780870625.6330352,
+      "ts": 1780875228.6302016,
       "variation": -8.163269526359606
     },
     "ALKAL.PA": {
-      "ts": 1780870625.6330316,
+      "ts": 1780875228.6301968,
       "variation": -9.711689355142518
     },
     "LQQ.PA": {
-      "ts": 1780870625.6330373,
+      "ts": 1780875228.6302044,
       "variation": -4.324716115003624
     },
     "SIVE.ST": {
-      "ts": 1780870625.6330364,
+      "ts": 1780875228.6302035,
       "variation": -9.164261611806557
     }
   },
@@ -70,6 +77,7 @@
       "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXhuZFllZXNGSUxMUGM2NlJtaUJ1dTRmZC1heVJ2RFVQYWFVOWI2X3FjZlNpNEdvMXpHN0FyMjVFNW9WZThRUVZDU0hKM01yNWVoQ25Rb1FDWWJnaTlKRTNrQ0hIcDYxak9ualhBbTI1bkF3a1M0SWl4Xy1mNkxZMlBSeHk?oc=5",
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTnpfWE9aMUd0ek1YMk4ydnlQREVXZlZ3RENKamZqNXdsdXNpaW5mNzljdy1xNF9tMG1MUGYxelJDZWtrbjBaV3hQdUVGTjdmSDVYSGpDb3BrZVFqM3NpNzhMNWFUN1lwUjQ2UVo1TkZieGxBeUNTT2RiNW1JeDFhaVlGQVpIemMyM1HSAY8BQVVfeXFMUERiVUpKTzdtN1pJN3dqdW1NWENuaVFFZ2s0Und5Y3gwNWs5MG1XVkVXWUdSSEJ0djcwcXBsVGNoT181R3F0N0o2aE5PdGR5TXVuWGo5YjlNODVEdU4tNUhfUnJqelZGbUFmQWttaTYwQzRuOVdZYVcwdkpBNTlZazA4WGNjb1VVOGE1TzNrMDQ?oc=5",
       "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0R4bFZRMWhmN09obW11dTJNb1ZTUzBQczM5ajhfd010aHN6c19yU1FNU3YtcHJRaHdXSGpCT3g3emFMTGI5X05zclptRGhpajU0cy1wZTZhYkwyR2RwcHhUS2d4Sldya2tzZU9UTklSYm9uUmZZZmVNT21hVlpia01KN1p3MDZoamZJZndB?oc=5",
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHlfVHZ5UGhEZDJNMDlZSDZkdnFQV1hVVVRmakhiczRiM0x5YjlxN25uSFcydkpKUVFYb2g5RHItdTB6dXhsNlF2MG10WGtKUlJxSjZwSF9YMG9TQlJfd0F3S0dPdU4wNkVMWWlFUU9YYmxMSTZjOWwwSWVra2VuM0lJZno3RWZhOXRpenY2VVZWeU1ZdFg4Nms5TC00Z1F0ek9CdHlsTHVyV2VKMWRRdDB3?oc=5",
       "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0FZc1QtbWdETENkV2lWOG9YZUFpdmR5TjJkdXIydnZ3UnloMUdJc1hUYWVVT3FaSG14WkxtWmg4ejl4REhtSVVDdWhmaktpcW1WTmRIUlAxbjF5NXI1SUlfQ3pTRGZST1hreHYzc25jb0plbHc0LW9Kb3RrNnpHM3BTMUJFMGRTS3RwYjN4VzJuM0FwSmVpakxtdjRVRmZENXZ5d241enIxbkk2TmZ5ZXhPa3N1VmttN1NhTFp1VXNBZGc?oc=5",
       "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQX2taVTRYOUREeS1yV2ZlRnVndWY1N1hHeGNxcTFOWXpZZTVfQ01ZYkdzWEVXcWlUMEVELU5YckQ2dDgxeGQ0ajRJWHMxdVVia0ZpODZycGdhVWcyekZtNlEyS1YyQUllUWFPM0xJeTc0YkdHOUgyZ0dSWHo2YW9ZcklpS3g1eU45TjQ1WDJnc0g0eHc0QTR5Z095bDU1ekpUS2pxUnJPbkF5cmE2Ti1RMmVTSktRR3FNZVdrWEhFOGxDYjNpa1N2VWdzU3ViVFpvcVJyQWlkUTRSRHZ5ZHB4WThpSjBhaW1QdWxKM1Q1S3dmU0RiV3NTZkh4ckJ5WUI0Z1VjR25uU1RtSDZiU3pEZHV2dWR1Y2U1TmtRZWFjRmcyZjNydFB1SUM5QTctN1VXaEEzdG9iT05PY2x2eWJib2ZyVQ?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlNJRkZVLUpydTlhc1lJNEdnOE1WX3FkZTNydmt1eFdqNzlRYThjZmpyaUN6ejUzT1JMemROTDF2YkJsYjdKX0FXUFJPX2lPTWZpblU5NVMtQzh6S1IzZUlhcnZBRHFFcUlORlF1OWNtWWNSVWszY29MTlhHZkZxcWdoLTlLbTRMclU3V2IxVzQ4bzBBVHM3TDV0T2d0Y2ptMWRfbUV2MnQzVjJWMTVQVzFOd1JjcDJ3dnozenJlb0xmUExobkE?oc=5"
