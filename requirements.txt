@@ -1,0 +1,6 @@
+# Dépendances de l'agent boursier (volontairement minimales).
+# Pas de pandas/numpy : tous les indicateurs sont calculés en Python pur.
+
+requests        # requêtes HTTP (Yahoo Finance, Gemini, Gmail via SMTP natif)
+feedparser      # lecture des flux RSS Google Actualités
+tzdata          # base des fuseaux horaires (pour ZoneInfo "Europe/Paris" sur Linux)

@@ -1,0 +1,69 @@
+name: Agent boursier
+
+# Quand le workflow se déclenche
+on:
+  schedule:
+    # Toutes les 5 minutes. ATTENTION : le cron gratuit de GitHub peut être
+    # retardé de plusieurs minutes en période de charge (c'est normal).
+    - cron: "*/5 * * * *"
+  workflow_dispatch:        # bouton "Run workflow" pour un lancement manuel
+  # NB : on NE déclenche PAS sur "push", sinon le commit de state.json
+  # relancerait le workflow en boucle.
+
+# Autorise le workflow à committer state.json dans le dépôt (sinon l'état ne persiste pas)
+permissions:
+  contents: write
+
+# Empêche deux exécutions de se chevaucher (évite les conflits sur state.json).
+# cancel-in-progress: false => on laisse finir l'exécution en cours.
+concurrency:
+  group: agent-boursier
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      # 1) Récupère le contenu du dépôt
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      # 2) Installe Python 3.12
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 3) Installe les dépendances
+      - name: Installer les dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4) Lance l'agent (les 4 secrets sont injectés en variables d'environnement)
+      - name: Lancer l'agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python agent.py
+
+      # 5) Sauvegarde l'état (state.json) en le committant dans le dépôt
+      - name: Sauvegarder l'état
+        run: |
+          git config user.name "agent-boursier-bot"
+          git config user.email "actions@github.com"
+          git add state.json
+          # S'il n'y a aucune modification, on ne fait rien.
+          if git diff --cached --quiet; then
+            echo "state.json inchangé : rien à committer."
+            exit 0
+          fi
+          git commit -m "MAJ état [skip ci]"
+          # Une autre exécution a pu pousser entre-temps : on réessaie proprement.
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash && git push && { echo "Poussé."; break; }
+            echo "Push échoué (tentative $i) — nouvelle tentative dans 5 s."
+            sleep 5
+          done
