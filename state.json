@@ -36,6 +36,21 @@
       "ticker": "SIVE.ST",
       "titre": "Sivers Semiconductors AB et GlobalFoundries Inc font progresser les solutions optiques pour les centres de données IA - Zonebourse",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaXZIcmRiVkJlY1pQVGx0OXp3X3VqS21rTVB1ZnkxemUxbXlweTJHc0Z1LS1FQVFUeEhLRnJfWGpoNXhZNXdVd2FWVU5ySGI5aUJsbDBNMEp2UXF6dkltel9ZRlFQVlBGVUpsMU5fNExodnpYbVNyMDItLWlZZXJLbVZScEtsOEhYUWtXSkdhOGNoTHo1Y2RFeDRjeFl6RnZ1Zm9KbmxnS0xFcm9WUWxBWkY5UmxlTl9zbWJVcVZqQk51dnhTeDdqbGIxTGliQkRORnhJR29keWhuRmllX1BwRHE5bm9qdDZkaUx4S1VidmVfb0U?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Le directeur de division de Sivers Semiconductors cède l'intégralité de sa participation pour 100 millions de couronnes - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "label": "fortement haussier",
+      "message": "😴 Calme inhabituel (volatilité très faible) — la valeur s'endort.",
+      "nom": "LQQ (Nasdaq-100 x2)",
+      "score": 8,
+      "ticker": "LQQ.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
@@ -46,11 +61,11 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1780952930.647685,
+      "ts": 1780959074.9587507,
       "variation": 9.368713639490258
     },
     "ALHAF.PA": {
-      "ts": 1780952930.6476874,
+      "ts": 1780959074.958753,
       "variation": 18.666669810259872
     },
     "ALKAL.PA": {
@@ -62,7 +77,7 @@
       "variation": -3.080808080808081
     },
     "SIVE.ST": {
-      "ts": 1780952930.647689,
+      "ts": 1780959074.958755,
       "variation": 13.451772255998328
     }
   },
@@ -145,6 +160,7 @@
       "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV190a0RYOHhvNnpDbGs4MktVV2lEQmwwUGJMMVg2ZU5nNV9VWHhzVE5DMjI1ZUhmXzhBczFmbHNsaHZGTkk5d0tIMVR2Rnd0VTN4Y2xiR1J0UkEtY0haVTd0S0xLRFQxaTdoVE1uYVo0VVhqdG5yR054ckVvZERTVnpiN0s5Z3lqTi1EbTV6Q3luZGlXOUxVZXdTVWlFSEtjVTAwSmJHSk5zNDJXbFlORnVLNXBpTEdGd2JsQzZWNmp2d09nT3Myc0UwX0hRX3VaOXZZRFV2RHIwMUtPcGU0R2R3U0twdw?oc=5",
       "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR1o2bVVFU3dCcXFRNFEtbldMMm1FcWxzTUdMa3ZwQ19BcGprUVcyMmFuN2JlZDhnV3E4Q1pIcE1FaTN1OGdsRG9MRDlEa25LVmtPTTdqWFJqc2VfVzJmaEM0VzhTbWU2NzZ6N2oxV0VNZzlONUZUSGd6N2MxVE5oWWc2WjNrSkRvX2NDb1ZMQnNSY0d2bXFoSW95TElxbkFGYVdOaTd2NWViU050YlZ2Qk4xNXhma1VYbjVaRHpKZGpuODhFNlU3dTkxTUE3bFhRa1QySzJYZTM1OUozT3dZQ3I5amVzak5HVXBn?oc=5",
       "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQkhTU3U5R0NLbjk0b05NQmdzUTdsd0t4dnZwcldZWjhsZmh2dlljQTByT3dVeU5lVVVfUjhUQXU1aExiNS1lUHF0dk5oTk9kRUg1NmdtcEhneHk3VlM3S3pkWlNPWlNZSjEtT0twbW9OdnpGQzZlYWRaeW52TGVWYllna2kwSTNlcXllSmpabWZjQWJJTGJQdzdSSDdPNDRiSXllelNscG5BeVdITjFwbUpBVXFkS050VF9uUUR5aVZSLXBTeTMxUThlYTB3OUVvRjhKdEZkZkZyNXk5aEpJUWNXQURHOGlGUmwzYXpaaDZyZw?oc=5",
+      "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaXZIcmRiVkJlY1pQVGx0OXp3X3VqS21rTVB1ZnkxemUxbXlweTJHc0Z1LS1FQVFUeEhLRnJfWGpoNXhZNXdVd2FWVU5ySGI5aUJsbDBNMEp2UXF6dkltel9ZRlFQVlBGVUpsMU5fNExodnpYbVNyMDItLWlZZXJLbVZScEtsOEhYUWtXSkdhOGNoTHo1Y2RFeDRjeFl6RnZ1Zm9KbmxnS0xFcm9WUWxBWkY5UmxlTl9zbWJVcVZqQk51dnhTeDdqbGIxTGliQkRORnhJR29keWhuRmllX1BwRHE5bm9qdDZkaUx4S1VidmVfb0U?oc=5",
       "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcXJfOTBzeTVDVEZrTlN6NWV2TjF5RzlieFJkMmstMkpRREdGR3ZLcV9iVThxYWpUbEFvZmh3XzhlaFlQN05PZWcwMHByUVNHUXBUeE5XU1liRVA3MUxJenZjSEtWTGJFVjJxVGJNXzVUM1BoQS1pMFVDdjFTa2FfcFpPbmpEd3FDbXZsWDhGcEFWSmZTUW80RERNU29IdXpaNDhSWFFwbmYwbmZmaEczSTBSTmo4X095cFAzenZoVEMwclppZ1YxX3FTbU5zYk53NHdYRVZ5cE9BZU0yZDh1Sk11NkNtQ0F2MlpjWk5uTk9KMkk?oc=5",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbElOQmxaTkxHSlFsckQzVWRkVjZIbEs4d2NGTWljemV0MjU4MFdDYzJHcFk3cU1Cb2VwUlhlWkpjUkZ4WHVwZE1tTU80TU5jWi05SEV4M1NOQTFSd25VMFA1V3pnRGdjWk9Kb2ttNXNWN3JoU19TenRPRG5vZXFoc1gzaHlIeE1FSS1XM3ZXYXpLRkxaQ1JReWNaYVYxMm81SFF2OTREMEl0N1F4M3c1S3FCdkw?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU1F5Mnp3eFJCdjV1b0FteFFwRmRFYjZZMUFoblJmWFM1YWNuTm5HTzlNa3VXOUhCWXhzdXRnTXJZTjFFa245OWZ0RWNsS0RNZ21NTFdNRTNwN0VRVWhIcVVmQmJWVzhaM2gxVkk4dTlNcUhLcTJuVlR3MS1ZQmZaMWlNcDNPMFM4WndYZnlHeHRoZW1VV3RIUXJqNXcwZ3JOS0VPaW1XWlRna0ZoTVNQblJIWGlHOU1HUHROZ2ZXX0NKWW8xMGc?oc=5",
@@ -216,7 +232,7 @@
       "au_dessus_res": false,
       "croix_mm": "golden",
       "signe_macd": "pos",
-      "silence": false,
+      "silence": true,
       "sous_support": false,
       "zone_rsi": "neutre"
     },
