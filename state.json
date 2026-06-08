@@ -1,66 +1,20 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-08",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZm80RmY2QUJyWnpPZm4yZVJkNWc3ZzkwYWVpV0tiN3VBQ2FZV3psWDdLa2YwclRoX1FBVnRvckh2eWYyVWtHMy1ySGxhUjZTd0tOb05BTHJqc053MFd5TGRzUV9hUEY1Y2QyYm9oU1hERG9DaEFXWE1jRFBLMzd6MF9VcDVvbzhOajhNWWxEa1QtQUtlN0NTa0ZaaGJrR21pckxMQnBGc2t1SC1sanZra2hiNA?oc=5",
-      "nom": "Riber",
-      "ticker": "ALRIB.PA",
-      "titre": "Riber au plus haut en Bourse depuis 2001 - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHlfVHZ5UGhEZDJNMDlZSDZkdnFQV1hVVVRmakhiczRiM0x5YjlxN25uSFcydkpKUVFYb2g5RHItdTB6dXhsNlF2MG10WGtKUlJxSjZwSF9YMG9TQlJfd0F3S0dPdU4wNkVMWWlFUU9YYmxMSTZjOWwwSWVra2VuM0lJZno3RWZhOXRpenY2VVZWeU1ZdFg4Nms5TC00Z1F0ek9CdHlsTHVyV2VKMWRRdDB3?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies : en net repli après les annonces - Boursier.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qYno4QXVsdGJQVjR2dTZUaVZjU0s4WnBSZnRfdENuMGdMdVlrUnpwaHU0WXpldl90dDctYWVEX2VxOVBrYXZKOGpRN21rTnh1VWZsUGJBbllmcDQ3SmNTOWZWYm5Dbk9VM0p2M09XMi1HRlE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSI (FR0013341781) : cours, analyse, consensus des analystes et données financières - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT3MtX09DazNVZ2xOS1BoaTRxLU1WZlhTRUZ5Q0NxX3dSaXVmY2ZEZk1jajhVeTN2ZEExRHNhTTRIZEZnSzdoUkliVVhLSG5ybFJobGNJQlB4eFJHMHkzNjhqQndkXzFpS2F6MWt1N1NsYXZTWVFTNXRuNmhMaW12d2NsNGRXMXQwYUUtNzU3REVqMkNNVlhKOXVsOXpGWjNKXzd4YUNGOEtsZmJUV25oLVE5TjA5bDJNVkxYaE1DMjM4UjZwVVZZU2M4bGRDemdXM0tB?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Kalray, Riber, 2CRSi plongent, Soitec rebondit : Quelles actions de puces FR acheter ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JUaXIxUnRJNFlNRWM3ZTlLTzlTbU9ReG9mUnNMSTdSd0dvZTE4Y0ZvQWU1QkI0UWV6cC1uWlRiN21SR00wZXRweDZpc3U5WXlNVFFrVHJheVBhQ3JRM1ZjMjA0TjEzOEpOcVVFdV93NnpaU1NJbkZ5a0RwZUlVMUpMVzBzU1czMi1YZkZIVDJPRG5jSXJPUGlfNjFDdw?oc=5",
-      "nom": "Vusion Group",
-      "ticker": "VU.PA",
-      "titre": "Vusion : des résultats bien accueillis - Boursier.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTg0NDFCUm1Jc2tnSnZ5dkQwTHFJSHlEQVFtamxDamQwRTFPMHZSQ19pNVM5SW9ybG9vTXE5Q0ZXWXFkckhlNmJzb3RSZFE2LUJ3QXc4QkZyN1UwdHlCWGd4cFZDcUg2TjlBVmE2UW5oUWM5Z1ROdC15RlAwM0hJdmtGYmd1cG9SY0V1Zk1RX3c2REJnZTNoN2ZmUm5wSHE0WmU1d18tWFVlZDFSMkQ0Sk9sX1hjNmVOUjZKOEY1ekRfN0NOMURkTDNyeXlwOXU3?oc=5",
-      "nom": "Kalray",
-      "ticker": "ALKAL.PA",
-      "titre": "L'action Kalray flambe de 10 % en séance : un cours multiplié par trois en trois mois - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHBoNDZqVUUtLVEySEVTOC0yREhoQS1tYWdDeVF6NDl0Q0pPQzUtazZOODZpNzE4RzBna3dWb1FIWnVVbzNERVlIZHhoODNLNG9uWHVfNGZpUzUxVlpscGtLN3NsNnh4LU5PMUZ2OEFkRnQyc0Z5VlNSY1RLSktNeHJpaHNyaG5TOFdBVlF3QkVONUs2bmNwc0lCSG5mWF9qOXBaMUxIbUFlQQ?oc=5",
-      "nom": "Kalray",
-      "ticker": "ALKAL.PA",
-      "titre": "Kalray : nette amélioration des comptes en 2025 - Boursier.com",
-      "type": "actu"
-    }
-  ],
-  "orange_slots_sent": {},
+  "orange_queue": [],
+  "orange_slots_sent": {
+    "2026-06-08": [
+      "13"
+    ]
+  },
   "red_cooldowns": {
     "AL2SI.PA": {
       "ts": 1780899962.2429755,
       "variation": -8.73394187437285
     },
     "ALHAF.PA": {
-      "ts": 1780916014.2266963,
-      "variation": 7.111113948586619
+      "ts": 1780920370.5048027,
+      "variation": 12.000002966986841
     },
     "ALKAL.PA": {
       "ts": 1780899962.2429724,
@@ -71,8 +25,8 @@
       "variation": -3.080808080808081
     },
     "SIVE.ST": {
-      "ts": 1780916014.2266994,
-      "variation": 6.345173546450324
+      "ts": 1780920370.5048053,
+      "variation": 13.515224030190717
     }
   },
   "seen_news": {
