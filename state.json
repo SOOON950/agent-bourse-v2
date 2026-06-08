@@ -36,6 +36,20 @@
       "ticker": "VU.PA",
       "titre": "Vusion : des résultats bien accueillis - Boursier.com",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTg0NDFCUm1Jc2tnSnZ5dkQwTHFJSHlEQVFtamxDamQwRTFPMHZSQ19pNVM5SW9ybG9vTXE5Q0ZXWXFkckhlNmJzb3RSZFE2LUJ3QXc4QkZyN1UwdHlCWGd4cFZDcUg2TjlBVmE2UW5oUWM5Z1ROdC15RlAwM0hJdmtGYmd1cG9SY0V1Zk1RX3c2REJnZTNoN2ZmUm5wSHE0WmU1d18tWFVlZDFSMkQ0Sk9sX1hjNmVOUjZKOEY1ekRfN0NOMURkTDNyeXlwOXU3?oc=5",
+      "nom": "Kalray",
+      "ticker": "ALKAL.PA",
+      "titre": "L'action Kalray flambe de 10 % en séance : un cours multiplié par trois en trois mois - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHBoNDZqVUUtLVEySEVTOC0yREhoQS1tYWdDeVF6NDl0Q0pPQzUtazZOODZpNzE4RzBna3dWb1FIWnVVbzNERVlIZHhoODNLNG9uWHVfNGZpUzUxVlpscGtLN3NsNnh4LU5PMUZ2OEFkRnQyc0Z5VlNSY1RLSktNeHJpaHNyaG5TOFdBVlF3QkVONUs2bmNwc0lCSG5mWF9qOXBaMUxIbUFlQQ?oc=5",
+      "nom": "Kalray",
+      "ticker": "ALKAL.PA",
+      "titre": "Kalray : nette amélioration des comptes en 2025 - Boursier.com",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {},
@@ -45,20 +59,20 @@
       "variation": -8.73394187437285
     },
     "ALHAF.PA": {
-      "ts": 1780899962.2429767,
-      "variation": -8.163269526359606
+      "ts": 1780916014.2266963,
+      "variation": 7.111113948586619
     },
     "ALKAL.PA": {
       "ts": 1780899962.2429724,
       "variation": -9.711689355142518
     },
     "LQQ.PA": {
-      "ts": 1780904966.0348434,
-      "variation": -3.1414141414141437
+      "ts": 1780916014.226701,
+      "variation": -3.080808080808081
     },
     "SIVE.ST": {
-      "ts": 1780899962.2429779,
-      "variation": -9.164261611806557
+      "ts": 1780916014.2266994,
+      "variation": 6.345173546450324
     }
   },
   "seen_news": {
@@ -85,12 +99,14 @@
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWHJMMGg1aVl2TnJfZmlQZFJwandlRlc2V0p4ZjJHU05zMV8xX2JGRUJNYUtKVmRTNk4zMW1RNUxkYnozTGhBN1dhZGY0Mm5vSm1KZEEzU0tkVlNMMmM5cWNrVFBlb0hKa1l5Tm1VVDR5V3VmMkh3MWVJZTcxd0VEdDZ0ek0xXzlBSXdNUkhDX1d2ZUN0SFBqWGp6U0RSZ3hEek03ZjJmRW1idm9KUWFCRklucmJfMngzck4wMlVNRmt3cE9ESWM2M19fVXE?oc=5"
     ],
     "ALKAL.PA": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTg0NDFCUm1Jc2tnSnZ5dkQwTHFJSHlEQVFtamxDamQwRTFPMHZSQ19pNVM5SW9ybG9vTXE5Q0ZXWXFkckhlNmJzb3RSZFE2LUJ3QXc4QkZyN1UwdHlCWGd4cFZDcUg2TjlBVmE2UW5oUWM5Z1ROdC15RlAwM0hJdmtGYmd1cG9SY0V1Zk1RX3c2REJnZTNoN2ZmUm5wSHE0WmU1d18tWFVlZDFSMkQ0Sk9sX1hjNmVOUjZKOEY1ekRfN0NOMURkTDNyeXlwOXU3?oc=5",
       "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vR2FLMUNDZllsV0V2NHZEVlFGc0lQNnBjTlF2bFdWdFZBcGNDVWoyS3dMRkVBbHFQSDBOUEtVbXQtQVNreS0yY1ZERXFKc0VXWHoxbFJB?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KWGZRQy1EYTFLVy1ZbmJ3T2hBTktsaHZWc2ZBZUdrWDJrdmdMRjhkQ1ZHQl9URnRJMWpnWGtTcDdOMU92eVNvbVZpYkxBSk5PTUg2N0ZVN1ROMlFxWG5yYmFPSEROQnJ6VWQ3Njd6eG9TeDBh?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMdkhCT1JvdGc5MTBYN1ZuWU5oNUF2NXh0REMyaDc2QTZtMzBQUkhRckhYMGtPYmRsOHhXaU9CSEtSX0ZjTnV0MWc0RHAzdHlXLW9lSDJDd2dMUE5idUh5TGtTNVdKQ0pwVHBySFB4NjFzNWV0?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPc2xhRnJVNWlwOW5tazU4VGcwaTNzRDlrVEhfaGJMaDZ5YXJCNTN3TlRjUVdDdmVYbnRHaGxKbUNxcGkzRUE1M1FLT2lfT3VtNm1SZDNTQ3lzU0NWV3RtU0lHNi0zcVNxOXYxMjFiVGxfYm1E?oc=5",
       "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlRsSjUtN1EwRE9QTHhoZWo0OWJ0ei1wbXE5bGJQNEFIYUxJMGd0LUFTSnp1MHFXRW03d1Axa3lPT1drUFQwREs5bDhveV8ybl9YSlZWVkZadGF3Ulp1emM5WmZNRTEzSk1JU1NnaUxfbXVHZzd5TGZyLUE4Rjh0VnBxLWlJdi11YkYxOA?oc=5",
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxNak9XUnFfRjRjckxPTHJhdnlBTS03VTdqMkhTMVVCT1BsZHlJNGZySWRzbXAtTFUzR2VldmVPNFk4U3RhOE9vTTYxODZIU0Z1LXlTZ01iLThLel95THBlRFYzYXRmbFdsNWUxVmRLZ0trTFpNSUtjU25ha2ZTNE01emFudldBeWVtdExLU0cwZGJJVWRvUU5nSkdvNWlOcjdmYkMxZTN1OA?oc=5",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHBoNDZqVUUtLVEySEVTOC0yREhoQS1tYWdDeVF6NDl0Q0pPQzUtazZOODZpNzE4RzBna3dWb1FIWnVVbzNERVlIZHhoODNLNG9uWHVfNGZpUzUxVlpscGtLN3NsNnh4LU5PMUZ2OEFkRnQyc0Z5VlNSY1RLSktNeHJpaHNyaG5TOFdBVlF3QkVONUs2bmNwc0lCSG5mWF9qOXBaMUxIbUFlQQ?oc=5",
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanZrWjNteUNwdUtOOUhmTWpHUGxOdVNzV3NhbjVMOGFmU2loZ2U2UzVCT09OemVEZm9YdWphNVR6ZEMtTEdPdUlZUzZFZ1hJdXJUMEFEWlpfUU0zNGRRZEtwbTg1OGVwOEtkSGpmb2hyc0ZnSHpSSm1Rb09nZ19qUTF1MjNIZUtvbUsycjB0N3dwcjczcWI2MjdOTlZsNVJfbGpSMzN0VHEyMGJmS3hKa2hBVy1rR0dNWmpsV0N2aEdEdw?oc=5",
       "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYndNa0t5VzRKQ2xNWkx0cUZxTXhpSHNGTHJFX0F2a040cWRiMU84Y3ZESlZpdHdwd1NydkE1LVhXS0FNRGtKUUMweUJLZk9TRlI5aXk4NXlZYVp6emE4N3B0ODNzeVMyWDFEWWNWc0xwX0trdGJPUjdmbkJsYTRVbTIyaWMzTERpWG9fWjZmdVZmUWVzVVNYdnRyNHQ1NXVDZnZvLVZZZ3lhT1ZvWlB0TmtIQm9kU01ZOU1sX2RFLUE3N2c?oc=5"
     ],
