@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": null,
+  "last_digest_date": "2026-06-08",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZm80RmY2QUJyWnpPZm4yZVJkNWc3ZzkwYWVpV0tiN3VBQ2FZV3psWDdLa2YwclRoX1FBVnRvckh2eWYyVWtHMy1ySGxhUjZTd0tOb05BTHJqc053MFd5TGRzUV9hUEY1Y2QyYm9oU1hERG9DaEFXWE1jRFBLMzd6MF9VcDVvbzhOajhNWWxEa1QtQUtlN0NTa0ZaaGJrR21pckxMQnBGc2t1SC1sanZra2hiNA?oc=5",
@@ -27,23 +27,23 @@
   "orange_slots_sent": {},
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1780883916.7652519,
+      "ts": 1780899962.2429755,
       "variation": -8.73394187437285
     },
     "ALHAF.PA": {
-      "ts": 1780883916.7652543,
+      "ts": 1780899962.2429767,
       "variation": -8.163269526359606
     },
     "ALKAL.PA": {
-      "ts": 1780883916.765248,
+      "ts": 1780899962.2429724,
       "variation": -9.711689355142518
     },
     "LQQ.PA": {
-      "ts": 1780883916.7652571,
+      "ts": 1780899962.2429788,
       "variation": -4.324716115003624
     },
     "SIVE.ST": {
-      "ts": 1780883916.7652557,
+      "ts": 1780899962.2429779,
       "variation": -9.164261611806557
     }
   },
