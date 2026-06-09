@@ -1,97 +1,14 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-09",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLS1pWmtWdW5KZVg1dW45cDUxX2Z1QTRhVldpWmhyZzFrTjNqeXlFaGp6dFJaM0EzUFJJdFN6RUU2MTJ3WEhGSG1VMmhCZXVrcjR6ancweDNpSWd1MjFKbHA1OGJCTWJmNFZxeFJGM012eXMzek9OLXBZczgzc1g4TDlJcEVJYnU1Y1JHTGpCOFJUSlN0UnR3YUd6OWJfMEtmWHVqYjFtV05SQXRpZHVuV0p1VG02WThxRTZzb05RZWEwdw?oc=5",
-      "nom": "Kalray",
-      "ticker": "ALKAL.PA",
-      "titre": "Kalray, 2CRSi, Riber, Soitec, Semco… les gagnants des paris sur l'IA - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlFEQTZ3XzFOcjEtRnpYc0NCQjVXYmduR2xWUmFaUjJ6M2NhVzNfM19xMXBzQ0RwbTgwaWRzTWtpQW9JdTdMN3N3SDVocG5aSUg5clFacTNCSFNuV3UzQVNlVGZWdkhMYVlYVUtsVHZhS3Z1X2YxUjY1cWpZdGxHZS1OMHdQNGFjMTFZVkxFdVhSbWhtM2tQdXRYMzFiNWE3ZkNXY2hCc3VoYkFJZE42NUttUDBabVNkZ1prRHZocUk2RVNHaWlPeW1jQU1DVDRZbEFj?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "L'action 2CRSI progresse de 6% grâce à un chiffre d'affaires multiplié par 10 en six mois - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE85akxwQkg2NWphRWR0YVRjekFaOV9rYU10Tk5wQTNNcHU3ekhIWkgyRmEteUl5WmtDSmp0MGdWYlFvRjJ1dDN0ZWZ2dThpQ1pIekMyQmRTdkNBTk5CYWZ1dWZjOGdCbnVzRlNIcjY3aTYzZw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi: Analyse Fondamentale et Notations Financières | AL2SI | FR0013341781 - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkgtV1lTMFNPbTltQWhXSnVGdzRYVEdENks5cTBIOXhBVWEtM29FTGZVZEE1Uk9oZFpWNk9yQ1BJcDliQmpLY2xXeEtGamY5MC1CSFR1WlFiVXVFSGdlTjZjbmJhcWhxXzlpRkdWdDFyb1NoOEV3blQxdTBDUFdlUlJfTXNCNGtTOFNJRDJpNkZqZ0FfUVZKXzl6TFM2V0wzdzhGbG1ESDRwQmV6SWZOSm9vdWo3eDIwNVowSkxfSWxYLXRNZDQ4XzJKYWhtbnlEU0YtVVNlckxHdHphUFhN?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies lève 50 millions d’euros via une augmentation de capital sursouscrite - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcXJfOTBzeTVDVEZrTlN6NWV2TjF5RzlieFJkMmstMkpRREdGR3ZLcV9iVThxYWpUbEFvZmh3XzhlaFlQN05PZWcwMHByUVNHUXBUeE5XU1liRVA3MUxJenZjSEtWTGJFVjJxVGJNXzVUM1BoQS1pMFVDdjFTa2FfcFpPbmpEd3FDbXZsWDhGcEFWSmZTUW80RERNU29IdXpaNDhSWFFwbmYwbmZmaEczSTBSTmo4X095cFAzenZoVEMwclppZ1YxX3FTbU5zYk53NHdYRVZ5cE9BZU0yZDh1Sk11NkNtQ0F2MlpjWk5uTk9KMkk?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors AB et GlobalFoundries Inc font progresser les solutions optiques pour les centres de données IA - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaXZIcmRiVkJlY1pQVGx0OXp3X3VqS21rTVB1ZnkxemUxbXlweTJHc0Z1LS1FQVFUeEhLRnJfWGpoNXhZNXdVd2FWVU5ySGI5aUJsbDBNMEp2UXF6dkltel9ZRlFQVlBGVUpsMU5fNExodnpYbVNyMDItLWlZZXJLbVZScEtsOEhYUWtXSkdhOGNoTHo1Y2RFeDRjeFl6RnZ1Zm9KbmxnS0xFcm9WUWxBWkY5UmxlTl9zbWJVcVZqQk51dnhTeDdqbGIxTGliQkRORnhJR29keWhuRmllX1BwRHE5bm9qdDZkaUx4S1VidmVfb0U?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Le directeur de division de Sivers Semiconductors cède l'intégralité de sa participation pour 100 millions de couronnes - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "label": "fortement haussier",
-      "message": "😴 Calme inhabituel (volatilité très faible) — la valeur s'endort.",
-      "nom": "LQQ (Nasdaq-100 x2)",
-      "score": 8,
-      "ticker": "LQQ.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVZa3RORmdLZ2t3NkZPNVd2amtLbjJ0X3NETGNxTzBrM00yb3NBbjhtTDUzMzRwZzJhMkFFb3N4TVNCMFdJdG01QmZ2MkhrQjE1dmdMQS1yaF8xb0xUaHVxMWR1MlJWOEE5SURtem1POG5TM1JLOGhBb2tqbnlpQmFWQ3VuMXZieUUxRFhiRURBLTRwR1NqRkRyVHRWemdGYm5nRFh3QzNQWUl0LTZrTFZzWQ?oc=5",
-      "nom": "Vusion Group",
-      "ticker": "VU.PA",
-      "titre": "SES Imagotag : change sa raison sociale en VusionGroup - Boursier.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdTBhWEdHdWd4WDctTGRkNkZtUW82WkxFZ19RR1ZBOURQSHdPdHl6U1U2aDRYam9WckJGUjB5bkU5dllpeGt2YmJCNzI5SGgwUTlNRTNFa2djdG16a2Y1U2tnSjlNS3luOUpXZkpyWEpyaTNVMzVsdkp6bUNacU5yUlNJbUhjYWhDclhTcGF3cWQyLUUyTWtIZFNoSUVkNnc0aGlvQ2ljdnlCZy0yaW9xOEd1TWs0TWh6UlozNG9xMGRiTUpOQzhsZW5QWHZGRlFScHVrTEhXcFFVM0hqUERhZDJOcHFmem8xQVdpcDBESGJRVFdqZ1RQLUQ4cmp5cEVJdng3YWd4XzBENGptc3NVdHhSZ1hHX2JYcFZKS3p6NWc?oc=5",
-      "nom": "Vusion Group",
-      "ticker": "VU.PA",
-      "titre": "[#NRF2024] Les solutions « data » présentées par Vusion Group - EcommerceMag.fr",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmlJZVp1RkRFNFVJdmRmLU9VcEhCcTdBRzk3Y25vV2hISFFYVE5ZOHFDMDdYaE04OGk5WEtpdlZpdXNOVkFlNS0zWDVrUGdiRWVFZmJiUXByLWFhS1pPNmJjaXVqc1JNeG9TU2J3b2hZUVhQeGRvRDhmZ1MyLVBrek1MODhpcHZOZnN3bE5nUzFOME5fSEpHT29yemZNaUtOdkZLck9vM2wySjFVV0FkanFOS0PSAboBQVVfeXFMT1VvWHdDWGExNHZPZ1RGbDl4dWk4SDNrUlBqWG1DbFdUWVFJQTVPSHpjTXRJZkN3T2Y2eU53NVBDSnhDSGw0bmNxUTZKYi0tZklIczRmeUpfd01IQjhiSWxlU2xTcmVXQTdlUGNubEJSaGRXTUxsT3NxQTJ4R3NQSEJLNmdpOHFSb1I4bUdsbjlUVWgwQkloSVY0SmtDd0pFVkdwQVZyWmhlVGF6THJaMFlrSEZKSWlPME9n?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies : vif succès de l'augmentation de capital de 50 ME... - Fortuneo",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ2w4dU1JMnlvVHVPandSTWd0b0NfZWZhbmFNeWxMZDdGcDRvTWd1TkVFZk5yZTNhS0cwYml2NXdVdzV0NVVvWVhVbXVlNUFvdlFrb0EwbkYyYWJUMXdlY3VrdDE3Q1N3VHcxQjVWNnFvakc4bWNZWlJVOXl5SkJKeXhNbC1ybzk4ZjJQd1FWeUNNcGlKTkFKWExUUXFWWjVQTjZVWmJSUjZNQXVxT1NKcXNJRVU3a2FtS2Y5Q2tISHJaQU5fUTdqYXV6Uy1TN3FxTmZYQnh1eTROS1k4QVE1amlPTEhKTWM3aDRmVk5RSkw0VHVmcXVGVlYwdXc0VWvSAYQCQVVfeXFMUHI2UVJzM1pjM2pNVlpBN2pPNlBTenAwazhxMFJrSmVtUlpqVE4yUkFsLW5BdzB2VmpybkRvVlZCVGM1T1N1eUFUODZIMTd3YUNUR0RNZzR0SlpMS3ZiRG5qS2U4NzNweUZpVmVpZm9xZDk4MU96dmpzSE5KSUdxcEJTX2p3Mjd3M0NJUFVQbEMyX1VRMU5lSDFhX25KdFBuTi1LcjYxRDRDZGpjUXQyWVpGckRVSmhvZ1JBZXVBX1dBN1drdE5QekdEOUxKM0NVVDE4QUl6WkJVd3RSNWxRUHo2WGZJbUFISy1JMmtNVVhGN3Q3RVRqeVFucTBrVFVBVm9Pa0g?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies cède du terrain après son point d'activité, malgré des analystes positifs - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZcEFkQVYwREZpbEIwaHpXMVBTX0M2R213U01fdlZTU2lZZ1JsT3UtTExBcWREcGdOTGtOODB3VGxhR1hTbFBKUy1QU0ZvYmI2NXJFb3VhOHdsNE0?oc=5",
-      "nom": "LQQ (Nasdaq-100 x2)",
-      "ticker": "LQQ.PA",
-      "titre": "Cours Nasdaq 100 Futures - Investing.com France",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-08": [
       "13",
       "18"
+    ],
+    "2026-06-09": [
+      "13"
     ]
   },
   "red_cooldowns": {
@@ -166,6 +83,7 @@
       "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0R4bFZRMWhmN09obW11dTJNb1ZTUzBQczM5ajhfd010aHN6c19yU1FNU3YtcHJRaHdXSGpCT3g3emFMTGI5X05zclptRGhpajU0cy1wZTZhYkwyR2RwcHhUS2d4Sldya2tzZU9UTklSYm9uUmZZZmVNT21hVlpia01KN1p3MDZoamZJZndB?oc=5",
       "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHlfVHZ5UGhEZDJNMDlZSDZkdnFQV1hVVVRmakhiczRiM0x5YjlxN25uSFcydkpKUVFYb2g5RHItdTB6dXhsNlF2MG10WGtKUlJxSjZwSF9YMG9TQlJfd0F3S0dPdU4wNkVMWWlFUU9YYmxMSTZjOWwwSWVra2VuM0lJZno3RWZhOXRpenY2VVZWeU1ZdFg4Nms5TC00Z1F0ek9CdHlsTHVyV2VKMWRRdDB3?oc=5",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmlJZVp1RkRFNFVJdmRmLU9VcEhCcTdBRzk3Y25vV2hISFFYVE5ZOHFDMDdYaE04OGk5WEtpdlZpdXNOVkFlNS0zWDVrUGdiRWVFZmJiUXByLWFhS1pPNmJjaXVqc1JNeG9TU2J3b2hZUVhQeGRvRDhmZ1MyLVBrek1MODhpcHZOZnN3bE5nUzFOME5fSEpHT29yemZNaUtOdkZLck9vM2wySjFVV0FkanFOS0PSAboBQVVfeXFMT1VvWHdDWGExNHZPZ1RGbDl4dWk4SDNrUlBqWG1DbFdUWVFJQTVPSHpjTXRJZkN3T2Y2eU53NVBDSnhDSGw0bmNxUTZKYi0tZklIczRmeUpfd01IQjhiSWxlU2xTcmVXQTdlUGNubEJSaGRXTUxsT3NxQTJ4R3NQSEJLNmdpOHFSb1I4bUdsbjlUVWgwQkloSVY0SmtDd0pFVkdwQVZyWmhlVGF6THJaMFlrSEZKSWlPME9n?oc=5",
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzN5NzA0M3pHWXB3aTQ3Q2d0Zk5USzlOMGlQdlFVM0pCTGxTX0Z5Z0gxcWJIYTl5NjZ2OGpJS2x0dms1UGFQb21UeEhwcWNYYTlhbFB1bFJkU0R4TmdwN21tbm9kNU5BV0FpdDlHdmxkOU5wOThaOWhlSUV5UHE0ZnAwU0xweV8wenBDWG5xeXVlbmFHRVl6YjVoczhDSEhmWjVYY3lMYThKZGFha2t4eHBIOWhvSjROQ1Rz?oc=5",
       "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0FZc1QtbWdETENkV2lWOG9YZUFpdmR5TjJkdXIydnZ3UnloMUdJc1hUYWVVT3FaSG14WkxtWmg4ejl4REhtSVVDdWhmaktpcW1WTmRIUlAxbjF5NXI1SUlfQ3pTRGZST1hreHYzc25jb0plbHc0LW9Kb3RrNnpHM3BTMUJFMGRTS3RwYjN4VzJuM0FwSmVpakxtdjRVRmZENXZ5d241enIxbkk2TmZ5ZXhPa3N1VmttN1NhTFp1VXNBZGc?oc=5",
       "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQX2taVTRYOUREeS1yV2ZlRnVndWY1N1hHeGNxcTFOWXpZZTVfQ01ZYkdzWEVXcWlUMEVELU5YckQ2dDgxeGQ0ajRJWHMxdVVia0ZpODZycGdhVWcyekZtNlEyS1YyQUllUWFPM0xJeTc0YkdHOUgyZ0dSWHo2YW9ZcklpS3g1eU45TjQ1WDJnc0g0eHc0QTR5Z095bDU1ekpUS2pxUnJPbkF5cmE2Ti1RMmVTSktRR3FNZVdrWEhFOGxDYjNpa1N2VWdzU3ViVFpvcVJyQWlkUTRSRHZ5ZHB4WThpSjBhaW1QdWxKM1Q1S3dmU0RiV3NTZkh4ckJ5WUI0Z1VjR25uU1RtSDZiU3pEZHV2dWR1Y2U1TmtRZWFjRmcyZjNydFB1SUM5QTctN1VXaEEzdG9iT05PY2x2eWJib2ZyVQ?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlNJRkZVLUpydTlhc1lJNEdnOE1WX3FkZTNydmt1eFdqNzlRYThjZmpyaUN6ejUzT1JMemROTDF2YkJsYjdKX0FXUFJPX2lPTWZpblU5NVMtQzh6S1IzZUlhcnZBRHFFcUlORlF1OWNtWWNSVWszY29MTlhHZkZxcWdoLTlLbTRMclU3V2IxVzQ4bzBBVHM3TDV0T2d0Y2ptMWRfbUV2MnQzVjJWMTVQVzFOd1JjcDJ3dnozenJlb0xmUExobkE?oc=5"
