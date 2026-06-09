@@ -51,6 +51,20 @@
       "score": 8,
       "ticker": "LQQ.PA",
       "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVZa3RORmdLZ2t3NkZPNVd2amtLbjJ0X3NETGNxTzBrM00yb3NBbjhtTDUzMzRwZzJhMkFFb3N4TVNCMFdJdG01QmZ2MkhrQjE1dmdMQS1yaF8xb0xUaHVxMWR1MlJWOEE5SURtem1POG5TM1JLOGhBb2tqbnlpQmFWQ3VuMXZieUUxRFhiRURBLTRwR1NqRkRyVHRWemdGYm5nRFh3QzNQWUl0LTZrTFZzWQ?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "SES Imagotag : change sa raison sociale en VusionGroup - Boursier.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdTBhWEdHdWd4WDctTGRkNkZtUW82WkxFZ19RR1ZBOURQSHdPdHl6U1U2aDRYam9WckJGUjB5bkU5dllpeGt2YmJCNzI5SGgwUTlNRTNFa2djdG16a2Y1U2tnSjlNS3luOUpXZkpyWEpyaTNVMzVsdkp6bUNacU5yUlNJbUhjYWhDclhTcGF3cWQyLUUyTWtIZFNoSUVkNnc0aGlvQ2ljdnlCZy0yaW9xOEd1TWs0TWh6UlozNG9xMGRiTUpOQzhsZW5QWHZGRlFScHVrTEhXcFFVM0hqUERhZDJOcHFmem8xQVdpcDBESGJRVFdqZ1RQLUQ4cmp5cEVJdng3YWd4XzBENGptc3NVdHhSZ1hHX2JYcFZKS3p6NWc?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "[#NRF2024] Les solutions « data » présentées par Vusion Group - EcommerceMag.fr",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -61,12 +75,12 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1780963390.5026464,
-      "variation": 9.368713639490258
+      "ts": 1780978910.788682,
+      "variation": 9.36871670720006
     },
     "ALHAF.PA": {
-      "ts": 1780963390.5026495,
-      "variation": 18.666669810259872
+      "ts": 1780978910.788685,
+      "variation": 18.66666525381579
     },
     "ALKAL.PA": {
       "ts": 1780899962.2429724,
@@ -77,8 +91,8 @@
       "variation": -3.080808080808081
     },
     "SIVE.ST": {
-      "ts": 1780963390.5026515,
-      "variation": 13.451772255998328
+      "ts": 1780978910.7886865,
+      "variation": 13.451774192392795
     }
   },
   "seen_news": {
@@ -175,6 +189,8 @@
       "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRXJPQWY2ZmZCek92Y2FRd0JSU0hueGdpMExpSVVsYTA2RkcxVVNEMjFZamFiMnBqMEFhQWJ1TjZuTGdxTDM0OEU0Z1ozUm9vd0R6NXRyMDFxbDNsQmRUZ3JwZVdoTm5xQ1pqaDNvMHA3R1AweGlSYzRuTVpwUXE2RkFEbnVNNmNRV3VRaVJ1STVwMzltRDRYQ1NScUxZd3Z4aVBzaEFfR0k5SEpUeVVQRmVwc2tGd2dycEUtY05RbkhxQzRVZTVBRXdEdFRBSHdTVUtCOGxEaGVONnpJb1lCbVJkNDloU1lhejJWem9DcC1oemw3Q01WRmF5ckdwOXRi?oc=5",
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUx4eFprbXFxSnF6ZnRaRE1XaGxvQVU0U0lJbEcxZXFqeWM0XzVqckFaeWpQMW53a3liYnpEVDBHNTNKSHJCSDhLcGJuQW95bktxay0xMEJXSXdmLU1CR1A3S0JMQVgzMG5JSmhwak0xdUlWOHdPUExpY0hlcTBNSXZjV3hoS1V0YmNRaDNWYUXSAZYBQVVfeXFMT2ZfVHo3VHY3YUsxZlVCclN2Y3NlUk1VY2UzZExZLUtjcEtqd0FfNV9rQS1oT3oxTFptdjlCUEhyeEZuWFNGTDJTaWZiOFZBNXQzdTkwX3ZabXJkWE55REctSEVvMGZiR3RibkhUZUpna3VzNUltQkxjQzZSVV9BVkxqUVBDb21ma2Z2bG1DWVZNU1dnQ0dB?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JUaXIxUnRJNFlNRWM3ZTlLTzlTbU9ReG9mUnNMSTdSd0dvZTE4Y0ZvQWU1QkI0UWV6cC1uWlRiN21SR00wZXRweDZpc3U5WXlNVFFrVHJheVBhQ3JRM1ZjMjA0TjEzOEpOcVVFdV93NnpaU1NJbkZ5a0RwZUlVMUpMVzBzU1czMi1YZkZIVDJPRG5jSXJPUGlfNjFDdw?oc=5",
+      "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdTBhWEdHdWd4WDctTGRkNkZtUW82WkxFZ19RR1ZBOURQSHdPdHl6U1U2aDRYam9WckJGUjB5bkU5dllpeGt2YmJCNzI5SGgwUTlNRTNFa2djdG16a2Y1U2tnSjlNS3luOUpXZkpyWEpyaTNVMzVsdkp6bUNacU5yUlNJbUhjYWhDclhTcGF3cWQyLUUyTWtIZFNoSUVkNnc0aGlvQ2ljdnlCZy0yaW9xOEd1TWs0TWh6UlozNG9xMGRiTUpOQzhsZW5QWHZGRlFScHVrTEhXcFFVM0hqUERhZDJOcHFmem8xQVdpcDBESGJRVFdqZ1RQLUQ4cmp5cEVJdng3YWd4XzBENGptc3NVdHhSZ1hHX2JYcFZKS3p6NWc?oc=5",
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVZa3RORmdLZ2t3NkZPNVd2amtLbjJ0X3NETGNxTzBrM00yb3NBbjhtTDUzMzRwZzJhMkFFb3N4TVNCMFdJdG01QmZ2MkhrQjE1dmdMQS1yaF8xb0xUaHVxMWR1MlJWOEE5SURtem1POG5TM1JLOGhBb2tqbnlpQmFWQ3VuMXZieUUxRFhiRURBLTRwR1NqRkRyVHRWemdGYm5nRFh3QzNQWUl0LTZrTFZzWQ?oc=5",
       "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTZIQS04dV8tTTRKaENudjZhQWpaQzhJYmprVXJlUFNMS1M3b0NnckY2QW5SSkRsUTBBSzdlT1Iycy1YWno4cHRpSFdkMm5xNlphSnFaWGZKNUdlMm8ydGZkR2dadmpvLWcya21HdWJhUmxFaEcxQkJlcWFhWi0xOFFmRUxVcUZQYjBUaW9Lb0h1N0MweER4bFU0VVdZN01oLWtBZkM5WVlES1RzTnJJOHJSZE9kQQ?oc=5",
       "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQY1g4RlpTZ2RnSnBYaGh3OURhS2YtTWJqcjRUU01XUWV5VzBBdG1VV2NkdGVRd056Y0F2VmZGcWhTSTF3ODhJZi1kUjlzWjBRNldYdENqaXhZQ2l3VURfY0o5aGdydXFPazVvME9iYlZwR0s4X3RIU1UzNXhSQ2s4WUtEWTJTOXBjOUd5ZGdBRjNubWlPN25vM1liSlhCOU1ncmlLeVktT2lDSmdNVVFjSDdVSnFLTk5kSTNDN3c3RFFoSkZ5M2pEVWFQOW9uSGx6RmhpWV9OMGtMR2I1cFlGdzdlcjQzQkFna2lhby05TW5KemliYk0zUm1TQlRTM2ZQc0hneGYyT0xVcGZTTUh3am01bExPUmlyanVwNENpRDFoQW41Qk5qMEVBdUpjNGk4UVFhdi1odGl6eEE?oc=5"
     ]
