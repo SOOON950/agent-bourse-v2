@@ -1,99 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-10",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNUJOejM0XzJMRDk5c2VGcmhGSGJtT0oyZ3RIbmRyYmRmM05aMTdKQjh1YU1ENG5QajlxRWZnbmFYVkpGczNsdk9OR1FUd3dxcXBBc3EtVVEwelY4YTlxODNic2Q0czNCNWJRMWZpeFlrM1VvWEFrb20xQ18xYnhxYkdrMjl4SVJRUnhDQnVvNzl6Y0ZCcUhBQ2VRaEtxZlBCNi15UDZEYWNxWkhtTXhSbXllNmp5SGk1ajZyLTRPa1Q1UXloZks1MGdNd1B1UEpHYVFBNVlpUTB2ak1ySE5GSkpXZTd3TllCQ0h5TDRxUkx2VTZhSDhnUVNUOTllQnVDN21lTFFIVVZaVWZGVmxGWUtoa2EtaGlDV1ZVVU1GNzgzaDJXU09kSDY3OFZoNVFoNFpkWkhHMVBDdnNrYklTNzM5OHlpRklsSlRYbnNKaEFOVWJqaWNhTVotd2xvdlhRX19TcDRFSmFxajg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Culture Bourse : « Je possède des actions de 2CRSi. Que pensez-vous de sa valeur actuelle ? Peut-on encore s'attendre à une hausse ? Si oui, quel est votre objectif de prix ? », par Julie Cohen-Heurton - 09/06 - Orange Actualités",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWjF0ajZ6RTdNcFJIbDhabVpMdVBxMGtmTzZpaW5zT3B3bHZHUkdDY0JIVEtWeG82b254NGdleFQ4UldGTkt0blpEUE5aUjNJYkt3cmdZbXhHd05DazZyTDI0VXR3cW1CeXVQRllZeFduNzlxNDY2R1RrUTJRZnNJRkl6V3ZuNm80MGUwOXhrbUk2d3RTQXhydDZKcndnalg3MXcwUnRGem1IcUNzWklxZkV4RXFKOTREdFE?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies annonce le succès d'une levée de fonds - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNDU1dE1iZkNLZ29YRHlKNUU5alozMWdhSmlSYTd4Q0Iza3E3Zm8xby16djk4VGFPWGVxWUp6cFg1bmRFeS1qYmFEVUw0S1hVMjVVek9iNHNvZ21YZHBXOEdZSUE1QmR2R0dfMEllYmVwVFNZaXlkVjRTTEM0cW1YQUVzS3Z0WUJfOVk3YXkxakk4Qkh0WG9CbXNmNnluOTFPSWU4TjA4T0ZFU1ZWNmZpZG9JNXk3b0V3YXRGT1Z3VXJ5ZGFZZUtDUldmR3ZoMXFZWDVWendNclFtaWZRSFVyM1Q1Y3RCWjBfS1NOVUhCVQ?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies lance une augmentation de capital d’un montant de 40 millions d’euros, pouvant atteindre 50 millions d’euros, afin de soutenir le déploiement d’eyonis® LCS aux États-Unis et en Europe et d’accélérer le développement de... - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNC1sa2J3OGpCcUFnY0oyZGxrYi13cFdkU1NRa0pYRFFEbUhmajZIRmlyZGJQQU5QdWZpVFl1SUJOY1Y1bDBhS003b1lNVXJ5Tm9LOUp6Y24yVzJFdkxSOUFEeUxfRW1WVURad3JGemlLZTZrS002ZG5uaXlITlgzS2FzSzd3enBNNjdkZGhiN25yT1JPdFA1aGN5YWE2UQ?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies : retour de papier - Boursier.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkY1bmt4ZlNDVXhIYW9HOW9MRm91ZlFmT2hGb2tsX2RPZnREWEdRblBTN20xUXlXQU5jcXpFaGEzNzZoR3U0aG00ajVJeFV5SFBHVGdrOHRXb2xNWjkzZEtTU0Zsa1dJcFFOR3RHTnZRUHA4NGFJRHkwUjlCN0RWN2RxMko4aFZydDFXSzk0RDJwWmFYT3AzTFJSTUhhcXB5bmRDZ1ZBRGYyM3lHMTgwc3Q2VldOR2Z2djRfenowaEROc0ppZUE?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "L'action Median Technologies gagne plus de 5 % et double de valeur en un an - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdEVyZHdTTldSOFlNd0NsNmJRNW1qNUFsamtRWi1hNVpiT2RUeU9pclZqdUtWQ1FLVlVYaktfVGJ4d1FLYTBHT1NfcjV6bkVadVVYWEhpZlFaM3FtemRUT0J3Mi1iZmhnbDJ1azlZZmxsXzlUY0ZMQXFaU0RQX05DT2U2OFN4NXpRd01STUVmQVFldXBYYWdGeG01dXJ4dGNPVFl4Rk1jek5lRWNXdU13X0dYU0gySTl1cmliUTczMkxSNEdXcndLQzhwNVZVQmpIVkdxR1NOY0xrZw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi annonce une vente de 110 MEUR de serveurs Godì Blackwell Ultra en Allemagne - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaGZLS3YzVnU1eENERXdTaGh3dnZuZXdMVXJPbFlTT3VodjRKQUgyc0lzbHF5enVqZnp0VlRkaldYZGRwYzhLNExqaDZrVk13ZVRQcXpPYkFVcjFMenA0cEVaNzkyek1MY3ZkQzNqeThTdlYwZkFtTnZNN3l4azN0UVlaZEVGa2c5bFlLbWRfSDRxOGRzT2FzSWU3dzdkRG4wNzltZ29TWTBRTTB0emwzV0NzaUhxalF2MFk5d1hIdmRINEdjejdkcXpPaTVTVmNKMHBOYndPbThrRUFZZjQ5SjRGdWV4S0RXVmFMcEpSSUdTdXhWR0tUb1pTbDdvczEwcEZBZ2V0VVVEMzg?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies annonce le succès d'une levée de fonds - boursedirect.fr",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUkN0czNrZmtoclBCbUFlNWMzdlBaSklWOThuT0wySlhVSmJoemd6SXFkZE9RQ1pQazc3bEwyVjNsUm1pM2VxMWp4N1NGWHZ1WXFzVzRiV3VweHlpem9uUDAxaU1MNC1Cc0JudHFiT0d5Zjk0Wmd5X1J5b1pGQ1hNSjZFM3JsWXhHeEtyNktyaTNJWExDMmoteS1LWW1zdDlPQ2hPWU1PYXBBZElDM3A1UnRBWDZoWjlVbVM2Si1qb0JwUTZuTmtmbURUSmVzS3cy?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "All.Space Awards $8.2 Mln Production Order To Sivers Semiconductors - TradingView",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHNLUEt1ellhV1ZRcm1PRks4WDRacUZubGs1RkhFU2sySFYzR2UxQWw4YmtjdW5lQUV5U05ZMGo0dG0yX256aEpvaGdWN0tGOG1MdHl6QlVrdFVRNGoyVjgxM1dyQmZFTmlveGRFelVkdTRDV3A2cFo3SkE1R0pfMEphR21SbWhEZS1TM0ItekNSTGdTaGlxRFA5dEk4RVUtOTRkRDc2eE1IR0FYZWNDa2JiMlJSSC1BZlV3SHVRT2NHQmJjZlk4YUhOa2hEcXZKNDRCYVYwZ2FtbXNaNUtiUmRuaE8?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors décroche une commande de 8,2 millions de dollars auprès d'All.Space - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmxOWkFuV2x4X19neHdGWDlNYkhvU3dKT1g4anFfejBRdUwtdnZEM0pzdC1ONDlsdmJtWFZEeVk4SHQ4LXRod3lCRGJwdXVQVldUT2RnSUEzZ3pNTTVZQUxpNmV4VmJkTTdmNG5rejdSajFkSHY0MWN6LWdrTmhmOGNteWVCcnhRVWtuUWdMbHdQZ3JVVk1XWUlVOUNQOHU0ZHZDRUgzd0VlWnlBRDRtZFA3WWVtbndTV3E2d21FN3dsNTdWck54SWlkbEU?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi décroche une commande de 194 serveurs Nvidia Blackwell Ultra pour 110 M€ - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOThZaXlNT1VvdEI4TWdwNjRMa3FpM2JFQ0JZM3lUTUFfRk5qSHlxcV9VRnlSVTVVOXhORkRBV3BQTGR0VDVhN0Zkb09NV2MzSmZ5MTFieWNRM0NiZ1ZrbHRMYmFmZWo2aGVYckJ3YmtKczA1S3lKQkZyaURYNE5lWmtYY0Yxb3hBNDZZS1pXWWl2WlVQT3AyUUZrd1o4ekc4WHE5R2wxcG5XX0U5VTdfM18zTUY5bDlUdUF6MEZZZEpfOVkybE5CcDIxaHM4bUw0emxpRDlmR2tkRERJZWwtOHRNYw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi SA: 2CRSi annonce une vente de 110 M€ de serveurs Godì Blackwell Ultra en Allemagne - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX24tVi00V0xuUlZ4SXBLY0VkeUxmUjh0VHIwSG4wSGVlNnVwRjg5eHF3c3R3anlhVXhXUU1vc2taSTAzYjloejk2YjlGXzMzVUFWTF9qMk1SeUFmVE80NXFWZGQ1Rk1IUFRqSHFkYkdOSzJBYkxyNVZOZ3ltZmhZUkZFeE1GVktFb1p5bHk5RVN0RzRjM0lKcEJ0N0J3WEM3U1VmbFMxZ0JvTVlacVRZQnlDT0pMeENmZ01B?oc=5",
-      "nom": "Riber",
-      "ticker": "ALRIB.PA",
-      "titre": "Nouveau succès de Riber, au Japon cette fois-ci - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHlNQVIwQTh0cmIySDcyejFyYUxaZEJYdWhXTGlweDlQcjJ2Wno0MW1FTEYwMko1emZjNkgyVmRJMXVzRTJOSk93Ul96ZlFIVERjUWpYMjlvZ3VHUWpaYU1JcWUwSnB0eFg2UGFTb0dmeXJ5bVUwM3hidDlKOGVmdzVpNy1laXloTUlaSklrSHF1RDNxLS1CLVZxN3ZHbUM1Q3BXaEJOZ3hRS0kyN00wT3hkUFNFcDFCbUZUeG9KS1E5Z0V5VEptb2JtY3ZTT25aMkMxRVJn?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies s'assure une visibilité financière jusqu'en 2028 - Les Echos",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-08": [
       "13",
@@ -102,6 +10,9 @@
     "2026-06-09": [
       "13",
       "18"
+    ],
+    "2026-06-10": [
+      "13"
     ]
   },
   "red_cooldowns": {
@@ -114,8 +25,16 @@
       "variation": -6.3670376032770495
     },
     "ALKAL.PA": {
-      "ts": 1780899962.2429724,
-      "variation": -9.711689355142518
+      "ts": 1781093091.8066876,
+      "variation": -13.839284246977465
+    },
+    "ALMDT.PA": {
+      "ts": 1781093091.8066921,
+      "variation": -6.23742058910019
+    },
+    "ALRIB.PA": {
+      "ts": 1781093091.806691,
+      "variation": -7.692309285637535
     },
     "LQQ.PA": {
       "ts": 1781080983.3750792,
@@ -136,6 +55,7 @@
       "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
       "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVzdvRWFvaHIxSlJDM2lBTW1acWpaS1o1RjN2N0txZDl3SHlUWHRQRnJ2ODNWMkpHWHpyWmkyRGFOTEZWRGJ1THRjaVBwdkRmajNxLVFBWGxHalRmTnVfV0tjS3o4blBVNUNCdVZhb2lrN2lwSXh6NGNPNmE0cy1RVlc5OHVqaThuOC1VSmxtY3Z3STdQSHB2V29xZHgwTG9Rcy1YQ1p5Yk9nV3pTQU4yTzdlUlQ3bFJwcWVZZzRCQnVZMi1PaFdLa3o5Z1ZpZmpoUzZ2alV5NjlOZlV5dTA2V1Q2eG1Sb1ktTTNV?oc=5",
       "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNUJOejM0XzJMRDk5c2VGcmhGSGJtT0oyZ3RIbmRyYmRmM05aMTdKQjh1YU1ENG5QajlxRWZnbmFYVkpGczNsdk9OR1FUd3dxcXBBc3EtVVEwelY4YTlxODNic2Q0czNCNWJRMWZpeFlrM1VvWEFrb20xQ18xYnhxYkdrMjl4SVJRUnhDQnVvNzl6Y0ZCcUhBQ2VRaEtxZlBCNi15UDZEYWNxWkhtTXhSbXllNmp5SGk1ajZyLTRPa1Q1UXloZks1MGdNd1B1UEpHYVFBNVlpUTB2ak1ySE5GSkpXZTd3TllCQ0h5TDRxUkx2VTZhSDhnUVNUOTllQnVDN21lTFFIVVZaVWZGVmxGWUtoa2EtaGlDV1ZVVU1GNzgzaDJXU09kSDY3OFZoNVFoNFpkWkhHMVBDdnNrYklTNzM5OHlpRklsSlRYbnNKaEFOVWJqaWNhTVotd2xvdlhRX19TcDRFSmFxajg?oc=5",
+      "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGdzbXZtOGQzTFprUXpTNk1BZHFpLU9xLXhBRmhpYXgtV1RvaHpUd21mQ1NXZFFLQnhHUGs3YzhpVTBRaloxM1IxQktaR3BXWDgtVWZtRDViSFVXaC1OS2tYTUhCSkJmSUxwWDNYM2xpclBsWmU5Qm83blVJUFFLWk8tMi1QZTdfV2RlbDdWUTVON3BkTEJSMmlUdkNZTmFpdUN2V2lfUXdVTGhrZjZfUlcxc2htZ050LWJpVlpoXzlzOU1MU1Nrd2IxOC1kM1BlZXlvbGtFRDd5LXZzZUx1NUdpaTlJT1RmVU4zVEx3?oc=5",
       "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
       "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qYno4QXVsdGJQVjR2dTZUaVZjU0s4WnBSZnRfdENuMGdMdVlrUnpwaHU0WXpldl90dDctYWVEX2VxOVBrYXZKOGpRN21rTnh1VWZsUGJBbllmcDQ3SmNTOWZWYm5Dbk9VM0p2M09XMi1HRlE?oc=5",
       "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
@@ -143,6 +63,7 @@
       "https://news.google.com/rss/articles/CBMickFVX3lxTE85akxwQkg2NWphRWR0YVRjekFaOV9rYU10Tk5wQTNNcHU3ekhIWkgyRmEteUl5WmtDSmp0MGdWYlFvRjJ1dDN0ZWZ2dThpQ1pIekMyQmRTdkNBTk5CYWZ1dWZjOGdCbnVzRlNIcjY3aTYzZw?oc=5",
       "https://news.google.com/rss/articles/CBMikANBVV95cUxPYjZmR3g4Yld2M0s4blV0eVFyR1JZRHNDRGozTGM2NFUxNG9YTjJyNWR6QkxhNlhzMktwSjRTbVVWLW9ONDJpcnNwNV9maDFIX3VBcjRYQTBHS1lzTkJFNUVpX3J1VWI2SlZIVHRsdkViN2pFVXlVLWM1cWNCUXU1T18xMjlfX3FXbUxNYWl1c3hvVG5sNjFuTW52Wk5tb1I0VV9Nc1BHWU9tbmIxN0E1bktXdVpSY1M5QnZUc3pla3phU1o1TXozS3RIc0x0Nm1KTnVUSWtVeVFWRS1XMFFOZzNteHRrM2JYNlBYWmhYVlY3Z2FyWk14QmxUXzhsaWRzNk1xSXJSRWM0OC1fbVN2YzVKcVozSWpmd2J4R0pNdFFWdlJDM2REaXV0d1VpNFMxV1FDeFZGaG1KRnM4dnFpM3UwLTZ5TUZRVFphTHdjcGl4aUgtT0phY3pNVFpycWdweEpnYVhvTDl5MkVlS3E2Q0I1Y09odGlXaEpGYlVNaF80Wk9IdVBqLWtkYVd4ZnB4?oc=5",
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczRUM0JUQk43b0ZYenNBTVVvM1gwQTRVbUFHSTZRLTYxWlRqdDJWekplMTFnd0k5em9BaTM4aHBMcVVmVjBLZktiYm53Q2dONE1CS1d2VEpKYnBKSlhKRF9MOWpXSF84UEtkR2pxS19hTzRvNjNkV0l4ZXlocUM2dzJ0VlhuM0pWMDl4YVpuVGZ0Z1dUMDF2dnBOQXJOTkhOU1JtU3hPM2N4cWZRMEgxOXJmU0pOcXBQTlE?oc=5",
+      "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXNrOHNvWE41aFBCdnNqSE51Sjk4Z1MxSUZTOUhNMnBlTk5BZlY2RkJnU3dqenJodFhrdW5lOVVJOTN2OVNJZUp2U01vd1dmTFJpYm9OVC1BRkk5WWNOYldjQ1l0dTRkUnY4aUg3bm5FdWVRWHduaFUzZTJqY0ItTDdPMkNMcm55TVVXZE1Ca0RlUG5rWU5jcEIwaVZjTXRKd0FjTE9QV3M0MHpFclMyZ3pUaVVQUUFhVGVfa3ExbW1uRlkt?oc=5",
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHN3b3hiTzlxcS1DUnBadmJPTHdKVXRWa2I2S0tFSkhMRXhYeF9uNnBFSmFsaFg4YTdrVnBvaURfcWdhSEdDakhpTk1zT2NBTlctWldsbXVBVHNsXzY2cE1QMms5TUJmcW9ONmdmdEZId2lYNDRIdVN5TFNDZldERkg4azRaZmlRUWp2STZCa1BsWUdoc0FqTnlmTGRvS1p2X3JMLTRWUTZtTmpBUkxVQ05fc1ZnUEZxWGdtTEZQeXA1Q0Iya0xiWlNWbw?oc=5",
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmxOWkFuV2x4X19neHdGWDlNYkhvU3dKT1g4anFfejBRdUwtdnZEM0pzdC1ONDlsdmJtWFZEeVk4SHQ4LXRod3lCRGJwdXVQVldUT2RnSUEzZ3pNTTVZQUxpNmV4VmJkTTdmNG5rejdSajFkSHY0MWN6LWdrTmhmOGNteWVCcnhRVWtuUWdMbHdQZ3JVVk1XWUlVOUNQOHU0ZHZDRUgzd0VlWnlBRDRtZFA3WWVtbndTV3E2d21FN3dsNTdWck54SWlkbEU?oc=5"
     ],
@@ -279,7 +200,7 @@
       "croix_mm": "golden",
       "signe_macd": "pos",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "ALRIB.PA": {
