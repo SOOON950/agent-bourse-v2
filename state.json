@@ -12,7 +12,8 @@
       "18"
     ],
     "2026-06-10": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -25,8 +26,8 @@
       "variation": -6.3670376032770495
     },
     "ALKAL.PA": {
-      "ts": 1781093091.8066876,
-      "variation": -13.839284246977465
+      "ts": 1781107619.5118186,
+      "variation": -11.696427067627683
     },
     "ALMDT.PA": {
       "ts": 1781093091.8066921,
@@ -134,6 +135,7 @@
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YSlNDaWdhc0FSSHN2TjB6dmxBUGp3QVVnV1VYVHZaUnVuVFFrZnE5cC15Zmw4X3Z3clJCVmdhYXR5QU5LaXktSUlqUlYtYkxwSHg0c21vc1dReXdD?oc=5",
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SQ0pKU3JmUWVlOUNRby1VaFJZV2lHNXhXVDhnaXJJTzNZRjdqZU82bkh1bk9rX2l1Zll0VmoxdnpvdXNBckJ1dFhMd2tQOVFiYVIyNlc4ZHlBLUhJ?oc=5",
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGR0I2aThMR0gtR1hUNlV2ZG0tNlJnWFFFQmsxZXRYaWl4RGloWkdIekZWVnBDajkzeXFnMnZuQjZ0SjhNamlFY0tTRkpKSERkenVJVkRiN1cxR2Zr?oc=5",
+      "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NMlFzSGdfc3hXejVpa1hzXzVwQXJOVGJpblhGbXhpSEZuMHZDZjNCZEF4UFdXa1JsLXZGS0FvQmVPVVJIcE8zQjdNOFBKUUJ6RzRHOUNCMTUzYi1ydHc?oc=5",
       "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EQXJ3RjhXQmpsdUlWQ2NySWF3MDBEakg2YzFBLWpkMHFsZ3M4akV0OGtoNERxQjNYZXlHNWNuek5hcGxPSmlGVFZnQm5yM2dzNGI2cG1WdF9qZ3FvOVBJVzNqLWs?oc=5",
       "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwZGtyXzJTa0dYNTFNVFRsMzVRQVdYMnNCZGJ5aXpxNnpFMFozbVg2MEFENmtxZ0tET0ZPV3FlRlZqZHM0V2JSZkVIaVlIdlZWRUJpdFRnOTZmUWFYT0R2TnlyS1ZuRWRHazBz?oc=5",
       "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYzRSWURmNmJ2TE1SUG9WMmoya0s4dUctbUR1V00xSjVjSTYzOEN5MnBycWN0Y0RyVVJaSWRPNDVvMHpWV1MwYzY3U0ZJckUzcWNPTm9zVTlQbHFNd0tVRUNtN1l6cC1qM3RrNHZibUk0NzhJUExv?oc=5",
