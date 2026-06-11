@@ -22,6 +22,13 @@
       "ticker": "ALMDT.PA",
       "titre": "Median Technologies lance une augmentation de capital d’un montant de 40 millions d’euros, pouvant atteindre 50 millions d’euros, afin de soutenir le déploiement d’eyonis® LCS aux États-Unis et en Europe et d’accélérer le développement de... - Yahoo Finance France",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3plU3MycWh2VWwyc2ZWQUhyY3ZDcG5PbnRpREVlQy0zZTMxTlRuNGszRV85MHBsX1JGOUdMM2VvNlBjSVc1c2g0Z1k2M3R2SmlvSU9zeElMS29PNl9pcXpCejhINkJXU2h6TERzU3NxSlZsYVYybldLRk5ucm41a0tBOGtZUF9PeGVlV0VFM0Fkc0Y4TS1EQjllME1icWVSZGNNMHBUa0FvYkQ2czd1ek1tTVpkeW9FUnBmMm1XellCTnJPUGtSMGFmNA?oc=5",
+      "nom": "Median Technologies",
+      "ticker": "ALMDT.PA",
+      "titre": "Median Technologies lance une levée de fonds pouvant atteindre 50 MEUR - Zonebourse",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -48,7 +55,7 @@
       "variation": -6.3670376032770495
     },
     "ALKAL.PA": {
-      "ts": 1781132542.8513925,
+      "ts": 1781141784.5252862,
       "variation": -11.696427067627683
     },
     "ALMDT.PA": {
@@ -139,7 +146,8 @@
       "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQX2taVTRYOUREeS1yV2ZlRnVndWY1N1hHeGNxcTFOWXpZZTVfQ01ZYkdzWEVXcWlUMEVELU5YckQ2dDgxeGQ0ajRJWHMxdVVia0ZpODZycGdhVWcyekZtNlEyS1YyQUllUWFPM0xJeTc0YkdHOUgyZ0dSWHo2YW9ZcklpS3g1eU45TjQ1WDJnc0g0eHc0QTR5Z095bDU1ekpUS2pxUnJPbkF5cmE2Ti1RMmVTSktRR3FNZVdrWEhFOGxDYjNpa1N2VWdzU3ViVFpvcVJyQWlkUTRSRHZ5ZHB4WThpSjBhaW1QdWxKM1Q1S3dmU0RiV3NTZkh4ckJ5WUI0Z1VjR25uU1RtSDZiU3pEZHV2dWR1Y2U1TmtRZWFjRmcyZjNydFB1SUM5QTctN1VXaEEzdG9iT05PY2x2eWJib2ZyVQ?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlNJRkZVLUpydTlhc1lJNEdnOE1WX3FkZTNydmt1eFdqNzlRYThjZmpyaUN6ejUzT1JMemROTDF2YkJsYjdKX0FXUFJPX2lPTWZpblU5NVMtQzh6S1IzZUlhcnZBRHFFcUlORlF1OWNtWWNSVWszY29MTlhHZkZxcWdoLTlLbTRMclU3V2IxVzQ4bzBBVHM3TDV0T2d0Y2ptMWRfbUV2MnQzVjJWMTVQVzFOd1JjcDJ3dnozenJlb0xmUExobkE?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkY1bmt4ZlNDVXhIYW9HOW9MRm91ZlFmT2hGb2tsX2RPZnREWEdRblBTN20xUXlXQU5jcXpFaGEzNzZoR3U0aG00ajVJeFV5SFBHVGdrOHRXb2xNWjkzZEtTU0Zsa1dJcFFOR3RHTnZRUHA4NGFJRHkwUjlCN0RWN2RxMko4aFZydDFXSzk0RDJwWmFYT3AzTFJSTUhhcXB5bmRDZ1ZBRGYyM3lHMTgwc3Q2VldOR2Z2djRfenowaEROc0ppZUE?oc=5",
-      "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV1Y5YktGcjUzR0hKcVhqTWRiT3ptMVFURWpNUklYS3pWWW9vY3IwczBaaF9jTmNLTjgxalFfcXhhZlpLa0VhcnVvQVVSWEt3MHhINWRqQnh1VU5Da2pud2VBQmNWRENEQm80OTc5aDhVRUN4SDNvOHdmdGQ2eXJFOGxZby1RV1FMTC04RUk4Z01uUlR0blJpUTg3WnlfVTA0c0paVlZQazh1N3RTY0FiX2NCZFJKbi0wc0phX0p3UkpvUXdKZHBlb3lR?oc=5"
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV1Y5YktGcjUzR0hKcVhqTWRiT3ptMVFURWpNUklYS3pWWW9vY3IwczBaaF9jTmNLTjgxalFfcXhhZlpLa0VhcnVvQVVSWEt3MHhINWRqQnh1VU5Da2pud2VBQmNWRENEQm80OTc5aDhVRUN4SDNvOHdmdGQ2eXJFOGxZby1RV1FMTC04RUk4Z01uUlR0blJpUTg3WnlfVTA0c0paVlZQazh1N3RTY0FiX2NCZFJKbi0wc0phX0p3UkpvUXdKZHBlb3lR?oc=5",
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3plU3MycWh2VWwyc2ZWQUhyY3ZDcG5PbnRpREVlQy0zZTMxTlRuNGszRV85MHBsX1JGOUdMM2VvNlBjSVc1c2g0Z1k2M3R2SmlvSU9zeElMS29PNl9pcXpCejhINkJXU2h6TERzU3NxSlZsYVYybldLRk5ucm41a0tBOGtZUF9PeGVlV0VFM0Fkc0Y4TS1EQjllME1icWVSZGNNMHBUa0FvYkQ2czd1ek1tTVpkeW9FUnBmMm1XellCTnJPUGtSMGFmNA?oc=5"
     ],
     "ALRIB.PA": [
       "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcVlZdWdYWUZMbFNrR002Mm1XY2xuaW80cmNPX0tNakpRWlZvOXUtY1l6NzVrV1lhaE9PWkw2N3hYQU55WUtGZGJQT2lXNnpmMmRwS2pwNGxpaHZtNkZHaksyT291aEJqVXBMSWZQdkxFa2d1U0VjaWJQb2xMcGRMN2NuOThrV2xaYl9XN1l4TzZfVENVdVJySnpfZzZ2ekdjNGZtQ3JTQXFuZExhYzhabHRmYjZZVUtNWWw0OTNTNEtvR2RpRmVDeHpjaTdySzNpeC1ZYU5ZU0huaGw3bDl4MjhxTjBnQTFpLWh3Q0x2dDNDU0xDMWtscw?oc=5",
