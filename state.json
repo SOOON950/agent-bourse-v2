@@ -1,43 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-11",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSDlRX1pTTXVWUVY0ODVmV0hteUhKZktqUVVpaG5CdDNHTFpyVnFTdkJ3N0J5dEN2VmlXeEg3OXdlcWEycmYzME1JbnZMWlpfbzFUa3FXT2k1cHBib3hfX05xem5PRXNRZVpRMl80MThBVDV1ZEdkdmxZTllKdTFJYzJPYldCSTNLRXI3bEpoeFg5cUFKY0pKdTVLLXUwX2VVUVpGMXhRNHpPMVkzRlE0QU9KTldidE0zQXViX2Uyekhla3hwbWJNTnFPZEM?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Kalray, Riber, 2Crsi : 3 actions françaises de puces survoltées - Faut-il suivre ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV1Y5YktGcjUzR0hKcVhqTWRiT3ptMVFURWpNUklYS3pWWW9vY3IwczBaaF9jTmNLTjgxalFfcXhhZlpLa0VhcnVvQVVSWEt3MHhINWRqQnh1VU5Da2pud2VBQmNWRENEQm80OTc5aDhVRUN4SDNvOHdmdGQ2eXJFOGxZby1RV1FMTC04RUk4Z01uUlR0blJpUTg3WnlfVTA0c0paVlZQazh1N3RTY0FiX2NCZFJKbi0wc0phX0p3UkpvUXdKZHBlb3lR?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies lance une augmentation de capital de 40 millions d'euros - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdURkR1d1WEJidVIwQzYtYzNLNGVGVVZJVHY0Z3loanptT1AxZ2VQblBGUnZjMndKQ3QtcnF0bkNpV3hhQklVZFJyN1hBc2xwX0ZPNlJVbkJlZzgyalpWc1BqU3VPdi1PMmM2azRoMTRhRFo5b3pHbjV6TXBfTVpESXJNSGpiekpuRUNERzRtU3d4dVhfN2NhUDV5ZHcyejIwVmpj?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies lance une augmentation de capital d’un montant de 40 millions d’euros, pouvant atteindre 50 millions d’euros, afin de soutenir le déploiement d’eyonis® LCS aux États-Unis et en Europe et d’accélérer le développement de... - Yahoo Finance France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3plU3MycWh2VWwyc2ZWQUhyY3ZDcG5PbnRpREVlQy0zZTMxTlRuNGszRV85MHBsX1JGOUdMM2VvNlBjSVc1c2g0Z1k2M3R2SmlvSU9zeElMS29PNl9pcXpCejhINkJXU2h6TERzU3NxSlZsYVYybldLRk5ucm41a0tBOGtZUF9PeGVlV0VFM0Fkc0Y4TS1EQjllME1icWVSZGNNMHBUa0FvYkQ2czd1ek1tTVpkeW9FUnBmMm1XellCTnJPUGtSMGFmNA?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies lance une levée de fonds pouvant atteindre 50 MEUR - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zR3EyZ1ZLNDhUM3E4MWFpYnF4TWY3U3pQeWlkY2h6RFRtODNfTm50bU85NjJvTGV0d295eDJLOGtkdU5VTmVPalZGWTBiLVJ5RlRRbXRNU0JPY0VpUVdv?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Action Median Technologies | Cours | Dividende | Actus (A1JCLB, FR0011049824) - extraETF",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-08": [
       "13",
@@ -50,6 +14,9 @@
     "2026-06-10": [
       "13",
       "18"
+    ],
+    "2026-06-11": [
+      "13"
     ]
   },
   "red_cooldowns": {
@@ -58,8 +25,8 @@
       "variation": 9.36871670720006
     },
     "ALHAF.PA": {
-      "ts": 1781066918.420608,
-      "variation": -6.3670376032770495
+      "ts": 1781176380.2634392,
+      "variation": -7.84313553161501
     },
     "ALKAL.PA": {
       "ts": 1781159168.8866014,
@@ -78,8 +45,8 @@
       "variation": -4.828848488677215
     },
     "SIVE.ST": {
-      "ts": 1781066918.420611,
-      "variation": -14.429531661858755
+      "ts": 1781176380.2634418,
+      "variation": 7.133333333333327
     }
   },
   "seen_news": {
@@ -133,6 +100,7 @@
       "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHlNQVIwQTh0cmIySDcyejFyYUxaZEJYdWhXTGlweDlQcjJ2Wno0MW1FTEYwMko1emZjNkgyVmRJMXVzRTJOSk93Ul96ZlFIVERjUWpYMjlvZ3VHUWpaYU1JcWUwSnB0eFg2UGFTb0dmeXJ5bVUwM3hidDlKOGVmdzVpNy1laXloTUlaSklrSHF1RDNxLS1CLVZxN3ZHbUM1Q3BXaEJOZ3hRS0kyN00wT3hkUFNFcDFCbUZUeG9KS1E5Z0V5VEptb2JtY3ZTT25aMkMxRVJn?oc=5",
       "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWY0UWY1TzdSZGsxMnBSaTE5M01JWGhmV201NkFMVW9XQnZLaERVR0tDOUFCc2dPU3ZoNGZjX1Z1aUJxRjhnd2JhUm9qb1c3dDYtM25jbDY1VDg3QVdxQzdaUWIxYXNpWlZoMERpelJnNWMyQ2ZFVUVWR0NMbC1tR1YzakZUbHc3OWxqLTlJS2F3V2RmUGJvbkNjdkptS2ViWXViOHBwR1VkLTBBVi01TlktUXlpb0pRdnJJNGExdld3WmVDZ3RiMTFsVU54TlRpdDQ2OGx2a2_SAd4BQVVfeXFMTWctRXNTZTBRV2J2ekFwSm1ZMVhINmhUeERGbHVWUVVveHhUZW9OMjdkeXhHb2tTQTAyS3NGZU1WdDJYM29MbVZoRkk5LTZzQlN4a2dZZWJBR0FjTnFubXRTWm5OdEMtWFNHMWZNcWxyVTg3UVQ2NVNiemxDRDAzLU1fWThOaVZtOFlQNS1aTGZWcERkT1JuZXNvdFNQNWdjT053VVdqZ2tUeTBCZWZIMlExS1ZoNVZfWkd1RTRZMkxoVnA2WmdTUWRrQ29vZXJOaEdBR3A5QWdJdGZkR2JB?oc=5",
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkgtV1lTMFNPbTltQWhXSnVGdzRYVEdENks5cTBIOXhBVWEtM29FTGZVZEE1Uk9oZFpWNk9yQ1BJcDliQmpLY2xXeEtGamY5MC1CSFR1WlFiVXVFSGdlTjZjbmJhcWhxXzlpRkdWdDFyb1NoOEV3blQxdTBDUFdlUlJfTXNCNGtTOFNJRDJpNkZqZ0FfUVZKXzl6TFM2V0wzdzhGbG1ESDRwQmV6SWZOSm9vdWo3eDIwNVowSkxfSWxYLXRNZDQ4XzJKYWhtbnlEU0YtVVNlckxHdHphUFhN?oc=5",
+      "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQzlTRE1zVXdZNTZZVTdVdUZCSS1nNDQ5YWxiMjVhVEtJclZITlBDdXBPWmpkb2lhaHlNTzBLUWtDMW83MUEzYksyM3ViYnk3NlBQZU1OV2FyaFFjSXNRNndtamFGUVgtRTB0WmhfOVJuZ202eTEwbkVqbEM3Y0x3NlZSM2tBWlNtbDJjNnBNU0RreU5WYUdFOTVXWUI4VU5iQ1c4S0Nyd1otVXk4UFhpWGpzanJ3WTRVWTFMWG11UE9vTTVBZWVnVEJLYk5LZ0xUX2NNVTlRdkJRZ0Y2UFpnVzFvNzVvV1MtOE1MOFdn?oc=5",
       "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNDU1dE1iZkNLZ29YRHlKNUU5alozMWdhSmlSYTd4Q0Iza3E3Zm8xby16djk4VGFPWGVxWUp6cFg1bmRFeS1qYmFEVUw0S1hVMjVVek9iNHNvZ21YZHBXOEdZSUE1QmR2R0dfMEllYmVwVFNZaXlkVjRTTEM0cW1YQUVzS3Z0WUJfOVk3YXkxakk4Qkh0WG9CbXNmNnluOTFPSWU4TjA4T0ZFU1ZWNmZpZG9JNXk3b0V3YXRGT1Z3VXJ5ZGFZZUtDUldmR3ZoMXFZWDVWendNclFtaWZRSFVyM1Q1Y3RCWjBfS1NOVUhCVQ?oc=5",
       "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zR3EyZ1ZLNDhUM3E4MWFpYnF4TWY3U3pQeWlkY2h6RFRtODNfTm50bU85NjJvTGV0d295eDJLOGtkdU5VTmVPalZGWTBiLVJ5RlRRbXRNU0JPY0VpUVdv?oc=5",
       "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ2w4dU1JMnlvVHVPandSTWd0b0NfZWZhbmFNeWxMZDdGcDRvTWd1TkVFZk5yZTNhS0cwYml2NXdVdzV0NVVvWVhVbXVlNUFvdlFrb0EwbkYyYWJUMXdlY3VrdDE3Q1N3VHcxQjVWNnFvakc4bWNZWlJVOXl5SkJKeXhNbC1ybzk4ZjJQd1FWeUNNcGlKTkFKWExUUXFWWjVQTjZVWmJSUjZNQXVxT1NKcXNJRVU3a2FtS2Y5Q2tISHJaQU5fUTdqYXV6Uy1TN3FxTmZYQnh1eTROS1k4QVE1amlPTEhKTWM3aDRmVk5RSkw0VHVmcXVGVlYwdXc0VWvSAYQCQVVfeXFMUHI2UVJzM1pjM2pNVlpBN2pPNlBTenAwazhxMFJrSmVtUlpqVE4yUkFsLW5BdzB2VmpybkRvVlZCVGM1T1N1eUFUODZIMTd3YUNUR0RNZzR0SlpMS3ZiRG5qS2U4NzNweUZpVmVpZm9xZDk4MU96dmpzSE5KSUdxcEJTX2p3Mjd3M0NJUFVQbEMyX1VRMU5lSDFhX25KdFBuTi1LcjYxRDRDZGpjUXQyWVpGckRVSmhvZ1JBZXVBX1dBN1drdE5QekdEOUxKM0NVVDE4QUl6WkJVd3RSNWxRUHo2WGZJbUFISy1JMmtNVVhGN3Q3RVRqeVFucTBrVFVBVm9Pa0g?oc=5",
@@ -241,9 +209,9 @@
     "ALMDT.PA": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "pos",
+      "signe_macd": "neg",
       "silence": false,
-      "sous_support": true,
+      "sous_support": false,
       "zone_rsi": "neutre"
     },
     "ALRIB.PA": {
