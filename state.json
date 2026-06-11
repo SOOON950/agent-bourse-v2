@@ -1,12 +1,17 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-11",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "label": "haussier",
+      "message": "MACD repasse au-dessus de 0 (le momentum devient positif).",
+      "nom": "Median Technologies",
+      "score": 4,
+      "ticker": "ALMDT.PA",
+      "type": "technique"
+    }
+  ],
   "orange_slots_sent": {
-    "2026-06-08": [
-      "13",
-      "18"
-    ],
     "2026-06-09": [
       "13",
       "18"
@@ -46,7 +51,7 @@
       "variation": -4.828848488677215
     },
     "SIVE.ST": {
-      "ts": 1781211800.2006981,
+      "ts": 1781218623.8843367,
       "variation": 7.600000000000004
     }
   },
@@ -213,7 +218,7 @@
     "ALMDT.PA": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "neg",
+      "signe_macd": "pos",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
