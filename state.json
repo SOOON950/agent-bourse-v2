@@ -1,45 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-12",
-  "orange_queue": [
-    {
-      "label": "haussier",
-      "message": "MACD repasse au-dessus de 0 (le momentum devient positif).",
-      "nom": "Median Technologies",
-      "score": 4,
-      "ticker": "ALMDT.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTF9ZSzkya0I2NVp3YlFnX1JFRXliOC1HSlBqTUowMlc3UlVsQlFrYl9lSjRjaXZpV2VLTjctVzN1UDctNTN6M0hYejVfWVpNc2liMTUwRUllWWFWODROaE90SmdRTkd4ZnlXMGlkR19TLXA0WkxkbUV5SUNVTDF4MDlqYzdwNDROZzBlOHJWb2oxSDJsck9BeQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi Edge et Calyos s'associent - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclJEWVY5cUJ6anZrWDNiTHRQejZPUlFXYjQ5Uk5RZXgwLXRWcmlRQ1hTcWJnaG8zNjNTWE9GdUZtWG9WS3p5TGhudk9XdTlQZ2cwc203am9HSGsweDZyQkRzN2Z1eFkycFhxdGtZbDJXNG5uVXRWWnJrTEJHdmh3UFZicnYzU0ptR3hnZGRaSU9IR3g4Z2wtcUtJRUU3SW1Eak5Mend4ZXBmZXFOUTV6ajNsXy1KZl96X3FmRGM3SHFrVEVSa1YxRGZYMGlYNjVRQ0tn?oc=5",
-      "nom": "Kalray",
-      "ticker": "ALKAL.PA",
-      "titre": "Kalray : +1380% en un an, mais ces 7 actions tech françaises offrent plus de sécurité - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "label": "neutre",
-      "message": "MACD repasse sous 0 (le momentum devient négatif).",
-      "nom": "Median Technologies",
-      "score": 0,
-      "ticker": "ALMDT.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODFTVkxVY0s2cjFsMDJyZEtVLWRQYVh6Z2Z3Nlo5S2RoNG1haFQxNThGOXhDQm91R1EtbmtPRml1a0Q0S01ieXF4R0JWRjZHc1VOS1BOT0tRT0Y0bzM3ZDBaZDZFWHlqYk9IeC05bnAtREZadFIwMERXMVFqX2ZuWkM2VjlRSm1zOFpqOFBjdUZSWFVNTUhjVHp5aThXel9XN2JVMTFMbHRzTjFKOTNONmhMdXd2VHpQUllkeW5yZ2xUU0NMYWNmR0JfR1BqdlBVbFBxeW5POUZMQ01TdlNrWmY2WQ?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors décroche une commande de 8,2 millions de dollars auprès d'All.Space - Zonebourse Suisse",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-09": [
       "13",
@@ -52,6 +14,9 @@
     "2026-06-11": [
       "13",
       "18"
+    ],
+    "2026-06-12": [
+      "13"
     ]
   },
   "red_cooldowns": {
@@ -76,12 +41,12 @@
       "variation": -7.692309285637535
     },
     "LQQ.PA": {
-      "ts": 1781255835.394339,
-      "variation": 4.257826527931048
+      "ts": 1781267987.3539512,
+      "variation": 4.879877133693825
     },
     "SIVE.ST": {
-      "ts": 1781255835.394336,
-      "variation": 12.413793103448283
+      "ts": 1781267987.3539488,
+      "variation": 12.47648902821317
     }
   },
   "seen_news": {
@@ -92,6 +57,7 @@
       "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdEVyZHdTTldSOFlNd0NsNmJRNW1qNUFsamtRWi1hNVpiT2RUeU9pclZqdUtWQ1FLVlVYaktfVGJ4d1FLYTBHT1NfcjV6bkVadVVYWEhpZlFaM3FtemRUT0J3Mi1iZmhnbDJ1azlZZmxsXzlUY0ZMQXFaU0RQX05DT2U2OFN4NXpRd01STUVmQVFldXBYYWdGeG01dXJ4dGNPVFl4Rk1jek5lRWNXdU13X0dYU0gySTl1cmliUTczMkxSNEdXcndLQzhwNVZVQmpIVkdxR1NOY0xrZw?oc=5",
       "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOThZaXlNT1VvdEI4TWdwNjRMa3FpM2JFQ0JZM3lUTUFfRk5qSHlxcV9VRnlSVTVVOXhORkRBV3BQTGR0VDVhN0Zkb09NV2MzSmZ5MTFieWNRM0NiZ1ZrbHRMYmFmZWo2aGVYckJ3YmtKczA1S3lKQkZyaURYNE5lWmtYY0Yxb3hBNDZZS1pXWWl2WlVQT3AyUUZrd1o4ekc4WHE5R2wxcG5XX0U5VTdfM18zTUY5bDlUdUF6MEZZZEpfOVkybE5CcDIxaHM4bUw0emxpRDlmR2tkRERJZWwtOHRNYw?oc=5",
       "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTk9ZelBWWnFaWVlPanJwYnFuUmlUZHJCd01wejVqeFF5QmtpQnMwczVKdVhNc3JON2lkZ2c4aVNYNzJGcVNGZmdaZVdJbWdtOThWRlk2SUhZUTR3bVBSZWZod2twaDVFcnR2aDcwLVpudFdtMG5SaUl0TDVKZk03WnpiQVJjQTJJaDI1NnpRYnBRZl9Kb3RtNU5HRGlDM0tTNV9uZnBWN0JzQXdPdVd2bEdSY3Byekw0MTVYX25lbXl6bUk4T2FqTDJWTV83VmNjOC1iRzAyaW1pTTRzeGpkb0xHZHU?oc=5",
       "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVzdvRWFvaHIxSlJDM2lBTW1acWpaS1o1RjN2N0txZDl3SHlUWHRQRnJ2ODNWMkpHWHpyWmkyRGFOTEZWRGJ1THRjaVBwdkRmajNxLVFBWGxHalRmTnVfV0tjS3o4blBVNUNCdVZhb2lrN2lwSXh6NGNPNmE0cy1RVlc5OHVqaThuOC1VSmxtY3Z3STdQSHB2V29xZHgwTG9Rcy1YQ1p5Yk9nV3pTQU4yTzdlUlQ3bFJwcWVZZzRCQnVZMi1PaFdLa3o5Z1ZpZmpoUzZ2alV5NjlOZlV5dTA2V1Q2eG1Sb1ktTTNV?oc=5",
       "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNUJOejM0XzJMRDk5c2VGcmhGSGJtT0oyZ3RIbmRyYmRmM05aMTdKQjh1YU1ENG5QajlxRWZnbmFYVkpGczNsdk9OR1FUd3dxcXBBc3EtVVEwelY4YTlxODNic2Q0czNCNWJRMWZpeFlrM1VvWEFrb20xQ18xYnhxYkdrMjl4SVJRUnhDQnVvNzl6Y0ZCcUhBQ2VRaEtxZlBCNi15UDZEYWNxWkhtTXhSbXllNmp5SGk1ajZyLTRPa1Q1UXloZks1MGdNd1B1UEpHYVFBNVlpUTB2ak1ySE5GSkpXZTd3TllCQ0h5TDRxUkx2VTZhSDhnUVNUOTllQnVDN21lTFFIVVZaVWZGVmxGWUtoa2EtaGlDV1ZVVU1GNzgzaDJXU09kSDY3OFZoNVFoNFpkWkhHMVBDdnNrYklTNzM5OHlpRklsSlRYbnNKaEFOVWJqaWNhTVotd2xvdlhRX19TcDRFSmFxajg?oc=5",
       "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGdzbXZtOGQzTFprUXpTNk1BZHFpLU9xLXhBRmhpYXgtV1RvaHpUd21mQ1NXZFFLQnhHUGs3YzhpVTBRaloxM1IxQktaR3BXWDgtVWZtRDViSFVXaC1OS2tYTUhCSkJmSUxwWDNYM2xpclBsWmU5Qm83blVJUFFLWk8tMi1QZTdfV2RlbDdWUTVON3BkTEJSMmlUdkNZTmFpdUN2V2lfUXdVTGhrZjZfUlcxc2htZ050LWJpVlpoXzlzOU1MU1Nrd2IxOC1kM1BlZXlvbGtFRDd5LXZzZUx1NUdpaTlJT1RmVU4zVEx3?oc=5",
