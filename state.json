@@ -1,15 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-12",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbmtQdjloelFBclNsWDZmbGZDRURxWHFFY0FVX0dkMk1QU1Z4QnJwemF2cXVRWUdWcE9vaDdwN003UlZ2SVpKYkIyQ3J1NTBaNFVpMC1vSE5YaVNPQ2E1d0NjTVlSV2djc3RER0NPZUtpYldWSEh4UGVNbzNXeTYxeGo0em9JeHhfckZCbTh4Z0Z6NU1vVmc1b3lSLTl6VFZIdWVYQUdtVVZCVlNLX2xVSEFEcHgtT28wck01Zy1rLVp2RzNLb1RjLWNxd2NXcnBUZWczM25kTjlsRW5N?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Qube ne figure plus parmi les vendeurs à découvert déclarés de Sivers Semiconductors - Zonebourse Suisse",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-09": [
       "13",
@@ -24,7 +16,8 @@
       "18"
     ],
     "2026-06-12": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -33,11 +26,11 @@
       "variation": 9.36871670720006
     },
     "ALHAF.PA": {
-      "ts": 1781279898.88131,
+      "ts": 1781288262.0167723,
       "variation": 11.764705720202146
     },
     "ALKAL.PA": {
-      "ts": 1781279898.8813071,
+      "ts": 1781288262.0167696,
       "variation": 12.664641630541535
     },
     "ALMDT.PA": {
@@ -49,11 +42,11 @@
       "variation": -7.692309285637535
     },
     "LQQ.PA": {
-      "ts": 1781279898.8813128,
+      "ts": 1781288262.0167756,
       "variation": 5.577002812565908
     },
     "SIVE.ST": {
-      "ts": 1781279898.8813114,
+      "ts": 1781288262.016774,
       "variation": 16.238244514106587
     }
   },
