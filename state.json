@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-06-12",
+  "last_digest_date": "2026-06-13",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYlhIYVFfZEhUQWpuY05LOEtMTjZMeENkN2owSENIdGR2dU16bTVRWDRCa0M5a0FRNWtOeGFVUGJiWU81Q0M1M0pPVDdKelZpTlllSVhsMks5V3dIU0FfQnRIWno4NF9PVm9FOGhEZzdMRTBGMUxubXljU1J1S1NFd0t4WEFsZ1Q4ZUNNYW9hanROazBvaVRsWWZ5ZVlnNXF3T2FNNFd6ZFpBc1YxSlZLLUMxTmhUU0NwQ2YxeTVKWDNfR1Z1UkhmWklnUmxwbjVES09teXcwMUMyQU3SAeABQVVfeXFMTUZQYnlFVU9OcDNlanlfekFKdHlNWGZUMnE2ZTV2V1RoaUFTS2dONE1QV21GU0RCMHVPNVRYMmh3Vy1qQmJUNXJNaVZFYWdlMm1GLWlqZjJKUDJJVjZiaG1ZcDFzcmp3MVY1UWc2Mndnd2NUS3BGN0M2NUIxbDNpSW1sZXZNcFBlVlB2REpIUVJJa3owUmRvazh4cHM2dW5uaDNzazFrYzBueGhWemFKM2xLYmt4R3IxeHgtX3lYU0p4d2Z0Z2R1WkZkMTRsWXJaVkg0Y3VIX1lnYjl0M0ZONDg?oc=5",
@@ -14,6 +14,13 @@
       "nom": "Median Technologies",
       "ticker": "ALMDT.PA",
       "titre": "Median Technologies lance une levée de fonds pouvant atteindre 50 MEUR - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFBXTUlxTU9zc21YMGJWSXdtbFlKRzVzYUp3eDBCVTA2T0o0QnhDNUVDc3BJaGVEUExLTzBwdmgzOEpBYWp5ZGdaaGVkT2NxcFJDbXZ2SmhiTERNcUl2R09MZDg0d0t1OE9BRlAzWlZkblI0YldWU2h6YkkxdnIyOURNbEFZLTdtYzF0bXdlQnZoTEdZV19QTm8zVTVuNmpVeGpMaFhOV1lmZw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Cash-flow opérationnel par action de 2CRSI SA – DUS:52C - TradingView",
       "type": "actu"
     }
   ],
@@ -37,11 +44,11 @@
       "variation": 9.36871670720006
     },
     "ALHAF.PA": {
-      "ts": 1781325728.460384,
+      "ts": 1781338405.9595375,
       "variation": 11.76470552675907
     },
     "ALKAL.PA": {
-      "ts": 1781325728.4603817,
+      "ts": 1781338405.9595346,
       "variation": 12.664640471059077
     },
     "ALMDT.PA": {
@@ -53,11 +60,11 @@
       "variation": -7.692309285637535
     },
     "LQQ.PA": {
-      "ts": 1781325728.460386,
-      "variation": 5.577002812565908
+      "ts": 1781338405.9595401,
+      "variation": 5.577005430976664
     },
     "SIVE.ST": {
-      "ts": 1781325728.4603853,
+      "ts": 1781338405.959539,
       "variation": 16.238240687451018
     }
   },
@@ -83,6 +90,7 @@
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3VFWHJxVkQwV0p6anJmOXlUcnkzWFpSQUhlS0s3MUJQMFZsSmxCTXRjZVZDQmUtb3J4bll3UVR2S1lkSXhvaUJCM2t2RGI2Z20zT1d5cGNqX1REcF9NdThmQWFGUHhLbEVfRVdNRkxSQ3pZY1pmWDZXb2x0RHBvbGVwVzVTQmtyUGxvQXdJOF9TcElscWk4?oc=5",
       "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTF9ZSzkya0I2NVp3YlFnX1JFRXliOC1HSlBqTUowMlc3UlVsQlFrYl9lSjRjaXZpV2VLTjctVzN1UDctNTN6M0hYejVfWVpNc2liMTUwRUllWWFWODROaE90SmdRTkd4ZnlXMGlkR19TLXA0WkxkbUV5SUNVTDF4MDlqYzdwNDROZzBlOHJWb2oxSDJsck9BeQ?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXRsSGduUXozeGNhMjMtWWE0MERsWjdTdFROdGx0V0NTVGZ4SXotVXI0SS1Xd1gwUWl5VFVfQXY4Q0prblgwQkgwbm9NRzhsZ1F3VlVxQW1qdEZLOS1jTUd0aWNzeDFXSjlTVllCVndkMnJ1eHh1YlNEUkdkTGdMM1lLQVB5X01xNVVjR0I5cGhyOENvTWZkcS1JRWNIc1JKSlNQdGh3MDBoUQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFBXTUlxTU9zc21YMGJWSXdtbFlKRzVzYUp3eDBCVTA2T0o0QnhDNUVDc3BJaGVEUExLTzBwdmgzOEpBYWp5ZGdaaGVkT2NxcFJDbXZ2SmhiTERNcUl2R09MZDg0d0t1OE9BRlAzWlZkblI0YldWU2h6YkkxdnIyOURNbEFZLTdtYzF0bXdlQnZoTEdZV19QTm8zVTVuNmpVeGpMaFhOV1lmZw?oc=5",
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczRUM0JUQk43b0ZYenNBTVVvM1gwQTRVbUFHSTZRLTYxWlRqdDJWekplMTFnd0k5em9BaTM4aHBMcVVmVjBLZktiYm53Q2dONE1CS1d2VEpKYnBKSlhKRF9MOWpXSF84UEtkR2pxS19hTzRvNjNkV0l4ZXlocUM2dzJ0VlhuM0pWMDl4YVpuVGZ0Z1dUMDF2dnBOQXJOTkhOU1JtU3hPM2N4cWZRMEgxOXJmU0pOcXBQTlE?oc=5",
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXNrOHNvWE41aFBCdnNqSE51Sjk4Z1MxSUZTOUhNMnBlTk5BZlY2RkJnU3dqenJodFhrdW5lOVVJOTN2OVNJZUp2U01vd1dmTFJpYm9OVC1BRkk5WWNOYldjQ1l0dTRkUnY4aUg3bm5FdWVRWHduaFUzZTJqY0ItTDdPMkNMcm55TVVXZE1Ca0RlUG5rWU5jcEIwaVZjTXRKd0FjTE9QV3M0MHpFclMyZ3pUaVVQUUFhVGVfa3ExbW1uRlkt?oc=5",
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHN3b3hiTzlxcS1DUnBadmJPTHdKVXRWa2I2S0tFSkhMRXhYeF9uNnBFSmFsaFg4YTdrVnBvaURfcWdhSEdDakhpTk1zT2NBTlctWldsbXVBVHNsXzY2cE1QMms5TUJmcW9ONmdmdEZId2lYNDRIdVN5TFNDZldERkg4azRaZmlRUWp2STZCa1BsWUdoc0FqTnlmTGRvS1p2X3JMLTRWUTZtTmpBUkxVQ05fc1ZnUEZxWGdtTEZQeXA1Q0Iya0xiWlNWbw?oc=5",
