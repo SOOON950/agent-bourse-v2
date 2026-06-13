@@ -1,29 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-13",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYlhIYVFfZEhUQWpuY05LOEtMTjZMeENkN2owSENIdGR2dU16bTVRWDRCa0M5a0FRNWtOeGFVUGJiWU81Q0M1M0pPVDdKelZpTlllSVhsMks5V3dIU0FfQnRIWno4NF9PVm9FOGhEZzdMRTBGMUxubXljU1J1S1NFd0t4WEFsZ1Q4ZUNNYW9hanROazBvaVRsWWZ5ZVlnNXF3T2FNNFd6ZFpBc1YxSlZLLUMxTmhUU0NwQ2YxeTVKWDNfR1Z1UkhmWklnUmxwbjVES09teXcwMUMyQU3SAeABQVVfeXFMTUZQYnlFVU9OcDNlanlfekFKdHlNWGZUMnE2ZTV2V1RoaUFTS2dONE1QV21GU0RCMHVPNVRYMmh3Vy1qQmJUNXJNaVZFYWdlMm1GLWlqZjJKUDJJVjZiaG1ZcDFzcmp3MVY1UWc2Mndnd2NUS3BGN0M2NUIxbDNpSW1sZXZNcFBlVlB2REpIUVJJa3owUmRvazh4cHM2dW5uaDNzazFrYzBueGhWemFKM2xLYmt4R3IxeHgtX3lYU0p4d2Z0Z2R1WkZkMTRsWXJaVkg0Y3VIX1lnYjl0M0ZONDg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi engrange une commande majeure de serveurs d'IA en Allemagne - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZEVLU0ZLUTN4bkZubjEzcC1mazhvSU1TRHZheUhxWWJwOTZBeW1oMzBpYktBaGFBOGo1MWRJOEswNFYxQWlVMjVZYm13bHNjMFFvRVhNcWl6N2RNM1RvckNVT09Fa051NEh6QkF3ZnNoUGN6RXVGclFRaFk4N1Z6MXo3dkNPb3YwSUNfbTlBYURQc0hzMUpHZ3l4NDlUTjRPYTZJY1dGakNJdC1KTW50RmUtV2M2UTd6MFdJNkNDVHc4QWppU01yc3QzZ0FRNHlFMEthVW9reTNQUUFXaEdlcThn0gHnAUFVX3lxTE9JdUJjUjIyU2RQVjZKUm94T3NxLUgzVWhsOV9hdHN5cHNLNEE2ZEJLaGVldUdrdkEtaEZVUW1fdDdiREVUc1AxWDQyMWFaOWozamtza01VcndlbXlUdXlDOEZtYnZFWUl6VWJxTnFjMDdLeHFyRUNSbUxCM3U2THlpUFJ1cjQwYWNwTHlpUUZ5bUVYaFNhdVNwM0gtdWZfRUxlUEJybGI2TXB2VXJTZzNpRWt2Tm92aVpKWnZsTkx2WUxhMFpNanRabkNlem51a1BrMmxtOHJNR3JCWDdWS0g1VTZ5dDNHTQ?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies lance une levée de fonds pouvant atteindre 50 MEUR - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFBXTUlxTU9zc21YMGJWSXdtbFlKRzVzYUp3eDBCVTA2T0o0QnhDNUVDc3BJaGVEUExLTzBwdmgzOEpBYWp5ZGdaaGVkT2NxcFJDbXZ2SmhiTERNcUl2R09MZDg0d0t1OE9BRlAzWlZkblI0YldWU2h6YkkxdnIyOURNbEFZLTdtYzF0bXdlQnZoTEdZV19QTm8zVTVuNmpVeGpMaFhOV1lmZw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Cash-flow opérationnel par action de 2CRSI SA – DUS:52C - TradingView",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-10": [
       "13",
@@ -36,6 +14,9 @@
     "2026-06-12": [
       "13",
       "18"
+    ],
+    "2026-06-13": [
+      "13"
     ]
   },
   "red_cooldowns": {
@@ -44,11 +25,11 @@
       "variation": 9.36871670720006
     },
     "ALHAF.PA": {
-      "ts": 1781347273.9591086,
+      "ts": 1781353050.429431,
       "variation": 11.76470552675907
     },
     "ALKAL.PA": {
-      "ts": 1781347273.959106,
+      "ts": 1781353050.4294276,
       "variation": 12.664640471059077
     },
     "ALMDT.PA": {
@@ -60,11 +41,11 @@
       "variation": -7.692309285637535
     },
     "LQQ.PA": {
-      "ts": 1781347273.9591112,
+      "ts": 1781353050.4294338,
       "variation": 5.577005430976664
     },
     "SIVE.ST": {
-      "ts": 1781347273.9591103,
+      "ts": 1781353050.4294329,
       "variation": 16.238240687451018
     }
   },
@@ -202,6 +183,7 @@
       "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOWTJObS1JVHlIRUZLemtGd1pVZU00SVhyMnpvX3Zid0xINzQ1OU9UMXRpV3JUT3lHNzhhMHlWZXY2d2ppV1BZUFdHc1RvTUZpYWwtMl9MbUs2eWhRelhxMFMyM2JBWk1zNmE5X0pWQmhpT2hibWo3ZmhUeFpvV1FPLXFlVUlWSzRYNVh4ZTJzUy1iT3hZbEpiYnNPY0dmT0s3bDgxLWRLWkVabk1Ed1FRMVh5cTlqY2tfZFVvcmxXNHJybjVXazZ3Wlg0MU8wNDhNVzdEMkFwck9JV3VYM2pLSXVVSUV2TU5OOWRfQV93dG5vcldCS0ZkdVBfYkh2RWdKRHpyRWlZbGhya2lyVTQ1TlZxNDM2Mm4zWlBGbTlOZmtHcllVT3hhVmNDMGdyYXlYa2sycW1EcU9Jal84UHFEaVVpVUNhOUxvd0hrX21jTG9XbWJ0eHktbDBxa0VPcDJVNXhB?oc=5",
       "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObkpoZF9UWlA1MDdZRkdtSThYcGk1MDQ4TlFyXzNoQk9OTjZjQXRkc0NRWEVWSFpjSUZGVEhTdWZ3azJNTllCLW1sWEhRb05OdEYxZG9pNEd4ZmpSajZ3U1NHVkZ3djZsYTJ6ZW5TSXBFOEkyOXlBWGVOcjhvYU1fX2pFT2dfRjJDakJLa2hWLW0tZ0VTWG5fVVV3UW5tMVBPZVNQTEw4Y3dSVEtDQUZuc0otVl96dEtualRyRnZDdGVzRFZlQ0pFajFkeHNYd2NpaDVyeExpV0xmeTFTbnV3VGJzeFFncHEzcDVuUnhXN2t5VXhYRDhsck9MZEg0ZlNKbVlXd09ZUkNBSW9teS1PdkVQbkJsbXBWb1VqRmRTTnJfZHF3aHVJNWVDQlJRUjVMREFVR2tIVkVSMlNwMFExZ0JSUEJDLXd2cTA0UHVRNjU4UV9VYkE1WkxmbTc5YXM2NzNqZ1hR?oc=5",
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94ZHdqc2RvclpHbkFTYkRJVjloZkJDWUkyR1dqcXZZVlBzOWdCd3Y2OTdCSV95b0lSS3Z0My1iYUMwX0Qwa2EtSXotU3FnQ1Rqd3BLdE1RVFB4R1FR?oc=5",
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MOUVCU2RpeU12cFVBZzY4R2w4MlV2Rk56cXhhaS1VTXZCWVdKZ0tLVVd1T01LRjV1UjF6UXJoR1h5NVJhU2dmbTNmQ3owY0VCallFRS1Md0szb043X2doZldyQk5haTAzZEFMZ2o0bnBIX19mdWpkeVNkclI?oc=5",
       "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRXJPQWY2ZmZCek92Y2FRd0JSU0hueGdpMExpSVVsYTA2RkcxVVNEMjFZamFiMnBqMEFhQWJ1TjZuTGdxTDM0OEU0Z1ozUm9vd0R6NXRyMDFxbDNsQmRUZ3JwZVdoTm5xQ1pqaDNvMHA3R1AweGlSYzRuTVpwUXE2RkFEbnVNNmNRV3VRaVJ1STVwMzltRDRYQ1NScUxZd3Z4aVBzaEFfR0k5SEpUeVVQRmVwc2tGd2dycEUtY05RbkhxQzRVZTVBRXdEdFRBSHdTVUtCOGxEaGVONnpJb1lCbVJkNDloU1lhejJWem9DcC1oemw3Q01WRmF5ckdwOXRi?oc=5",
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUx4eFprbXFxSnF6ZnRaRE1XaGxvQVU0U0lJbEcxZXFqeWM0XzVqckFaeWpQMW53a3liYnpEVDBHNTNKSHJCSDhLcGJuQW95bktxay0xMEJXSXdmLU1CR1A3S0JMQVgzMG5JSmhwak0xdUlWOHdPUExpY0hlcTBNSXZjV3hoS1V0YmNRaDNWYUXSAZYBQVVfeXFMT2ZfVHo3VHY3YUsxZlVCclN2Y3NlUk1VY2UzZExZLUtjcEtqd0FfNV9rQS1oT3oxTFptdjlCUEhyeEZuWFNGTDJTaWZiOFZBNXQzdTkwX3ZabXJkWE55REctSEVvMGZiR3RibkhUZUpna3VzNUltQkxjQzZSVV9BVkxqUVBDb21ma2Z2bG1DWVZNU1dnQ0dB?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JUaXIxUnRJNFlNRWM3ZTlLTzlTbU9ReG9mUnNMSTdSd0dvZTE4Y0ZvQWU1QkI0UWV6cC1uWlRiN21SR00wZXRweDZpc3U5WXlNVFFrVHJheVBhQ3JRM1ZjMjA0TjEzOEpOcVVFdV93NnpaU1NJbkZ5a0RwZUlVMUpMVzBzU1czMi1YZkZIVDJPRG5jSXJPUGlfNjFDdw?oc=5",
