@@ -1,7 +1,22 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-13",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0VWNlYUVtcVQ3UnFWMGZQRC1vVHhpVmpOT3JydnZSVVZjQWFLYnZqazhCdDJJemVMTUZ4WlV0MV9tYy1qcWxDc1drYzdJYl9WbUFHX3V6ZGRmMEV2RUpNWg?oc=5",
+      "nom": "Kalray",
+      "ticker": "ALKAL.PA",
+      "titre": "Forum Kalray (ALKAL) | Commentaires et discussions sur l'action Kalray SA - Investing.com France",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQSzlUbnFNS19QRjE3Nzg5YkxnV19YTmdQUGh1VjZDU0xBZkdtRjdUcHJpcjVwSEx2ZkxUc3BOazZpVDRoVHNfa05pNXJURWRuTmFSV1BWNmdmdFltQU4xekJSMDE2UzBuX0xZRjJZZm1HZTlINFloRl9CT1BZbXlCSURvVmVFUFZPZjR5UmU1VXJyRTVsdktpd191bVhiQzg1b05INmJObVU4bkpDTHM1SmZIWUNUSGdITGNpSllqdkxmV1hrT0NNc1ZHMjBxUFVUYW4yOVFCMVBzdlhrcTFmQVYtWkt1WXBhMUlVVTBVUG1vcmpxZktmUnhCTE0wMDdkWmlVZFpHaE1fdjRiWnA1SEEwWjhsVk1pcWF4bnJoRmNLZmZwajdxMnU3akx5cGttVW4wWXZOcWpTZ25DdEVHeWlBeE1FZFlQXzR1eld4cDNaVDdKMExMN2xaVTZsOVFFY2hPU051OG9Lc0g0N0ZVRmkyUlIyRUJMQzAxSWVJcHlEWXNFWXZR?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "PODCAST : Culture Bourse : « Je possède des actions de 2CRSi. Que pensez-vous de sa valeur actuelle ? Peut-on encore s'attendre à une hausse ? Si oui, quel est votre objectif de prix ? », par Julie Cohen-Heurton – 09/06 - BFM",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-06-10": [
       "13",
@@ -26,11 +41,11 @@
       "variation": 9.36871670720006
     },
     "ALHAF.PA": {
-      "ts": 1781366601.7540848,
+      "ts": 1781372592.7305613,
       "variation": 11.76470552675907
     },
     "ALKAL.PA": {
-      "ts": 1781366601.7540815,
+      "ts": 1781372592.7305582,
       "variation": 12.664640471059077
     },
     "ALMDT.PA": {
@@ -42,11 +57,11 @@
       "variation": -7.692309285637535
     },
     "LQQ.PA": {
-      "ts": 1781366601.7540874,
+      "ts": 1781372592.7305639,
       "variation": 5.577005430976664
     },
     "SIVE.ST": {
-      "ts": 1781366601.7540863,
+      "ts": 1781372592.730563,
       "variation": 16.238240687451018
     }
   },
@@ -68,6 +83,7 @@
       "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
       "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JVE9DMl83Zy13UGNoR0tHMjRUd2VGWW5nVlpud25YckRvVVQzTUpDLUVOMk5XU1l3MVR4S3dsaE1ISi15NnVQUU0xbkp1am90OTZ0QWJxVndZc0JmNDRmLXBwVTByS2hvOXpsYUppNmQ?oc=5",
       "https://news.google.com/rss/articles/CBMickFVX3lxTE85akxwQkg2NWphRWR0YVRjekFaOV9rYU10Tk5wQTNNcHU3ekhIWkgyRmEteUl5WmtDSmp0MGdWYlFvRjJ1dDN0ZWZ2dThpQ1pIekMyQmRTdkNBTk5CYWZ1dWZjOGdCbnVzRlNIcjY3aTYzZw?oc=5",
+      "https://news.google.com/rss/articles/CBMihwNBVV95cUxQSzlUbnFNS19QRjE3Nzg5YkxnV19YTmdQUGh1VjZDU0xBZkdtRjdUcHJpcjVwSEx2ZkxUc3BOazZpVDRoVHNfa05pNXJURWRuTmFSV1BWNmdmdFltQU4xekJSMDE2UzBuX0xZRjJZZm1HZTlINFloRl9CT1BZbXlCSURvVmVFUFZPZjR5UmU1VXJyRTVsdktpd191bVhiQzg1b05INmJObVU4bkpDTHM1SmZIWUNUSGdITGNpSllqdkxmV1hrT0NNc1ZHMjBxUFVUYW4yOVFCMVBzdlhrcTFmQVYtWkt1WXBhMUlVVTBVUG1vcmpxZktmUnhCTE0wMDdkWmlVZFpHaE1fdjRiWnA1SEEwWjhsVk1pcWF4bnJoRmNLZmZwajdxMnU3akx5cGttVW4wWXZOcWpTZ25DdEVHeWlBeE1FZFlQXzR1eld4cDNaVDdKMExMN2xaVTZsOVFFY2hPU051OG9Lc0g0N0ZVRmkyUlIyRUJMQzAxSWVJcHlEWXNFWXZR?oc=5",
       "https://news.google.com/rss/articles/CBMikANBVV95cUxPYjZmR3g4Yld2M0s4blV0eVFyR1JZRHNDRGozTGM2NFUxNG9YTjJyNWR6QkxhNlhzMktwSjRTbVVWLW9ONDJpcnNwNV9maDFIX3VBcjRYQTBHS1lzTkJFNUVpX3J1VWI2SlZIVHRsdkViN2pFVXlVLWM1cWNCUXU1T18xMjlfX3FXbUxNYWl1c3hvVG5sNjFuTW52Wk5tb1I0VV9Nc1BHWU9tbmIxN0E1bktXdVpSY1M5QnZUc3pla3phU1o1TXozS3RIc0x0Nm1KTnVUSWtVeVFWRS1XMFFOZzNteHRrM2JYNlBYWmhYVlY3Z2FyWk14QmxUXzhsaWRzNk1xSXJSRWM0OC1fbVN2YzVKcVozSWpmd2J4R0pNdFFWdlJDM2REaXV0d1VpNFMxV1FDeFZGaG1KRnM4dnFpM3UwLTZ5TUZRVFphTHdjcGl4aUgtT0phY3pNVFpycWdweEpnYVhvTDl5MkVlS3E2Q0I1Y09odGlXaEpGYlVNaF80Wk9IdVBqLWtkYVd4ZnB4?oc=5",
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3VFWHJxVkQwV0p6anJmOXlUcnkzWFpSQUhlS0s3MUJQMFZsSmxCTXRjZVZDQmUtb3J4bll3UVR2S1lkSXhvaUJCM2t2RGI2Z20zT1d5cGNqX1REcF9NdThmQWFGUHhLbEVfRVdNRkxSQ3pZY1pmWDZXb2x0RHBvbGVwVzVTQmtyUGxvQXdJOF9TcElscWk4?oc=5",
       "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTF9ZSzkya0I2NVp3YlFnX1JFRXliOC1HSlBqTUowMlc3UlVsQlFrYl9lSjRjaXZpV2VLTjctVzN1UDctNTN6M0hYejVfWVpNc2liMTUwRUllWWFWODROaE90SmdRTkd4ZnlXMGlkR19TLXA0WkxkbUV5SUNVTDF4MDlqYzdwNDROZzBlOHJWb2oxSDJsck9BeQ?oc=5",
@@ -94,6 +110,7 @@
       "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTg0NDFCUm1Jc2tnSnZ5dkQwTHFJSHlEQVFtamxDamQwRTFPMHZSQ19pNVM5SW9ybG9vTXE5Q0ZXWXFkckhlNmJzb3RSZFE2LUJ3QXc4QkZyN1UwdHlCWGd4cFZDcUg2TjlBVmE2UW5oUWM5Z1ROdC15RlAwM0hJdmtGYmd1cG9SY0V1Zk1RX3c2REJnZTNoN2ZmUm5wSHE0WmU1d18tWFVlZDFSMkQ0Sk9sX1hjNmVOUjZKOEY1ekRfN0NOMURkTDNyeXlwOXU3?oc=5",
       "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclJEWVY5cUJ6anZrWDNiTHRQejZPUlFXYjQ5Uk5RZXgwLXRWcmlRQ1hTcWJnaG8zNjNTWE9GdUZtWG9WS3p5TGhudk9XdTlQZ2cwc203am9HSGsweDZyQkRzN2Z1eFkycFhxdGtZbDJXNG5uVXRWWnJrTEJHdmh3UFZicnYzU0ptR3hnZGRaSU9IR3g4Z2wtcUtJRUU3SW1Eak5Mend4ZXBmZXFOUTV6ajNsXy1KZl96X3FmRGM3SHFrVEVSa1YxRGZYMGlYNjVRQ0tn?oc=5",
       "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vR2FLMUNDZllsV0V2NHZEVlFGc0lQNnBjTlF2bFdWdFZBcGNDVWoyS3dMRkVBbHFQSDBOUEtVbXQtQVNreS0yY1ZERXFKc0VXWHoxbFJB?oc=5",
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0VWNlYUVtcVQ3UnFWMGZQRC1vVHhpVmpOT3JydnZSVVZjQWFLYnZqazhCdDJJemVMTUZ4WlV0MV9tYy1qcWxDc1drYzdJYl9WbUFHX3V6ZGRmMEV2RUpNWg?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KWGZRQy1EYTFLVy1ZbmJ3T2hBTktsaHZWc2ZBZUdrWDJrdmdMRjhkQ1ZHQl9URnRJMWpnWGtTcDdOMU92eVNvbVZpYkxBSk5PTUg2N0ZVN1ROMlFxWG5yYmFPSEROQnJ6VWQ3Njd6eG9TeDBh?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMdkhCT1JvdGc5MTBYN1ZuWU5oNUF2NXh0REMyaDc2QTZtMzBQUkhRckhYMGtPYmRsOHhXaU9CSEtSX0ZjTnV0MWc0RHAzdHlXLW9lSDJDd2dMUE5idUh5TGtTNVdKQ0pwVHBySFB4NjFzNWV0?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPc2xhRnJVNWlwOW5tazU4VGcwaTNzRDlrVEhfaGJMaDZ5YXJCNTN3TlRjUVdDdmVYbnRHaGxKbUNxcGkzRUE1M1FLT2lfT3VtNm1SZDNTQ3lzU0NWV3RtU0lHNi0zcVNxOXYxMjFiVGxfYm1E?oc=5",
