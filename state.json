@@ -1,7 +1,15 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-13",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSHljTHFlSjA0VVRCbVY3XzJuOWNweUpxbnBTRUE5RnRnR0pCaGN1Ql9vX2NNZmwwMnJmVG5fUUFXbkFHTENMaXBZMGJodzlXb016SVVVQThfN1lzdUFUaXRtSUZ3WFUwTWdQbkZXLUZkTnBiNjNZdlpTNGJkTnFnbG1yTm03eE9YZmh5Sm1tSlVySG83OTJib0cxUGpnR2dieW1BR1JTNHZwMTczWFdLODhBSzJXNmpHRkNuc1ZXWERMRzZiNU5GcjdaWl81SmQ5OHU3dFdRZDNXLXl5N0kzUHFpaEV5QWFQYVlGV0lBWG9MbHFMOUsyVWlVQzhadjRBZ3hGX25UdklGQjFKb0hhaGt2cVBveWJUWVVsSWJR?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi engrange une commande majeure de serveurs d'IA en Allemagne - boursedirect.fr",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-06-10": [
       "13",
@@ -25,11 +33,11 @@
       "variation": 9.36871670720006
     },
     "ALHAF.PA": {
-      "ts": 1781353050.429431,
+      "ts": 1781361230.946589,
       "variation": 11.76470552675907
     },
     "ALKAL.PA": {
-      "ts": 1781353050.4294276,
+      "ts": 1781361230.9465864,
       "variation": 12.664640471059077
     },
     "ALMDT.PA": {
@@ -41,11 +49,11 @@
       "variation": -7.692309285637535
     },
     "LQQ.PA": {
-      "ts": 1781353050.4294338,
+      "ts": 1781361230.9465919,
       "variation": 5.577005430976664
     },
     "SIVE.ST": {
-      "ts": 1781353050.4294329,
+      "ts": 1781361230.9465904,
       "variation": 16.238240687451018
     }
   },
@@ -70,6 +78,7 @@
       "https://news.google.com/rss/articles/CBMikANBVV95cUxPYjZmR3g4Yld2M0s4blV0eVFyR1JZRHNDRGozTGM2NFUxNG9YTjJyNWR6QkxhNlhzMktwSjRTbVVWLW9ONDJpcnNwNV9maDFIX3VBcjRYQTBHS1lzTkJFNUVpX3J1VWI2SlZIVHRsdkViN2pFVXlVLWM1cWNCUXU1T18xMjlfX3FXbUxNYWl1c3hvVG5sNjFuTW52Wk5tb1I0VV9Nc1BHWU9tbmIxN0E1bktXdVpSY1M5QnZUc3pla3phU1o1TXozS3RIc0x0Nm1KTnVUSWtVeVFWRS1XMFFOZzNteHRrM2JYNlBYWmhYVlY3Z2FyWk14QmxUXzhsaWRzNk1xSXJSRWM0OC1fbVN2YzVKcVozSWpmd2J4R0pNdFFWdlJDM2REaXV0d1VpNFMxV1FDeFZGaG1KRnM4dnFpM3UwLTZ5TUZRVFphTHdjcGl4aUgtT0phY3pNVFpycWdweEpnYVhvTDl5MkVlS3E2Q0I1Y09odGlXaEpGYlVNaF80Wk9IdVBqLWtkYVd4ZnB4?oc=5",
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3VFWHJxVkQwV0p6anJmOXlUcnkzWFpSQUhlS0s3MUJQMFZsSmxCTXRjZVZDQmUtb3J4bll3UVR2S1lkSXhvaUJCM2t2RGI2Z20zT1d5cGNqX1REcF9NdThmQWFGUHhLbEVfRVdNRkxSQ3pZY1pmWDZXb2x0RHBvbGVwVzVTQmtyUGxvQXdJOF9TcElscWk4?oc=5",
       "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTF9ZSzkya0I2NVp3YlFnX1JFRXliOC1HSlBqTUowMlc3UlVsQlFrYl9lSjRjaXZpV2VLTjctVzN1UDctNTN6M0hYejVfWVpNc2liMTUwRUllWWFWODROaE90SmdRTkd4ZnlXMGlkR19TLXA0WkxkbUV5SUNVTDF4MDlqYzdwNDROZzBlOHJWb2oxSDJsck9BeQ?oc=5",
+      "https://news.google.com/rss/articles/CBMingJBVV95cUxPSHljTHFlSjA0VVRCbVY3XzJuOWNweUpxbnBTRUE5RnRnR0pCaGN1Ql9vX2NNZmwwMnJmVG5fUUFXbkFHTENMaXBZMGJodzlXb016SVVVQThfN1lzdUFUaXRtSUZ3WFUwTWdQbkZXLUZkTnBiNjNZdlpTNGJkTnFnbG1yTm03eE9YZmh5Sm1tSlVySG83OTJib0cxUGpnR2dieW1BR1JTNHZwMTczWFdLODhBSzJXNmpHRkNuc1ZXWERMRzZiNU5GcjdaWl81SmQ5OHU3dFdRZDNXLXl5N0kzUHFpaEV5QWFQYVlGV0lBWG9MbHFMOUsyVWlVQzhadjRBZ3hGX25UdklGQjFKb0hhaGt2cVBveWJUWVVsSWJR?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXRsSGduUXozeGNhMjMtWWE0MERsWjdTdFROdGx0V0NTVGZ4SXotVXI0SS1Xd1gwUWl5VFVfQXY4Q0prblgwQkgwbm9NRzhsZ1F3VlVxQW1qdEZLOS1jTUd0aWNzeDFXSjlTVllCVndkMnJ1eHh1YlNEUkdkTGdMM1lLQVB5X01xNVVjR0I5cGhyOENvTWZkcS1JRWNIc1JKSlNQdGh3MDBoUQ?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFBXTUlxTU9zc21YMGJWSXdtbFlKRzVzYUp3eDBCVTA2T0o0QnhDNUVDc3BJaGVEUExLTzBwdmgzOEpBYWp5ZGdaaGVkT2NxcFJDbXZ2SmhiTERNcUl2R09MZDg0d0t1OE9BRlAzWlZkblI0YldWU2h6YkkxdnIyOURNbEFZLTdtYzF0bXdlQnZoTEdZV19QTm8zVTVuNmpVeGpMaFhOV1lmZw?oc=5",
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczRUM0JUQk43b0ZYenNBTVVvM1gwQTRVbUFHSTZRLTYxWlRqdDJWekplMTFnd0k5em9BaTM4aHBMcVVmVjBLZktiYm53Q2dONE1CS1d2VEpKYnBKSlhKRF9MOWpXSF84UEtkR2pxS19hTzRvNjNkV0l4ZXlocUM2dzJ0VlhuM0pWMDl4YVpuVGZ0Z1dUMDF2dnBOQXJOTkhOU1JtU3hPM2N4cWZRMEgxOXJmU0pOcXBQTlE?oc=5",
