@@ -1,15 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-14",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0RZcmVCNHYyT2t1WUVoOVdIb3hWZklCYlRmaDB4M3ZuWDBUTEE4MFRlNG9qTU9xMHN5V1ZROVdoRHRJTDlseS1TREo5aDZSaENCT3NpeDFWRlRBYmYtT0UwLWVrZHFST1c3TFo2dXdvZEdQcHJqcDE5LVFldUhJNmFzaw?oc=5",
-      "nom": "Vusion Group",
-      "ticker": "VU.PA",
-      "titre": "Vusion : au rebond - Boursier.com",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-12": [
       "13",
@@ -22,6 +14,9 @@
     "2026-06-14": [
       "13",
       "18"
+    ],
+    "2026-06-15": [
+      "13"
     ]
   },
   "red_cooldowns": {
@@ -30,8 +25,8 @@
       "variation": 9.36871670720006
     },
     "ALHAF.PA": {
-      "ts": 1781501192.2808084,
-      "variation": 11.76470552675907
+      "ts": 1781523167.269492,
+      "variation": 10.526315980773335
     },
     "ALKAL.PA": {
       "ts": 1781501192.2808056,
@@ -46,12 +41,12 @@
       "variation": -7.692309285637535
     },
     "LQQ.PA": {
-      "ts": 1781501192.2808115,
-      "variation": 5.577005430976664
+      "ts": 1781523167.269496,
+      "variation": 3.87037531907981
     },
     "SIVE.ST": {
-      "ts": 1781501192.2808104,
-      "variation": 16.238240687451018
+      "ts": 1781523167.2694948,
+      "variation": -6.580363699092725
     }
   },
   "seen_news": {
@@ -179,6 +174,7 @@
       "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR1o2bVVFU3dCcXFRNFEtbldMMm1FcWxzTUdMa3ZwQ19BcGprUVcyMmFuN2JlZDhnV3E4Q1pIcE1FaTN1OGdsRG9MRDlEa25LVmtPTTdqWFJqc2VfVzJmaEM0VzhTbWU2NzZ6N2oxV0VNZzlONUZUSGd6N2MxVE5oWWc2WjNrSkRvX2NDb1ZMQnNSY0d2bXFoSW95TElxbkFGYVdOaTd2NWViU050YlZ2Qk4xNXhma1VYbjVaRHpKZGpuODhFNlU3dTkxTUE3bFhRa1QySzJYZTM1OUozT3dZQ3I5amVzak5HVXBn?oc=5",
       "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUtTNGdvUUFvQk1VR2Q3ajZnMHh6dVhBblRST0xpMEo4Qjdfb1Z1SW9SQ2RzeUI4N3ZEMFo1a1dLVmx2aWNvQXRhTnZ0NXRCbGpBVEpoTERRWWY4ZUptb2VOazMteGFldjRELUVraVgzbTNMaFZpMkZ1YjNhSGlkZnN4bmxRbE1aakx0VUZpX0YzSHF3d2lFdC1ibS1tLXF2T1h6ckwxZFpFdXlERDdvSEp3a2lRYnQ3ZFM0c29YdmNQWG4td0t2R1RSdVJBcFk2OUk3RE9EdFdGNk56cF9MUE1BdE9LOWdlT2JoRVJRbw?oc=5",
       "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQkhTU3U5R0NLbjk0b05NQmdzUTdsd0t4dnZwcldZWjhsZmh2dlljQTByT3dVeU5lVVVfUjhUQXU1aExiNS1lUHF0dk5oTk9kRUg1NmdtcEhneHk3VlM3S3pkWlNPWlNZSjEtT0twbW9OdnpGQzZlYWRaeW52TGVWYllna2kwSTNlcXllSmpabWZjQWJJTGJQdzdSSDdPNDRiSXllelNscG5BeVdITjFwbUpBVXFkS050VF9uUUR5aVZSLXBTeTMxUThlYTB3OUVvRjhKdEZkZkZyNXk5aEpJUWNXQURHOGlGUmwzYXpaaDZyZw?oc=5",
+      "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZExHdFM0eElLMDNJcWpTSjJGa1BiWUtRRVhBUHZUMFZDTkNrV21GLWFkeUVLTjRoaHNYTHBxVVYtclg1X19DcjdpNDA1UF9nODFoSGFBZTJhVWcyU0ZXYVFPbE1sT1NKaDVMaXp6VkQyU213RFphbDJhbDlSRmpqVVVyQ0ZOWEY3Q0daaWlJVkxWZERINGY2bk14YXRNWjN1djNxbXM2NzFKWVZUbmdqMnlCdkNiNUVlQVdCVEJuTS1IMkNPOG9Yb2xrX1NIaG56UjFyRkRUVlRVOFNTazJhOU1LZ3U1TlZVZ2RkaWFBV2oxV3M?oc=5",
       "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaXZIcmRiVkJlY1pQVGx0OXp3X3VqS21rTVB1ZnkxemUxbXlweTJHc0Z1LS1FQVFUeEhLRnJfWGpoNXhZNXdVd2FWVU5ySGI5aUJsbDBNMEp2UXF6dkltel9ZRlFQVlBGVUpsMU5fNExodnpYbVNyMDItLWlZZXJLbVZScEtsOEhYUWtXSkdhOGNoTHo1Y2RFeDRjeFl6RnZ1Zm9KbmxnS0xFcm9WUWxBWkY5UmxlTl9zbWJVcVZqQk51dnhTeDdqbGIxTGliQkRORnhJR29keWhuRmllX1BwRHE5bm9qdDZkaUx4S1VidmVfb0U?oc=5",
       "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcXJfOTBzeTVDVEZrTlN6NWV2TjF5RzlieFJkMmstMkpRREdGR3ZLcV9iVThxYWpUbEFvZmh3XzhlaFlQN05PZWcwMHByUVNHUXBUeE5XU1liRVA3MUxJenZjSEtWTGJFVjJxVGJNXzVUM1BoQS1pMFVDdjFTa2FfcFpPbmpEd3FDbXZsWDhGcEFWSmZTUW80RERNU29IdXpaNDhSWFFwbmYwbmZmaEczSTBSTmo4X095cFAzenZoVEMwclppZ1YxX3FTbU5zYk53NHdYRVZ5cE9BZU0yZDh1Sk11NkNtQ0F2MlpjWk5uTk9KMkk?oc=5",
       "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUtzUTZfSkUwUGx2MldoaUVMU09hbjl6OUNRTGFzeGNjbEVNZEpYc2tWOUlfdDdWdmV2MmlhRWhlQ3NOdWdjSEZYZFlkV1JzeW94enRibHktMHlVb0N2U3I1V1RiQ01VQWFsc2hwSjF1dkJDR2V4SXRXay0yb3d4OGVzb1g4Vk8xeWNr?oc=5",
