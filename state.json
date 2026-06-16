@@ -1,36 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-14",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSDlRX1pTTXVWUVY0ODVmV0hteUhKZktqUVVpaG5CdDNHTFpyVnFTdkJ3N0J5dEN2VmlXeEg3OXdlcWEycmYzME1JbnZMWlpfbzFUa3FXT2k1cHBib3hfX05xem5PRXNRZVpRMl80MThBVDV1ZEdkdmxZTllKdTFJYzJPYldCSTNLRXI3bEpoeFg5cUFKY0pKdTVLLXUwX2VVUVpGMXhRNHpPMVkzRlE0QU9KTldidE0zQXViX2Uyekhla3hwbWJNTnFPZEM?oc=5",
-      "nom": "Kalray",
-      "ticker": "ALKAL.PA",
-      "titre": "Kalray, Riber, 2Crsi : 3 actions françaises de puces survoltées - Faut-il suivre ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd0s0RVZjcW1zYnNJQVlGb3llSEs1bkVCck1GLXV6TldZak1uWkd5VExFdVViSElFWlpRVk1lRk0zcGNCZVJRWGNCZ3IteGNxQm9PUlhvZEE0OTRNaTdjYll5eExYaF9vY1FyU2ZibFJmYllUNDFlZ2FTLVV1b3V5UEZCakZ3SDRsLXZ6MFdHV2lRVFpqMXI2emhQWmVsZ0xUOVVUSHc4ckFKdGtYVmZjcXQwTkQwbUMzZDB1eGFqS2h6SW55YUNLNFhuVDIxZnRrZlpHUzZZVWlsS0sxLVZicUMxX0EwLTg?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies avance la clôture de son augmentation de capital de 50 millions d'euros - Boursier.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSzNVVVpab3QzZGU2VE9WWEs5THU0ZDhiT3IzZWJoZzlSaWQyVlpOdlZyM0Zwd1o3bEc3WkhvcjVvcXktU3llandDa2JsVF9mVnBYM3IwLXdSczZSLW1fR3JMMUxZdFhjYnl1Ql9NQVlQMFc4TGdla2gyZTNxNXFxaXpsNXU5bW5zcUIzT0d0WjJGejh1bFU2eE55dEdad25sQ1dIT1lBUWpwVnNOeDBDSlY1ODZsYS1fZzExeXQycVd6cjhqV0FxSERpbGRONFFuOWw5b2hFYk9KMU9TRk13d280LXM5UFN4azJIWERRLWdOZUhWc3hGeGVVVG9MallyNC1kUGhfOGdvYmplS2RqRldLY1JTaVdVXzBN?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies : l'augmentation de capital déjà sursouscrite - boursedirect.fr",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkpvSDZXeXJzNmdtZ0FSS3ZpMGE0Nk1zcUx1Qm5mU3lQYVFDcTZvX29CcFZRWHZOV21adzg3cXowd2E3ejQyWm8wdFUtcHlfb2ZIWUktLU5TVXc0NzFtQ1J2eVBjNkh6TDJWOGVsM2c0Tk5SNFJMV2wwUDZQWXF6QVh6MFN5cFNBUE84QVRkaGYtdjRmV0YwbE1ibHhIZUM5QktfNDh4N29xTWpzT3VWZ3lpQkV4QnNTb0JMLTV6TjA0NWhVNE1xVE9MYUo3Ymc?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors remporte une commande auprès d'ALL.SPACE - Option Finance",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-13": [
       "13",
@@ -43,16 +14,19 @@
     "2026-06-15": [
       "13",
       "18"
+    ],
+    "2026-06-16": [
+      "18"
     ]
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1780978910.788682,
-      "variation": 9.36871670720006
+      "ts": 1781636787.7945247,
+      "variation": -8.713861202225194
     },
     "ALHAF.PA": {
-      "ts": 1781623979.6261024,
-      "variation": -14.102565874832345
+      "ts": 1781636787.7945273,
+      "variation": -13.141027433132708
     },
     "ALKAL.PA": {
       "ts": 1781501192.2808056,
@@ -71,7 +45,7 @@
       "variation": 5.419542285941391
     },
     "SIVE.ST": {
-      "ts": 1781623979.6261055,
+      "ts": 1781636787.794529,
       "variation": 7.1800829593958015
     }
   },
@@ -125,6 +99,7 @@
       "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMdkhCT1JvdGc5MTBYN1ZuWU5oNUF2NXh0REMyaDc2QTZtMzBQUkhRckhYMGtPYmRsOHhXaU9CSEtSX0ZjTnV0MWc0RHAzdHlXLW9lSDJDd2dMUE5idUh5TGtTNVdKQ0pwVHBySFB4NjFzNWV0?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPc2xhRnJVNWlwOW5tazU4VGcwaTNzRDlrVEhfaGJMaDZ5YXJCNTN3TlRjUVdDdmVYbnRHaGxKbUNxcGkzRUE1M1FLT2lfT3VtNm1SZDNTQ3lzU0NWV3RtU0lHNi0zcVNxOXYxMjFiVGxfYm1E?oc=5",
       "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlRsSjUtN1EwRE9QTHhoZWo0OWJ0ei1wbXE5bGJQNEFIYUxJMGd0LUFTSnp1MHFXRW03d1Axa3lPT1drUFQwREs5bDhveV8ybl9YSlZWVkZadGF3Ulp1emM5WmZNRTEzSk1JU1NnaUxfbXVHZzd5TGZyLUE4Rjh0VnBxLWlJdi11YkYxOA?oc=5",
+      "https://news.google.com/rss/articles/CBMimwJBVV95cUxQRG04bmVGYWRGVl9jd2xhNWw5SHI5aDJSZlZzVHZaamFUQThwUTdBS0dIVGhIY01nSmVMYTFlUDVYTG9WSEc2X1VpWVJWd2wxZFRtRFI5WkFldEc3WGRGQ0V4ZmZ6eDRrMlNCTHRqMmpEMm9yWmdzZDVycnZzUVpvdDl2RFlMZlJfX0o1R2tjdk9sZUViem9icHR4MlctZGtYQmRzWl9STjRLTHFUVmhXaDNpN3dvQnB1eGtnblhhMlh4VVgwUm92S2lDc3AxTExTYkRORU9WQ3NZdmx1VFlwZDhrTy16S0JWVVhoUHZ0a0ZuTENuN3hxR3YwVDZjY04yNWE1Q0hIQlVXRGIzaU9IOW1VQl8xb0RXYm1r0gGgAkFVX3lxTE1jWmYwRVB3eEJTbm5ZclZmZVJyb0otamFSaTVaOUxQT1RHSzVsVWExS3UwVXVNX3RTQktPRUdFVlZDRWdCMmxJbzZ6d1RVYTJlNnpyYVNYRXpuMDVVVzdqQkpNOHA1MWh4ZTZDbU5yUjVhZjZsVVZQNjBzYWpWSkRLbTJvUGdYYkR6R1FrNWo1aGtEWTZqR1JfYUNuQ1NVUURuSlBFSExncUhObm9NMlJPbk0wUGlheTlIQ2gwVzhhTzdkbkxsZlNpeWluYUpEMG9WZXNWb2ljbUdINl9oc3ZnRHgwdmZiZ0NOOXdpSG0tbUI0dWdJVUNwU25KZ29NNFc3QlRlb1RmaV9xaFI1aTJkb1Rldk1nSTZKa013UnZQSw?oc=5",
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxNak9XUnFfRjRjckxPTHJhdnlBTS03VTdqMkhTMVVCT1BsZHlJNGZySWRzbXAtTFUzR2VldmVPNFk4U3RhOE9vTTYxODZIU0Z1LXlTZ01iLThLel95THBlRFYzYXRmbFdsNWUxVmRLZ0trTFpNSUtjU25ha2ZTNE01emFudldBeWVtdExLU0cwZGJJVWRvUU5nSkdvNWlOcjdmYkMxZTN1OA?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHBoNDZqVUUtLVEySEVTOC0yREhoQS1tYWdDeVF6NDl0Q0pPQzUtazZOODZpNzE4RzBna3dWb1FIWnVVbzNERVlIZHhoODNLNG9uWHVfNGZpUzUxVlpscGtLN3NsNnh4LU5PMUZ2OEFkRnQyc0Z5VlNSY1RLSktNeHJpaHNyaG5TOFdBVlF3QkVONUs2bmNwc0lCSG5mWF9qOXBaMUxIbUFlQQ?oc=5",
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLS1pWmtWdW5KZVg1dW45cDUxX2Z1QTRhVldpWmhyZzFrTjNqeXlFaGp6dFJaM0EzUFJJdFN6RUU2MTJ3WEhGSG1VMmhCZXVrcjR6ancweDNpSWd1MjFKbHA1OGJCTWJmNFZxeFJGM012eXMzek9OLXBZczgzc1g4TDlJcEVJYnU1Y1JHTGpCOFJUSlN0UnR3YUd6OWJfMEtmWHVqYjFtV05SQXRpZHVuV0p1VG02WThxRTZzb05RZWEwdw?oc=5",
@@ -154,6 +129,7 @@
       "https://news.google.com/rss/articles/CBMingFBVV95cUxPNC1sa2J3OGpCcUFnY0oyZGxrYi13cFdkU1NRa0pYRFFEbUhmajZIRmlyZGJQQU5QdWZpVFl1SUJOY1Y1bDBhS003b1lNVXJ5Tm9LOUp6Y24yVzJFdkxSOUFEeUxfRW1WVURad3JGemlLZTZrS002ZG5uaXlITlgzS2FzSzd3enBNNjdkZGhiN25yT1JPdFA1aGN5YWE2UQ?oc=5",
       "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdURkR1d1WEJidVIwQzYtYzNLNGVGVVZJVHY0Z3loanptT1AxZ2VQblBGUnZjMndKQ3QtcnF0bkNpV3hhQklVZFJyN1hBc2xwX0ZPNlJVbkJlZzgyalpWc1BqU3VPdi1PMmM2azRoMTRhRFo5b3pHbjV6TXBfTVpESXJNSGpiekpuRUNERzRtU3d4dVhfN2NhUDV5ZHcyejIwVmpj?oc=5",
       "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHlfVHZ5UGhEZDJNMDlZSDZkdnFQV1hVVVRmakhiczRiM0x5YjlxN25uSFcydkpKUVFYb2g5RHItdTB6dXhsNlF2MG10WGtKUlJxSjZwSF9YMG9TQlJfd0F3S0dPdU4wNkVMWWlFUU9YYmxMSTZjOWwwSWVra2VuM0lJZno3RWZhOXRpenY2VVZWeU1ZdFg4Nms5TC00Z1F0ek9CdHlsTHVyV2VKMWRRdDB3?oc=5",
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzhvWWhuOTQyUDJSRW1vMmpvSk9jZldKaXpoekl6dTVPTm1RRTJCTWNLUmQ5cERvZU15RWIxZDA3MzRIUGVZMktLNG0wcng2aFU1cDh3bEpfMFVJTFRRbTJwTmJNYnBWQUxSMUlPbnpSYTJiZk1rTmtoMW9KUDZya0JCVXhhYmZrNlhUMnpZMU5Yd09OMU9iRTBJTlBUems2YWRVcHB1NDJNZXY2SVZnaUpR0gG3AUFVX3lxTE9BTHE0UFpvMEhJbTlmWDAwX1BnR3VHc3BrZHV4WWFUajY1MHdTdm94anlwTnRGN25rWTczOXJNaEpIYkw4S08tSUM0RkExZ2RWU0FRUDdfU2U5Nm5OMGRtTTZoM3NRZWp5emg3S3dHTnhlSkNFd21udXpEYWliem4wSndXcWpIU1k4S3F3SGQtUmF2Y2txRXh1cWhJT3ZlLWRSVW5KdWlEaFEyZE5TZGQxVVdzUVpCZw?oc=5",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmlJZVp1RkRFNFVJdmRmLU9VcEhCcTdBRzk3Y25vV2hISFFYVE5ZOHFDMDdYaE04OGk5WEtpdlZpdXNOVkFlNS0zWDVrUGdiRWVFZmJiUXByLWFhS1pPNmJjaXVqc1JNeG9TU2J3b2hZUVhQeGRvRDhmZ1MyLVBrek1MODhpcHZOZnN3bE5nUzFOME5fSEpHT29yemZNaUtOdkZLck9vM2wySjFVV0FkanFOS0PSAboBQVVfeXFMT1VvWHdDWGExNHZPZ1RGbDl4dWk4SDNrUlBqWG1DbFdUWVFJQTVPSHpjTXRJZkN3T2Y2eU53NVBDSnhDSGw0bmNxUTZKYi0tZklIczRmeUpfd01IQjhiSWxlU2xTcmVXQTdlUGNubEJSaGRXTUxsT3NxQTJ4R3NQSEJLNmdpOHFSb1I4bUdsbjlUVWgwQkloSVY0SmtDd0pFVkdwQVZyWmhlVGF6THJaMFlrSEZKSWlPME9n?oc=5",
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWjF0ajZ6RTdNcFJIbDhabVpMdVBxMGtmTzZpaW5zT3B3bHZHUkdDY0JIVEtWeG82b254NGdleFQ4UldGTkt0blpEUE5aUjNJYkt3cmdZbXhHd05DazZyTDI0VXR3cW1CeXVQRllZeFduNzlxNDY2R1RrUTJRZnNJRkl6V3ZuNm80MGUwOXhrbUk2d3RTQXhydDZKcndnalg3MXcwUnRGem1IcUNzWklxZkV4RXFKOTREdFE?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzN5NzA0M3pHWXB3aTQ3Q2d0Zk5USzlOMGlQdlFVM0pCTGxTX0Z5Z0gxcWJIYTl5NjZ2OGpJS2x0dms1UGFQb21UeEhwcWNYYTlhbFB1bFJkU0R4TmdwN21tbm9kNU5BV0FpdDlHdmxkOU5wOThaOWhlSUV5UHE0ZnAwU0xweV8wenBDWG5xeXVlbmFHRVl6YjVoczhDSEhmWjVYY3lMYThKZGFha2t4eHBIOWhvSjROQ1Rz?oc=5",
