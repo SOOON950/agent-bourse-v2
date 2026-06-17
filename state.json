@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-06-14",
+  "last_digest_date": "2026-06-17",
   "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-14": [
@@ -17,8 +17,8 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1781660728.646617,
-      "variation": -8.713861202225194
+      "ts": 1781679312.9692614,
+      "variation": -8.71386363632906
     },
     "ALHAF.PA": {
       "ts": 1781660728.6466193,
@@ -41,7 +41,7 @@
       "variation": 5.419542285941391
     },
     "SIVE.ST": {
-      "ts": 1781660728.6466205,
+      "ts": 1781679312.9692638,
       "variation": 7.180086493568203
     }
   },
