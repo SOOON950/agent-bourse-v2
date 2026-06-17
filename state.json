@@ -1,22 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-17",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aTGdTWUl1cEtxdHY4MGlwM3QzdGpRYzlVb0VuczBnNDU4a1ZfSDRmMTdPM01zU3RwMWxYQmNlUUZUdmtheVlDS2g3eEJqUVhicDRiaWNGR1M2NHpXS1F4S2pyQ3N5RFE?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies lance une augmentation de capital d’un montant de 40 millions d’euros, pouvant atteindre 50 millions d’euros, afin de soutenir le déploiement d’eyonis® LCS aux États-Unis et en Europe et d’accélérer le développement de... - Business Wire",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPR3M3dGJiNVJ4bmtId01iY21qNXMtQkQwUmFQby1nY29CSW8wWUpVQ1g5d292MTZZTzBIaG90THZXMHptNHlIZWhveUYzVHZhbkNsZDR5ejk3YVZKNXVvNzZONV9LWUdCdW1wODJpTUJUdm94NlJ6ZTBZNVQtUl9oOTk1ZnRnWmV3MmhEMmdTaWlDa2VEOERUaEotczgzLURUckhjVzVfb1lYci1XYTNlYVBWNWlFVjRQLWNlRURpcVZBbUdNa0RUOElHdVNOSnczWjBhV25pVTloU0ozMHBxRWtPbl9maTViX3RUNng1UXBzaThvcGx2SEF2M0RRbTA0TXRLcWZoZWZLX3VNSHJHNHVHU3hlenYzN2c?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors remporte une commande auprès d'ALL.SPACE - boursedirect.fr",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-14": [
       "13",
@@ -30,7 +15,8 @@
       "18"
     ],
     "2026-06-17": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -59,7 +45,7 @@
       "variation": 5.419542285941391
     },
     "SIVE.ST": {
-      "ts": 1781711824.3087995,
+      "ts": 1781720902.103109,
       "variation": 10.102643587178799
     }
   },
@@ -89,6 +75,7 @@
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXRsSGduUXozeGNhMjMtWWE0MERsWjdTdFROdGx0V0NTVGZ4SXotVXI0SS1Xd1gwUWl5VFVfQXY4Q0prblgwQkgwbm9NRzhsZ1F3VlVxQW1qdEZLOS1jTUd0aWNzeDFXSjlTVllCVndkMnJ1eHh1YlNEUkdkTGdMM1lLQVB5X01xNVVjR0I5cGhyOENvTWZkcS1JRWNIc1JKSlNQdGh3MDBoUQ?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFBXTUlxTU9zc21YMGJWSXdtbFlKRzVzYUp3eDBCVTA2T0o0QnhDNUVDc3BJaGVEUExLTzBwdmgzOEpBYWp5ZGdaaGVkT2NxcFJDbXZ2SmhiTERNcUl2R09MZDg0d0t1OE9BRlAzWlZkblI0YldWU2h6YkkxdnIyOURNbEFZLTdtYzF0bXdlQnZoTEdZV19QTm8zVTVuNmpVeGpMaFhOV1lmZw?oc=5",
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczRUM0JUQk43b0ZYenNBTVVvM1gwQTRVbUFHSTZRLTYxWlRqdDJWekplMTFnd0k5em9BaTM4aHBMcVVmVjBLZktiYm53Q2dONE1CS1d2VEpKYnBKSlhKRF9MOWpXSF84UEtkR2pxS19hTzRvNjNkV0l4ZXlocUM2dzJ0VlhuM0pWMDl4YVpuVGZ0Z1dUMDF2dnBOQXJOTkhOU1JtU3hPM2N4cWZRMEgxOXJmU0pOcXBQTlE?oc=5",
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHJOTWJaTWJwZ29icldjRW1EeU1lM0lfMzFrRzBKVG01cjlDOTk0SHpSRS0xRnBzenBEUUp4VDNYcmx2aUxZdGZNVGxYRHhxTk5hdWx5clo2RkRSN3p5dW0tWFRodjh5bXliU0g0dkVJYXI4UV80U09GckR5c0dnYlNfN1FFQWRVZ3d5UnBPcFVKWHhWM1VIajduMndHbGN0NDRHWmVrODY1TWNOc1QxNkkxSEVzU3l0M2o1cXNYaw?oc=5",
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXNrOHNvWE41aFBCdnNqSE51Sjk4Z1MxSUZTOUhNMnBlTk5BZlY2RkJnU3dqenJodFhrdW5lOVVJOTN2OVNJZUp2U01vd1dmTFJpYm9OVC1BRkk5WWNOYldjQ1l0dTRkUnY4aUg3bm5FdWVRWHduaFUzZTJqY0ItTDdPMkNMcm55TVVXZE1Ca0RlUG5rWU5jcEIwaVZjTXRKd0FjTE9QV3M0MHpFclMyZ3pUaVVQUUFhVGVfa3ExbW1uRlkt?oc=5",
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHN3b3hiTzlxcS1DUnBadmJPTHdKVXRWa2I2S0tFSkhMRXhYeF9uNnBFSmFsaFg4YTdrVnBvaURfcWdhSEdDakhpTk1zT2NBTlctWldsbXVBVHNsXzY2cE1QMms5TUJmcW9ONmdmdEZId2lYNDRIdVN5TFNDZldERkg4azRaZmlRUWp2STZCa1BsWUdoc0FqTnlmTGRvS1p2X3JMLTRWUTZtTmpBUkxVQ05fc1ZnUEZxWGdtTEZQeXA1Q0Iya0xiWlNWbw?oc=5",
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmxOWkFuV2x4X19neHdGWDlNYkhvU3dKT1g4anFfejBRdUwtdnZEM0pzdC1ONDlsdmJtWFZEeVk4SHQ4LXRod3lCRGJwdXVQVldUT2RnSUEzZ3pNTTVZQUxpNmV4VmJkTTdmNG5rejdSajFkSHY0MWN6LWdrTmhmOGNteWVCcnhRVWtuUWdMbHdQZ3JVVk1XWUlVOUNQOHU0ZHZDRUgzd0VlWnlBRDRtZFA3WWVtbndTV3E2d21FN3dsNTdWck54SWlkbEU?oc=5",
