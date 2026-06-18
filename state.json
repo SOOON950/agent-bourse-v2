@@ -43,13 +43,32 @@
       "ticker": "SIVE.ST",
       "titre": "SIVERS SEMICONDUCTORS AB (SIVEF) - Cours Action | SE0003917798 - Cotation OTHER OTC - boursedirect.fr",
       "type": "actu"
+    },
+    {
+      "label": "haussier",
+      "message": "RSI sorti de la zone de survente.",
+      "nom": "2CRSI",
+      "score": 5,
+      "ticker": "AL2SI.PA",
+      "type": "technique"
+    },
+    {
+      "label": "haussier",
+      "message": "MACD repasse au-dessus de 0 (le momentum devient positif).",
+      "nom": "2CRSI",
+      "score": 5,
+      "ticker": "AL2SI.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZY1k5cy05X2hEZnJQSk9VUWJ5bGVmWkRVRVJEWFRfTXZqNTBsQVhQenRiQU1uSnJBQ3g0MHE3WXVrNkNOcjRUelg0bnhYUnpmYkVId2ZldjA1REVKOGc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Scandale sur 2CRSI, contamination aux ESN, Cap Gemini devisse - France Bourse",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
-    "2026-06-15": [
-      "13",
-      "18"
-    ],
     "2026-06-16": [
       "18"
     ],
@@ -64,15 +83,15 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1781817234.4640505,
+      "ts": 1781824350.92971,
       "variation": -43.04932540583334
     },
     "ALHAF.PA": {
-      "ts": 1781817234.4640532,
+      "ts": 1781824350.929712,
       "variation": -6.985299172569241
     },
     "ALKAL.PA": {
-      "ts": 1781817234.4640477,
+      "ts": 1781824350.9297073,
       "variation": -11.809523809523812
     },
     "ALMDT.PA": {
@@ -80,7 +99,7 @@
       "variation": -6.23742058910019
     },
     "ALRIB.PA": {
-      "ts": 1781817234.464052,
+      "ts": 1781824350.929711,
       "variation": -6.666667956660888
     },
     "LQQ.PA": {
@@ -108,6 +127,7 @@
       "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGdzbXZtOGQzTFprUXpTNk1BZHFpLU9xLXhBRmhpYXgtV1RvaHpUd21mQ1NXZFFLQnhHUGs3YzhpVTBRaloxM1IxQktaR3BXWDgtVWZtRDViSFVXaC1OS2tYTUhCSkJmSUxwWDNYM2xpclBsWmU5Qm83blVJUFFLWk8tMi1QZTdfV2RlbDdWUTVON3BkTEJSMmlUdkNZTmFpdUN2V2lfUXdVTGhrZjZfUlcxc2htZ050LWJpVlpoXzlzOU1MU1Nrd2IxOC1kM1BlZXlvbGtFRDd5LXZzZUx1NUdpaTlJT1RmVU4zVEx3?oc=5",
       "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWlg5S3BMSUJ3YUM1a0Zib1dxVDFTUHI2ZktwQ19SZU9PRVBwaHJsYUhhZFhiYUdyUXd3Y0lSSi1ERXB6M0dKM0FMU1V6MHdfRXRxRDBfTDJFNzJXZ2JyWG1vTWg1eUJVbmlmU2JaMmVTd3pQalg3YW5zSjgxd0lYcnRPOHZEWHB5ZnRCWEJVZ0IzbkZKWEhxWGFKMlVZNDMtclozeFBnTGJiS0JENFE4NGFHS2FNV3daUmx1Q1NRTGUwVzZFNlh6aUVwWTJlYUZxUGFDNU9hdWZqWm9OWldVX0VJSEZ4LU41Qy1ZX0xrcEg?oc=5",
       "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZY1k5cy05X2hEZnJQSk9VUWJ5bGVmWkRVRVJEWFRfTXZqNTBsQVhQenRiQU1uSnJBQ3g0MHE3WXVrNkNOcjRUelg0bnhYUnpmYkVId2ZldjA1REVKOGc?oc=5",
       "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qYno4QXVsdGJQVjR2dTZUaVZjU0s4WnBSZnRfdENuMGdMdVlrUnpwaHU0WXpldl90dDctYWVEX2VxOVBrYXZKOGpRN21rTnh1VWZsUGJBbllmcDQ3SmNTOWZWYm5Dbk9VM0p2M09XMi1HRlE?oc=5",
       "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
       "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JVE9DMl83Zy13UGNoR0tHMjRUd2VGWW5nVlpud25YckRvVVQzTUpDLUVOMk5XU1l3MVR4S3dsaE1ISi15NnVQUU0xbkp1am90OTZ0QWJxVndZc0JmNDRmLXBwVTByS2hvOXpsYUppNmQ?oc=5",
@@ -279,10 +299,10 @@
     "AL2SI.PA": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "neg",
+      "signe_macd": "pos",
       "silence": false,
       "sous_support": true,
-      "zone_rsi": "survente"
+      "zone_rsi": "neutre"
     },
     "ALHAF.PA": {
       "au_dessus_res": false,
