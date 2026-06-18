@@ -22,6 +22,14 @@
       "ticker": "LQQ.PA",
       "titre": "Lqq, NASDAQ levier 2 - ABC Bourse",
       "type": "actu"
+    },
+    {
+      "label": "fortement haussier",
+      "message": "😴 Calme inhabituel (volatilité très faible) — la valeur s'endort.",
+      "nom": "STIF",
+      "score": 6,
+      "ticker": "ALSTI.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
@@ -63,8 +71,8 @@
       "variation": 5.419542285941391
     },
     "SIVE.ST": {
-      "ts": 1781740765.10633,
-      "variation": 10.102643587178799
+      "ts": 1781758642.1438422,
+      "variation": 10.102645235886362
     }
   },
   "seen_news": {
@@ -276,7 +284,7 @@
       "au_dessus_res": false,
       "croix_mm": "death",
       "signe_macd": "pos",
-      "silence": false,
+      "silence": true,
       "sous_support": false,
       "zone_rsi": "neutre"
     },
