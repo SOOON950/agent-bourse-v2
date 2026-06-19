@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-06-18",
+  "last_digest_date": "2026-06-19",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3MwbXRKYlFyWjd6ZWZZbzlRY3ZySU53R0FONlBtV29xRHRrZHZEVlVraEdfMHJSYTdEcFljczIwYi05VXJjYVE4MGJST0tfUUN5X3Q0Zkw2VklQWlFyNDlVem83WVUzbFpHSXV4SzB5d1BYUDNYWmhWcW1pekhvOXUyWHFnVDJTQ1FNaHZJbm1rTFEtN2x0N2tNQ2xYUkh5SEFDQ2g1WmhDeWRnMkxwa0tlNDZvQ285S3c?oc=5",
@@ -66,6 +66,29 @@
       "ticker": "AL2SI.PA",
       "titre": "Scandale sur 2CRSI, contamination aux ESN, Cap Gemini devisse - France Bourse",
       "type": "actu"
+    },
+    {
+      "label": "haussier",
+      "message": "RSI entré en zone de SURVENTE (< 30).",
+      "nom": "2CRSI",
+      "score": 2,
+      "ticker": "AL2SI.PA",
+      "type": "technique"
+    },
+    {
+      "label": "haussier",
+      "message": "MACD repasse sous 0 (le momentum devient négatif).",
+      "nom": "2CRSI",
+      "score": 2,
+      "ticker": "AL2SI.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3R6ZDZISWFabDhtOGtBYkdUMUdrNXhZOWZzTWsxcjk1cC1nSVphdl9IZFFpY2pNRGd6RGJSb3Niak43N0JGdUtZUzdsbG10cjd2NFdPc1VmVGhHOFl6THl2bkJNUG14QllWTWtrUlFUYnBpLXhQdW9JUFdULVVDUWhtUElrMXZYUDJrRmY3XzhVM2gtU0paaVdqZ21WOFM5czV3M2pYQ0x3OVQ4bUxPNkhYaFBQQkVkSFpYbXl3VQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Portzamparc relativise l'attaque de Grizzly Research sur 2CRSi - Zonebourse Suisse",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -83,8 +106,8 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1781834909.8905282,
-      "variation": -43.04932540583334
+      "ts": 1781854178.1064513,
+      "variation": -43.04932626114666
     },
     "ALHAF.PA": {
       "ts": 1781834909.8905299,
@@ -152,6 +175,7 @@
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3MwbXRKYlFyWjd6ZWZZbzlRY3ZySU53R0FONlBtV29xRHRrZHZEVlVraEdfMHJSYTdEcFljczIwYi05VXJjYVE4MGJST0tfUUN5X3Q0Zkw2VklQWlFyNDlVem83WVUzbFpHSXV4SzB5d1BYUDNYWmhWcW1pekhvOXUyWHFnVDJTQ1FNaHZJbm1rTFEtN2x0N2tNQ2xYUkh5SEFDQ2g1WmhDeWRnMkxwa0tlNDZvQ285S3c?oc=5",
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczRUM0JUQk43b0ZYenNBTVVvM1gwQTRVbUFHSTZRLTYxWlRqdDJWekplMTFnd0k5em9BaTM4aHBMcVVmVjBLZktiYm53Q2dONE1CS1d2VEpKYnBKSlhKRF9MOWpXSF84UEtkR2pxS19hTzRvNjNkV0l4ZXlocUM2dzJ0VlhuM0pWMDl4YVpuVGZ0Z1dUMDF2dnBOQXJOTkhOU1JtU3hPM2N4cWZRMEgxOXJmU0pOcXBQTlE?oc=5",
       "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHJOTWJaTWJwZ29icldjRW1EeU1lM0lfMzFrRzBKVG01cjlDOTk0SHpSRS0xRnBzenBEUUp4VDNYcmx2aUxZdGZNVGxYRHhxTk5hdWx5clo2RkRSN3p5dW0tWFRodjh5bXliU0g0dkVJYXI4UV80U09GckR5c0dnYlNfN1FFQWRVZ3d5UnBPcFVKWHhWM1VIajduMndHbGN0NDRHWmVrODY1TWNOc1QxNkkxSEVzU3l0M2o1cXNYaw?oc=5",
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3R6ZDZISWFabDhtOGtBYkdUMUdrNXhZOWZzTWsxcjk1cC1nSVphdl9IZFFpY2pNRGd6RGJSb3Niak43N0JGdUtZUzdsbG10cjd2NFdPc1VmVGhHOFl6THl2bkJNUG14QllWTWtrUlFUYnBpLXhQdW9JUFdULVVDUWhtUElrMXZYUDJrRmY3XzhVM2gtU0paaVdqZ21WOFM5czV3M2pYQ0x3OVQ4bUxPNkhYaFBQQkVkSFpYbXl3VQ?oc=5",
       "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFZBLS1SR29tdFh2bm5BZ09MTS1feXFFZzVzSG9YWm52QnloMkdfdmFVWUZtV0JMc2Jrd3dFLWh2cUxrN2pzbUhadlFELVJOeUNDQl9Ia2I2ZVJYdHJWY2hzaDZkeEFYa2NFcjNBWHFXaEZVZ0NIZUdWbzU0czFtZk03V19IalE3UjFSVGRMR3g5UURzZEJMejNwUkxrNFJhdXJWbm9rbl9CbmFJT2dnM3hLS0IxRUhFR1dHajBtSTYzTjA?oc=5",
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXNrOHNvWE41aFBCdnNqSE51Sjk4Z1MxSUZTOUhNMnBlTk5BZlY2RkJnU3dqenJodFhrdW5lOVVJOTN2OVNJZUp2U01vd1dmTFJpYm9OVC1BRkk5WWNOYldjQ1l0dTRkUnY4aUg3bm5FdWVRWHduaFUzZTJqY0ItTDdPMkNMcm55TVVXZE1Ca0RlUG5rWU5jcEIwaVZjTXRKd0FjTE9QV3M0MHpFclMyZ3pUaVVQUUFhVGVfa3ExbW1uRlkt?oc=5",
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnRaUHlROFRtU2Z2QmVLNjNneWVVSGhEMHpDUTV0THlhaWtOd1R6VmVJS1VPUEUwdHlCVmVOQXdjdzdKQXdEdnd4cGwzV3hqcDBzRC1fRVhOZVVQdU8xdDBRNzY1aU9Kb3lkSFVfVTFIOHV0dngzN1JHMGwyX045ZU5VcHlTRnJwUFpyRXZ2cmpNb01zQURPVnpLckttN0JEaVhPbjZfN0c0OXdTUF9PZFBBTFZ0YU5CRTJkQVJyV2daMS1o?oc=5",
@@ -299,10 +323,10 @@
     "AL2SI.PA": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "pos",
+      "signe_macd": "neg",
       "silence": false,
       "sous_support": true,
-      "zone_rsi": "neutre"
+      "zone_rsi": "survente"
     },
     "ALHAF.PA": {
       "au_dessus_res": false,
