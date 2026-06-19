@@ -36,6 +36,20 @@
       "ticker": "AL2SI.PA",
       "titre": "2CRSi : et maintenant ?... - Fortuneo",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPODRUNzdKTGpVaE8xOHM2YmRBS29uYWlON1RxU3JwMlhaaGU2RUk3VVcwV2JnRVdYVHIxaURkVFFLQUZvMkVhZktrZkxrYTJfeGUybmxNV1JnbWNnMHkzVFhBN2lfRElWSG1iY0dYdzMwMURrY3ZvRmpoZXhJQ3JsLTgyaTAyNm1fVUVWOEZOLVU0YVBwMjdVX2lOc1EtQ1J5Rk9vQUUzMG5hYmJfcERFZmh5Y0NWUm1OeV9jd0hnN2ptdFdoTExlbGhBMmx1cUpBTFMzZTV2Ym5ZYzg0SlFYRlVCVmVkVUszdEdKQXp6TURfUGk5WHpUVUdyTFFwNm1zNTN5S1RMbDdaNnhqNTl6NEhQS1F4X1J3YjBXT3V4TkV2SkNkcFRrNXkyU0hwZVpNLXBDdHRTYWxRR0NLZEtWdERqNE5zYXNoclNUVm4yT1g0cEJkZU03LWJYZw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Après l'ultra-violente attaque d'un vendeur à découvert, le doute sur le beau parcours boursier du fabricant de serveurs 2CRSi (+2.200% sur trois ans) est désormais jeté - BFM Bourse",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -57,7 +71,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1781902207.3398216,
+      "ts": 1781906396.0999224,
       "variation": -43.04932626114666
     },
     "ALHAF.PA": {
