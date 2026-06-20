@@ -1,43 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-20",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORzFzR2tuYzQyY0Q1OVNfamtHZzRfcVVHTzVxVTZNUmFkdFhKSjFld1lSek1EX0k0VUVYdzloeWE2Ylk5Vl90UFVsOXF0c1JycGxnd1cwRV9SdDh5eVh5eG1IdDBPZDdtSVZLMjVrMDk3Nkw4d0tkekU5dTRPU1MzZm8zWmZIRHNiQ3MwSm50VnBsdmUyTXNYWDFmQlZFcFRTSkJienF6cVlfd0x0UmJFME1XUlFCNHBIcDNVOUhPdl9raHUzTkVYRlZkdGwzZldZ0gHWAUFVX3lxTFB0ODhSN1dFQzBraG9WUnlDb1l5Z3AtNU02a3p2aWVwVmVOd0VCOFNIMzNWUnlvOEtzOVd1eExYOF9DMV94MzFxdHJKTUpQOEJGOGRFOTBYbXF5cDBJbDNhYVJrVDdQMG5TbGQtRmJCRWRFcFVjZmkyUTdrT2xfbW1sMW1JVXVfY3dsWFpaRENTUW5vTWdocE53VmhyYWM5VUhyYmtUVW13WWg0YThoX2VuU1NGQjRHbjBZVU9VV3pQUVJhTG1mRzBZemRXYnNfV2ZWX3NlR0E?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi temporise après les accusations de Grizzly Research - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQX3JsQUpmWHpiSDlxRE5KWGRwNDdYSWZIM2JVUHJOcXJNZmVCYklwYjFpUmpUYk1yV2gzdURJRDdWRk5PelUxa1hxUDk0amluclpoRk9kS21yRExRS25hWkJXOWZNQnVFZDlMT2kwcThLZ0xvQi0xRHlWYzBCdXVTR1cxazFpdEVvQlVIcEowSURNTzlkOGhWSk9SdWNRVnBnOEdLcGd3T3p5OTVsamFYakd1UndyMjJZSElpOE5OcnBKcWpuaF9EUElwdmItNlIyS0tjaTJwR1NObkJ5WVN0aE5MeW95N1hZSUtLUzhoOXhuNkVMNlE5TUlxdHQzbVctX1ZtbjFRNXEyV014WlkzcUdaTQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi : Grizzly a déjà racheté une bonne partie de sa position vendeuse mais ce n'est pas le seul hedge fund à jouer la baisse - Boursier.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEJlWHJWbHBMS0wwVGZMTVJ0NmpfdDVGLXBzejFJekQ0V0VlQ1ZMMVp2a0xiVUc1U3ItTWZJdGZ0R21VcWZEX3lXVUlfeG1COV95SHYzZll5aDI3aDBFLWVvc0hQb3d2M2FadlhEZzBuV2laa0lvS254cWMzdGF4bE9TVWhIRmFsVE14V0tZcVhiX3l6ODhaTzduNnMwMDdPZ0hhMmp4S3RZR1JINmhmOFI0c3BhN08tMmkta1pNQjhhXzIwSnl0UjMzajZUZ1Zr?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi suspend sa cotation après -43% et prépare sa défense : Rebond de +101% en vue ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORHhHU05YZlhPbDBCVkhxd01QWHNUbVJYeEJKaGRhM09DdnNwWkNVUWY1N3d4VjItWC1WNTZjS3llZFRUcTFwZ2hyaDl4N2NPcFN2c1RWVHVXbW42N2xSYjdac0stVFBRVmg4NDh1aFlLMWNQVGZhajZ6LWZBcl91Q2l4SEh3ZzJHWEdXRHRKNUJzeV9CMHd3NFdSUGZsaUhrZklkLXU1b1BfQ2xZM2Q1ZzJBSzFFNldyMXEw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi : Portzamparc maintient sa recommandation malgré l'attaque de Grizzly Research - ABC Bourse",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-17": [
       "13",
@@ -52,7 +16,8 @@
       "18"
     ],
     "2026-06-20": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
