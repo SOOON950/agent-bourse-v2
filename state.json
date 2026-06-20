@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-06-19",
+  "last_digest_date": "2026-06-20",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
@@ -107,6 +107,21 @@
       "ticker": "VU.PA",
       "titre": "L'action Vusion progresse de 3,8 % à mi-journée dans un marché prudent - Idéal Investisseur",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
+      "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "MACD repasse sous 0 (le momentum devient négatif).",
+      "nom": "Vusion Group",
+      "score": -8,
+      "ticker": "VU.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
@@ -352,7 +367,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": true,
+      "sous_support": false,
       "zone_rsi": "survente"
     },
     "ALHAF.PA": {
@@ -414,7 +429,7 @@
     "VU.PA": {
       "au_dessus_res": false,
       "croix_mm": "death",
-      "signe_macd": "pos",
+      "signe_macd": "neg",
       "silence": false,
       "sous_support": true,
       "zone_rsi": "neutre"
