@@ -1,143 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-20",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1RpX0d1ZUNubFUtZVdpNkROYktLWFFfQzhJNmZhNEZ2REpyOUE4S0lJNkREZEI3TlQ0TVZSaXhXMTNkVWYtTmZ0MXRPWExiSVNIWUtJaHF5WEh3c1VHVE0wWTVhbjdYbzlmV1hZMHFEZ1FFSWF5UFNHZ0xIMk92LThISXBfbXJJRFBETk9NdTVzVjh0eGxjRnFzVjZKU3M?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi : un rapport de Grizzly Research fait plonger l’action - Tout Sur Mes Finances",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHVJNHJGQXA5UWw5cmVycjJfVTBJMjFTUUhRODJaZkp0OGQzT2lYNFdJaVpfOGRJSjhSQjBiWWFpUHNhWXRhdFhPSW5GOW5LZ29zcldfakhnYm5za055azNtaTJzQlVMcS1TYzM3dHNZazNNenlpNHlib0ZoN0Nua1VoOVhCdTVNOHNMbFduSQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSI, résumé du webinaire - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BcGJOZDF4Wkstdm4wckR0YXpURElXVXprRko2YjdSanFyc3JhbGJxX01xT3FnbnJsdS1mbmJDZjF0Yk5KR0pLSzJyb3BzS3VlcXlac2JLQWVQcXRmaTZPUmJfdkhEQllfNDJxVjR1R1Jtdk5VU3UtetIBeEFVX3lxTE1BcGJOZDF4Wkstdm4wckR0YXpURElXVXprRko2YjdSanFyc3JhbGJxX01xT3FnbnJsdS1mbmJDZjF0Yk5KR0pLSzJyb3BzS3VlcXlac2JLQWVQcXRmaTZPUmJfdkhEQllfNDJxVjR1R1Jtdk5VU3Uteg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi : et maintenant ?... - Fortuneo",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPODRUNzdKTGpVaE8xOHM2YmRBS29uYWlON1RxU3JwMlhaaGU2RUk3VVcwV2JnRVdYVHIxaURkVFFLQUZvMkVhZktrZkxrYTJfeGUybmxNV1JnbWNnMHkzVFhBN2lfRElWSG1iY0dYdzMwMURrY3ZvRmpoZXhJQ3JsLTgyaTAyNm1fVUVWOEZOLVU0YVBwMjdVX2lOc1EtQ1J5Rk9vQUUzMG5hYmJfcERFZmh5Y0NWUm1OeV9jd0hnN2ptdFdoTExlbGhBMmx1cUpBTFMzZTV2Ym5ZYzg0SlFYRlVCVmVkVUszdEdKQXp6TURfUGk5WHpUVUdyTFFwNm1zNTN5S1RMbDdaNnhqNTl6NEhQS1F4X1J3YjBXT3V4TkV2SkNkcFRrNXkyU0hwZVpNLXBDdHRTYWxRR0NLZEtWdERqNE5zYXNoclNUVm4yT1g0cEJkZU03LWJYZw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Après l'ultra-violente attaque d'un vendeur à découvert, le doute sur le beau parcours boursier du fabricant de serveurs 2CRSi (+2.200% sur trois ans) est désormais jeté - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZE1mNXJTV0F4SmpVOUR6b0NTZHlUY2lwTFBVaVJTUXFpSTFENURtd2V2c3IwR2Z2QlFRUWQ4dFdIVnNHNnRXY0RTZi1nSVZBTjRoUkdTS1A1LTc5QndRTlVzMFNCSl9sOVcxRThmd09URV9Wa2ZpXzBhX3BLV0NHX003S2JkWkk?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi : et maintenant ? - Boursier.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnV0VJclhOcGs2N09KUTEwT2NfRmxmUUJibjBOcVVXR25HeXFGNzdaUUY2VmdkTXlJSmFERVI0T1FPUnRJLWc4TnhaaVM5MjJMckpJZ0hzVHJObVUwQ0k3YmlaWTRBeWpnY3lTeHB2TGw0QXfSAXhBVV95cUxNQXBiTmQxeFpLLXZuMHJEdGF6VERJV1V6a0ZKNmI3UmpxcnNyYWxicV9NcU9xZ25ybHUtZm5iQ2YxdGJOSkdKS0sycm9wc0t1ZXF5WnNiS0FlUHF0Zmk2T1JiX3ZIREJZXzQycVY0dUdSbXZOVVN1LXo?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi : et maintenant ?... - Fortuneo",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPODRUNzdKTGpVaE8xOHM2YmRBS29uYWlON1RxU3JwMlhaaGU2RUk3VVcwV2JnRVdYVHIxaURkVFFLQUZvMkVhZktrZkxrYTJfeGUybmxNV1JnbWNnMHkzVFhBN2lfRElWSG1iY0dYdzMwMURrY3ZvRmpoZXhJQ3JsLTgyaTAyNm1fVUVWOEZOLVU0YVBwMjdVX2lOc1EtQ1J5Rk9vQUUzMG5hYmJfcERFZmh5Y0NWUm1OeV9jd0hnN2ptdFdoTExlbGhBMmx1cUpBTFMzZTV2Ym5ZYzg0SlFYRlVCVmVkVUszdEdKQXp6TURfUGk5WHpUVUdyTFFwNm1zNTN5S1RMbDdaNnhqNTl6NEhQS1F4X1J3YjBXT3V4TkV2SkNkcFRrNXkyU0hwZVpNLXBDdHRTYWxRR0NLZEtWdERqNE5zYXNoclNUVm4yT1g0cEJkZU03LWJYZw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Après l'ultra-violente attaque d'un vendeur à découvert, le doute sur le beau parcours boursier du fabricant de serveurs 2CRSi (+2.200% sur trois ans) est désormais jeté - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "label": "baissier",
-      "message": "MACD repasse au-dessus de 0 (le momentum devient positif).",
-      "nom": "Vusion Group",
-      "score": -4,
-      "ticker": "VU.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPODRUNzdKTGpVaE8xOHM2YmRBS29uYWlON1RxU3JwMlhaaGU2RUk3VVcwV2JnRVdYVHIxaURkVFFLQUZvMkVhZktrZkxrYTJfeGUybmxNV1JnbWNnMHkzVFhBN2lfRElWSG1iY0dYdzMwMURrY3ZvRmpoZXhJQ3JsLTgyaTAyNm1fVUVWOEZOLVU0YVBwMjdVX2lOc1EtQ1J5Rk9vQUUzMG5hYmJfcERFZmh5Y0NWUm1OeV9jd0hnN2ptdFdoTExlbGhBMmx1cUpBTFMzZTV2Ym5ZYzg0SlFYRlVCVmVkVUszdEdKQXp6TURfUGk5WHpUVUdyTFFwNm1zNTN5S1RMbDdaNnhqNTl6NEhQS1F4X1J3YjBXT3V4TkV2SkNkcFRrNXkyU0hwZVpNLXBDdHRTYWxRR0NLZEtWdERqNE5zYXNoclNUVm4yT1g0cEJkZU03LWJYZw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Après l'ultra-violente attaque d'un vendeur à découvert, le doute sur le beau parcours boursier du fabricant de serveurs 2CRSi (+2.200% sur trois ans) est désormais jeté - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHdsajRSOU05Zzl2VXhxWERMX3dWbkxxXzB6ekF3SVNFOWxuTWpCOTRMRjdiQVlINTdoQVVGck9rcHpxRS1tZmNhNlc3UGUwRFlxaTZZS0pjUDd0U0JzMzJzdVFPQmwwU0tRNFpPRGhCNFVJTnhOM3VJRFdyc2JpX2J3cFJqRzNoaVF3ekJJZVZFTTMtZkk2NWVwQlFza19aVXhRalQ4UkFFaVNGMzRVbG5VRzBXcXM?oc=5",
-      "nom": "Vusion Group",
-      "ticker": "VU.PA",
-      "titre": "L'action Vusion progresse de 3,8 % à mi-journée dans un marché prudent - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
-      "type": "actu"
-    },
-    {
-      "label": "fortement baissier",
-      "message": "MACD repasse sous 0 (le momentum devient négatif).",
-      "nom": "Vusion Group",
-      "score": -8,
-      "ticker": "VU.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlM9IB-AFBVV95cUxQUHF6WmpBZzRxbWJ3bzVDbzdRb0xBM1Q0cmp6cXAyMXdQZHBzc205RjJLSFNtRlFXQjdlVmFpdjlHU0ZUVGVOcjBTSkxudS1yVUsxbzZwdmFGWm84b3pGUVlJcE1nWVVKN2pZMkhPMW12aVBPa0ZwdjkwNDQwVXJIMW9tdlN1ckQxTTZod21wR0hlWnRDSTctU0RITVhYc2Jsa3BWY29nYkZQMXloVElPYUhVYXQtckU0ZElvRWk1b2tvOGhRc3lMOTh1WjJKelkxQmR6TGJrejFNcl8xY1FuTkViVlhOelpNX2Z1V0szT0d1VThvbzhlMw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-17": [
       "13",
@@ -150,6 +14,9 @@
     "2026-06-19": [
       "13",
       "18"
+    ],
+    "2026-06-20": [
+      "13"
     ]
   },
   "red_cooldowns": {
