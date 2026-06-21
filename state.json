@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-06-20",
+  "last_digest_date": "2026-06-21",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
@@ -105,6 +105,20 @@
       "nom": "Median Technologies",
       "ticker": "ALMDT.PA",
       "titre": "Consensus MEDIANTECHNOLOGIES : avis des analystes, objectifs de cours et recommandations - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEJlWHJWbHBMS0wwVGZMTVJ0NmpfdDVGLXBzejFJekQ0V0VlQ1ZMMVp2a0xiVUc1U3ItTWZJdGZ0R21VcWZEX3lXVUlfeG1COV95SHYzZll5aDI3aDBFLWVvc0hQb3d2M2FadlhEZzBuV2laa0lvS254cWMzdGF4bE9TVWhIRmFsVE14V0tZcVhiX3l6ODhaTzduNnMwMDdPZ0hhMmp4S3RZR1JINmhmOFI0c3BhN08tMmkta1pNQjhhXzIwSnl0UjMzajZUZ1Zr?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi suspend sa cotation après -43% et prépare sa défense : Rebond de +101% en vue ? - Investing.com France",
       "type": "actu"
     }
   ],
