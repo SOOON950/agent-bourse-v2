@@ -1,127 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-21",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEJlWHJWbHBMS0wwVGZMTVJ0NmpfdDVGLXBzejFJekQ0V0VlQ1ZMMVp2a0xiVUc1U3ItTWZJdGZ0R21VcWZEX3lXVUlfeG1COV95SHYzZll5aDI3aDBFLWVvc0hQb3d2M2FadlhEZzBuV2laa0lvS254cWMzdGF4bE9TVWhIRmFsVE14V0tZcVhiX3l6ODhaTzduNnMwMDdPZ0hhMmp4S3RZR1JINmhmOFI0c3BhN08tMmkta1pNQjhhXzIwSnl0UjMzajZUZ1Zr?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi suspend sa cotation après -43% et prépare sa défense : Rebond de +101% en vue ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEJlWHJWbHBMS0wwVGZMTVJ0NmpfdDVGLXBzejFJekQ0V0VlQ1ZMMVp2a0xiVUc1U3ItTWZJdGZ0R21VcWZEX3lXVUlfeG1COV95SHYzZll5aDI3aDBFLWVvc0hQb3d2M2FadlhEZzBuV2laa0lvS254cWMzdGF4bE9TVWhIRmFsVE14V0tZcVhiX3l6ODhaTzduNnMwMDdPZ0hhMmp4S3RZR1JINmhmOFI0c3BhN08tMmkta1pNQjhhXzIwSnl0UjMzajZUZ1Zr?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi suspend sa cotation après -43% et prépare sa défense : Rebond de +101% en vue ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEJlWHJWbHBMS0wwVGZMTVJ0NmpfdDVGLXBzejFJekQ0V0VlQ1ZMMVp2a0xiVUc1U3ItTWZJdGZ0R21VcWZEX3lXVUlfeG1COV95SHYzZll5aDI3aDBFLWVvc0hQb3d2M2FadlhEZzBuV2laa0lvS254cWMzdGF4bE9TVWhIRmFsVE14V0tZcVhiX3l6ODhaTzduNnMwMDdPZ0hhMmp4S3RZR1JINmhmOFI0c3BhN08tMmkta1pNQjhhXzIwSnl0UjMzajZUZ1Zr?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi suspend sa cotation après -43% et prépare sa défense : Rebond de +101% en vue ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGZQZWFETHNQWmtHTk4yN19ZclNkUXlLSzgyWjJEM24zZUFhVXdGM05HdkczWTdaeV9aVUFhQVUxU1ZPa1plVUJSRmlBeDRULTl4TkhQeGdyV2d3ZDIyZzRtMmNINE1kd3JObDctb0gzbVh1MEZYc01laXV6emVNdDdVNGhLX2ctZHZUVnJmc054dHBvamlv?oc=5",
-      "nom": "Haffner Energy",
-      "ticker": "ALHAF.PA",
-      "titre": "Deux projets Haffner Energy dans un protocole de €15 milliards en Inde - energynews.pro",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEJlWHJWbHBMS0wwVGZMTVJ0NmpfdDVGLXBzejFJekQ0V0VlQ1ZMMVp2a0xiVUc1U3ItTWZJdGZ0R21VcWZEX3lXVUlfeG1COV95SHYzZll5aDI3aDBFLWVvc0hQb3d2M2FadlhEZzBuV2laa0lvS254cWMzdGF4bE9TVWhIRmFsVE14V0tZcVhiX3l6ODhaTzduNnMwMDdPZ0hhMmp4S3RZR1JINmhmOFI0c3BhN08tMmkta1pNQjhhXzIwSnl0UjMzajZUZ1Zr?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi suspend sa cotation après -43% et prépare sa défense : Rebond de +101% en vue ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2VuLVlRRXk0Sm1Kek9vR25keFdxc0VkNnZlQXducXBCWnBZSFBqaWFSTngtTDVjeU02VzlWaG1Gd2l6QktIRFVQb1h5c05xOVdyNnBWRldjbUhNQmpxcVoyTzEtbjc2YlRqb2Yya3hpTi1Mb1FlV2xucWRmTk5od19CWDFiMWwxMkZn?oc=5",
-      "nom": "Kalray",
-      "ticker": "ALKAL.PA",
-      "titre": "Consensus KALRAY : avis des analystes, objectifs de cours et recommandations - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEJlWHJWbHBMS0wwVGZMTVJ0NmpfdDVGLXBzejFJekQ0V0VlQ1ZMMVp2a0xiVUc1U3ItTWZJdGZ0R21VcWZEX3lXVUlfeG1COV95SHYzZll5aDI3aDBFLWVvc0hQb3d2M2FadlhEZzBuV2laa0lvS254cWMzdGF4bE9TVWhIRmFsVE14V0tZcVhiX3l6ODhaTzduNnMwMDdPZ0hhMmp4S3RZR1JINmhmOFI0c3BhN08tMmkta1pNQjhhXzIwSnl0UjMzajZUZ1Zr?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi suspend sa cotation après -43% et prépare sa défense : Rebond de +101% en vue ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEJlWHJWbHBMS0wwVGZMTVJ0NmpfdDVGLXBzejFJekQ0V0VlQ1ZMMVp2a0xiVUc1U3ItTWZJdGZ0R21VcWZEX3lXVUlfeG1COV95SHYzZll5aDI3aDBFLWVvc0hQb3d2M2FadlhEZzBuV2laa0lvS254cWMzdGF4bE9TVWhIRmFsVE14V0tZcVhiX3l6ODhaTzduNnMwMDdPZ0hhMmp4S3RZR1JINmhmOFI0c3BhN08tMmkta1pNQjhhXzIwSnl0UjMzajZUZ1Zr?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi suspend sa cotation après -43% et prépare sa défense : Rebond de +101% en vue ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2FwY3pQS3BjZDNFR3RrMXNQQnhSck0zNml1Z2xScXRvZFFSdHZTd2JoRlZ1ZVFNX203WUNEX3RrTDctVFFCRzRWTmY1ZUs1WWhYUVpnb0tvNmlXamdCWERRSHc3TFdnZWFubEF1ZHBGQTRGcGdFR1JSSGx5VXhVZFlLZlViVnc2WEpUUUJsUDVTN1ZjdnZlMWxoWQ?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Consensus MEDIANTECHNOLOGIES : avis des analystes, objectifs de cours et recommandations - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNEJlWHJWbHBMS0wwVGZMTVJ0NmpfdDVGLXBzejFJekQ0V0VlQ1ZMMVp2a0xiVUc1U3ItTWZJdGZ0R21VcWZEX3lXVUlfeG1COV95SHYzZll5aDI3aDBFLWVvc0hQb3d2M2FadlhEZzBuV2laa0lvS254cWMzdGF4bE9TVWhIRmFsVE14V0tZcVhiX3l6ODhaTzduNnMwMDdPZ0hhMmp4S3RZR1JINmhmOFI0c3BhN08tMmkta1pNQjhhXzIwSnl0UjMzajZUZ1Zr?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi suspend sa cotation après -43% et prépare sa défense : Rebond de +101% en vue ? - Investing.com France",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-18": [
       "13",
@@ -134,6 +14,9 @@
     "2026-06-20": [
       "13",
       "18"
+    ],
+    "2026-06-21": [
+      "13"
     ]
   },
   "red_cooldowns": {
