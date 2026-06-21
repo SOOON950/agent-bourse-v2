@@ -50,13 +50,16 @@
       "ticker": "ALMDT.PA",
       "titre": "Median Technologies annonce le vif succès de son augmentation de capital de 50 millions d’euros - Business Wire",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTloak4yLXpFNldZUW83czZXQ0Jqem5WU3ZwRlUwV1o1MmJZMk9Lak1TZEJzQnFaMnVudGNKSEJSSzdQUms0czBINnBRaF84WDc5eVdzd0QxZ0xXY3ppWXpEU0Q0RExxYmJ1N3A5MW9NdTNTbTI1REpyWXhRVThGR3B0UTFMWEQyYWc?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion perd 2,93% - Boursier.com",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
-    "2026-06-18": [
-      "13",
-      "18"
-    ],
     "2026-06-19": [
       "13",
       "18"
@@ -290,6 +293,7 @@
       "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MOUVCU2RpeU12cFVBZzY4R2w4MlV2Rk56cXhhaS1VTXZCWVdKZ0tLVVd1T01LRjV1UjF6UXJoR1h5NVJhU2dmbTNmQ3owY0VCallFRS1Md0szb043X2doZldyQk5haTAzZEFMZ2o0bnBIX19mdWpkeVNkclI?oc=5",
       "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRXJPQWY2ZmZCek92Y2FRd0JSU0hueGdpMExpSVVsYTA2RkcxVVNEMjFZamFiMnBqMEFhQWJ1TjZuTGdxTDM0OEU0Z1ozUm9vd0R6NXRyMDFxbDNsQmRUZ3JwZVdoTm5xQ1pqaDNvMHA3R1AweGlSYzRuTVpwUXE2RkFEbnVNNmNRV3VRaVJ1STVwMzltRDRYQ1NScUxZd3Z4aVBzaEFfR0k5SEpUeVVQRmVwc2tGd2dycEUtY05RbkhxQzRVZTVBRXdEdFRBSHdTVUtCOGxEaGVONnpJb1lCbVJkNDloU1lhejJWem9DcC1oemw3Q01WRmF5ckdwOXRi?oc=5",
       "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0RZcmVCNHYyT2t1WUVoOVdIb3hWZklCYlRmaDB4M3ZuWDBUTEE4MFRlNG9qTU9xMHN5V1ZROVdoRHRJTDlseS1TREo5aDZSaENCT3NpeDFWRlRBYmYtT0UwLWVrZHFST1c3TFo2dXdvZEdQcHJqcDE5LVFldUhJNmFzaw?oc=5",
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTloak4yLXpFNldZUW83czZXQ0Jqem5WU3ZwRlUwV1o1MmJZMk9Lak1TZEJzQnFaMnVudGNKSEJSSzdQUms0czBINnBRaF84WDc5eVdzd0QxZ0xXY3ppWXpEU0Q0RExxYmJ1N3A5MW9NdTNTbTI1REpyWXhRVThGR3B0UTFMWEQyYWc?oc=5",
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUx4eFprbXFxSnF6ZnRaRE1XaGxvQVU0U0lJbEcxZXFqeWM0XzVqckFaeWpQMW53a3liYnpEVDBHNTNKSHJCSDhLcGJuQW95bktxay0xMEJXSXdmLU1CR1A3S0JMQVgzMG5JSmhwak0xdUlWOHdPUExpY0hlcTBNSXZjV3hoS1V0YmNRaDNWYUXSAZYBQVVfeXFMT2ZfVHo3VHY3YUsxZlVCclN2Y3NlUk1VY2UzZExZLUtjcEtqd0FfNV9rQS1oT3oxTFptdjlCUEhyeEZuWFNGTDJTaWZiOFZBNXQzdTkwX3ZabXJkWE55REctSEVvMGZiR3RibkhUZUpna3VzNUltQkxjQzZSVV9BVkxqUVBDb21ma2Z2bG1DWVZNU1dnQ0dB?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JUaXIxUnRJNFlNRWM3ZTlLTzlTbU9ReG9mUnNMSTdSd0dvZTE4Y0ZvQWU1QkI0UWV6cC1uWlRiN21SR00wZXRweDZpc3U5WXlNVFFrVHJheVBhQ3JRM1ZjMjA0TjEzOEpOcVVFdV93NnpaU1NJbkZ5a0RwZUlVMUpMVzBzU1czMi1YZkZIVDJPRG5jSXJPUGlfNjFDdw?oc=5",
       "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdTBhWEdHdWd4WDctTGRkNkZtUW82WkxFZ19RR1ZBOURQSHdPdHl6U1U2aDRYam9WckJGUjB5bkU5dllpeGt2YmJCNzI5SGgwUTlNRTNFa2djdG16a2Y1U2tnSjlNS3luOUpXZkpyWEpyaTNVMzVsdkp6bUNacU5yUlNJbUhjYWhDclhTcGF3cWQyLUUyTWtIZFNoSUVkNnc0aGlvQ2ljdnlCZy0yaW9xOEd1TWs0TWh6UlozNG9xMGRiTUpOQzhsZW5QWHZGRlFScHVrTEhXcFFVM0hqUERhZDJOcHFmem8xQVdpcDBESGJRVFdqZ1RQLUQ4cmp5cEVJdng3YWd4XzBENGptc3NVdHhSZ1hHX2JYcFZKS3p6NWc?oc=5",
