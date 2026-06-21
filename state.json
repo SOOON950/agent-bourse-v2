@@ -36,6 +36,20 @@
       "ticker": "AL2SI.PA",
       "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fNEJWb3dDM0Mta2xDMFRuc1FjYkczc1V2VFZfajVmZmx3THlEYkhOWWZBRzFYdGlKNTNOdVduV2xTaS1TYmh1M1Rzc05OTGM1X0pMSWdBVE9qTmhwTmJ5SzVoSnpBR00?oc=5",
+      "nom": "Median Technologies",
+      "ticker": "ALMDT.PA",
+      "titre": "Median Technologies annonce le vif succès de son augmentation de capital de 50 millions d’euros - Business Wire",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -181,6 +195,7 @@
       "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQzlTRE1zVXdZNTZZVTdVdUZCSS1nNDQ5YWxiMjVhVEtJclZITlBDdXBPWmpkb2lhaHlNTzBLUWtDMW83MUEzYksyM3ViYnk3NlBQZU1OV2FyaFFjSXNRNndtamFGUVgtRTB0WmhfOVJuZ202eTEwbkVqbEM3Y0x3NlZSM2tBWlNtbDJjNnBNU0RreU5WYUdFOTVXWUI4VU5iQ1c4S0Nyd1otVXk4UFhpWGpzanJ3WTRVWTFMWG11UE9vTTVBZWVnVEJLYk5LZ0xUX2NNVTlRdkJRZ0Y2UFpnVzFvNzVvV1MtOE1MOFdn?oc=5",
       "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNDU1dE1iZkNLZ29YRHlKNUU5alozMWdhSmlSYTd4Q0Iza3E3Zm8xby16djk4VGFPWGVxWUp6cFg1bmRFeS1qYmFEVUw0S1hVMjVVek9iNHNvZ21YZHBXOEdZSUE1QmR2R0dfMEllYmVwVFNZaXlkVjRTTEM0cW1YQUVzS3Z0WUJfOVk3YXkxakk4Qkh0WG9CbXNmNnluOTFPSWU4TjA4T0ZFU1ZWNmZpZG9JNXk3b0V3YXRGT1Z3VXJ5ZGFZZUtDUldmR3ZoMXFZWDVWendNclFtaWZRSFVyM1Q1Y3RCWjBfS1NOVUhCVQ?oc=5",
       "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zR3EyZ1ZLNDhUM3E4MWFpYnF4TWY3U3pQeWlkY2h6RFRtODNfTm50bU85NjJvTGV0d295eDJLOGtkdU5VTmVPalZGWTBiLVJ5RlRRbXRNU0JPY0VpUVdv?oc=5",
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fNEJWb3dDM0Mta2xDMFRuc1FjYkczc1V2VFZfajVmZmx3THlEYkhOWWZBRzFYdGlKNTNOdVduV2xTaS1TYmh1M1Rzc05OTGM1X0pMSWdBVE9qTmhwTmJ5SzVoSnpBR00?oc=5",
       "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aTGdTWUl1cEtxdHY4MGlwM3QzdGpRYzlVb0VuczBnNDU4a1ZfSDRmMTdPM01zU3RwMWxYQmNlUUZUdmtheVlDS2g3eEJqUVhicDRiaWNGR1M2NHpXS1F4S2pyQ3N5RFE?oc=5",
       "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ2w4dU1JMnlvVHVPandSTWd0b0NfZWZhbmFNeWxMZDdGcDRvTWd1TkVFZk5yZTNhS0cwYml2NXdVdzV0NVVvWVhVbXVlNUFvdlFrb0EwbkYyYWJUMXdlY3VrdDE3Q1N3VHcxQjVWNnFvakc4bWNZWlJVOXl5SkJKeXhNbC1ybzk4ZjJQd1FWeUNNcGlKTkFKWExUUXFWWjVQTjZVWmJSUjZNQXVxT1NKcXNJRVU3a2FtS2Y5Q2tISHJaQU5fUTdqYXV6Uy1TN3FxTmZYQnh1eTROS1k4QVE1amlPTEhKTWM3aDRmVk5RSkw0VHVmcXVGVlYwdXc0VWvSAYQCQVVfeXFMUHI2UVJzM1pjM2pNVlpBN2pPNlBTenAwazhxMFJrSmVtUlpqVE4yUkFsLW5BdzB2VmpybkRvVlZCVGM1T1N1eUFUODZIMTd3YUNUR0RNZzR0SlpMS3ZiRG5qS2U4NzNweUZpVmVpZm9xZDk4MU96dmpzSE5KSUdxcEJTX2p3Mjd3M0NJUFVQbEMyX1VRMU5lSDFhX25KdFBuTi1LcjYxRDRDZGpjUXQyWVpGckRVSmhvZ1JBZXVBX1dBN1drdE5QekdEOUxKM0NVVDE4QUl6WkJVd3RSNWxRUHo2WGZJbUFISy1JMmtNVVhGN3Q3RVRqeVFucTBrVFVBVm9Pa0g?oc=5",
       "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYU1HVS0tbTNWYjcyMEZNQks1WjdsM21nd3VxRWNTeVI5WUpOaXVCZGFJb2xGRjNIWE1WZzhSX01FbmN4bHNra0hJMGxtd3hPVTc4cTY1U2ZEMUZKQnpFMVl6clZmbUpIb2U3QmlSYXBFdFBROUpPUU1ZRzJ1elg3NTExSnk?oc=5",
