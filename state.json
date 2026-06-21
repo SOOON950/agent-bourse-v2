@@ -1,29 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-21",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQU183VzJzZVRFdWJoaVVYdk1LV1NfcUdXN0Zxal9uZUk5UmU0SVo1akRxaGFZZGZhZnIxYUtVWTVacEVQZnJ1cHdNdF9aa0w3b3V3U1VNcVNNNnBadDJ5dGNPOFJ5b0c5V0pEZzFNaFNOelVvZTJRZWtKdDBkSmg0eS1LQl83ek4xQlA1cE5HZUlmMnR1WWJvdWJSZHFHbkdreFFoTkpNUkVLWTA5RWFSTTlJbG9OYkxkYm4xM1RhT2NyVGFMc2JoN08tczlybXc1X29TbTdBRVhGMjZfYTlPeF92NDJlenVvS1BsVHdWMWFMbi1IdHZJMDdOZFBjX25FVXNJN0h3?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Alain Wilmouth Pdg 2CRSi : \"Je mets toutes mes économies lundi matin pour acheter des actions et je vous invite tous à en faire de même.\" - labourseetlavie.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeDQxdzBPV1NZdGJWNFdEc2QtYkhhYUN1TnZYand5OFJVX3pwMzBVeTF2anBHQkRtRklTVXFHUWtQZ3k3RVBNVC1oX3IxOW14SVJjS2xXNEUzeWZCVjZTUHh2bk1OcHEyTGJ4RWNmQVZTUTlmV1RJR2Q0SFh5cTJXbWNaZ09sa3prdlRQZ1JXTXFSV0E5NjR6YmlfMGVMNzZUVFF4N3laQWQ5MkVzcE13?oc=5",
-      "nom": "Haffner Energy",
-      "ticker": "ALHAF.PA",
-      "titre": "Retour sur les actualités de la filière française à l’international | Mars 2026 - France Hydrogène",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-18": [
       "13",
@@ -38,7 +16,8 @@
       "18"
     ],
     "2026-06-21": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
