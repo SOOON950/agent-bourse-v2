@@ -29,6 +29,20 @@
       "ticker": "SIVE.ST",
       "titre": "Sivers Semiconductors atteint un nouveau sommet historique - Zonebourse",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVzJIb01iVno0LUw0by15Nlp2MEhPb0p1S0lFSG10eHBCLTJOZGFvN2hpY3hyamp4Q2Niem5RRlRIVEpoMEYzbEZ4VXFkdVhteWRVemcwVnZQQ1lPZHpSSXdNOVhwd0cwci1adlp1bVhHMXJQcE9iT191bm1JMVBhdklwYlJQS1BRSTBlVWNVaVBtNWZZX3FNaVh0UWNQTDBOX3c3S2VreU91Mkh4TW1WV2l1SU5QeTZWQ1RheXdLTHdCcTlSdnhuNzFQcDE5bGlxMDlPUXc2MnhZZVFubS1YV184cURfdFJXMnh2Zk0xZXNpQ3fSAfgBQVVfeXFMUFBxelpqQWc0cW1id281Q283UW9MQTNUNHJqenFwMjF3UGRwc3NtOUYyS0hTbUZRV0I3ZVZhaXY5R1NGVFRlTnIwU0pMbnUtclVLMW82cHZhRlpvOG96RlFZSXBNZ1lVSjdqWTJITzFtdmlQT2tGcHY5MDQ0MFVySDFvbXZTdXJEMU02aHdtcEdIZVp0Q0k3LVNESE1YWHNibGtwVmNvZ2JGUDF5aFRJT2FIVWF0LXJFNGRJb0VpNW9rbzhoUXN5TDk4dVoySnpZMUJkekxia3oxTXJfMWNRbk5FYlZYTnpaTV9mdVdLM09HdVU4b284ZTM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le fabricant de serveurs 2CRSI prépare sa défense après s'être s'effondré en Bourse - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -51,7 +65,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782157628.1153657,
+      "ts": 1782165164.2948751,
       "variation": -13.385825470839155
     },
     "ALHAF.PA": {
