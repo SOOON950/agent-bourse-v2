@@ -88,6 +88,27 @@
       "score": 5,
       "ticker": "ALSTI.PA",
       "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORWU3NjFoUHYxY0ZUbUFsR2V0TGJOcTBHenY5WlhFTjF5WkJRMVlJRmU2cDZCMWtxSGkwb2pneUZyUVQyWHRhakNWbDZ4VmhRc0pJZGtPM3huZzZsN2xXRUY1amV1QlY2SDVvVjU2dTRaRUN6aExXcHNaUkZRMzFpeXh6SDNIOXBVVW4xSTgxMUphaHNWZFAtTWxGTFZ4aWxnbFJ3a2djSXFMOGVfNWx2UXdHYldMYmtkX3VpaGdBT1MzM2t3ZUFnSDN1VUl5Y2hMSmNzdEt2a01UYVZOM1lEQ292dkt3bmQ4TGM5TksxUkFHdw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi SA: 2CRSi répond point par point au rapport de Grizzly Research et réaffirme la réalité de son activité - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -106,7 +127,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782170452.7100344,
+      "ts": 1782178161.5914004,
       "variation": -13.385825470839155
     },
     "ALHAF.PA": {
