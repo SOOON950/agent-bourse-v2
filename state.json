@@ -37,6 +37,20 @@
       "ticker": "AL2SI.PA",
       "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnOE5HeFU5WTJBeGtES2tmMGNqMWlpRU5YSkJIUWtnYUZVSHBBZS1uVFVYQlAybmVpOVIzTG02RlpXc1ZZYjJ0M04wNHE4NEozMTJRTVdZTTVvOU5BdHc?oc=5",
+      "nom": "LQQ (Nasdaq-100 x2)",
+      "ticker": "LQQ.PA",
+      "titre": "Prix et graphique des fonds d'actions - PNAS - EURONEXT:PNAS - TradingView",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -55,7 +69,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782254554.8373668,
+      "ts": 1782258164.753065,
       "variation": 25.54545454545455
     },
     "ALHAF.PA": {
@@ -75,11 +89,11 @@
       "variation": -6.35658637812966
     },
     "LQQ.PA": {
-      "ts": 1782254554.8373713,
+      "ts": 1782258164.7530699,
       "variation": -4.902197536826853
     },
     "SIVE.ST": {
-      "ts": 1782254554.83737,
+      "ts": 1782258164.7530682,
       "variation": -11.743948897821642
     }
   },
@@ -232,6 +246,7 @@
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGR0I2aThMR0gtR1hUNlV2ZG0tNlJnWFFFQmsxZXRYaWl4RGloWkdIekZWVnBDajkzeXFnMnZuQjZ0SjhNamlFY0tTRkpKSERkenVJVkRiN1cxR2Zr?oc=5",
       "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03eExIaU1fYmFVakhTZDlfUjk3eEhFVFhfeEJRWmVnNHBSVXEyUGJXTDZDSVJzOFNvSm1uMVBBS0MzdmlFeThtVlozWW1CWk1CcEo0SzVRZkIwWFU1bVE?oc=5",
       "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NMlFzSGdfc3hXejVpa1hzXzVwQXJOVGJpblhGbXhpSEZuMHZDZjNCZEF4UFdXa1JsLXZGS0FvQmVPVVJIcE8zQjdNOFBKUUJ6RzRHOUNCMTUzYi1ydHc?oc=5",
+      "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnOE5HeFU5WTJBeGtES2tmMGNqMWlpRU5YSkJIUWtnYUZVSHBBZS1uVFVYQlAybmVpOVIzTG02RlpXc1ZZYjJ0M04wNHE4NEozMTJRTVdZTTVvOU5BdHc?oc=5",
       "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EQXJ3RjhXQmpsdUlWQ2NySWF3MDBEakg2YzFBLWpkMHFsZ3M4akV0OGtoNERxQjNYZXlHNWNuek5hcGxPSmlGVFZnQm5yM2dzNGI2cG1WdF9qZ3FvOVBJVzNqLWs?oc=5",
       "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwZGtyXzJTa0dYNTFNVFRsMzVRQVdYMnNCZGJ5aXpxNnpFMFozbVg2MEFENmtxZ0tET0ZPV3FlRlZqZHM0V2JSZkVIaVlIdlZWRUJpdFRnOTZmUWFYT0R2TnlyS1ZuRWRHazBz?oc=5",
       "https://news.google.com/rss/articles/CBMicEFVX3lxTE83dnB6WU56RjZiby0tdGh4V0tEMWlDTFJjcVhnaG1nOEk5Ull6T21lSkU1T2UxaGF0a3NvTThfaVpSVVk4ODZnazQ2czBUODVpQ3pvbS1lNHRzQS1DMTFqcmJkanF1OVBCRWlleGNoV0k?oc=5",
