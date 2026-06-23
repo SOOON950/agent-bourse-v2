@@ -1,7 +1,15 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-23",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-06-20": [
       "13",
@@ -21,8 +29,8 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782217356.1022468,
-      "variation": 22.272727272727266
+      "ts": 1782228866.552828,
+      "variation": 23.727272727272723
     },
     "ALHAF.PA": {
       "ts": 1781834909.8905299,
@@ -37,16 +45,16 @@
       "variation": -6.23742058910019
     },
     "ALRIB.PA": {
-      "ts": 1781834909.8905294,
-      "variation": -6.666667956660888
+      "ts": 1782228866.5528312,
+      "variation": -6.35658637812966
     },
     "LQQ.PA": {
-      "ts": 1782217356.1022513,
-      "variation": -4.467519922723979
+      "ts": 1782228866.5528338,
+      "variation": -5.095387587539242
     },
     "SIVE.ST": {
-      "ts": 1782217356.1022494,
-      "variation": -13.256045718532864
+      "ts": 1782228866.5528326,
+      "variation": -11.743948897821642
     }
   },
   "seen_news": {
