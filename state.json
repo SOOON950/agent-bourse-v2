@@ -8,6 +8,20 @@
       "ticker": "AL2SI.PA",
       "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGZUNGthSDZkdHZTSTBRZ1EybHM4aG16bHlGaFV2cHVraHlRMkw0aVN0dDhwbHBObUVIR3Q0QnZQUVdpdVNaNE5HT1E0QURhZVFrclpnS1AxUWF1Y19zb2ZjbGhSOHN2enVaZWZ2VVl0MHlJMmgwVnNhX3NXUnB2NHFtNA?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion perd 2,93% - Boursier.com",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -30,7 +44,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782243024.3829746,
+      "ts": 1782249485.9969656,
       "variation": 25.54545454545455
     },
     "ALHAF.PA": {
@@ -50,11 +64,11 @@
       "variation": -6.35658637812966
     },
     "LQQ.PA": {
-      "ts": 1782243024.3829792,
+      "ts": 1782249485.9969695,
       "variation": -4.902197536826853
     },
     "SIVE.ST": {
-      "ts": 1782243024.3829775,
+      "ts": 1782249485.9969683,
       "variation": -11.743948897821642
     }
   },
@@ -252,6 +266,7 @@
       "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MOUVCU2RpeU12cFVBZzY4R2w4MlV2Rk56cXhhaS1VTXZCWVdKZ0tLVVd1T01LRjV1UjF6UXJoR1h5NVJhU2dmbTNmQ3owY0VCallFRS1Md0szb043X2doZldyQk5haTAzZEFMZ2o0bnBIX19mdWpkeVNkclI?oc=5",
       "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRXJPQWY2ZmZCek92Y2FRd0JSU0hueGdpMExpSVVsYTA2RkcxVVNEMjFZamFiMnBqMEFhQWJ1TjZuTGdxTDM0OEU0Z1ozUm9vd0R6NXRyMDFxbDNsQmRUZ3JwZVdoTm5xQ1pqaDNvMHA3R1AweGlSYzRuTVpwUXE2RkFEbnVNNmNRV3VRaVJ1STVwMzltRDRYQ1NScUxZd3Z4aVBzaEFfR0k5SEpUeVVQRmVwc2tGd2dycEUtY05RbkhxQzRVZTVBRXdEdFRBSHdTVUtCOGxEaGVONnpJb1lCbVJkNDloU1lhejJWem9DcC1oemw3Q01WRmF5ckdwOXRi?oc=5",
       "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0RZcmVCNHYyT2t1WUVoOVdIb3hWZklCYlRmaDB4M3ZuWDBUTEE4MFRlNG9qTU9xMHN5V1ZROVdoRHRJTDlseS1TREo5aDZSaENCT3NpeDFWRlRBYmYtT0UwLWVrZHFST1c3TFo2dXdvZEdQcHJqcDE5LVFldUhJNmFzaw?oc=5",
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGZUNGthSDZkdHZTSTBRZ1EybHM4aG16bHlGaFV2cHVraHlRMkw0aVN0dDhwbHBObUVIR3Q0QnZQUVdpdVNaNE5HT1E0QURhZVFrclpnS1AxUWF1Y19zb2ZjbGhSOHN2enVaZWZ2VVl0MHlJMmgwVnNhX3NXUnB2NHFtNA?oc=5",
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTloak4yLXpFNldZUW83czZXQ0Jqem5WU3ZwRlUwV1o1MmJZMk9Lak1TZEJzQnFaMnVudGNKSEJSSzdQUms0czBINnBRaF84WDc5eVdzd0QxZ0xXY3ppWXpEU0Q0RExxYmJ1N3A5MW9NdTNTbTI1REpyWXhRVThGR3B0UTFMWEQyYWc?oc=5",
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUx4eFprbXFxSnF6ZnRaRE1XaGxvQVU0U0lJbEcxZXFqeWM0XzVqckFaeWpQMW53a3liYnpEVDBHNTNKSHJCSDhLcGJuQW95bktxay0xMEJXSXdmLU1CR1A3S0JMQVgzMG5JSmhwak0xdUlWOHdPUExpY0hlcTBNSXZjV3hoS1V0YmNRaDNWYUXSAZYBQVVfeXFMT2ZfVHo3VHY3YUsxZlVCclN2Y3NlUk1VY2UzZExZLUtjcEtqd0FfNV9rQS1oT3oxTFptdjlCUEhyeEZuWFNGTDJTaWZiOFZBNXQzdTkwX3ZabXJkWE55REctSEVvMGZiR3RibkhUZUpna3VzNUltQkxjQzZSVV9BVkxqUVBDb21ma2Z2bG1DWVZNU1dnQ0dB?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JUaXIxUnRJNFlNRWM3ZTlLTzlTbU9ReG9mUnNMSTdSd0dvZTE4Y0ZvQWU1QkI0UWV6cC1uWlRiN21SR00wZXRweDZpc3U5WXlNVFFrVHJheVBhQ3JRM1ZjMjA0TjEzOEpOcVVFdV93NnpaU1NJbkZ5a0RwZUlVMUpMVzBzU1czMi1YZkZIVDJPRG5jSXJPUGlfNjFDdw?oc=5",
