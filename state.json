@@ -1,30 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-24",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWZRY1pEdFpMNXN6cnpkbkFBeUNfVVV0TDRMeXgzYWpndkNjSDkwSk13TU5LckNQMEJCUWhfdjYtbV96dEczVW1yVmZodldrOUdEM2wzWEFtT2NyeXE5ZXJFWnMzQlhvRk1zbUxMYWdYMHh4LUZZcWtlM1NDNzYtX0o0UEtmaVVWR2VKbWlmQ2V6cWRjRXBPUjVBWUczOThMSVI3Qmp5Rnp4S2tNN2F6M3dkS1BNLWZZZmJqZHJXa19wQQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSI poursuit son rebond explosif, +45% en 2 séances : Déjà surévaluée ? - Investing.com France",
-      "type": "actu"
-    },
-    {
-      "label": "neutre",
-      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
-      "nom": "Riber",
-      "score": 0,
-      "ticker": "ALRIB.PA",
-      "type": "technique"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-21": [
       "13",
@@ -39,7 +16,8 @@
       "18"
     ],
     "2026-06-24": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -70,6 +48,10 @@
     "SIVE.ST": {
       "ts": 1782280496.6533222,
       "variation": -11.743945821452781
+    },
+    "VU.PA": {
+      "ts": 1782321665.8399081,
+      "variation": -5.14767932489451
     }
   },
   "seen_news": {
