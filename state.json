@@ -58,6 +58,29 @@
       "ticker": "AL2SI.PA",
       "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
       "type": "actu"
+    },
+    {
+      "label": "neutre",
+      "message": "RSI sorti de la zone de survente.",
+      "nom": "2CRSI",
+      "score": 0,
+      "ticker": "AL2SI.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "label": "haussier",
+      "message": "😴 Calme inhabituel (volatilité très faible) — la valeur s'endort.",
+      "nom": "STIF",
+      "score": 5,
+      "ticker": "ALSTI.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
@@ -76,8 +99,8 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782265653.4742966,
-      "variation": 25.54545454545455
+      "ts": 1782280496.653319,
+      "variation": 25.545458360151812
     },
     "ALHAF.PA": {
       "ts": 1781834909.8905299,
@@ -96,11 +119,11 @@
       "variation": -6.35658637812966
     },
     "LQQ.PA": {
-      "ts": 1782265653.474301,
+      "ts": 1782280496.6533244,
       "variation": -4.902197536826853
     },
     "SIVE.ST": {
-      "ts": 1782265653.4742994,
+      "ts": 1782280496.6533222,
       "variation": -11.743945821452781
     }
   },
@@ -317,7 +340,7 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
-      "zone_rsi": "survente"
+      "zone_rsi": "neutre"
     },
     "ALHAF.PA": {
       "au_dessus_res": false,
@@ -355,7 +378,7 @@
       "au_dessus_res": false,
       "croix_mm": "death",
       "signe_macd": "pos",
-      "silence": false,
+      "silence": true,
       "sous_support": false,
       "zone_rsi": "neutre"
     },
