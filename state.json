@@ -1,7 +1,29 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-25",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOenA3ZGVFWE9YcXA3V3VKRTBtUUdzb1JhYWFMTDRQSXN1cWJyTVA4NHluTlQ2eEpjNHFwUVhXTFlHaExieFF4X29WTDRYNHRQMGxOSmxSVDhsdlVHNi1LYlhhMWhCdUdnQXlHczVaRXBzdVZnV2NLWGZZU2g5RVdOOTZQeXdVMEFwQ1hCaXNScDBUMTNUd1BxN01GdmVnU3NKeFZVQTQyLVBrNTI3ei13ck5PVlpla3BjOUtCbm1UenhGSW5yZ0dKUVVxakRHenYzcHZMOVJ5QUR3MzM1V21mT3lwOXY5WDBfNGpmZTFQMGZkNzBfbHlCQzNFN3JfRkt6elZVblZQamJ2ZHRmU0E0RWtmYmM4Q0lzYmN6a0pwY3BJeUoxbnBvU25EMl8tanpJdnFMNlpOdDJfRjhtSWFaTGhoa3plM0pEYVdYSEJUS2Noa2F1U254VXZGZEJER0xMUjFZVmg3WTB2aXFac1E?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Gros coup de chaud pour la techno tricolore 2CRSI, les actions Danone et Stef à saisir, des profits de 100% à prendre sur ASML, les ETF spatiaux perturbés par SpaceX... Consultez la Lettre des placements du 24 juin - Le Figaro Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFQQksyU0FFTkpXV3JydUd1d256WmlVbUp2TThvM3pPWWtQWnFQOXhPVE1qREowRFlDa0VMaHNzVzNIR3N4ZE5HNGdwOGtRMldyQXlJU0hCazZ0VnhOWlNhNl8yVHBtV1FRbHpfY2dVdjZ2czVKNGhjUFdlLUZ1dWxkQ2ZwUS1sQ0xxcUtMdm1rZEpNRkRjSkg4Sm5IbGRpMy1iMVVDX1JtVklNaFpjTktQTG1ubnFuOHpSMU1kS192TklselpIOXhrMmNEaGo5NWh2bFJldHJ0NEdIUEwtMFY1VQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors AB annonce des remaniements au sein de son conseil d'administration - Zonebourse Suisse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-06-22": [
       "13",
@@ -26,7 +48,7 @@
       "variation": 8.653146589958387
     },
     "ALHAF.PA": {
-      "ts": 1782408405.4368517,
+      "ts": 1782415615.3949041,
       "variation": -6.5263146165335115
     },
     "ALKAL.PA": {
@@ -34,7 +56,7 @@
       "variation": -18.46652469346993
     },
     "ALMDT.PA": {
-      "ts": 1782408405.436855,
+      "ts": 1782415615.3949072,
       "variation": -8.079745588105352
     },
     "ALRIB.PA": {
@@ -42,7 +64,7 @@
       "variation": -6.35658637812966
     },
     "ALSTI.PA": {
-      "ts": 1782408405.4368565,
+      "ts": 1782415615.394909,
       "variation": -9.380376277546091
     },
     "LQQ.PA": {
@@ -50,7 +72,7 @@
       "variation": -4.902197536826853
     },
     "SIVE.ST": {
-      "ts": 1782408405.4368582,
+      "ts": 1782415615.39491,
       "variation": -21.083629215745884
     },
     "VU.PA": {
@@ -226,6 +248,7 @@
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRi1uNW5CZFhlTUlkWno1dXNCZ29JSDV2dGE2cGxuRkF2YWpLMm12dFpBdld1MldhWU5aM1RaNlowSnNqbThyblRWbUJvNzZtQjF2aWJnVjM5RkFwT0NMS3hpZXNhcEQ0NVY2Mms4ZTBDOXAwNndoMzdhMjFhejY2eUJ4ZXZQNDNrdzJyZDdXR0pvb2x0dkRvYkxKaF9mZDV4VHA3WUtRdzlkaENSODJCbTNOOC1CbGpJbGxHZzNtTVBrUnlob1VoR3JOVHI1M0VCUjUzUEpVSG1EVzJ0cGc?oc=5",
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSFJrbm9BM0ktcUNVcGVhb0FxY1A0X2RUZDNCVDIzeWpCOEM4YVRFcmVNVHdnYXJub2tsSkJXZ1VKLWZTYVdOWFhSSVJjYXRtYzk3ZjRHNzRoVGt0cjhmSWZHcjBFd0JoaVI5YWI5cmhYQ08wNW4xYzU0V29kV0wzYlRZcF82cnY1akhTMWJWTDhKSTNKUHhndm5ET1hYMDFZLWRRMURBU21SdlhqRGpsV1RSa2V0OW1NTldkYkszT1NZNGRMSkRseXdnTndjVmhrVm9tNmJ3S3pDeEJJci1V?oc=5",
       "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODFTVkxVY0s2cjFsMDJyZEtVLWRQYVh6Z2Z3Nlo5S2RoNG1haFQxNThGOXhDQm91R1EtbmtPRml1a0Q0S01ieXF4R0JWRjZHc1VOS1BOT0tRT0Y0bzM3ZDBaZDZFWHlqYk9IeC05bnAtREZadFIwMERXMVFqX2ZuWkM2VjlRSm1zOFpqOFBjdUZSWFVNTUhjVHp5aThXel9XN2JVMTFMbHRzTjFKOTNONmhMdXd2VHpQUllkeW5yZ2xUU0NMYWNmR0JfR1BqdlBVbFBxeW5POUZMQ01TdlNrWmY2WQ?oc=5",
+      "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFQQksyU0FFTkpXV3JydUd1d256WmlVbUp2TThvM3pPWWtQWnFQOXhPVE1qREowRFlDa0VMaHNzVzNIR3N4ZE5HNGdwOGtRMldyQXlJU0hCazZ0VnhOWlNhNl8yVHBtV1FRbHpfY2dVdjZ2czVKNGhjUFdlLUZ1dWxkQ2ZwUS1sQ0xxcUtMdm1rZEpNRkRjSkg4Sm5IbGRpMy1iMVVDX1JtVklNaFpjTktQTG1ubnFuOHpSMU1kS192TklselpIOXhrMmNEaGo5NWh2bFJldHJ0NEdIUEwtMFY1VQ?oc=5",
       "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHNLUEt1ellhV1ZRcm1PRks4WDRacUZubGs1RkhFU2sySFYzR2UxQWw4YmtjdW5lQUV5U05ZMGo0dG0yX256aEpvaGdWN0tGOG1MdHl6QlVrdFVRNGoyVjgxM1dyQmZFTmlveGRFelVkdTRDV3A2cFo3SkE1R0pfMEphR21SbWhEZS1TM0ItekNSTGdTaGlxRFA5dEk4RVUtOTRkRDc2eE1IR0FYZWNDa2JiMlJSSC1BZlV3SHVRT2NHQmJjZlk4YUhOa2hEcXZKNDRCYVYwZ2FtbXNaNUtiUmRuaE8?oc=5",
       "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTEVlZXE5U1hZMWplOXFNUjJIQVpBMlZsZjZqWlVpT2YtWXpUX3FmbTRkT0xORXpoeWNUTkd1RnY1d1hVdWR5WTVPaWdmeTFJa3pTVC13ek9jaUJlclB3MXJWSG5VNi16aXpBZVhmaFdpeDZWdDZsQ2s5Sm01NW00cjM1eGdZX3ZXR3p3RXZVVWRrWVBEdndNUWkxT3h3YXltY180cTNkSTNzS1g0TWVCMzJ1VjE2a29JRk54dDVnZ3ZoWEFCcDlRMUJCcUJTUm5KZG5nMWNuSEtfY2hhTkRVZzhkYlpfUQ?oc=5",
       "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV190a0RYOHhvNnpDbGs4MktVV2lEQmwwUGJMMVg2ZU5nNV9VWHhzVE5DMjI1ZUhmXzhBczFmbHNsaHZGTkk5d0tIMVR2Rnd0VTN4Y2xiR1J0UkEtY0haVTd0S0xLRFQxaTdoVE1uYVo0VVhqdG5yR054ckVvZERTVnpiN0s5Z3lqTi1EbTV6Q3luZGlXOUxVZXdTVWlFSEtjVTAwSmJHSk5zNDJXbFlORnVLNXBpTEdGd2JsQzZWNmp2d09nT3Myc0UwX0hRX3VaOXZZRFV2RHIwMUtPcGU0R2R3U0twdw?oc=5",
