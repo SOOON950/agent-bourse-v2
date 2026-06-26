@@ -1,180 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-26",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOenA3ZGVFWE9YcXA3V3VKRTBtUUdzb1JhYWFMTDRQSXN1cWJyTVA4NHluTlQ2eEpjNHFwUVhXTFlHaExieFF4X29WTDRYNHRQMGxOSmxSVDhsdlVHNi1LYlhhMWhCdUdnQXlHczVaRXBzdVZnV2NLWGZZU2g5RVdOOTZQeXdVMEFwQ1hCaXNScDBUMTNUd1BxN01GdmVnU3NKeFZVQTQyLVBrNTI3ei13ck5PVlpla3BjOUtCbm1UenhGSW5yZ0dKUVVxakRHenYzcHZMOVJ5QUR3MzM1V21mT3lwOXY5WDBfNGpmZTFQMGZkNzBfbHlCQzNFN3JfRkt6elZVblZQamJ2ZHRmU0E0RWtmYmM4Q0lzYmN6a0pwY3BJeUoxbnBvU25EMl8tanpJdnFMNlpOdDJfRjhtSWFaTGhoa3plM0pEYVdYSEJUS2Noa2F1U254VXZGZEJER0xMUjFZVmg3WTB2aXFac1E?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Gros coup de chaud pour la techno tricolore 2CRSI, les actions Danone et Stef à saisir, des profits de 100% à prendre sur ASML, les ETF spatiaux perturbés par SpaceX... Consultez la Lettre des placements du 24 juin - Le Figaro Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTFQQksyU0FFTkpXV3JydUd1d256WmlVbUp2TThvM3pPWWtQWnFQOXhPVE1qREowRFlDa0VMaHNzVzNIR3N4ZE5HNGdwOGtRMldyQXlJU0hCazZ0VnhOWlNhNl8yVHBtV1FRbHpfY2dVdjZ2czVKNGhjUFdlLUZ1dWxkQ2ZwUS1sQ0xxcUtMdm1rZEpNRkRjSkg4Sm5IbGRpMy1iMVVDX1JtVklNaFpjTktQTG1ubnFuOHpSMU1kS192TklselpIOXhrMmNEaGo5NWh2bFJldHJ0NEdIUEwtMFY1VQ?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors AB annonce des remaniements au sein de son conseil d'administration - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOenA3ZGVFWE9YcXA3V3VKRTBtUUdzb1JhYWFMTDRQSXN1cWJyTVA4NHluTlQ2eEpjNHFwUVhXTFlHaExieFF4X29WTDRYNHRQMGxOSmxSVDhsdlVHNi1LYlhhMWhCdUdnQXlHczVaRXBzdVZnV2NLWGZZU2g5RVdOOTZQeXdVMEFwQ1hCaXNScDBUMTNUd1BxN01GdmVnU3NKeFZVQTQyLVBrNTI3ei13ck5PVlpla3BjOUtCbm1UenhGSW5yZ0dKUVVxakRHenYzcHZMOVJ5QUR3MzM1V21mT3lwOXY5WDBfNGpmZTFQMGZkNzBfbHlCQzNFN3JfRkt6elZVblZQamJ2ZHRmU0E0RWtmYmM4Q0lzYmN6a0pwY3BJeUoxbnBvU25EMl8tanpJdnFMNlpOdDJfRjhtSWFaTGhoa3plM0pEYVdYSEJUS2Noa2F1U254VXZGZEJER0xMUjFZVmg3WTB2aXFac1E?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Gros coup de chaud pour la techno tricolore 2CRSI, les actions Danone et Stef à saisir, des profits de 100% à prendre sur ASML, les ETF spatiaux perturbés par SpaceX... Consultez la Lettre des placements du 24 juin - Le Figaro Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlIweVZrLU42c2hOdUwzbU9nbllFUkQxdHgxVkhqNy1yV0F0bUZPY21YNWwzWXplRHR5cW05RER4LUJPbl8ycXFlWEc0Vm1MQjZFV1FLWUhEamtELXNfRktQNGE2eXdnb3RfVlhPZTVaZm12TDdCZjhyc1VlazZrWS11OEp6eHBQQnZvME8taGtkVFVIYjRzdHVyaFFIbkc1NmlVY2Q3alFzRWxfMXpyOFllRS0?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Forum: 2CRSi suspend sa cotation après les accusations de Grizzly Research et - ABC Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXEwMHZiOExDTElQRC1xTGhlQkNDZXBOT2luYXRpV0xCVWdla2pKU3BINmQ2ZklhQlU4VjdldWFLNFR5ajJ0NVJ5bXVIbDFQVVBLZFF2Mm5QbEpOODRGMENqVlRHWHY1WjlXdmwxN0dOeGE1MGFSQ2hfMy1lN2hkaVZEWEpRNEF2aEN1U1pNM05SSDVGQzRlTXRoMTRjWE94azA2WHdHNlhvTHNEZElPQ2tUczZIdV91YWFDWHIxUW5wdDDSAcMBQVVfeXFMTWVxMDB2YjhMQ0xJUEQtcUxoZUJDQ2VwTk9pbmF0aVdMQlVnZWtqSlNwSDZkNmZJYUJVOFY3ZXVhSzRUeWoydDVSeW11SGwxUFVQS2RRdjJuUGxKTjg0RjBDalZUR1h2NVo5V3ZsMTdHTnhhNTBhUkNoXzMtZTdoZGlWRFhKUTRBdmhDdVNaTTNOUkg1RkM0ZU10aDE0Y1hPeGswNlh3RzZYb0xzRGRJT0NrVHM2SHVfdWFhQ1hyMVFucHQw?oc=5",
-      "nom": "Haffner Energy",
-      "ticker": "ALHAF.PA",
-      "titre": "Haffner Energy confirme sa feuille de route - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTzktampPdEMwY0ptbE0tQTRtcUs2VUdOcWJFUGN3UnRxN1U1dGRQaGktSFpLdHkwQmJTdE9TRHd5M3NJbWM2TlNiNkcxWkY1NlVCd3JONmhQTjJQeXhUSjVzNWh5TEZvWUs0TmtOUkpGX3VMUU1URWhsa0hTUU51RHNBQ0x4OWR0M1BMTm91QnpmejBXVmowSm0yazd4TEREenAtZC12eEtHOXpGbHQ2SWJvWEdVeU9ScGZlYnh0TVFKcmtLNkU0V19WYVRfZnc5NlVxNS1zZFBXUFEzNDQxOTNxaUJlX19pc18zUlBsVnlrOVU?oc=5",
-      "nom": "Haffner Energy",
-      "ticker": "ALHAF.PA",
-      "titre": "Haffner Energy annonce ses estimations de résultats annuels 2025-2026 et confirme sa trajectoire stratégique - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "label": "neutre",
-      "message": "😴 Calme inhabituel (volatilité très faible) — la valeur s'endort.",
-      "nom": "STIF",
-      "score": -1,
-      "ticker": "ALSTI.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRm9lVlJObkFWVG5kckdEZG5LZ05QWE1NOGt3RXZIYTdpNDY4Wk1UT2UxOXVldEpZaG9tOVU5NzlNcmFaTjdwdXVndExkYU1pZWhWay00aXYtUi16OGNpYlkyWkdOU3IxQjlDTGdKVU1OYmM0M0F6RHVlV1Y1Sk43NUVJcU9yYkotdVI2YTlBd0FqSmlBUGsyUlM0cFltWWRVeUxHU3NUMHZIX0Q0dGh5VkdoT1BreXVjZEp3YjN5TmRWYW40WS1IMmJyN1FtbG5ZUDFWaDUwdXBuQ3R0Tk9LWkgxcG5aTEs2QVBPWWVpR1l2UQ?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors obtient un financement complémentaire de 6,6 millions de dollars pour un programme de défense - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOenA3ZGVFWE9YcXA3V3VKRTBtUUdzb1JhYWFMTDRQSXN1cWJyTVA4NHluTlQ2eEpjNHFwUVhXTFlHaExieFF4X29WTDRYNHRQMGxOSmxSVDhsdlVHNi1LYlhhMWhCdUdnQXlHczVaRXBzdVZnV2NLWGZZU2g5RVdOOTZQeXdVMEFwQ1hCaXNScDBUMTNUd1BxN01GdmVnU3NKeFZVQTQyLVBrNTI3ei13ck5PVlpla3BjOUtCbm1UenhGSW5yZ0dKUVVxakRHenYzcHZMOVJ5QUR3MzM1V21mT3lwOXY5WDBfNGpmZTFQMGZkNzBfbHlCQzNFN3JfRkt6elZVblZQamJ2ZHRmU0E0RWtmYmM4Q0lzYmN6a0pwY3BJeUoxbnBvU25EMl8tanpJdnFMNlpOdDJfRjhtSWFaTGhoa3plM0pEYVdYSEJUS2Noa2F1U254VXZGZEJER0xMUjFZVmg3WTB2aXFac1E?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Gros coup de chaud pour la techno tricolore 2CRSI, les actions Danone et Stef à saisir, des profits de 100% à prendre sur ASML, les ETF spatiaux perturbés par SpaceX... Consultez la Lettre des placements du 24 juin - Le Figaro Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "label": "neutre",
-      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
-      "nom": "Kalray",
-      "score": 0,
-      "ticker": "ALKAL.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOenA3ZGVFWE9YcXA3V3VKRTBtUUdzb1JhYWFMTDRQSXN1cWJyTVA4NHluTlQ2eEpjNHFwUVhXTFlHaExieFF4X29WTDRYNHRQMGxOSmxSVDhsdlVHNi1LYlhhMWhCdUdnQXlHczVaRXBzdVZnV2NLWGZZU2g5RVdOOTZQeXdVMEFwQ1hCaXNScDBUMTNUd1BxN01GdmVnU3NKeFZVQTQyLVBrNTI3ei13ck5PVlpla3BjOUtCbm1UenhGSW5yZ0dKUVVxakRHenYzcHZMOVJ5QUR3MzM1V21mT3lwOXY5WDBfNGpmZTFQMGZkNzBfbHlCQzNFN3JfRkt6elZVblZQamJ2ZHRmU0E0RWtmYmM4Q0lzYmN6a0pwY3BJeUoxbnBvU25EMl8tanpJdnFMNlpOdDJfRjhtSWFaTGhoa3plM0pEYVdYSEJUS2Noa2F1U254VXZGZEJER0xMUjFZVmg3WTB2aXFac1E?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Gros coup de chaud pour la techno tricolore 2CRSI, les actions Danone et Stef à saisir, des profits de 100% à prendre sur ASML, les ETF spatiaux perturbés par SpaceX... Consultez la Lettre des placements du 24 juin - Le Figaro Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNY3lSdzU3MUIwTF9iUmI4ZDM3Sk9sdWg1LWJnRWU1YWdhQ1lVXzlFSnVaZUp3b0FNb09HUWtUeXdTLVpOQmRxekFUa2tLNjEzLWV0M0tKMlJZOFNjejVma09pMWlzdU1LekxwVUhLcklDRmZFM1Jqa283bnQzWGFzdWQ2WTVqc2FLcm4xcWhFRnpEOFBNaEpHdi1Kc0ZRX3BuUVNQbmRJNGp0OWl5ckE0U2tsNkVMNmRBZTh2SFJIUVBiSGgxWS1wQU50bnJfakR6LVdyTWJOOFhpVDQ0NUVvRjVrOUduQnVuZFdCRm9ORGR4Q0FHUEVOdlVPcU1obmh6eThTcU5HYkUzd1pOV0VNX21Lajh5UHE0OWFF0gGgAkFVX3lxTE1rWkJRRF9qQTJ2RXgtYVg3NlBwV2Fack01Slo0eUZacVZoQjA3ZndacGVBYTdZNDgzN0xxN0EtdjZ3Y1NXWnJkeE54cW1Xb2N4ZGFCRlZzOWM2ZUhsY3FTb0hDemo2WXk1aVN6aFBMZkhWOGRMQmJweEtSbnEwOHJudUdadG9RdGNoaVg2VG82Z0RHaW85d1JXLWp6eDMxZUZBQTIxeWZFSVdVUHh6X1d6ZEtsLXhVMm02NDRWRUJUUlNzN2dhMlUzZ2d4T280U2lXYkIwbmZxai1ieVVYUm42WjNVLWhoS0RLNUd4Ql9SMkZsXzlrU0FUcDdBVzVzc19QVVNXbUNjTTEyWGtQblRONDdUX2d3TllhaG9LZFF2ZQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "L'action Kymera s'envole grâce à un calendrier d'essais accéléré pour son médicament expérimental contre l'ecz - Boursorama",
-      "type": "actu"
-    },
-    {
-      "label": "haussier",
-      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
-      "nom": "Haffner Energy",
-      "score": 4,
-      "ticker": "ALHAF.PA",
-      "type": "technique"
-    },
-    {
-      "label": "haussier",
-      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
-      "nom": "Sivers Semiconductors",
-      "score": 4,
-      "ticker": "SIVE.ST",
-      "type": "technique"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-23": [
       "13",
@@ -187,6 +14,9 @@
     "2026-06-25": [
       "13",
       "18"
+    ],
+    "2026-06-26": [
+      "13"
     ]
   },
   "red_cooldowns": {
@@ -195,8 +25,8 @@
       "variation": 8.653146589958387
     },
     "ALHAF.PA": {
-      "ts": 1782462152.4802322,
-      "variation": -23.873874854948603
+      "ts": 1782472992.1613896,
+      "variation": -6.306307513782906
     },
     "ALKAL.PA": {
       "ts": 1781869893.4015348,
@@ -219,8 +49,8 @@
       "variation": -4.902197536826853
     },
     "SIVE.ST": {
-      "ts": 1782462152.480235,
-      "variation": -12.83582089552239
+      "ts": 1782472992.1613925,
+      "variation": -10.44776119402985
     },
     "VU.PA": {
       "ts": 1782367745.3535943,
@@ -455,7 +285,7 @@
       "croix_mm": "golden",
       "signe_macd": "pos",
       "silence": false,
-      "sous_support": true,
+      "sous_support": false,
       "zone_rsi": "neutre"
     },
     "ALKAL.PA": {
@@ -503,7 +333,7 @@
       "croix_mm": "golden",
       "signe_macd": "pos",
       "silence": false,
-      "sous_support": true,
+      "sous_support": false,
       "zone_rsi": "neutre"
     },
     "VU.PA": {
