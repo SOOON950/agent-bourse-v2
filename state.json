@@ -107,6 +107,27 @@
       "ticker": "AL2SI.PA",
       "titre": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOenA3ZGVFWE9YcXA3V3VKRTBtUUdzb1JhYWFMTDRQSXN1cWJyTVA4NHluTlQ2eEpjNHFwUVhXTFlHaExieFF4X29WTDRYNHRQMGxOSmxSVDhsdlVHNi1LYlhhMWhCdUdnQXlHczVaRXBzdVZnV2NLWGZZU2g5RVdOOTZQeXdVMEFwQ1hCaXNScDBUMTNUd1BxN01GdmVnU3NKeFZVQTQyLVBrNTI3ei13ck5PVlpla3BjOUtCbm1UenhGSW5yZ0dKUVVxakRHenYzcHZMOVJ5QUR3MzM1V21mT3lwOXY5WDBfNGpmZTFQMGZkNzBfbHlCQzNFN3JfRkt6elZVblZQamJ2ZHRmU0E0RWtmYmM4Q0lzYmN6a0pwY3BJeUoxbnBvU25EMl8tanpJdnFMNlpOdDJfRjhtSWFaTGhoa3plM0pEYVdYSEJUS2Noa2F1U254VXZGZEJER0xMUjFZVmg3WTB2aXFac1E?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Gros coup de chaud pour la techno tricolore 2CRSI, les actions Danone et Stef à saisir, des profits de 100% à prendre sur ASML, les ETF spatiaux perturbés par SpaceX... Consultez la Lettre des placements du 24 juin - Le Figaro Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -129,31 +150,31 @@
       "variation": 8.653146589958387
     },
     "ALHAF.PA": {
-      "ts": 1782432622.044511,
-      "variation": -6.5263146165335115
+      "ts": 1782448912.4647725,
+      "variation": -6.526313411892256
     },
     "ALKAL.PA": {
       "ts": 1781869893.4015348,
       "variation": -18.46652469346993
     },
     "ALMDT.PA": {
-      "ts": 1782432622.0445132,
-      "variation": -8.079745588105352
+      "ts": 1782448912.4647753,
+      "variation": -8.079743186407109
     },
     "ALRIB.PA": {
       "ts": 1782228866.5528312,
       "variation": -6.35658637812966
     },
     "ALSTI.PA": {
-      "ts": 1782432622.0445147,
-      "variation": -9.380376277546091
+      "ts": 1782448912.4647775,
+      "variation": -9.380373651248416
     },
     "LQQ.PA": {
       "ts": 1782280496.6533244,
       "variation": -4.902197536826853
     },
     "SIVE.ST": {
-      "ts": 1782432622.0445151,
+      "ts": 1782448912.4647784,
       "variation": -21.083629215745884
     },
     "VU.PA": {
@@ -420,7 +441,7 @@
       "au_dessus_res": false,
       "croix_mm": "death",
       "signe_macd": "pos",
-      "silence": true,
+      "silence": false,
       "sous_support": true,
       "zone_rsi": "neutre"
     },
