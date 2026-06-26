@@ -1,29 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-26",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOenA3ZGVFWE9YcXA3V3VKRTBtUUdzb1JhYWFMTDRQSXN1cWJyTVA4NHluTlQ2eEpjNHFwUVhXTFlHaExieFF4X29WTDRYNHRQMGxOSmxSVDhsdlVHNi1LYlhhMWhCdUdnQXlHczVaRXBzdVZnV2NLWGZZU2g5RVdOOTZQeXdVMEFwQ1hCaXNScDBUMTNUd1BxN01GdmVnU3NKeFZVQTQyLVBrNTI3ei13ck5PVlpla3BjOUtCbm1UenhGSW5yZ0dKUVVxakRHenYzcHZMOVJ5QUR3MzM1V21mT3lwOXY5WDBfNGpmZTFQMGZkNzBfbHlCQzNFN3JfRkt6elZVblZQamJ2ZHRmU0E0RWtmYmM4Q0lzYmN6a0pwY3BJeUoxbnBvU25EMl8tanpJdnFMNlpOdDJfRjhtSWFaTGhoa3plM0pEYVdYSEJUS2Noa2F1U254VXZGZEJER0xMUjFZVmg3WTB2aXFac1E?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Gros coup de chaud pour la techno tricolore 2CRSI, les actions Danone et Stef à saisir, des profits de 100% à prendre sur ASML, les ETF spatiaux perturbés par SpaceX... Consultez la Lettre des placements du 24 juin - Le Figaro Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-06-23": [
       "13",
@@ -38,12 +16,13 @@
       "18"
     ],
     "2026-06-26": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782489477.7696836,
+      "ts": 1782496787.7799253,
       "variation": 8.006281375249289
     },
     "ALHAF.PA": {
@@ -268,6 +247,7 @@
       "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2xLb0hvclFRSm1SZFJxcms1cjZNNDJJZUYwbW1feVJ0Wk9LY1Q3cWdXcm9nU2p3V0dSMkNUQlZnUUg5ZXF4bWk5SXdONENRdDh5ZG13bjFRUW5fb1R0QjBjUXRvMmVDM2UyY29rVUhXT1dhVURNX3prN3YzTFZKYmRaQ0t6UUIyd2s5RkhHZzl0X09JVTdQLUJwMnZ2ODlzYTg5ME1NaVVxcHhUMzFRVw?oc=5",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbElOQmxaTkxHSlFsckQzVWRkVjZIbEs4d2NGTWljemV0MjU4MFdDYzJHcFk3cU1Cb2VwUlhlWkpjUkZ4WHVwZE1tTU80TU5jWi05SEV4M1NOQTFSd25VMFA1V3pnRGdjWk9Kb2ttNXNWN3JoU19TenRPRG5vZXFoc1gzaHlIeE1FSS1XM3ZXYXpLRkxaQ1JReWNaYVYxMm81SFF2OTREMEl0N1F4M3c1S3FCdkw?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUptQWlVa1lPbWIyZU1iSzlYQUZnLV9IOWdSTE90YkktUzRfbl80Rkc4eUctLU5oWFloWVlDZ2RxTmtHbGt3SkVTcHo0Zlo0TjRCX3ZRZjc3aXBVd20tZWNINDBvN0xELWo3RkVnV0lBbURya2R6bTg0d3FQcTNrRXd3TGZvOEFjUGg4SDhsX1UyU3FpampXZmNqd2hacWNhUlIydVd5c2JNdnhHZ0FDdEN0Z2FRaG9xU2xN?oc=5",
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTG1pME04VjM1ZXNOTWo3VHlKSTBxSXVCQ0xHbEpITXoxc1lrZVd5NlY0UnE4VFNsbGlGSUJROGMyaEJwa2EySG81ZGpPR08xbGlOMFlrMHVQWnNKTDdvOFFkdkZuam15cUNzczRFR0ZKT2NVRFNCdk93X1paMHo2YkVnbGRxMVhWRlJ6WF9vMVNkWHQ2Umc2Z2NpWnFKcEVWYzN1SUJ4di1VWUVjM3lhc2hzdVBMMVc4dEs1VQ?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU1F5Mnp3eFJCdjV1b0FteFFwRmRFYjZZMUFoblJmWFM1YWNuTm5HTzlNa3VXOUhCWXhzdXRnTXJZTjFFa245OWZ0RWNsS0RNZ21NTFdNRTNwN0VRVWhIcVVmQmJWVzhaM2gxVkk4dTlNcUhLcTJuVlR3MS1ZQmZaMWlNcDNPMFM4WndYZnlHeHRoZW1VV3RIUXJqNXcwZ3JOS0VPaW1XWlRna0ZoTVNQblJIWGlHOU1HUHROZ2ZXX0NKWW8xMGc?oc=5",
       "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcnJscDVWWGl1MHgyTGJhbnlHc2hjX1ZEM2U5bmN3ODNFdmtrRnVTZ1JpTUhBQU1vMTl6aXl2UWNpdG5rRU5acFZRSlhNVkN2cDYtREtCS2JMVER2bGMwcEJYNkdlVWdaQ0FLYzJrUmJ2bUY4UnRSVTRZZVdjN25zeDAyMGM0S3B1ZjNrazRob3lMclpMSkNwRm9sWXlfV1pBcjBGVXVJMTBuUXhlMGR5bkxsUmgwakxKbkJVd2RoRW11ck1RTmlz?oc=5",
       "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDBZbGppb0dwM1ZWM1NscHJ3R1BQV3RJbi1vMEt6Q2dsa09kc1NkaXZaaG9XVW84VE1XRVltLW4wZXBfS19ZejNEWkZiR0R6S1hEVjZENDVPUVQteGhGWEdMcm5Jd0JXT2lhQVZQSW9zRGx0Z2JSckRyVWM1bnUteG40UExlOVlqZ1NaYTItSXRDSUt6aEhDLWZKVGFuODFtYzMyVnRwcHBsM2ZRdlpSZGFXd0VYbkZJdVlYVEdEbk1nWENvQVRWTWwtdmNJZw?oc=5",
