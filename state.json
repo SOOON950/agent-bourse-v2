@@ -106,6 +106,48 @@
       "ticker": "AL2SI.PA",
       "titre": "SOLUTIONS 30 Cours Action S30, Cotation Bourse Euronext Paris - Boursorama",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOenA3ZGVFWE9YcXA3V3VKRTBtUUdzb1JhYWFMTDRQSXN1cWJyTVA4NHluTlQ2eEpjNHFwUVhXTFlHaExieFF4X29WTDRYNHRQMGxOSmxSVDhsdlVHNi1LYlhhMWhCdUdnQXlHczVaRXBzdVZnV2NLWGZZU2g5RVdOOTZQeXdVMEFwQ1hCaXNScDBUMTNUd1BxN01GdmVnU3NKeFZVQTQyLVBrNTI3ei13ck5PVlpla3BjOUtCbm1UenhGSW5yZ0dKUVVxakRHenYzcHZMOVJ5QUR3MzM1V21mT3lwOXY5WDBfNGpmZTFQMGZkNzBfbHlCQzNFN3JfRkt6elZVblZQamJ2ZHRmU0E0RWtmYmM4Q0lzYmN6a0pwY3BJeUoxbnBvU25EMl8tanpJdnFMNlpOdDJfRjhtSWFaTGhoa3plM0pEYVdYSEJUS2Noa2F1U254VXZGZEJER0xMUjFZVmg3WTB2aXFac1E?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Gros coup de chaud pour la techno tricolore 2CRSI, les actions Danone et Stef à saisir, des profits de 100% à prendre sur ASML, les ETF spatiaux perturbés par SpaceX... Consultez la Lettre des placements du 24 juin - Le Figaro Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQnhpaFNXNzBFZzZLUHNkdjRKUnJHaTZBQVFOeDhaQTBMd1pFWllJVUgzQkVlNTZXTlNPV2ludU94Z1ZzdVc2Z3oyTEVsNVdMelE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "RENAULT Cours Action RNO, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObTJpQzNWWnJIcFVlcUF5X3llVmp0Q0dKMURDSHlmY0NJZXVlbHdRM1VmQWpDTHp6T2R5UTUweXZValp4VUdmN0dQczhHamdGSHRXZjdFMVZDRS11emxtYXllblRVWHlRLUlCSnh6MW80QkNrcUxjVnQ4dDlCa3c0TklXazVqd0l4dHBIcjQ2dWZ0SHRKTXBsdlJNaFl3bHBjbG5VOVh6LWFEVFBGbE1OUjBQZ1hLcFFhdGRpaHNLVEZmMDBGcndV?oc=5",
+      "nom": "Haffner Energy",
+      "ticker": "ALHAF.PA",
+      "titre": "Haffner Energy confirme sa feuille de route - Funds Magazine",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY05pVzN0bmxfbjcwODQzd3BablFBQ0V6RlNneHVXRE5uMGJSOUFPanNrMnlLQ1p2eTVPM1I2enlvWDB4SmhZM1Y2OTNnVWVIOWdQTnkwZ016czNlZTl1WTNEb2YxRXhfX1BpRmxTXzNQMTlwZjN1bDlTYzR3c1V4ZTNZNW95eHVzdHp5UV9qZzhFQV96TFE?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion termine en forte baisse - Boursier.com",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -124,7 +166,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782600591.7423646,
+      "ts": 1782604597.4168296,
       "variation": 8.006283171810045
     },
     "ALHAF.PA": {
@@ -228,6 +270,7 @@
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkx0c3IzX1dnU1lmQk9uYm5lT2FUZkZ1c3loNF82dE1ZdFhuTkctNXlVNXVTem5OOFpTQjZ2UUlMazJMQXVXQ1Jod3dYT3pvcFRmT1Rmbi1MaGozZmlKd2tuTHotMmktRzQ5ZEE4N3FKc3gySUhyTkJGajYwcmVUWm92VlZ4akx5SThiMy1mek5wUndoVjN4aUVXdEtJdVdGZFo4V0RJODFielhtTFVQdFUxcVhQdFZTUHFKcnJUcXBnQQ?oc=5",
       "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXEwMHZiOExDTElQRC1xTGhlQkNDZXBOT2luYXRpV0xCVWdla2pKU3BINmQ2ZklhQlU4VjdldWFLNFR5ajJ0NVJ5bXVIbDFQVVBLZFF2Mm5QbEpOODRGMENqVlRHWHY1WjlXdmwxN0dOeGE1MGFSQ2hfMy1lN2hkaVZEWEpRNEF2aEN1U1pNM05SSDVGQzRlTXRoMTRjWE94azA2WHdHNlhvTHNEZElPQ2tUczZIdV91YWFDWHIxUW5wdDDSAcMBQVVfeXFMTWVxMDB2YjhMQ0xJUEQtcUxoZUJDQ2VwTk9pbmF0aVdMQlVnZWtqSlNwSDZkNmZJYUJVOFY3ZXVhSzRUeWoydDVSeW11SGwxUFVQS2RRdjJuUGxKTjg0RjBDalZUR1h2NVo5V3ZsMTdHTnhhNTBhUkNoXzMtZTdoZGlWRFhKUTRBdmhDdVNaTTNOUkg1RkM0ZU10aDE0Y1hPeGswNlh3RzZYb0xzRGRJT0NrVHM2SHVfdWFhQ1hyMVFucHQw?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkU2d2Vxb3RnMDVhQjRLZ3FKSTRaak5pckZUTXlKdUhkRWtxeXY4bDR4WW11U3otSTZNVDFMRUhoaGh3M2thNFdURnFJRHhHN24yRXFkTHhVdlgwSW80Zjl1UC1uamFWcHcyUlR3MXRqdEdnQ0gzUlFYZHFmZThUbDMtUFQxMllBWVhqaUNvSjFxQVo1OGJIbGJuX2g2X2RNdm1ySFJUdXBLWWJkMzlFMzFFaTB6a1VsOE9kai1jc0JFb3pIbnc?oc=5",
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxObTJpQzNWWnJIcFVlcUF5X3llVmp0Q0dKMURDSHlmY0NJZXVlbHdRM1VmQWpDTHp6T2R5UTUweXZValp4VUdmN0dQczhHamdGSHRXZjdFMVZDRS11emxtYXllblRVWHlRLUlCSnh6MW80QkNrcUxjVnQ4dDlCa3c0TklXazVqd0l4dHBIcjQ2dWZ0SHRKTXBsdlJNaFl3bHBjbG5VOVh6LWFEVFBGbE1OUjBQZ1hLcFFhdGRpaHNLVEZmMDBGcndV?oc=5",
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWHJMMGg1aVl2TnJfZmlQZFJwandlRlc2V0p4ZjJHU05zMV8xX2JGRUJNYUtKVmRTNk4zMW1RNUxkYnozTGhBN1dhZGY0Mm5vSm1KZEEzU0tkVlNMMmM5cWNrVFBlb0hKa1l5Tm1VVDR5V3VmMkh3MWVJZTcxd0VEdDZ0ek0xXzlBSXdNUkhDX1d2ZUN0SFBqWGp6U0RSZ3hEek03ZjJmRW1idm9KUWFCRklucmJfMngzck4wMlVNRmt3cE9ESWM2M19fVXE?oc=5"
     ],
     "ALKAL.PA": [
@@ -369,6 +412,7 @@
       "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGZUNGthSDZkdHZTSTBRZ1EybHM4aG16bHlGaFV2cHVraHlRMkw0aVN0dDhwbHBObUVIR3Q0QnZQUVdpdVNaNE5HT1E0QURhZVFrclpnS1AxUWF1Y19zb2ZjbGhSOHN2enVaZWZ2VVl0MHlJMmgwVnNhX3NXUnB2NHFtNA?oc=5",
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTloak4yLXpFNldZUW83czZXQ0Jqem5WU3ZwRlUwV1o1MmJZMk9Lak1TZEJzQnFaMnVudGNKSEJSSzdQUms0czBINnBRaF84WDc5eVdzd0QxZ0xXY3ppWXpEU0Q0RExxYmJ1N3A5MW9NdTNTbTI1REpyWXhRVThGR3B0UTFMWEQyYWc?oc=5",
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUx4eFprbXFxSnF6ZnRaRE1XaGxvQVU0U0lJbEcxZXFqeWM0XzVqckFaeWpQMW53a3liYnpEVDBHNTNKSHJCSDhLcGJuQW95bktxay0xMEJXSXdmLU1CR1A3S0JMQVgzMG5JSmhwak0xdUlWOHdPUExpY0hlcTBNSXZjV3hoS1V0YmNRaDNWYUXSAZYBQVVfeXFMT2ZfVHo3VHY3YUsxZlVCclN2Y3NlUk1VY2UzZExZLUtjcEtqd0FfNV9rQS1oT3oxTFptdjlCUEhyeEZuWFNGTDJTaWZiOFZBNXQzdTkwX3ZabXJkWE55REctSEVvMGZiR3RibkhUZUpna3VzNUltQkxjQzZSVV9BVkxqUVBDb21ma2Z2bG1DWVZNU1dnQ0dB?oc=5",
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY05pVzN0bmxfbjcwODQzd3BablFBQ0V6RlNneHVXRE5uMGJSOUFPanNrMnlLQ1p2eTVPM1I2enlvWDB4SmhZM1Y2OTNnVWVIOWdQTnkwZ016czNlZTl1WTNEb2YxRXhfX1BpRmxTXzNQMTlwZjN1bDlTYzR3c1V4ZTNZNW95eHVzdHp5UV9qZzhFQV96TFE?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JUaXIxUnRJNFlNRWM3ZTlLTzlTbU9ReG9mUnNMSTdSd0dvZTE4Y0ZvQWU1QkI0UWV6cC1uWlRiN21SR00wZXRweDZpc3U5WXlNVFFrVHJheVBhQ3JRM1ZjMjA0TjEzOEpOcVVFdV93NnpaU1NJbkZ5a0RwZUlVMUpMVzBzU1czMi1YZkZIVDJPRG5jSXJPUGlfNjFDdw?oc=5",
       "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdTBhWEdHdWd4WDctTGRkNkZtUW82WkxFZ19RR1ZBOURQSHdPdHl6U1U2aDRYam9WckJGUjB5bkU5dllpeGt2YmJCNzI5SGgwUTlNRTNFa2djdG16a2Y1U2tnSjlNS3luOUpXZkpyWEpyaTNVMzVsdkp6bUNacU5yUlNJbUhjYWhDclhTcGF3cWQyLUUyTWtIZFNoSUVkNnc0aGlvQ2ljdnlCZy0yaW9xOEd1TWs0TWh6UlozNG9xMGRiTUpOQzhsZW5QWHZGRlFScHVrTEhXcFFVM0hqUERhZDJOcHFmem8xQVdpcDBESGJRVFdqZ1RQLUQ4cmp5cEVJdng3YWd4XzBENGptc3NVdHhSZ1hHX2JYcFZKS3p6NWc?oc=5",
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVZa3RORmdLZ2t3NkZPNVd2amtLbjJ0X3NETGNxTzBrM00yb3NBbjhtTDUzMzRwZzJhMkFFb3N4TVNCMFdJdG01QmZ2MkhrQjE1dmdMQS1yaF8xb0xUaHVxMWR1MlJWOEE5SURtem1POG5TM1JLOGhBb2tqbnlpQmFWQ3VuMXZieUUxRFhiRURBLTRwR1NqRkRyVHRWemdGYm5nRFh3QzNQWUl0LTZrTFZzWQ?oc=5",
