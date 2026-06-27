@@ -71,6 +71,27 @@
       "ticker": "AL2SI.PA",
       "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOenA3ZGVFWE9YcXA3V3VKRTBtUUdzb1JhYWFMTDRQSXN1cWJyTVA4NHluTlQ2eEpjNHFwUVhXTFlHaExieFF4X29WTDRYNHRQMGxOSmxSVDhsdlVHNi1LYlhhMWhCdUdnQXlHczVaRXBzdVZnV2NLWGZZU2g5RVdOOTZQeXdVMEFwQ1hCaXNScDBUMTNUd1BxN01GdmVnU3NKeFZVQTQyLVBrNTI3ei13ck5PVlpla3BjOUtCbm1UenhGSW5yZ0dKUVVxakRHenYzcHZMOVJ5QUR3MzM1V21mT3lwOXY5WDBfNGpmZTFQMGZkNzBfbHlCQzNFN3JfRkt6elZVblZQamJ2ZHRmU0E0RWtmYmM4Q0lzYmN6a0pwY3BJeUoxbnBvU25EMl8tanpJdnFMNlpOdDJfRjhtSWFaTGhoa3plM0pEYVdYSEJUS2Noa2F1U254VXZGZEJER0xMUjFZVmg3WTB2aXFac1E?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Gros coup de chaud pour la techno tricolore 2CRSI, les actions Danone et Stef à saisir, des profits de 100% à prendre sur ASML, les ETF spatiaux perturbés par SpaceX... Consultez la Lettre des placements du 24 juin - Le Figaro Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uMnA4aWJ6Vlh4ZXFKMm1lYnZPRU9xcTlyclEydUNDZXgwSUlKN190UFBoTk5XYnlNWXh5WmU0OUZFTVZyaFM0eW5PRHB2MGlv?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SCHNEIDER ELECTRIC Cours Action SU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -89,8 +110,8 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782518827.920716,
-      "variation": 8.006281375249289
+      "ts": 1782533762.3362348,
+      "variation": 8.006283171810045
     },
     "ALHAF.PA": {
       "ts": 1782480587.3906095,
