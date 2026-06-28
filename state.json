@@ -1,7 +1,36 @@
 {
   "initialized": true,
   "last_digest_date": "2026-06-28",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZE1mNXJTV0F4SmpVOUR6b0NTZHlUY2lwTFBVaVJTUXFpSTFENURtd2V2c3IwR2Z2QlFRUWQ4dFdIVnNHNnRXY0RTZi1nSVZBTjRoUkdTS1A1LTc5QndRTlVzMFNCSl9sOVcxRThmd09URV9Wa2ZpXzBhX3BLV0NHX003S2JkWkk?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi : et maintenant ? - Boursier.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaFpxallNOXBkRlZIbFY3endBNHZiZzBIbU1YN1FxY3V5dXhienNzTWp0VjB5cDRhaXN3VHZ2akdfa25LLWZJdV8wai0ydDdacV9YVjViVzhYblZ4NXBvTEFBVHZRbHMxQjhLb3N1aVpncmNyU0dDUkc3R3h3NTRVX1ZMUDVvbmR0VE43X2N3Z1Rvd3lxOUtyZ3VTdFU4ZUlXakM3R2JHcE1Cd1MydXJScG55ZEtpcng4MlBoYVVjbzZJbTF0S0I3VndSdmNGNnBQX21MU2h2ZWFhZVZZSTNERzk2NU85c0NCYlBjY3NsT2VwcndDLUJFT2lxYVk0UGxhZ1hnblNEU0JSV29Ba1ZQWnF0SjFnVjlsYVJtRUp2MjMxSkgwems1cjZxMElaZHdXZGtxcHJ5TGFxUWJ4LVl6dzk1d0NObWtNU3Zubmxka3pjZWdCYklMSnV4V2U1WWtyTnMtc2xOZnc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Après les lourdes accusations d'un vendeur à découvert, la défense du groupe de serveurs 2Crsi ne convainc guère la Bourse, l'action rechute de 20% (mais gagne encore 950% sur 3 ans) - BFM Bourse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-06-25": [
       "13",
@@ -21,7 +50,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1782648536.754755,
+      "ts": 1782656220.2176268,
       "variation": 8.006283171810045
     },
     "ALHAF.PA": {
