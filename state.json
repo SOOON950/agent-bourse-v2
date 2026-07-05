@@ -50,6 +50,55 @@
       "ticker": "AL2SI.PA",
       "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3hFc1Q4M2U0eXRjX2VEaFk1RjlfdE9nSzNQUDdYRVNnUFl4RFkxN0xUSFBzT1hJczFOVmpWbGJyaWtQTnk2UWV2RE82eDdVaXY5WUg4dkI3TGVuZGFpTk9QZDRoMnowN01xS21pZVJiQTZiOEZHUVlIRlJMbjNlU2xCMDJyTHNmaGhva1NJTWJ6amJ6ZVlVd2k3OGVRZ0x3VTlnU0M0Slg4eGdGdERpaXBPNjlTZmhDb2ktcFFRVFNWeW5uMzJDak9RYjJDUGEx?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOVXVmVFFCN1AweVRXY0pzSHBuMlB4SUxXRGpxT0RLdXM3TkVKUHVJMmV4VHpPeTJGNGdydEM4YWtHVFN2TXRveGJVb1ZyOXQ1ZnlreE1aNElfRUtnNXh4dzZQbG1MTnZjcWRDQnp6YXA3N2NuenB1eElKTjBEbWV5TGlHZnpSUmJRZG15eTROdEF5SU9IZzJ0Y2N1NGxNekxRVklTalZZNGo5RlRJZFpfYjdSd1hfcWdEQnZkcF9yTGJ5eDllem00bzRQNUhBYW44QlM3SWZmaDRFbkFPZFh5eVZZeWJzZDRMZmlEU3l6cmwtWW9YRUFCQW81bjhRTUtvMWlNcEpKM1hudFBtcmNabjFtM1cxQi11ZG84TGJzellsSW15WnRfS2lENGhZTWRnd1Nid0ZWejdIWm9Nd2hrclEwVzUzMzBRQy1NdnRQVG9pYzA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - boursedirect.fr",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -75,15 +124,15 @@
       "variation": 22.229464233980696
     },
     "ALHAF.PA": {
-      "ts": 1783260350.0773327,
+      "ts": 1783265836.5897715,
       "variation": 8.229424673216785
     },
     "ALKAL.PA": {
-      "ts": 1783260350.0773299,
+      "ts": 1783265836.5897684,
       "variation": 11.743769101767793
     },
     "ALMDT.PA": {
-      "ts": 1783260350.0773346,
+      "ts": 1783265836.5897727,
       "variation": 0.7084989272611951
     },
     "ALRIB.PA": {
@@ -99,11 +148,11 @@
       "variation": -4.033284385707297
     },
     "SIVE.ST": {
-      "ts": 1783260350.0773365,
+      "ts": 1783265836.5897748,
       "variation": 14.897957626654176
     },
     "VU.PA": {
-      "ts": 1783260350.0773358,
+      "ts": 1783265836.5897741,
       "variation": 5.030492573958899
     }
   },
