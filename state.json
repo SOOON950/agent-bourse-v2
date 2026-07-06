@@ -1,421 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-06",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3hFc1Q4M2U0eXRjX2VEaFk1RjlfdE9nSzNQUDdYRVNnUFl4RFkxN0xUSFBzT1hJczFOVmpWbGJyaWtQTnk2UWV2RE82eDdVaXY5WUg4dkI3TGVuZGFpTk9QZDRoMnowN01xS21pZVJiQTZiOEZHUVlIRlJMbjNlU2xCMDJyTHNmaGhva1NJTWJ6amJ6ZVlVd2k3OGVRZ0x3VTlnU0M0Slg4eGdGdERpaXBPNjlTZmhDb2ktcFFRVFNWeW5uMzJDak9RYjJDUGEx?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNTBIT3ZIYkpmWkFLZXFEOTFFdllJZzZnMGNmLTB6RXJYSnpVWTNFdjQ5eFNBWkMzVV82M29FSDA0bUI5T2t1bVhZem93cGtab2FsWXRRNlNaUjJmZ1JKdDI2cFlkNkhoUjY1NnZDRFluS3RyRlBERHZrZDM3WWptT0x3N2lDNHphUVhMbTBrMm8xOWJaT05LU3M4U3k4VkFyZmhMWDNZOVo4b0ZQaHdTdW9rbXB1cjQ1MzBXdjhiS016WmVDNFF1RFI3b3RaLXVabF9BZ3pUMUtMSG9uSGRaZ29mbWNPSzJwbUlpTndqNlF3M1VCV2VQOGpNT21UVWVWNUY4cXpfYWJjQUNRSzlr0gGUAkFVX3lxTFBSNG1ISFJzSFdaZnRMcVVyUWRTV2RhZ05KVk5YZExhY0paY2pwZ29tSzRReWtIbDdSZ3RLNUtmazBnSHJYNjR5QnJEZjIxU1llRWtleWNiSG9iMWhIX0JSdWVvNFFNdERFUThXOThWVDRfRDItSzltaGlfNWxTRXJWMkZmTjVXRmZwdndCSWRLeVFodU9HMEhWTlg0WGZfdHlSTVJnMFBPYi11MkMyZVNxeE00d3pjamdGcXJrMXN5VHFJd0dSbmo1Rjd2ci16YjBMYUhlbkdhQ2I0dFNTRFNvVmtXU1ZDTW5vQkpCTG14VW9UWFJZVEdHWG8xV0FxZ2JVajNSQ0ZfR05tYTlucWx2VmRqUg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "EasyJet donne son accord de principe à l'offre améliorée de Castlelake, à 6,90 livres sterling par action - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3hFc1Q4M2U0eXRjX2VEaFk1RjlfdE9nSzNQUDdYRVNnUFl4RFkxN0xUSFBzT1hJczFOVmpWbGJyaWtQTnk2UWV2RE82eDdVaXY5WUg4dkI3TGVuZGFpTk9QZDRoMnowN01xS21pZVJiQTZiOEZHUVlIRlJMbjNlU2xCMDJyTHNmaGhva1NJTWJ6amJ6ZVlVd2k3OGVRZ0x3VTlnU0M0Slg4eGdGdERpaXBPNjlTZmhDb2ktcFFRVFNWeW5uMzJDak9RYjJDUGEx?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNTBIT3ZIYkpmWkFLZXFEOTFFdllJZzZnMGNmLTB6RXJYSnpVWTNFdjQ5eFNBWkMzVV82M29FSDA0bUI5T2t1bVhZem93cGtab2FsWXRRNlNaUjJmZ1JKdDI2cFlkNkhoUjY1NnZDRFluS3RyRlBERHZrZDM3WWptT0x3N2lDNHphUVhMbTBrMm8xOWJaT05LU3M4U3k4VkFyZmhMWDNZOVo4b0ZQaHdTdW9rbXB1cjQ1MzBXdjhiS016WmVDNFF1RFI3b3RaLXVabF9BZ3pUMUtMSG9uSGRaZ29mbWNPSzJwbUlpTndqNlF3M1VCV2VQOGpNT21UVWVWNUY4cXpfYWJjQUNRSzlr0gGUAkFVX3lxTFBSNG1ISFJzSFdaZnRMcVVyUWRTV2RhZ05KVk5YZExhY0paY2pwZ29tSzRReWtIbDdSZ3RLNUtmazBnSHJYNjR5QnJEZjIxU1llRWtleWNiSG9iMWhIX0JSdWVvNFFNdERFUThXOThWVDRfRDItSzltaGlfNWxTRXJWMkZmTjVXRmZwdndCSWRLeVFodU9HMEhWTlg0WGZfdHlSTVJnMFBPYi11MkMyZVNxeE00d3pjamdGcXJrMXN5VHFJd0dSbmo1Rjd2ci16YjBMYUhlbkdhQ2I0dFNTRFNvVmtXU1ZDTW5vQkpCTG14VW9UWFJZVEdHWG8xV0FxZ2JVajNSQ0ZfR05tYTlucWx2VmRqUg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "EasyJet donne son accord de principe à l'offre améliorée de Castlelake, à 6,90 livres sterling par action - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3hFc1Q4M2U0eXRjX2VEaFk1RjlfdE9nSzNQUDdYRVNnUFl4RFkxN0xUSFBzT1hJczFOVmpWbGJyaWtQTnk2UWV2RE82eDdVaXY5WUg4dkI3TGVuZGFpTk9QZDRoMnowN01xS21pZVJiQTZiOEZHUVlIRlJMbjNlU2xCMDJyTHNmaGhva1NJTWJ6amJ6ZVlVd2k3OGVRZ0x3VTlnU0M0Slg4eGdGdERpaXBPNjlTZmhDb2ktcFFRVFNWeW5uMzJDak9RYjJDUGEx?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNTBIT3ZIYkpmWkFLZXFEOTFFdllJZzZnMGNmLTB6RXJYSnpVWTNFdjQ5eFNBWkMzVV82M29FSDA0bUI5T2t1bVhZem93cGtab2FsWXRRNlNaUjJmZ1JKdDI2cFlkNkhoUjY1NnZDRFluS3RyRlBERHZrZDM3WWptT0x3N2lDNHphUVhMbTBrMm8xOWJaT05LU3M4U3k4VkFyZmhMWDNZOVo4b0ZQaHdTdW9rbXB1cjQ1MzBXdjhiS016WmVDNFF1RFI3b3RaLXVabF9BZ3pUMUtMSG9uSGRaZ29mbWNPSzJwbUlpTndqNlF3M1VCV2VQOGpNT21UVWVWNUY4cXpfYWJjQUNRSzlr0gGUAkFVX3lxTFBSNG1ISFJzSFdaZnRMcVVyUWRTV2RhZ05KVk5YZExhY0paY2pwZ29tSzRReWtIbDdSZ3RLNUtmazBnSHJYNjR5QnJEZjIxU1llRWtleWNiSG9iMWhIX0JSdWVvNFFNdERFUThXOThWVDRfRDItSzltaGlfNWxTRXJWMkZmTjVXRmZwdndCSWRLeVFodU9HMEhWTlg0WGZfdHlSTVJnMFBPYi11MkMyZVNxeE00d3pjamdGcXJrMXN5VHFJd0dSbmo1Rjd2ci16YjBMYUhlbkdhQ2I0dFNTRFNvVmtXU1ZDTW5vQkpCTG14VW9UWFJZVEdHWG8xV0FxZ2JVajNSQ0ZfR05tYTlucWx2VmRqUg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "EasyJet donne son accord de principe à l'offre améliorée de Castlelake, à 6,90 livres sterling par action - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3hFc1Q4M2U0eXRjX2VEaFk1RjlfdE9nSzNQUDdYRVNnUFl4RFkxN0xUSFBzT1hJczFOVmpWbGJyaWtQTnk2UWV2RE82eDdVaXY5WUg4dkI3TGVuZGFpTk9QZDRoMnowN01xS21pZVJiQTZiOEZHUVlIRlJMbjNlU2xCMDJyTHNmaGhva1NJTWJ6amJ6ZVlVd2k3OGVRZ0x3VTlnU0M0Slg4eGdGdERpaXBPNjlTZmhDb2ktcFFRVFNWeW5uMzJDak9RYjJDUGEx?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMy1aTUc0Z2t3NGZudWR4YVVBWDMyaEdJd0ZENHJtZEpEbHQwLUx4WmhxS0N6RmJ5cGU4WGl2Z2FZbGZPMm1oVEJORWFYTnhfdUdCVTY0TndiekJ6ZmxFc0xGbFlFWHkzb1B2RkxxY0Z4NzhHNXdWN2oxOTFndTgtNE4xVk1kQ25NRjdRcl9MUW14TUFSR0Fray1aZmRGY2M?oc=5",
-      "nom": "LQQ (Nasdaq-100 x2)",
-      "ticker": "LQQ.PA",
-      "titre": "Amundi Nasdaq-100 Daily 2x Lvrgd ETF Acc 2 048,50€ - Boursier.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNTBIT3ZIYkpmWkFLZXFEOTFFdllJZzZnMGNmLTB6RXJYSnpVWTNFdjQ5eFNBWkMzVV82M29FSDA0bUI5T2t1bVhZem93cGtab2FsWXRRNlNaUjJmZ1JKdDI2cFlkNkhoUjY1NnZDRFluS3RyRlBERHZrZDM3WWptT0x3N2lDNHphUVhMbTBrMm8xOWJaT05LU3M4U3k4VkFyZmhMWDNZOVo4b0ZQaHdTdW9rbXB1cjQ1MzBXdjhiS016WmVDNFF1RFI3b3RaLXVabF9BZ3pUMUtMSG9uSGRaZ29mbWNPSzJwbUlpTndqNlF3M1VCV2VQOGpNT21UVWVWNUY4cXpfYWJjQUNRSzlr0gGUAkFVX3lxTFBSNG1ISFJzSFdaZnRMcVVyUWRTV2RhZ05KVk5YZExhY0paY2pwZ29tSzRReWtIbDdSZ3RLNUtmazBnSHJYNjR5QnJEZjIxU1llRWtleWNiSG9iMWhIX0JSdWVvNFFNdERFUThXOThWVDRfRDItSzltaGlfNWxTRXJWMkZmTjVXRmZwdndCSWRLeVFodU9HMEhWTlg0WGZfdHlSTVJnMFBPYi11MkMyZVNxeE00d3pjamdGcXJrMXN5VHFJd0dSbmo1Rjd2ci16YjBMYUhlbkdhQ2I0dFNTRFNvVmtXU1ZDTW5vQkpCTG14VW9UWFJZVEdHWG8xV0FxZ2JVajNSQ0ZfR05tYTlucWx2VmRqUg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "EasyJet donne son accord de principe à l'offre améliorée de Castlelake, à 6,90 livres sterling par action - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3hFc1Q4M2U0eXRjX2VEaFk1RjlfdE9nSzNQUDdYRVNnUFl4RFkxN0xUSFBzT1hJczFOVmpWbGJyaWtQTnk2UWV2RE82eDdVaXY5WUg4dkI3TGVuZGFpTk9QZDRoMnowN01xS21pZVJiQTZiOEZHUVlIRlJMbjNlU2xCMDJyTHNmaGhva1NJTWJ6amJ6ZVlVd2k3OGVRZ0x3VTlnU0M0Slg4eGdGdERpaXBPNjlTZmhDb2ktcFFRVFNWeW5uMzJDak9RYjJDUGEx?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNTBIT3ZIYkpmWkFLZXFEOTFFdllJZzZnMGNmLTB6RXJYSnpVWTNFdjQ5eFNBWkMzVV82M29FSDA0bUI5T2t1bVhZem93cGtab2FsWXRRNlNaUjJmZ1JKdDI2cFlkNkhoUjY1NnZDRFluS3RyRlBERHZrZDM3WWptT0x3N2lDNHphUVhMbTBrMm8xOWJaT05LU3M4U3k4VkFyZmhMWDNZOVo4b0ZQaHdTdW9rbXB1cjQ1MzBXdjhiS016WmVDNFF1RFI3b3RaLXVabF9BZ3pUMUtMSG9uSGRaZ29mbWNPSzJwbUlpTndqNlF3M1VCV2VQOGpNT21UVWVWNUY4cXpfYWJjQUNRSzlr0gGUAkFVX3lxTFBSNG1ISFJzSFdaZnRMcVVyUWRTV2RhZ05KVk5YZExhY0paY2pwZ29tSzRReWtIbDdSZ3RLNUtmazBnSHJYNjR5QnJEZjIxU1llRWtleWNiSG9iMWhIX0JSdWVvNFFNdERFUThXOThWVDRfRDItSzltaGlfNWxTRXJWMkZmTjVXRmZwdndCSWRLeVFodU9HMEhWTlg0WGZfdHlSTVJnMFBPYi11MkMyZVNxeE00d3pjamdGcXJrMXN5VHFJd0dSbmo1Rjd2ci16YjBMYUhlbkdhQ2I0dFNTRFNvVmtXU1ZDTW5vQkpCTG14VW9UWFJZVEdHWG8xV0FxZ2JVajNSQ0ZfR05tYTlucWx2VmRqUg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "EasyJet donne son accord de principe à l'offre améliorée de Castlelake, à 6,90 livres sterling par action - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3hFc1Q4M2U0eXRjX2VEaFk1RjlfdE9nSzNQUDdYRVNnUFl4RFkxN0xUSFBzT1hJczFOVmpWbGJyaWtQTnk2UWV2RE82eDdVaXY5WUg4dkI3TGVuZGFpTk9QZDRoMnowN01xS21pZVJiQTZiOEZHUVlIRlJMbjNlU2xCMDJyTHNmaGhva1NJTWJ6amJ6ZVlVd2k3OGVRZ0x3VTlnU0M0Slg4eGdGdERpaXBPNjlTZmhDb2ktcFFRVFNWeW5uMzJDak9RYjJDUGEx?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNTBIT3ZIYkpmWkFLZXFEOTFFdllJZzZnMGNmLTB6RXJYSnpVWTNFdjQ5eFNBWkMzVV82M29FSDA0bUI5T2t1bVhZem93cGtab2FsWXRRNlNaUjJmZ1JKdDI2cFlkNkhoUjY1NnZDRFluS3RyRlBERHZrZDM3WWptT0x3N2lDNHphUVhMbTBrMm8xOWJaT05LU3M4U3k4VkFyZmhMWDNZOVo4b0ZQaHdTdW9rbXB1cjQ1MzBXdjhiS016WmVDNFF1RFI3b3RaLXVabF9BZ3pUMUtMSG9uSGRaZ29mbWNPSzJwbUlpTndqNlF3M1VCV2VQOGpNT21UVWVWNUY4cXpfYWJjQUNRSzlr0gGUAkFVX3lxTFBSNG1ISFJzSFdaZnRMcVVyUWRTV2RhZ05KVk5YZExhY0paY2pwZ29tSzRReWtIbDdSZ3RLNUtmazBnSHJYNjR5QnJEZjIxU1llRWtleWNiSG9iMWhIX0JSdWVvNFFNdERFUThXOThWVDRfRDItSzltaGlfNWxTRXJWMkZmTjVXRmZwdndCSWRLeVFodU9HMEhWTlg0WGZfdHlSTVJnMFBPYi11MkMyZVNxeE00d3pjamdGcXJrMXN5VHFJd0dSbmo1Rjd2ci16YjBMYUhlbkdhQ2I0dFNTRFNvVmtXU1ZDTW5vQkpCTG14VW9UWFJZVEdHWG8xV0FxZ2JVajNSQ0ZfR05tYTlucWx2VmRqUg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "EasyJet donne son accord de principe à l'offre améliorée de Castlelake, à 6,90 livres sterling par action - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3hFc1Q4M2U0eXRjX2VEaFk1RjlfdE9nSzNQUDdYRVNnUFl4RFkxN0xUSFBzT1hJczFOVmpWbGJyaWtQTnk2UWV2RE82eDdVaXY5WUg4dkI3TGVuZGFpTk9QZDRoMnowN01xS21pZVJiQTZiOEZHUVlIRlJMbjNlU2xCMDJyTHNmaGhva1NJTWJ6amJ6ZVlVd2k3OGVRZ0x3VTlnU0M0Slg4eGdGdERpaXBPNjlTZmhDb2ktcFFRVFNWeW5uMzJDak9RYjJDUGEx?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNTBIT3ZIYkpmWkFLZXFEOTFFdllJZzZnMGNmLTB6RXJYSnpVWTNFdjQ5eFNBWkMzVV82M29FSDA0bUI5T2t1bVhZem93cGtab2FsWXRRNlNaUjJmZ1JKdDI2cFlkNkhoUjY1NnZDRFluS3RyRlBERHZrZDM3WWptT0x3N2lDNHphUVhMbTBrMm8xOWJaT05LU3M4U3k4VkFyZmhMWDNZOVo4b0ZQaHdTdW9rbXB1cjQ1MzBXdjhiS016WmVDNFF1RFI3b3RaLXVabF9BZ3pUMUtMSG9uSGRaZ29mbWNPSzJwbUlpTndqNlF3M1VCV2VQOGpNT21UVWVWNUY4cXpfYWJjQUNRSzlr0gGUAkFVX3lxTFBSNG1ISFJzSFdaZnRMcVVyUWRTV2RhZ05KVk5YZExhY0paY2pwZ29tSzRReWtIbDdSZ3RLNUtmazBnSHJYNjR5QnJEZjIxU1llRWtleWNiSG9iMWhIX0JSdWVvNFFNdERFUThXOThWVDRfRDItSzltaGlfNWxTRXJWMkZmTjVXRmZwdndCSWRLeVFodU9HMEhWTlg0WGZfdHlSTVJnMFBPYi11MkMyZVNxeE00d3pjamdGcXJrMXN5VHFJd0dSbmo1Rjd2ci16YjBMYUhlbkdhQ2I0dFNTRFNvVmtXU1ZDTW5vQkpCTG14VW9UWFJZVEdHWG8xV0FxZ2JVajNSQ0ZfR05tYTlucWx2VmRqUg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "EasyJet donne son accord de principe à l'offre améliorée de Castlelake, à 6,90 livres sterling par action - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3hFc1Q4M2U0eXRjX2VEaFk1RjlfdE9nSzNQUDdYRVNnUFl4RFkxN0xUSFBzT1hJczFOVmpWbGJyaWtQTnk2UWV2RE82eDdVaXY5WUg4dkI3TGVuZGFpTk9QZDRoMnowN01xS21pZVJiQTZiOEZHUVlIRlJMbjNlU2xCMDJyTHNmaGhva1NJTWJ6amJ6ZVlVd2k3OGVRZ0x3VTlnU0M0Slg4eGdGdERpaXBPNjlTZmhDb2ktcFFRVFNWeW5uMzJDak9RYjJDUGEx?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYjVMTnhkX3Z3Q2JJWm15WDZmWHpXMWRrb0pOMTVaTzQ0RG1VMVJ1ajRpN2ExVWhCX3pvRkxTZjZrcmVNZVZqN1R1TVZob04zZWk4aTE3V01WZ0RzUElLYm5naTdmQUM3SzZiVmpnbUs3UDBUbFhPN3YyaEVpSk1yNk9HRnBtMHpGN1RrTHFiVm5iRlJNVDM0SlhnZUs1QXdlTnR2Y2tfV3gybk1ZWEVoQU5xcldhcnZURUZNMl9PYmplclU3N3lj?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers émet 22,8 millions d'actions suite à une conversion de dette - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-07-03": [
       "13",
@@ -428,6 +14,9 @@
     "2026-07-05": [
       "13",
       "18"
+    ],
+    "2026-07-06": [
+      "13"
     ]
   },
   "red_cooldowns": {
@@ -436,8 +25,8 @@
       "variation": 22.229464233980696
     },
     "ALHAF.PA": {
-      "ts": 1783318116.9069333,
-      "variation": 8.229424673216785
+      "ts": 1783335834.1416247,
+      "variation": 8.755764013117687
     },
     "ALKAL.PA": {
       "ts": 1783318116.9069312,
@@ -460,8 +49,8 @@
       "variation": -4.033284385707297
     },
     "SIVE.ST": {
-      "ts": 1783318116.9069355,
-      "variation": 14.897957626654176
+      "ts": 1783335834.1416273,
+      "variation": -19.289519332554
     },
     "VU.PA": {
       "ts": 1783318116.906935,
@@ -651,6 +240,7 @@
       "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHNLUEt1ellhV1ZRcm1PRks4WDRacUZubGs1RkhFU2sySFYzR2UxQWw4YmtjdW5lQUV5U05ZMGo0dG0yX256aEpvaGdWN0tGOG1MdHl6QlVrdFVRNGoyVjgxM1dyQmZFTmlveGRFelVkdTRDV3A2cFo3SkE1R0pfMEphR21SbWhEZS1TM0ItekNSTGdTaGlxRFA5dEk4RVUtOTRkRDc2eE1IR0FYZWNDa2JiMlJSSC1BZlV3SHVRT2NHQmJjZlk4YUhOa2hEcXZKNDRCYVYwZ2FtbXNaNUtiUmRuaE8?oc=5",
       "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTEVlZXE5U1hZMWplOXFNUjJIQVpBMlZsZjZqWlVpT2YtWXpUX3FmbTRkT0xORXpoeWNUTkd1RnY1d1hVdWR5WTVPaWdmeTFJa3pTVC13ek9jaUJlclB3MXJWSG5VNi16aXpBZVhmaFdpeDZWdDZsQ2s5Sm01NW00cjM1eGdZX3ZXR3p3RXZVVWRrWVBEdndNUWkxT3h3YXltY180cTNkSTNzS1g0TWVCMzJ1VjE2a29JRk54dDVnZ3ZoWEFCcDlRMUJCcUJTUm5KZG5nMWNuSEtfY2hhTkRVZzhkYlpfUQ?oc=5",
       "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV190a0RYOHhvNnpDbGs4MktVV2lEQmwwUGJMMVg2ZU5nNV9VWHhzVE5DMjI1ZUhmXzhBczFmbHNsaHZGTkk5d0tIMVR2Rnd0VTN4Y2xiR1J0UkEtY0haVTd0S0xLRFQxaTdoVE1uYVo0VVhqdG5yR054ckVvZERTVnpiN0s5Z3lqTi1EbTV6Q3luZGlXOUxVZXdTVWlFSEtjVTAwSmJHSk5zNDJXbFlORnVLNXBpTEdGd2JsQzZWNmp2d09nT3Myc0UwX0hRX3VaOXZZRFV2RHIwMUtPcGU0R2R3U0twdw?oc=5",
+      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaEN1aUtSZG44NFZCdVV2dTFoeEFRMjVpMUV4cDBQbmVFMGgzRHVaMFhjS1FNM21iSE4tQV9YN1hKOFBpUUVTTzB3Tm0yU1NIX0RlcFNQcHdQSUdHWFJ5Z2YwQmdJNVg5d1U0S1g2SS1TUDZaZ2lKSFBYTHJRX0htNWRXS3RZSEZWakNmQnRKSl9qaTc4SlpPTlB3OE44RTRzeGlWUHhRNDhwR0F6Q29maGVadmVyUkQ0MDl1LV9CX093eVlzazI5cFdfa2x1T1JjNVVPVHU1TEhUZmp6RVRCdWJCNkMxSU0?oc=5",
       "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR1o2bVVFU3dCcXFRNFEtbldMMm1FcWxzTUdMa3ZwQ19BcGprUVcyMmFuN2JlZDhnV3E4Q1pIcE1FaTN1OGdsRG9MRDlEa25LVmtPTTdqWFJqc2VfVzJmaEM0VzhTbWU2NzZ6N2oxV0VNZzlONUZUSGd6N2MxVE5oWWc2WjNrSkRvX2NDb1ZMQnNSY0d2bXFoSW95TElxbkFGYVdOaTd2NWViU050YlZ2Qk4xNXhma1VYbjVaRHpKZGpuODhFNlU3dTkxTUE3bFhRa1QySzJYZTM1OUozT3dZQ3I5amVzak5HVXBn?oc=5",
       "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUtTNGdvUUFvQk1VR2Q3ajZnMHh6dVhBblRST0xpMEo4Qjdfb1Z1SW9SQ2RzeUI4N3ZEMFo1a1dLVmx2aWNvQXRhTnZ0NXRCbGpBVEpoTERRWWY4ZUptb2VOazMteGFldjRELUVraVgzbTNMaFZpMkZ1YjNhSGlkZnN4bmxRbE1aakx0VUZpX0YzSHF3d2lFdC1ibS1tLXF2T1h6ckwxZFpFdXlERDdvSEp3a2lRYnQ3ZFM0c29YdmNQWG4td0t2R1RSdVJBcFk2OUk3RE9EdFdGNk56cF9MUE1BdE9LOWdlT2JoRVJRbw?oc=5",
       "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQkhTU3U5R0NLbjk0b05NQmdzUTdsd0t4dnZwcldZWjhsZmh2dlljQTByT3dVeU5lVVVfUjhUQXU1aExiNS1lUHF0dk5oTk9kRUg1NmdtcEhneHk3VlM3S3pkWlNPWlNZSjEtT0twbW9OdnpGQzZlYWRaeW52TGVWYllna2kwSTNlcXllSmpabWZjQWJJTGJQdzdSSDdPNDRiSXllelNscG5BeVdITjFwbUpBVXFkS050VF9uUUR5aVZSLXBTeTMxUThlYTB3OUVvRjhKdEZkZkZyNXk5aEpJUWNXQURHOGlGUmwzYXpaaDZyZw?oc=5",
@@ -664,6 +254,7 @@
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWkt2bjNvcEctd0NuWGJjVGRpVWFNb2NMZ29KcWZGN1Z4TFNjNW5kNGQzUERRN21aVDBSOUp6bUtKOGRIRzYtblhreTNTTUZNN2Z0MWZ1dThoam56aUlBWVlDaGF6c0ZXVGg3WHhzTlRyQ2FfOFJiLWkzYTZ3V2tSdDBsS3ZkTTloaXlkXzdMeDIwMWxvOC1pMjBB?oc=5",
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYUlrM2NZSTFwcS1MRFVPOWEtVE9fMnF0SzNZR0hvUWR4dDJaZkxSOTRmOXg2azItSlkxb3BiVU9ZXzAwM3NYNERqWWgtOUlmdlQ3aExzaHZBNWJNd2NZVURFWktpS2VHQmNlMHo4SENKNE01WWpCVFp6RV8wb0lzTnB2aFVIellUMjdPZjFUb3h3LXFfZFBCUXJ3?oc=5",
       "https://news.google.com/rss/articles/CBMimgJBVV95cUxPR3M3dGJiNVJ4bmtId01iY21qNXMtQkQwUmFQby1nY29CSW8wWUpVQ1g5d292MTZZTzBIaG90THZXMHptNHlIZWhveUYzVHZhbkNsZDR5ejk3YVZKNXVvNzZONV9LWUdCdW1wODJpTUJUdm94NlJ6ZTBZNVQtUl9oOTk1ZnRnWmV3MmhEMmdTaWlDa2VEOERUaEotczgzLURUckhjVzVfb1lYci1XYTNlYVBWNWlFVjRQLWNlRURpcVZBbUdNa0RUOElHdVNOSnczWjBhV25pVTloU0ozMHBxRWtPbl9maTViX3RUNng1UXBzaThvcGx2SEF2M0RRbTA0TXRLcWZoZWZLX3VNSHJHNHVHU3hlenYzN2c?oc=5",
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHZ0YWdPQWlDbUVaU3JsVlRtTzhTVV9kWV95ME92NkRsalRQa3ZRTmtramJHMm8wSHNZRGpXRGlUTVVfN3JWZW5rNFFKUGxfdnAxS2tGMlNUVXZjN3ZxT3FQV1dTWmpkRzBtMU12NWpRMmpTZHZJX1dXVGc2cE40YU4zQVIxX0xCM3J6LXp1ZG5nc3hnVlN3OVBUVjFSb1Q3UEdWUnV3?oc=5",
       "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2xLb0hvclFRSm1SZFJxcms1cjZNNDJJZUYwbW1feVJ0Wk9LY1Q3cWdXcm9nU2p3V0dSMkNUQlZnUUg5ZXF4bWk5SXdONENRdDh5ZG13bjFRUW5fb1R0QjBjUXRvMmVDM2UyY29rVUhXT1dhVURNX3prN3YzTFZKYmRaQ0t6UUIyd2s5RkhHZzl0X09JVTdQLUJwMnZ2ODlzYTg5ME1NaVVxcHhUMzFRVw?oc=5",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbElOQmxaTkxHSlFsckQzVWRkVjZIbEs4d2NGTWljemV0MjU4MFdDYzJHcFk3cU1Cb2VwUlhlWkpjUkZ4WHVwZE1tTU80TU5jWi05SEV4M1NOQTFSd25VMFA1V3pnRGdjWk9Kb2ttNXNWN3JoU19TenRPRG5vZXFoc1gzaHlIeE1FSS1XM3ZXYXpLRkxaQ1JReWNaYVYxMm81SFF2OTREMEl0N1F4M3c1S3FCdkw?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUptQWlVa1lPbWIyZU1iSzlYQUZnLV9IOWdSTE90YkktUzRfbl80Rkc4eUctLU5oWFloWVlDZ2RxTmtHbGt3SkVTcHo0Zlo0TjRCX3ZRZjc3aXBVd20tZWNINDBvN0xELWo3RkVnV0lBbURya2R6bTg0d3FQcTNrRXd3TGZvOEFjUGg4SDhsX1UyU3FpampXZmNqd2hacWNhUlIydVd5c2JNdnhHZ0FDdEN0Z2FRaG9xU2xN?oc=5",
@@ -763,13 +354,13 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "VU.PA": {
       "au_dessus_res": false,
       "croix_mm": "death",
-      "signe_macd": "neg",
+      "signe_macd": "pos",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
