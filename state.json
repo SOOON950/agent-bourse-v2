@@ -1,7 +1,43 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-07",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTJ0UVBmY0Itam9FWWNLRkxNR05IdlE4b08wYXotUXMyOUtVWVd4cEZKOURRR0cwTnlwY3RIamJ3Ylo1emEwVmJHWjRBQ3pZdjhhVVVvcHBYdGYxY1hKNllTR2oyTTdTT2ttbUotTzBOcDdZMExXRktibDJldE9vWjBWN0N3d3FaR0d0ZTBZenNIZjdfX1Z0ZC1JVTVPUHlZMnFTV1dWZlZaQ1NoZjA0aXlybFN0bWdVVjdHb0VIbXExUWxHLUFQcWdwb21WM2FobUJYaDdGWTEtZXVHSURmdlJuUdIB6AFBVV95cUxORmo5bHpoYllFbXdRN0RBQ2pLLWJ3Wl9lX3dFM1ZOMjBwdmZBSlVfb21mU3dGUnpiX0RLWUJfY0paWk00ME5WWTdpSlZwZmZ6Ri1EWHJZbEpFd2RsUTMzaGZkYXVMLWhHZ21XeWhEbG9Ra0hnNk1sWE1VVTlxWmNYT0VoNjhTYmFyVHZhTGpDeHpKaldCakJIODltR00tbTA1RTdlaWtZbndDaGlVUkh1Um9LbXBpT2pyNEpGTUxJUmswUVVjNUJnRURjRDVaZWctQXgwN1drd3BWWW4tQkphZEZtWTVFLTFG?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Samsung anticipe au T2 un bénéfice multiplié par 19 mais l'action chute - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPam1nM2ktU0R5VmU5SDVaYVJkVnFZdWlfOV82V2xaWHdvc2xZUkE4UEVmMmNCWW5nZGpxN1RsNDdvQTg2R1VIUDUzcmVDMzRXX3JsOWkzbkFJNThfbHcyMGxFZ0RBNmhUeG1IUy1VREQ4WWVxbHNxVXFDY1ZRMVh1MlFFalg4WkJkSXRGZXRRaXdWaGw3RFBva3Y0RktnMS1KMTN2RHVDem0wbnlDLVZMOHlKb3NKWHM3czFVMkhzVDd0aHBVQzRIUXNzaExBSkVTVWxIdm5JQXF4c2ZJbk5pTnRjNTlLOGJKYmRhNk55WG9zMXQ2cFROSnR2QUVITTdFZURIS0hrNXJfNy1qY0xCOFZLZ2w5MUHSAZwCQVVfeXFMTTdzd3o0QjBWRGVKTUNZay1Sanl6ZDA1bHZXN2ZQUFc2bnpHZ3U5ZlMwTU15a0Z4VGhwVXlxNEF6N3dNSG5fMjdaWmNHOUZwcFBVRm9BYXNlRGpKZTRYVWVIZFFTNWczTTlSNzltaU84ZTc0enBqNHJfQzVIMnZPWkNxNV82OVQwRXRvV0lWZloyODVpY3RDOXFJYlFOUm04RVBIUjRWYVR0YTNtcEs1UWJMRFlLZGI5bVVzN2NycXZtYlhHNjFVSnNiNTFWV0Jlc2Y4QnRrUHFlaUhGYXVmUmxHMlJGSHVYV2F6djNpOXFjS29MbXYwc0doRGxvaUtJNk02aHRNLWJycWk1SXdVNUlUSk5fOE9YUkRrYks?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "United Airlines doit faire face à une action en justice concernant des « sièges côté hublot » dépourvus de hub - Boursorama",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-07-04": [
       "13",
@@ -25,32 +61,32 @@
       "variation": 8.039648484886683
     },
     "ALHAF.PA": {
-      "ts": 1783403342.4469872,
-      "variation": 15.207377132539929
+      "ts": 1783437669.9108748,
+      "variation": -7.584827964453736
     },
     "ALKAL.PA": {
-      "ts": 1783318116.9069312,
-      "variation": 11.743769101767793
+      "ts": 1783437669.9108706,
+      "variation": -8.30600710617678
     },
     "ALMDT.PA": {
       "ts": 1783403342.4469886,
       "variation": -6.13065146691886
     },
     "ALRIB.PA": {
-      "ts": 1783426522.472416,
-      "variation": -8.608059246579824
+      "ts": 1783437669.9108734,
+      "variation": -9.523810155932729
     },
     "ALSTI.PA": {
       "ts": 1782448912.4647775,
       "variation": -9.380373651248416
     },
     "LQQ.PA": {
-      "ts": 1783051529.3284028,
-      "variation": -4.033284385707297
+      "ts": 1783437669.9108772,
+      "variation": -4.92049437071406
     },
     "SIVE.ST": {
-      "ts": 1783416259.464981,
-      "variation": -7.066382674576517
+      "ts": 1783437669.9108763,
+      "variation": -12.633834403749356
     },
     "VU.PA": {
       "ts": 1783318116.906935,
