@@ -1,110 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-08",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUFlZTDVKdDRTM2tWRkdaZUV5Ukk1aHN5eGE1ZDVIVUZ0XzZKRkVkUnlYVVFLbzc2dUN2Nld6X05MV2VUTFZPaXUwUXVvOHFwWFJQM1F3eXVrOGRydU85SlFaUS0tcUs3aEptVnotYzUzVVl5ekpyNEtVVE5od0tGRUZFNk43NjJRUkkwa0NZVE82Y3RSSDZBNElXZGdpeHFoaF9yYjBNZUN1YTl1Tm9wZE9QN1lMeWh4WjEtMkwtUV9LRmoyTUtzYTVMVGdYVWhiQUhrTExkX3hNcTRDQzJRatIB5gFBVV95cUxPeG1NaXFkdURndldwZWMteldzSW9VemFxakFvSE9PWnRrZjdIWmhOVmR6UHlGUXJ5T0NvMUJFWEg2alV3T1VnR0VfQ0RQWURWTDh1dDByWHZ6dFVpRklJUXhMRE9RWHJ0cXBaUHdNT2dpMkszTm5xVXdYX1hLVHRlNWZVRmZWWWZlU2ZQUWdRc01KamI5RENTNFhoMHdqVFFCSDZyLTQ5akFTVFlNYkR6R0xEb0lyRFVQT041endNWUFZOWhSX3lfT0NTay14X1hFbUVNU3VwUHc4QV9XeTVGVGFtbDh4dw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Derichebourg fait état d'une action en justice dans le dossier Scholz - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSTZRdEsySll4M1ptc291MmFOLW1Jc1ZIR09sTFpSQ3lJLXBVQjltUWNsVzAxQnc1ekFEemhrek9DbGhZQ1pJZVZNWUZYSW5RVHRhdmpkZlZPS0ZRV2UtQUhuamMwTmFUNURvTE0wa0h1RzVaOEJOX2dHVTBUTGRtQ3NPelRVelZPa1hTZC1pX2Z3emloMy1aQTlrZVlZMHRnMzBYSWxDa0hxMW9PX09vRndLQ21icUdfeGlwV01pa01NRmkzQXRz?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi membre du consortium ÆTHER qui participe à un appel d'offres - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "label": "haussier",
-      "message": "MACD repasse au-dessus de 0 (le momentum devient positif).",
-      "nom": "LQQ (Nasdaq-100 x2)",
-      "score": 4,
-      "ticker": "LQQ.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNV2JtM0pZdXJuYU9KcDB2SGxrM2tfbHFINXBNOVBWczRESlRwNGNabFNWSUs3dTFMYi1CdDJzMGlHYmVGNEMxd2xYemZCSXhObFNwQXM4Z28xUFJBb3hVbXZYbWRFNEpGQV9WLTMxWTFkQTcxOGt4Tm9GcElQRmxHcFhYc1lONFdobjlLTXZRM0RLNFRaSnV2ZmZyeGRoTEQyZTdtSTg0TDdkY1JOY1VrRFVGdlAwRHI5Vk9jR1FBY25ndmFfNzJiVFljV1RLRkpRQW5kaUlsWHhlRGE2SUl3cW55MVZ4dGhoNWhBZEdOSG91N2JVZW9FNC1yWUFib21XS1RWbWRHMWEyT2xNTE1pV1BCREgxS0hl0gGeAkFVX3lxTE5HMGgtblBvbnRlYm9iVnNQSkhnZkxZYzVTeEdCbUs4ZGZPWC1KUkV6SENRVmZNcDU3Y3h6Uk1tX0tZdWhHOGNQcGcyaVFoNVlIQk9PaHdsNWxPSlhkY2N2WjVuUURPRmxQRUczazZkUDh0VWxwSDhPWnRMVS1CXzc0V0Vuazh6ZHU3cW1WdkdNcUk2VU03NXZ3aWlfSmU1U3lsNTYzWFVEQmIzNjk3eS10WHIzYjFUVWk3bHdWYVRHTUhHc25oQmxEVVJ5T0lwNW1MdzN6UkFJSnNsY3M5TXUwQmFTTlhqQW1ESXJiTEFZNnVBMDdHSWtQQ2tBU0diSXBBMWNCdUJZMFZfUTVONDVOS2ViZThPbWMyMDdNVHc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le cours de l'action du producteur de titane IperionX recule après une offre publique de 50 millions de dollar - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUFlZTDVKdDRTM2tWRkdaZUV5Ukk1aHN5eGE1ZDVIVUZ0XzZKRkVkUnlYVVFLbzc2dUN2Nld6X05MV2VUTFZPaXUwUXVvOHFwWFJQM1F3eXVrOGRydU85SlFaUS0tcUs3aEptVnotYzUzVVl5ekpyNEtVVE5od0tGRUZFNk43NjJRUkkwa0NZVE82Y3RSSDZBNElXZGdpeHFoaF9yYjBNZUN1YTl1Tm9wZE9QN1lMeWh4WjEtMkwtUV9LRmoyTUtzYTVMVGdYVWhiQUhrTExkX3hNcTRDQzJRatIB5gFBVV95cUxPeG1NaXFkdURndldwZWMteldzSW9VemFxakFvSE9PWnRrZjdIWmhOVmR6UHlGUXJ5T0NvMUJFWEg2alV3T1VnR0VfQ0RQWURWTDh1dDByWHZ6dFVpRklJUXhMRE9RWHJ0cXBaUHdNT2dpMkszTm5xVXdYX1hLVHRlNWZVRmZWWWZlU2ZQUWdRc01KamI5RENTNFhoMHdqVFFCSDZyLTQ5akFTVFlNYkR6R0xEb0lyRFVQT041endNWUFZOWhSX3lfT0NTay14X1hFbUVNU3VwUHc4QV9XeTVGVGFtbDh4dw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Derichebourg fait état d'une action en justice dans le dossier Scholz - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTnBwR0JtR3QzeVoyTDZQYzYyZnFfRXEzdFhvTXdMeTJMMzJ1YU14R1JhdGF6cTVwa2tJeFYtbGJxQVFpRG9pdXNsWkZPY1ExdHBCY1VPWUhEeUl4eVo5b0g2LWhfLWhHMVVHLVFxd1BLQlRxMkc3X1RlNkpsZW01b3l1RE83V002aHY4ZUZPeTd5UHROLXF2U252czl5UDItaHNYejV2Y3o3U0JUX0wwUGxCQnVaQlV1YmtOUV9TMG1Rb1NqRHZBcnd5bTdMYjMzem11OThsXzBna0UwVXB0SHZpU1pibUR0ajg1MUlETG85RFE3dnJ5amwzYjl6WXE0UUJtOG83aDM2Sl9SZlBZRHdDQ3pQcE9ESUdvWUFZMUo5WE5zc0Excnl3MUY4SXUxaW81bEF4TdIBvAJBVV95cUxOcjJXc05IbEQ4bVlIUFZWWDhGcWtqc2hUMUVxa0twRzJjbF80aGxUZnEyenZHWHFLSEl0blFtMTRVdzVCV0s5ZXdiQWIwczRId3pYbWZmTmxDNHRRLU5CYWJPZ2NGYlA2OXZUeW9YcnZEd1BXT2JvdzJ5YUtDUFpyTUFsazZzVEtONUYybE40TllQanc1YnBBWWZNOGNXM3lSandVUWhuZ3JOaGFzRzFYS3RGNDQyLXVBNUNKZHVRY3BGUkUzM2dGbVhDVDNQbWV5RFRWNERDRGJxQkdKNlo1QzB5TkJRcHNuNFI3SE94UmpDclRUN3R1NGFSTjFUTlRQZ2xSUVc0MEZ3aTBTTnlNVHlYdjJQODU4bV9Jb0JSeFg4QXpPRTF3WDU1NnZ1Q01VVG1zOWN6OWk5ZGo4?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le cours de l'action A2 Milk à l'ASX progresse ; Citi relève son objectif de cours et ses prévisions de bénéfi - Boursorama",
-      "type": "actu"
-    },
-    {
-      "label": "baissier",
-      "message": "RSI sorti de la zone de survente.",
-      "nom": "Riber",
-      "score": -2,
-      "ticker": "ALRIB.PA",
-      "type": "technique"
-    },
-    {
-      "label": "neutre",
-      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
-      "nom": "Sivers Semiconductors",
-      "score": 0,
-      "ticker": "SIVE.ST",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQk9jYUYzcmZvUjJzajNZMmE1RmVpaFZlbndRZTYyZVBoRmt0TjV4UnFUZFhKX2hpVTg2cEVVX2VzT2ZJMHdJMVkxTF9rNW5EZ0FpQ29BTWRPY093ekpRN3ZNMldqZ2JEdGtQOE50ajZESmlDdGtJNDRmVEl6OXFOR0c2OHdtemN4ZE5QRFlxZWh6Wm0tOHBaRWtnR3kxSnhkcnZGdXh5NkRtODFPdjlPMlhfMkhsVWIzU3c3dmkyMnl3MGNpQUZTOHVZZ3FlUlgxcVljYjV3MUM4Tk52SEpuQW4taVlBczNBcWl2aHpMT3RvYi1PaWc?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers décroche sur une émission d'actions - boursedirect.fr",
-      "type": "actu"
-    },
-    {
-      "label": "neutre",
-      "message": "MACD repasse sous 0 (le momentum devient négatif).",
-      "nom": "LQQ (Nasdaq-100 x2)",
-      "score": 0,
-      "ticker": "LQQ.PA",
-      "type": "technique"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-07-05": [
       "13",
@@ -119,13 +16,14 @@
       "18"
     ],
     "2026-07-08": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1783525072.9533632,
-      "variation": -10.549454299195071
+      "ts": 1783530564.6119497,
+      "variation": -10.934069667687478
     },
     "ALHAF.PA": {
       "ts": 1783516438.4685757,
