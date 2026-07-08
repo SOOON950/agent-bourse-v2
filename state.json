@@ -78,13 +78,45 @@
       "ticker": "SIVE.ST",
       "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - boursedirect.fr",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNV2JtM0pZdXJuYU9KcDB2SGxrM2tfbHFINXBNOVBWczRESlRwNGNabFNWSUs3dTFMYi1CdDJzMGlHYmVGNEMxd2xYemZCSXhObFNwQXM4Z28xUFJBb3hVbXZYbWRFNEpGQV9WLTMxWTFkQTcxOGt4Tm9GcElQRmxHcFhYc1lONFdobjlLTXZRM0RLNFRaSnV2ZmZyeGRoTEQyZTdtSTg0TDdkY1JOY1VrRFVGdlAwRHI5Vk9jR1FBY25ndmFfNzJiVFljV1RLRkpRQW5kaUlsWHhlRGE2SUl3cW55MVZ4dGhoNWhBZEdOSG91N2JVZW9FNC1yWUFib21XS1RWbWRHMWEyT2xNTE1pV1BCREgxS0hl0gGeAkFVX3lxTE5HMGgtblBvbnRlYm9iVnNQSkhnZkxZYzVTeEdCbUs4ZGZPWC1KUkV6SENRVmZNcDU3Y3h6Uk1tX0tZdWhHOGNQcGcyaVFoNVlIQk9PaHdsNWxPSlhkY2N2WjVuUURPRmxQRUczazZkUDh0VWxwSDhPWnRMVS1CXzc0V0Vuazh6ZHU3cW1WdkdNcUk2VU03NXZ3aWlfSmU1U3lsNTYzWFVEQmIzNjk3eS10WHIzYjFUVWk3bHdWYVRHTUhHc25oQmxEVVJ5T0lwNW1MdzN6UkFJSnNsY3M5TXUwQmFTTlhqQW1ESXJiTEFZNnVBMDdHSWtQQ2tBU0diSXBBMWNCdUJZMFZfUTVONDVOS2ViZThPbWMyMDdNVHc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action du producteur de titane IperionX recule après une offre publique de 50 millions de dollar - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1RpX0d1ZUNubFUtZVdpNkROYktLWFFfQzhJNmZhNEZ2REpyOUE4S0lJNkREZEI3TlQ0TVZSaXhXMTNkVWYtTmZ0MXRPWExiSVNIWUtJaHF5WEh3c1VHVE0wWTVhbjdYbzlmV1hZMHFEZ1FFSWF5UFNHZ0xIMk92LThISXBfbXJJRFBETk9NdTVzVjh0eGxjRnFzVjZKU3M?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi : un rapport de Grizzly Research fait plonger l’action - Tout Sur Mes Finances",
+      "type": "actu"
+    },
+    {
+      "label": "haussier",
+      "message": "MACD repasse au-dessus de 0 (le momentum devient positif).",
+      "nom": "LQQ (Nasdaq-100 x2)",
+      "score": 4,
+      "ticker": "LQQ.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
-    "2026-07-05": [
-      "13",
-      "18"
-    ],
     "2026-07-06": [
       "13",
       "18"
@@ -100,7 +132,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1783546488.1346655,
+      "ts": 1783550533.5785003,
       "variation": -10.934069667687478
     },
     "ALHAF.PA": {
@@ -431,7 +463,7 @@
     "LQQ.PA": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "neg",
+      "signe_macd": "pos",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
