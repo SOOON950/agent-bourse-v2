@@ -1,296 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-08",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOUnNVV3c1QkVSQ0hMdlg3N3ZyV25iVWVwNkxmNmM3UVlNLWowUXU1akNYRTZUdHdoX1VIdXRRSlotTm1UV09vX19XM25pbVF3WDhlZWU4ZUpYRHFpRVQ2bmZ5Zm9CMXVkNi1YUDFndUR4WDlHR1RobkF2OTRzcXBCcHJSYVNmOWcyeVNmUDl0MmZOM0tHSkt5aXM3eDRiZWlOSW43d21kN0xsWG5PNW01NUNVQzZVaFc2RHE3cHZZQ2pYc1VnR1o1dFlpcnBVN3VncFVOWG1CQlpqNVY1LWRWODVnOC1zUjRfUFdLWVVHbmptNWU3OURRRXBkbUFXMkdsLVVIeWNCSG1lemVIRFQ0ek1BRVNyY2NOUFNTZHpXV0RFZHN1cHlhNDZYQjAyZ9IBswJBVV95cUxNcmNJdU1RV3FqUzZpVDJkOGhjX2hibVFOX2FVMVBHMFJVdldEV3ZoSTRTVnhnMkZxbm1xbm8zMDJ4Nm9saTd5TFNjak1fMHZTSXozWTNZbW1DMklZcFNOcmE2YmkzeU5iWVU5YTFwT212SWROa09nbUZid3ZTcHc4U0c2ck9oVTRULTFFazl5UmIzRDVWdGVoMlJZMnpieGU3a1p2LW14eTJBTnA2MFd5YVBvRnoyWUt6Nl9iSnZBSk9TSTZhNEZUcElqUy1jdFNWeEVRbnhEbDVKcGk2cUpsaVhYenc0Ykt0SFp4TGE2eVJIaTBicVdlekU4amNJMmhHWnROcERuaGQ5V3lIQ29YZjRfMVVfWTJCM1VtWUwxS0tQdHI4VW1tMy1taWdCZUUyQXQ0?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Citi relève son objectif de cours pour l'action a2 Milk cotée à l'ASX, mais reste prudent quant aux résultats - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTJ0UVBmY0Itam9FWWNLRkxNR05IdlE4b08wYXotUXMyOUtVWVd4cEZKOURRR0cwTnlwY3RIamJ3Ylo1emEwVmJHWjRBQ3pZdjhhVVVvcHBYdGYxY1hKNllTR2oyTTdTT2ttbUotTzBOcDdZMExXRktibDJldE9vWjBWN0N3d3FaR0d0ZTBZenNIZjdfX1Z0ZC1JVTVPUHlZMnFTV1dWZlZaQ1NoZjA0aXlybFN0bWdVVjdHb0VIbXExUWxHLUFQcWdwb21WM2FobUJYaDdGWTEtZXVHSURmdlJuUdIB6AFBVV95cUxORmo5bHpoYllFbXdRN0RBQ2pLLWJ3Wl9lX3dFM1ZOMjBwdmZBSlVfb21mU3dGUnpiX0RLWUJfY0paWk00ME5WWTdpSlZwZmZ6Ri1EWHJZbEpFd2RsUTMzaGZkYXVMLWhHZ21XeWhEbG9Ra0hnNk1sWE1VVTlxWmNYT0VoNjhTYmFyVHZhTGpDeHpKaldCakJIODltR00tbTA1RTdlaWtZbndDaGlVUkh1Um9LbXBpT2pyNEpGTUxJUmswUVVjNUJnRURjRDVaZWctQXgwN1drd3BWWW4tQkphZEZtWTVFLTFG?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Samsung anticipe au T2 un bénéfice multiplié par 19 mais l'action chute - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTJ0UVBmY0Itam9FWWNLRkxNR05IdlE4b08wYXotUXMyOUtVWVd4cEZKOURRR0cwTnlwY3RIamJ3Ylo1emEwVmJHWjRBQ3pZdjhhVVVvcHBYdGYxY1hKNllTR2oyTTdTT2ttbUotTzBOcDdZMExXRktibDJldE9vWjBWN0N3d3FaR0d0ZTBZenNIZjdfX1Z0ZC1JVTVPUHlZMnFTV1dWZlZaQ1NoZjA0aXlybFN0bWdVVjdHb0VIbXExUWxHLUFQcWdwb21WM2FobUJYaDdGWTEtZXVHSURmdlJuUdIB6AFBVV95cUxORmo5bHpoYllFbXdRN0RBQ2pLLWJ3Wl9lX3dFM1ZOMjBwdmZBSlVfb21mU3dGUnpiX0RLWUJfY0paWk00ME5WWTdpSlZwZmZ6Ri1EWHJZbEpFd2RsUTMzaGZkYXVMLWhHZ21XeWhEbG9Ra0hnNk1sWE1VVTlxWmNYT0VoNjhTYmFyVHZhTGpDeHpKaldCakJIODltR00tbTA1RTdlaWtZbndDaGlVUkh1Um9LbXBpT2pyNEpGTUxJUmswUVVjNUJnRURjRDVaZWctQXgwN1drd3BWWW4tQkphZEZtWTVFLTFG?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Samsung anticipe au T2 un bénéfice multiplié par 19 mais l'action chute - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTJ0UVBmY0Itam9FWWNLRkxNR05IdlE4b08wYXotUXMyOUtVWVd4cEZKOURRR0cwTnlwY3RIamJ3Ylo1emEwVmJHWjRBQ3pZdjhhVVVvcHBYdGYxY1hKNllTR2oyTTdTT2ttbUotTzBOcDdZMExXRktibDJldE9vWjBWN0N3d3FaR0d0ZTBZenNIZjdfX1Z0ZC1JVTVPUHlZMnFTV1dWZlZaQ1NoZjA0aXlybFN0bWdVVjdHb0VIbXExUWxHLUFQcWdwb21WM2FobUJYaDdGWTEtZXVHSURmdlJuUdIB6AFBVV95cUxORmo5bHpoYllFbXdRN0RBQ2pLLWJ3Wl9lX3dFM1ZOMjBwdmZBSlVfb21mU3dGUnpiX0RLWUJfY0paWk00ME5WWTdpSlZwZmZ6Ri1EWHJZbEpFd2RsUTMzaGZkYXVMLWhHZ21XeWhEbG9Ra0hnNk1sWE1VVTlxWmNYT0VoNjhTYmFyVHZhTGpDeHpKaldCakJIODltR00tbTA1RTdlaWtZbndDaGlVUkh1Um9LbXBpT2pyNEpGTUxJUmswUVVjNUJnRURjRDVaZWctQXgwN1drd3BWWW4tQkphZEZtWTVFLTFG?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Samsung anticipe au T2 un bénéfice multiplié par 19 mais l'action chute - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcGI1V0VwSFVQcDgzZ3B1RnBkVEVrY21yNXBiRTU5YmY3cHNrdmI0XzZhUUg3R0M5X3MtN2lkR2FoLUxvQWd1ZU1ZM3BzQzZybzM0d18zY0Nqbnp5WW01NGM3b09INDVDMW1MVll2UmxfelBwUnRLaHZNMnBfNE5mUEFGdDBYWXJ3NEg3RHhUclpZZk1JRm5POURacW5JYzQwOFhEYW0zYjdGNUd1dGRDR0hVMmlYdWwta2hWQnNzY3BEU2lZSkE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi membre du consortium ÆTHER qui participe à un appel d'offres - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NRXZVMTVwOTVTU2FzcmRtWFVHLXdNc050V29CQTNPVTJKbkp2c2Y0NUN2OHJZLWhQeXJzNWFBSzVTaFNTalJHQlQyRjJmWEtIRVE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOLUTIONS 30 Cours Action S30, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
-      "type": "actu"
-    },
-    {
-      "label": "neutre",
-      "message": "MACD repasse sous 0 (le momentum devient négatif).",
-      "nom": "LQQ (Nasdaq-100 x2)",
-      "score": 0,
-      "ticker": "LQQ.PA",
-      "type": "technique"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-07-05": [
       "13",
@@ -303,20 +14,23 @@
     "2026-07-07": [
       "13",
       "18"
+    ],
+    "2026-07-08": [
+      "13"
     ]
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1783503647.8814948,
-      "variation": -9.89011366749382
+      "ts": 1783510289.691679,
+      "variation": -18.901102300744434
     },
     "ALHAF.PA": {
       "ts": 1783503647.8814964,
       "variation": 7.826085000497892
     },
     "ALKAL.PA": {
-      "ts": 1783503647.881492,
-      "variation": -8.820027569029703
+      "ts": 1783510289.6916761,
+      "variation": -10.131112139932547
     },
     "ALMDT.PA": {
       "ts": 1783403342.4469886,
@@ -345,8 +59,6 @@
   },
   "seen_news": {
     "AL2SI.PA": [
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxQWTFucDNfTmRUZ0k2WHNaS3N3c1VZMDNtRGRYSUNmTVBkTHBaZ1RFaTBsTDBxZmI2UnRSZTRkblpPdVNCekh2eWVVRTMtU3JBQk9zcnFha0YxTzdwSGNZU0ZqYjBENHBxWUV6VHc3MzRjbGE0ZDAxUHozQVFLYVRZU2dWS2RBWWx3NVI1QUNhSnNwTTJqazRMcTN0dTExQQ?oc=5",
-      "https://news.google.com/rss/articles/CBMingJBVV95cUxPSHljTHFlSjA0VVRCbVY3XzJuOWNweUpxbnBTRUE5RnRnR0pCaGN1Ql9vX2NNZmwwMnJmVG5fUUFXbkFHTENMaXBZMGJodzlXb016SVVVQThfN1lzdUFUaXRtSUZ3WFUwTWdQbkZXLUZkTnBiNjNZdlpTNGJkTnFnbG1yTm03eE9YZmh5Sm1tSlVySG83OTJib0cxUGpnR2dieW1BR1JTNHZwMTczWFdLODhBSzJXNmpHRkNuc1ZXWERMRzZiNU5GcjdaWl81SmQ5OHU3dFdRZDNXLXl5N0kzUHFpaEV5QWFQYVlGV0lBWG9MbHFMOUsyVWlVQzhadjRBZ3hGX25UdklGQjFKb0hhaGt2cVBveWJUWVVsSWJR?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1RpX0d1ZUNubFUtZVdpNkROYktLWFFfQzhJNmZhNEZ2REpyOUE4S0lJNkREZEI3TlQ0TVZSaXhXMTNkVWYtTmZ0MXRPWExiSVNIWUtJaHF5WEh3c1VHVE0wWTVhbjdYbzlmV1hZMHFEZ1FFSWF5UFNHZ0xIMk92LThISXBfbXJJRFBETk9NdTVzVjh0eGxjRnFzVjZKU3M?oc=5",
       "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjJMUmxqSy1raEdjYmx0MzE4QWMzS2ZrTm14MjdLelF6NUdoZElqMzNYdFRzWXRIVFZrLURhWnlPd1ZDd3UwU2xyYk83djlkQjY3TTJGQ1RaNVlKckU5bnlQNE9rcHJBcDBWUjhIUFFiSHhkSTVnc2tYQ3FrTVVSSHRUYk5RR2M0cG4yNHpGQ2JlSWN3WHBXbl9zZU9HeVZF?oc=5",
       "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMDdYSDBON3V3R2lpQ3R3VkFNNzZfbDBaT1pXR0gyOG5uWHhpVVc5MDYydlY3VldSUDhGLTBSXzBRb2dBTHpYUGJJeGE4YnFtN0MwcWNoSEtwM1NpNE00bl90QXNfYUJGUWc0ZjhNeFpEMFJBZEt5QVE0Vi1BcXBzSGQtTDBEcG96aTR5MFdVV0gya3ZYTTVmLTh5a0kxekttTk5EQU1vZzJNSkhPdzhHaFNVb3pZS1dsY05TZW5JQzNPQ3F3ZnZDY3BRNFgtemdwZVI2eDRHRWE1eDZJbW12TXBPVTRXRXlLOEZJVF9pUzdnV0ZHZ3pXLTN1eUkxYnNGaW9TODdvZVY3cmRWUDVDbzBLT1I0czZmd1p6NVBNTXTSAaYCQVVfeXFMTlJvZFR4SDFDUEJGUG5oVG55ZE1xZVZfT0hqSUN6RC1iUTk3ZjlkTVoxSzVrLXdkeF8xMVdsX25Ta1YyUWlDV3BzNXRBU09yOTJ0TXFUYThDUUlQbnh2dklkRmFBSEQ5LTg3cjU3RDQ1d0pjSFJZRVctQ3NOTUNNVGllOGhyZTFJZHNFWXBhMmJXSlFneHBmZ1M2WktVSVBOUWF2TUxUeUZjY0ZEaE1reDU0VXkwaFFEMzJ0MG0ya0xsMWpneVY4b2JtclFrVkFYRGtweDBvVGhoYmQweUJlMjYtbG1iTHNxVHNFanQ1TmtQaHI5blFJSTRQb0loU1AyOENCWnJ0bzRQSld5WTZqVEYtTWdabTk1d0RiVTJWSlQ2czJPY3hR?oc=5",
@@ -390,6 +102,8 @@
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaW5Fa3pSQldqV1gwb2ItN29zZlVVYndHWUNJam5XYnNWcmlmRjRBa3dLbDRYU0Z6WnppMl9Pa2hyOTBxQlpGVUVyTURlZVhucUdKSGRoTjRXYUFYUHBjU3JUNF9VYkUtVF9kXy1TVm82TVFOeGlaRDhFSVlrdThMNFVyNFNCX1hRNXBvNnBMZE1fTjZHWWZMZUd0Mzgyb0xTekp6bEtnN1p5Ym4tSzQ5d1RpVGNVbTYzdUJSbnNKV3pRMHRPOFB1Y2tVQQ?oc=5",
       "https://news.google.com/rss/articles/CBMiywJBVV95cUxPTVdQYzIxVXFlbHhCelhVVEV0aTlKQlVzM1NZMUQ4anc4Nm5YQTE0Y3dyTHJWRmVMaTcxbzJ5c2pBcGx4T0tOWWpaVVIyTURfRElUbVRPNU9JYXpEWjNYVVlYMVlfTFc0SFlLLXc0LVhtdWFxaV9mLXJ0STF5ajQwZGs3N2NwVVdyTUhyd3BpT05DcTZTc0g4Z19sM0tQVDBwLThZT21ZVmhqWjl1MnN0Z3J4dUw1aDFmeE13NEJLdTc2MGpib09LLUNNYmNQTFNZNWZLNkhfQ3NOU082cFlVTWt3bjlwOGl1WVo0NnE5VzItVi1NM0FteThGTmJPSmtPN3JUOThhNkJsRE1rcWN2bnNZRDc5TjRtRHJwNlZrX3FIcVhrRXhOUVRYc1NDTmozVG5mTmpyemE2STFDRS1RYkxfY3ozTVI2R1pB?oc=5",
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmxOWkFuV2x4X19neHdGWDlNYkhvU3dKT1g4anFfejBRdUwtdnZEM0pzdC1ONDlsdmJtWFZEeVk4SHQ4LXRod3lCRGJwdXVQVldUT2RnSUEzZ3pNTTVZQUxpNmV4VmJkTTdmNG5rejdSajFkSHY0MWN6LWdrTmhmOGNteWVCcnhRVWtuUWdMbHdQZ3JVVk1XWUlVOUNQOHU0ZHZDRUgzd0VlWnlBRDRtZFA3WWVtbndTV3E2d21FN3dsNTdWck54SWlkbEU?oc=5",
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZEo1X3FUU0s1YVh2TnhYaW9BMUxjZ3NVSGhNNjJpVV9tb2ZIb0xudDUwaEhKZ3lXQzNFLWpYdEh1UWwyZ3UwZDB1cUFOeDdyNUhhTTByV1RBajgwM1hBWGE0YVZBdUh3azFOQ0J5cjAwRUxSMzdoTVF3MWtsdmt6R1BFTlA1blUxczdjZmx3QkVXSHdwOUZabTFoZTdiY2JjS1FqYi1KUjFSd0g4R3o3T3hLRUJLY245X015bGl6emw3VXZSZFpnYVZCZDbSAdIBQVVfeXFMT1RsMWhMOFpCQWQ2SmFUd2xpVkpMdjJiNlE5U0FBd2ZWeFVCTGlwaklqMDl1ZVFOMjhzMnBSa0tMUGl5dnYxY0djdEZSTGNaVnVZVklTcXE1Z0xTN3o4ZWVJak1KZHBEWG8tYndVYTBTREFlTFBCalFNTTF4VXI0dEhyaTYwYUNadVBuZlZyckoyS1RMbEZNYmY3WjlBbUZWb2RZYlpLR1ppNVFTNUx4OTZCVnFNeUU3M0lwUHRFdFQ0am5uVUgzUV9kc2RydklwYW5B?oc=5",
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeFNRSDRHc0pNUmNTYkNCNk1PQklLQ3hVSnRlS3p0NEJwZXhYRWRTOEJoMFJuaWZzMEVuV3JQVlVyZUNCRnJGOXZMMmxLNlN3ZUJPYzZNUWpYaFlnSVNCR29KUGFzc0hCWVEtcnFtZWpoVENienJWNWg2T25zQ3Z2c2k1Und6Szh0SnI1NXhtMUdBQ3NoejRYTnBvcmJoelFQN2hZdDM4WEVVbFNBcDNHdjNxcnQzN0pqSnI5VkgyQ25ybXRuYkptbjktZV8?oc=5",
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSDlRX1pTTXVWUVY0ODVmV0hteUhKZktqUVVpaG5CdDNHTFpyVnFTdkJ3N0J5dEN2VmlXeEg3OXdlcWEycmYzME1JbnZMWlpfbzFUa3FXT2k1cHBib3hfX05xem5PRXNRZVpRMl80MThBVDV1ZEdkdmxZTllKdTFJYzJPYldCSTNLRXI3bEpoeFg5cUFKY0pKdTVLLXUwX2VVUVpGMXhRNHpPMVkzRlE0QU9KTldidE0zQXViX2Uyekhla3hwbWJNTnFPZEM?oc=5",
       "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdm5VM25FbVVaWVBLTnh1YVJ3cTVUb2FGSkdYOVhtSEJPejVfU3FGcDE2c2dOY2Itb2pUcVJWZHpZS0MwanU3Qy1uQTFiZkVsSUNmZkxqeHRwSXp0a3gyd20wMkY5cjg3cTVGUUk3RDg0ZlhuVUd4YWk5cEpkTGtQX1RwRkhCV1RBZjBwZkQ4d1RPMGk4QkFyZHZJZ2s2ZG1mLVY3OEhqdzc5NEl1OGRnS3BsS3lTTnZIdjNtUUktc1NlUWlwS2dJQS15Rmp5Zw?oc=5",
       "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRWVFWk55ZGpMLUlBYUhHTVFzMTVhTHFSdHl4elJsVm44SG5SWXdWSzIxd05TSWcyemc2RS1YQ2NLQTJSQkdrWU5tTVRlcFRzRHEyaUEzamo5LWNVNFNaSWFqMFE3alBucktVRERGZHJ4NElvMmJBQzI4TExzdUJSYklaUlQ4ZkUzMVpEcGdTcVN3NlBNdG5ZRXVhQUlOeVRaWW9sRTNrdWpoSm8tNVVUOTBJdnBVQUxCWnEzU2pjaU9RWi1NLWlqZzNTMDJ1dw?oc=5",
@@ -622,8 +336,8 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
-      "zone_rsi": "neutre"
+      "sous_support": true,
+      "zone_rsi": "survente"
     },
     "ALSTI.PA": {
       "au_dessus_res": false,
