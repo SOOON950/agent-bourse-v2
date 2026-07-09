@@ -1,7 +1,43 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-09",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcHZjLVlwZFNqVDZySml3bldWTFNZc3BNUnVpcS1MQjFsSnhjYk0xR05RSHlBUC1TSlBfRTdtZktDbk5Bdkc5ZU80VlZ1WUc2dWVUSW0wSnJOLTZ0U3M1X1A2cnVHWGlvYU1pRnQtdDRmVTRaMHNlbUhneXVPd3Y4OVJiV2pGemYzWVFhb3J6OERiS2Jyb19uTUk5UFpjMXdKZU9IcWdUT0tRSzJwZHFIT1RvZDRZUkYtbzYwcF96TVpBWk16cFZhb1hONGl5NWlMUzY5Z0tYRFcwWlZGME11UjJ6Z3kySkpEVC1RTm1QR2xaY2w5ZlZlSHFCYjg2SWNOUjZMTkNhejhqLWlOZkQ00gGUAkFVX3lxTE1yaUg5VVJIOUdyQXlzNEhKQ1pBYmN6NHlGVlBRX2x4NHpWQ1o4V0Y0d016T1lKX0ZIRGpKVkpZQ29oazBnNWhKTGV0Yk9pZE1lNzZuUFBvSUFKdm9tN3hiMjFxdUoxVlQ5ZWRyLWdGZFlzaVNyRl9TUFp4T0FmMkhNcEUwMVFOejFYZzFlUnhpLXhnNkM2SXQzZVAzTV8ySlN6Y3Q4MUNkWFlRX1ljTHcxTW1VdTg5bkpyY19PVjZvYVZHX1N0T1MzMU1GTGJqZTBPSjYwSHNwbUY3cGdOVEZicnAzU2dIdHNqdlp3d0hpUUJ1bFJra29zaUI4eFctaUtUMXpxT1piQl94V2FpdWFTNkQ5Sg?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "La scission d'ITV fait chuter le cours de l'action alors que des coûts de séparation élevés se profilent - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWHdPUFBWQWtFNFlfREM3X0JoQVJiNTNncXRUdDloQy1WTmcwM0hFdmhrUVlVUG4xSVQ4TDVUX2VWZC1zRVpGZ0wwem1zbEdOYnNONlpzQWp2OWdzT1ZHeEk5ZWVjSzRlVWRaYkJvVWhuNEVwTEZCbl9ycGZJSWRUS28tYnhFMHZLWHcwNkJQWkZxY3dkNExWazlqSFc1NGRycXNsdl9XeTBkX2t5cENOYTA2SWJQMUUwcnhHYzFMdk5lYXVqcFhITnhLMXZmczJOVUVnaHdXc0JrdzE4ZXdWZXdoTURpZ1FXVlFiT1RMdTJ5UGdick1wd0R0R1ZwT01zZUFuSE1XSlNocmNISjRmRE03TkpvdHEzY1VB0gGgAkFVX3lxTE42UzcyMjFKekNqejJkaGlRWl9rVE5reUlyVVRRRExiUWxhbFBHQ1pReGJVUjljeFRNdUt0d0l5T0JPck43RGhEbWlLNURMcXpkYVpUMkNXNEhxRTNCbGtFRjdJRWViZVo5YXlCWXJzU08xdEY2d0pGYUl5VnVGT2FDdHBpcXVGLXB4VUxiYlQycmcxUEpOTUZwbHpVbWN5M3dkanlOdFlfMDR4ZUNXeWJWTC15bWFzanRpYkR2ZTZ5ZU9ZQXZFUHZVeEl4R2ZlVWE0UWZHTldIX3dlOTN4YWRNXzJ0S1dtbFRSTmt4OTNERC1aclZJRDZIdmZuMHlYM29kR3JmWUtJU01vNUtWOGVZSGxJZVROMVhhdTRhN3FMdA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "La scission d'ITV fait chuter le cours de l'action, les analystes et les investisseurs soulignant des coûts él - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQa1NCMElLM20xY1pSdF9ac3JBdW1wdzVuVkVDMkVUbTViRjZIbHU5RkNqYXJtcVB0UlRxU3QzX01PRjRWV3A4dktRX1ZJNmt4TXVibUJobFE0SloxeWVUZ29xcXB4aF93VGtsS0loUzBsWXMzeEtsZVpQbFBEUzFVVVI1OFpvYnBic0JrVGdYZFo1SlpFdWU3RU12RGZxdDFpQ3RuWk83Wk9ZeTROcGRFLUM4UXdUUkw1VERSV3hJa1ZQYjlhRnpoTWN1ZjJ0QkwzR0pzNTN2UmdvYWYxN01UejdfSlA2NFh5bmpDaTd0QUpQOXlzR3d1WEs5UFdvdk14eUFUZ25XNElMdmRMbnfSAZMCQVVfeXFMTnhZTUdVcEppcWdzV19FSkNYb1NRdmRWRXY2WG8tTWdpelNuTkRLV3YwT2xlak44UkhscUpXZ1Q0TW9QRlM3M1F4cmxKQThEWktBT09XemVEWUFwM0RacWtQUjRfNTF3d0lsd01HNU9JYXZJb0trcDRIdnp5bzNQQ2QzdFExMXRxdlRjTUlFVmdodUdQYW5HeUV1bFJYeTlaeHNjUFp5Y21UTVNwRUMxTURXV2FKbnlRQjRtUHc3cVFRMm9fVHozRlo4bFNReXdGaGk4Mm0xcDdxVUVYN1dydGpGYUxNWktINWJmT0Vjak5BT0RSVlBjb3hfWU0wNnZtNXU2NV91bXRrZHBsUDIzLVQ2LXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Infracore passe sous le prix d'introduction lors de son entrée en bourse en Suisse - Boursorama",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-07-06": [
       "13",
@@ -37,7 +73,7 @@
       "variation": -6.13065146691886
     },
     "ALRIB.PA": {
-      "ts": 1783619239.5003064,
+      "ts": 1783624495.1550648,
       "variation": 7.723995457328092
     },
     "ALSTI.PA": {
@@ -45,11 +81,11 @@
       "variation": -9.380373651248416
     },
     "LQQ.PA": {
-      "ts": 1783619239.5003111,
+      "ts": 1783624495.155069,
       "variation": 0
     },
     "SIVE.ST": {
-      "ts": 1783619239.5003092,
+      "ts": 1783624495.1550677,
       "variation": 6.199185345049822
     },
     "VU.PA": {
