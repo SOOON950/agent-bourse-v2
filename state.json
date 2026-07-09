@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-07-08",
+  "last_digest_date": "2026-07-09",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
@@ -184,6 +184,63 @@
       "ticker": "AL2SI.PA",
       "titre": "2CRSi : un rapport de Grizzly Research fait plonger l’action - Tout Sur Mes Finances",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1RpX0d1ZUNubFUtZVdpNkROYktLWFFfQzhJNmZhNEZ2REpyOUE4S0lJNkREZEI3TlQ0TVZSaXhXMTNkVWYtTmZ0MXRPWExiSVNIWUtJaHF5WEh3c1VHVE0wWTVhbjdYbzlmV1hZMHFEZ1FFSWF5UFNHZ0xIMk92LThISXBfbXJJRFBETk9NdTVzVjh0eGxjRnFzVjZKU3M?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi : un rapport de Grizzly Research fait plonger l’action - Tout Sur Mes Finances",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSU05am5uU1o3T2szRFBjSFRWTHdUazNWczdETDZ3SFJjSzVuZ0Q2dU5MMWNndTFuWnV2ZkNQZXlaN3gxOGhhUDhkcGVDdjZIOW1ia2VBZE52YUZqUTNWMGJKZzFnelhLenVmNnNZN0U1UUxZdmhJbkN3MHc1eElBUlZVdm9WM2pMME1YUkZNcG9INzBNbWtjci1sdm1XajFvbjZXU3hsaVpQYWtuVE9TOHVxUDhQVkN2bHJNdDFpWC1fU0dEcWNUMjBQdWdZcXBVLXU5NVM4SEJubXZnMjNMWjJmbnRvZEM2Y1k1cjlfQXhoS0h3bXRYMFJjZ1JicmRXTkFfRFYxQ2gzaVB2RGNfeXdUcTRJTHA1NDNTaG00bWhsbTVN?oc=5",
+      "nom": "Median Technologies",
+      "ticker": "ALMDT.PA",
+      "titre": "Median Technologies lance une levée de fonds pouvant atteindre 50 MEUR - boursedirect.fr",
+      "type": "actu"
+    },
+    {
+      "label": "neutre",
+      "message": "MACD repasse sous 0 (le momentum devient négatif).",
+      "nom": "LQQ (Nasdaq-100 x2)",
+      "score": 0,
+      "ticker": "LQQ.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
@@ -202,7 +259,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1783565581.4750533,
+      "ts": 1783580222.742805,
       "variation": -10.934069667687478
     },
     "ALHAF.PA": {
@@ -358,6 +415,7 @@
       "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSzNVVVpab3QzZGU2VE9WWEs5THU0ZDhiT3IzZWJoZzlSaWQyVlpOdlZyM0Zwd1o3bEc3WkhvcjVvcXktU3llandDa2JsVF9mVnBYM3IwLXdSczZSLW1fR3JMMUxZdFhjYnl1Ql9NQVlQMFc4TGdla2gyZTNxNXFxaXpsNXU5bW5zcUIzT0d0WjJGejh1bFU2eE55dEdad25sQ1dIT1lBUWpwVnNOeDBDSlY1ODZsYS1fZzExeXQycVd6cjhqV0FxSERpbGRONFFuOWw5b2hFYk9KMU9TRk13d280LXM5UFN4azJIWERRLWdOZUhWc3hGeGVVVG9MallyNC1kUGhfOGdvYmplS2RqRldLY1JTaVdVXzBN?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxPNC1sa2J3OGpCcUFnY0oyZGxrYi13cFdkU1NRa0pYRFFEbUhmajZIRmlyZGJQQU5QdWZpVFl1SUJOY1Y1bDBhS003b1lNVXJ5Tm9LOUp6Y24yVzJFdkxSOUFEeUxfRW1WVURad3JGemlLZTZrS002ZG5uaXlITlgzS2FzSzd3enBNNjdkZGhiN25yT1JPdFA1aGN5YWE2UQ?oc=5",
       "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdURkR1d1WEJidVIwQzYtYzNLNGVGVVZJVHY0Z3loanptT1AxZ2VQblBGUnZjMndKQ3QtcnF0bkNpV3hhQklVZFJyN1hBc2xwX0ZPNlJVbkJlZzgyalpWc1BqU3VPdi1PMmM2azRoMTRhRFo5b3pHbjV6TXBfTVpESXJNSGpiekpuRUNERzRtU3d4dVhfN2NhUDV5ZHcyejIwVmpj?oc=5",
+      "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSU05am5uU1o3T2szRFBjSFRWTHdUazNWczdETDZ3SFJjSzVuZ0Q2dU5MMWNndTFuWnV2ZkNQZXlaN3gxOGhhUDhkcGVDdjZIOW1ia2VBZE52YUZqUTNWMGJKZzFnelhLenVmNnNZN0U1UUxZdmhJbkN3MHc1eElBUlZVdm9WM2pMME1YUkZNcG9INzBNbWtjci1sdm1XajFvbjZXU3hsaVpQYWtuVE9TOHVxUDhQVkN2bHJNdDFpWC1fU0dEcWNUMjBQdWdZcXBVLXU5NVM4SEJubXZnMjNMWjJmbnRvZEM2Y1k1cjlfQXhoS0h3bXRYMFJjZ1JicmRXTkFfRFYxQ2gzaVB2RGNfeXdUcTRJTHA1NDNTaG00bWhsbTVN?oc=5",
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmVKdUtRZVFMek4tVjRFc25PUXd4S1JuTWJTMUozdkNCS01kdnd2N3l5YjhVR0Vid0djdW5PTEh1SVNDaHlnbjZJVXVITmhpWFk5SjQ4Z3VZNVIxNExMbzd4dUMzQk1hT3c1MzRBcFZLRTJ4NFlsb052cVd5ZFVUbVZvTDJrTjN5YTJRNG1CT1VUaldRb2ozV19DSnVQNjFBNDJxV3BR?oc=5",
       "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVDBZMnp5d0JjaTJGdWhVMXpOeGJTWVFDV2tWNHpMNVNrSW9IZGwzd2dkNVVEUWlyUU83dDVNTmFlNzBzRWlhZkFpQldrejdORTZEVXh5MXEwNklGODFxcEN3cFZ4bkFtVVk4OGhocDRvT3M3V1Y1ZUdqbVRSdXpUdUl2aTM5N1JoTVVpbGRwOHg5WW5KaF8wUnlkUHdjaGpqRDVrLU9vWUZSbFk?oc=5",
       "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHlfVHZ5UGhEZDJNMDlZSDZkdnFQV1hVVVRmakhiczRiM0x5YjlxN25uSFcydkpKUVFYb2g5RHItdTB6dXhsNlF2MG10WGtKUlJxSjZwSF9YMG9TQlJfd0F3S0dPdU4wNkVMWWlFUU9YYmxMSTZjOWwwSWVra2VuM0lJZno3RWZhOXRpenY2VVZWeU1ZdFg4Nms5TC00Z1F0ek9CdHlsTHVyV2VKMWRRdDB3?oc=5",
@@ -533,7 +591,7 @@
     "LQQ.PA": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "pos",
+      "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
