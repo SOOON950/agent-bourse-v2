@@ -1,57 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-10",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRnJjVFhnNjZBLWgtWkN0ZHBOeW1NY2JmQmlMQVJWbHRleUg4Um9HdXFhdkZiUG84VTg0NzJvS2loWXJIbGFfYktyRFVORjFo?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZE1mNXJTV0F4SmpVOUR6b0NTZHlUY2lwTFBVaVJTUXFpSTFENURtd2V2c3IwR2Z2QlFRUWQ4dFdIVnNHNnRXY0RTZi1nSVZBTjRoUkdTS1A1LTc5QndRTlVzMFNCSl9sOVcxRThmd09URV9Wa2ZpXzBhX3BLV0NHX003S2JkWkk?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi : et maintenant ? - Boursier.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1RpX0d1ZUNubFUtZVdpNkROYktLWFFfQzhJNmZhNEZ2REpyOUE4S0lJNkREZEI3TlQ0TVZSaXhXMTNkVWYtTmZ0MXRPWExiSVNIWUtJaHF5WEh3c1VHVE0wWTVhbjdYbzlmV1hZMHFEZ1FFSWF5UFNHZ0xIMk92LThISXBfbXJJRFBETk9NdTVzVjh0eGxjRnFzVjZKU3M?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi : un rapport de Grizzly Research fait plonger l’action - Tout Sur Mes Finances",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNR05kMzVqS043SlJqNnJFb01LdF9qamp3RnMyNHI5dUJxcDlCTGhFWFI1akMzcHd4eDN1eTBYMVVoMEpjNlA5SmV1dWxZUXowajduME81WmJSQm1JOFJFT204UkF3Tkd6MnBCWWhZYkJFZDVsVXpLT09EN29mY2FNcFJ2Z0M5TS16SlBIYW5yWkdnWXJ0QmxfYmZDMkh3QjZfaUN1aTN2dU9fb3k4RXVWcUh3aUpMTDJGMjR6M3VtYkNXaDVfcXRScDdsS0dLaWJ4OEdDU0U0MngtWDR4TkhhdzdRbUlydXMtblVrMFRCVTl3SU9XMzdMaE5qUGJEcWRqdXNXMlowWQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi conteste les accusations de Grizzly Research et demande la suspension de la cotation de son titre - Les Echos",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-07-07": [
       "13",
@@ -65,7 +15,8 @@
       "18"
     ],
     "2026-07-10": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -94,11 +45,11 @@
       "variation": -9.380373651248416
     },
     "LQQ.PA": {
-      "ts": 1783697753.7583134,
-      "variation": 0.4860759493670891
+      "ts": 1783704389.4602983,
+      "variation": 0.8202531645569571
     },
     "SIVE.ST": {
-      "ts": 1783697753.7583103,
+      "ts": 1783704389.4602957,
       "variation": 13.110049911390426
     },
     "VU.PA": {
@@ -247,6 +198,7 @@
     ],
     "ALRIB.PA": [
       "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcVlZdWdYWUZMbFNrR002Mm1XY2xuaW80cmNPX0tNakpRWlZvOXUtY1l6NzVrV1lhaE9PWkw2N3hYQU55WUtGZGJQT2lXNnpmMmRwS2pwNGxpaHZtNkZHaksyT291aEJqVXBMSWZQdkxFa2d1U0VjaWJQb2xMcGRMN2NuOThrV2xaYl9XN1l4TzZfVENVdVJySnpfZzZ2ekdjNGZtQ3JTQXFuZExhYzhabHRmYjZZVUtNWWw0OTNTNEtvR2RpRmVDeHpjaTdySzNpeC1ZYU5ZU0huaGw3bDl4MjhxTjBnQTFpLWh3Q0x2dDNDU0xDMWtscw?oc=5",
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNFJ4TFo2bGxsQ2JEbXNXVXpOdDQ2OGJzZUxJQkVlb21XRV9KaDZ1T1lCMHpZSzlPRUc1N0pYN0t1WUlLX2l4U2NHRmQta1BUdnBYMFdlU0FwWUhxYnhzRWFCSnU1NUduNzVlVXhGZ083WXZmcHZiNkJtSG8yVlIzOUt1eHNGdDBzRVozVXVLWGp2SVpOTXU1RS0zYXVMZC1VZi1TQlVpX1NwRk1HU3pjcXVUMFVvdGtQcDNWZ0FISlhaWVVkb0ZId3p2aWdJVVVO?oc=5",
       "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVJQU2dxWFcxeVcwa3JLT1IxRnV3NktBd0N0dXdCSzNRMnZrd3dvRVI5NWVZVkI0bVdiVGhiSDg0SmpTd0IzLTN6SVdqZkRablU5aWo0YjU3YnFNbW90ZzF0eEJMZDdJOFE3ZjhFUzl0ZlBueWJmYkw3elhiYV9sbmNZbkFSVW1yRnVxbkM0Y01RUWhLdEdobEFVUE1lRl9HdGtmN1NvRkZscjZ2ekNwc2pXX0NhOFkwaTJfVTg5alpqVUJfSmVtaUVpTjZSMDM5OXc?oc=5",
       "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQck9pX0dfbnNrcWVsdUJ4UHd3MV8zWlJ2Tm5DS0VOa3I3WmJPREg0amxOaTZWT3RSaEpsV3Y5YkhSTjRtR0xfamR5WUxsMk52cjVaUHJwT1R5Q3JXZlV1bHR6enBqenludVdVSmNlSjM0NzZ1Q0ZLMVNLQUxZQ1FkeFY2SWNocVdvTGQ5eG0tc3BDM0I1QTktYTl0eTdPM01vWmo4aFVDNnRvT2hEcFRtSzBiODhPaFVxRk5nVW9hbXFndS1BbkdBVVdjTmRxU2k0bjdrNVV3?oc=5",
       "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNbG5BcmRIbUdpMTVXZ2FKU2F6MHdSX3A2d0gxUTBPdVhBamhPdFZOU2U2WWtfZEx1NnFOUnQ1MlVGalNrcHR2aGlWdFd5a1BsVmI0MTlfeVQzSG5NRXU3VjlHSlk0NE03TmlZOVFoV3lTcXphVEJBdGFGV2l2ZzZVRnM0MWx6Qjc2b1dfZ2QzeXJKRFVqM0V0b1FOVDUzX194UlEzTlNkc2lqakUyeUsxWklHS3NvdkRSSDc4RklmcGJSZDZ6Wks0VzB2NFh2aFFkTjEyM2NaWWhUYWR5THNtWHd2OFZWSWJ2emltbDZKQnZYaXRSX0N0cEw5VnNCNWpyMWY2Sk9STkRhMWwwWkRoSWZIV2VrZDJaOVIyRFJHeWFlTU9XbUdsMnEwTEdpUV9abjdPQTFZbkxvczNPcnVsMzhCNjVuNDhtNWdJR25ETmxYdXF2QU5uWUZlcjlSZ3ZB?oc=5",
