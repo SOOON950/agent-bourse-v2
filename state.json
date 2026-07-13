@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-07-12",
+  "last_digest_date": "2026-07-13",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
@@ -442,6 +442,55 @@
       "ticker": "AL2SI.PA",
       "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - Boursorama",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlFEQTZ3XzFOcjEtRnpYc0NCQjVXYmduR2xWUmFaUjJ6M2NhVzNfM19xMXBzQ0RwbTgwaWRzTWtpQW9JdTdMN3N3SDVocG5aSUg5clFacTNCSFNuV3UzQVNlVGZWdkhMYVlYVUtsVHZhS3Z1X2YxUjY1cWpZdGxHZS1OMHdQNGFjMTFZVkxFdVhSbWhtM2tQdXRYMzFiNWE3ZkNXY2hCc3VoYkFJZE42NUttUDBabVNkZ1prRHZocUk2RVNHaWlPeW1jQU1DVDRZbEFj?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action 2CRSI progresse de 6% grâce à un chiffre d'affaires multiplié par 10 en six mois - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRnJjVFhnNjZBLWgtWkN0ZHBOeW1NY2JmQmlMQVJWbHRleUg4Um9HdXFhdkZiUG84VTg0NzJvS2loWXJIbGFfYktyRFVORjFo?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vVjVzMzdPTlczRXNrSWhQaWp6bGRWME9jMTZzRWx4LVNHdEpWRGRwaFlTOEJiMEpRak5kY0F5cGdob0RnNll5YkJpcFctbTB3Nk44NHZ2TlB4dHJwVDJzcDdCVTY2elgyR3o4cGJDVGExVFE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi: Analyse Fondamentale et Notations Financières | AL2SI | FR0013341781 - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -488,8 +537,8 @@
       "variation": 0.8202564867236947
     },
     "SIVE.ST": {
-      "ts": 1783918170.414444,
-      "variation": 13.110046991047962
+      "ts": 1783930254.699074,
+      "variation": -6.556681174565328
     },
     "VU.PA": {
       "ts": 1783318116.906935,
