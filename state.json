@@ -323,6 +323,55 @@
       "ticker": "SIVE.ST",
       "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Boursorama",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0hRMDFJVGN5cEFKV25IMG1LY2JXN3FLZk9CNjBmNWYyeVRUU2k5MVJKcS1lcWh2VWY0UmtjTURBRnRlR2JXRkd4Q2V2NkNxejYyUUZJZHlyYTBkVC1UaEJFNzhaLTY4bE1VbFJXdXBZdExUOTFCWGdETzZ3Uk5HckxsakhaV1luZHlTVmsteVhPOWFpdUhvZnBkbWxDdi1OTFVpUVR5VzNReWM1dkFxZ081dEI4dmxrRTM4SjQ2V1UwOVFYZGRPSklXeU1OU0xOY01WRWsyZmotbTgwYTJOZnpJOGFzQdIB6wFBVV95cUxPNGJvTnJSN1YwSm1weG1SMnZpZUtBTlZXWnUxcjBrV0QxbEM4b1JnMlh2RWRFWV9hOEJwWW9YVHh4NzlKb19yVjlwbE5BX1FjRDFISTJKaE9LMHc5Z1FaX0o0VDBlSDFyQWZRRnRJY2lwR2FsZnNFbWs4YzJmbVNpSWRHMTNCQzRtZ2hRZGRQUENySGh6LXNHREMydWoyUHdKc2w5bDVjbGgxWDhpalNQeUw3YUJqeEJVektzeHItbFVDbzRXR09ZOExkNzNwZGozaU9hYmdsc0lEanVUMWRkcm9HTDhna1BLSjdV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Valeurs moyennes : les 8 convictions de Portzamparc pour le second semestre - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpRFpKYkphLVVKSlV6Z1NNTUNMdXlwV0lwQ2NOUm93YXNaOTVRcWtmSDN5ZmE3cmVGcDdPeE54aG9KQUs1NFplU19ZZ2Qyc0VZ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -365,7 +414,7 @@
       "variation": -9.380373651248416
     },
     "LQQ.PA": {
-      "ts": 1784077036.4913268,
+      "ts": 1784088720.4926815,
       "variation": 0.5406462045505319
     },
     "SIVE.ST": {
