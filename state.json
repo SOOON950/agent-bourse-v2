@@ -1,7 +1,65 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-16",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRXB5RGFMLVRmelVzd2xVQ2NlQW95Z0Y0UnhLalNRSVNuU09JQ0tyelB2UWNKOHdoOHF0bFFCWTF0RFBIUWVKN0M2R3hlNkM4X25SYjNNUjlJNVlJT1QwVkVJQjMtUFlsdGp3S0JZa2EtSmRWRkcxVmFZMkRrSWxEaGctOEJGakNQVHZiTnNRMEdfTVhVSjBibzd4NGNWWkpIcFhJR21SSFM0NXp0Yjl3NWJXWjIyNWgyaC0zU09uZ01TSjMySHpEX2t0VlZQWjQzWklob2FHQ3ZlT0tfVmdmaS1pNktsOWpGZl9vNFljREtacUp4eXptckpYT1RWUQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi répond aux accusations du fonds spéculatif Grizzly Research mais sans convaincre la Bourse - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0hRMDFJVGN5cEFKV25IMG1LY2JXN3FLZk9CNjBmNWYyeVRUU2k5MVJKcS1lcWh2VWY0UmtjTURBRnRlR2JXRkd4Q2V2NkNxejYyUUZJZHlyYTBkVC1UaEJFNzhaLTY4bE1VbFJXdXBZdExUOTFCWGdETzZ3Uk5HckxsakhaV1luZHlTVmsteVhPOWFpdUhvZnBkbWxDdi1OTFVpUVR5VzNReWM1dkFxZ081dEI4dmxrRTM4SjQ2V1UwOVFYZGRPSklXeU1OU0xOY01WRWsyZmotbTgwYTJOZnpJOGFzQdIB6wFBVV95cUxPNGJvTnJSN1YwSm1weG1SMnZpZUtBTlZXWnUxcjBrV0QxbEM4b1JnMlh2RWRFWV9hOEJwWW9YVHh4NzlKb19yVjlwbE5BX1FjRDFISTJKaE9LMHc5Z1FaX0o0VDBlSDFyQWZRRnRJY2lwR2FsZnNFbWs4YzJmbVNpSWRHMTNCQzRtZ2hRZGRQUENySGh6LXNHREMydWoyUHdKc2w5bDVjbGgxWDhpalNQeUw3YUJqeEJVektzeHItbFVDbzRXR09ZOExkNzNwZGozaU9hYmdsc0lEanVUMWRkcm9HTDhna1BLSjdV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Valeurs moyennes : les 8 convictions de Portzamparc pour le second semestre - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORXh0M3ZkVFhYdGFFQVBYelNlZUQ1bUZPaFhCb1BZcjg2RmR4dDJCZUlUNE5qLTFIcWtRTGRiTXdPSTBMT2xYeFU2S013NExhQmZzYnZyYzZXOXlXRmVSZnc3Y1cySlBBamVKVnRsVzBOQ180X0VJQXI0Z0NtM3RySTE3emw4bHc5V1JIOERZbzczZjFNWmtYZkRUMS1NMmZ5bGJEamxCZlU1T1VVVkdOT2RwTzFTUkdvbmM5TXk1aV9uR3R3NG9WZFMxMlU4U0dZX1NfazZvcm5WcTByV3NQQU5YNjVIUVhHcFJ5QnJIekpweGM1YjByZzgwX2haeDIxOFg2UUEyd0FpdmM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi répond aux 34 allégations de Grizzly Research - boursedirect.fr",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
+      "nom": "Median Technologies",
+      "score": -6,
+      "ticker": "ALMDT.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMioANBVV95cUxOZUlCajBtb2M4dFZCV1FaY2VmWHR2Rm1nS3FMdVp5MVNKWEZHWTRZOEl0dndERkZEdWJwWWh5cnNZSF9xeDhnLXRfNDBWMV9LZnpMeWU0ejBadk13NXZGVVJGZDFfQkY1blRNMmdEY2MzRGlJcklHajNVcjlfTlFJX0toNzlZSzhqbWgydHJma2xJNlV4QVMxOGNJOGlEYTNGN1RYR2NaZTlJS3BDWWZMY3FWSE9jS1M1NHZpTkg0VlNreXUycEp5WEpTUG9vM2ltQzVqaG81ODEwV3ZMRnFxREZWY05feHRpOVR3ajRvUS00c2FqR2I3Q2gxTHB0dmNRcDJzZl9zV3lWRnl6MjJta3lJei1zWmZiUUFDaURRX1BKS0p3YXRBOGZSTElaZ3BETVRlMktSejh3eHRnbWQ2UDRJakczNnk1SFNIZ1JrcV8za2FLMDlnWEo4Qk5xcHJoekt3aHhka2N2MWE1M1ZqQUxqX2FvNV9uUGNPRm9sR0VhWjFfYUF2TmJZT1NZa0o3Wi05cnNhWDdNaW5EOEJqYg?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion (ex-ses imagotag) : Redoutant une lourde consommation de trésorerie et une baisse marquée des revenus avec la fin du contrat avec Walmart, Alphavalue conseille de vendre l'action Vusion, le titre souffre - BFM Bourse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-07-13": [
       "13",
@@ -300,6 +358,7 @@
       "https://news.google.com/rss/articles/CBMimwJBVV95cUxNeVZuMmc4RklIM3BZR1MxMVFMb3FYRS1UMmx4dVlUNDRMYVZJNGZfSHZkOGdzbk51dlE5SERsUFN6dmcwdEptZHpRa2o3VEdLTU91T2EwYXdDQ2ZFd1dhSlNKay1PR1dDMzRnOUxQOXpoeUVib3BXX3d2REo1S0FoQXpXNDg1d24yNnRDV1RHajFZdHFOLUJibzhQRU01WUp0ZmQ2SmdrUk1INTctaXlTd0RnWERvN3hHX1NLRkVxWTQxdnZxa3FMc1UxeUpFRHJtc2hXQmhaS2lYcjRoOVI1eDVBU2toUFNLb1BtVExYTTRVamFlaFRnNURmTUxYS0FZU2tCNzNURk5VZi15bUVGZDFpMm5tdTFseU5r?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JUaXIxUnRJNFlNRWM3ZTlLTzlTbU9ReG9mUnNMSTdSd0dvZTE4Y0ZvQWU1QkI0UWV6cC1uWlRiN21SR00wZXRweDZpc3U5WXlNVFFrVHJheVBhQ3JRM1ZjMjA0TjEzOEpOcVVFdV93NnpaU1NJbkZ5a0RwZUlVMUpMVzBzU1czMi1YZkZIVDJPRG5jSXJPUGlfNjFDdw?oc=5",
       "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdTBhWEdHdWd4WDctTGRkNkZtUW82WkxFZ19RR1ZBOURQSHdPdHl6U1U2aDRYam9WckJGUjB5bkU5dllpeGt2YmJCNzI5SGgwUTlNRTNFa2djdG16a2Y1U2tnSjlNS3luOUpXZkpyWEpyaTNVMzVsdkp6bUNacU5yUlNJbUhjYWhDclhTcGF3cWQyLUUyTWtIZFNoSUVkNnc0aGlvQ2ljdnlCZy0yaW9xOEd1TWs0TWh6UlozNG9xMGRiTUpOQzhsZW5QWHZGRlFScHVrTEhXcFFVM0hqUERhZDJOcHFmem8xQVdpcDBESGJRVFdqZ1RQLUQ4cmp5cEVJdng3YWd4XzBENGptc3NVdHhSZ1hHX2JYcFZKS3p6NWc?oc=5",
+      "https://news.google.com/rss/articles/CBMioANBVV95cUxOZUlCajBtb2M4dFZCV1FaY2VmWHR2Rm1nS3FMdVp5MVNKWEZHWTRZOEl0dndERkZEdWJwWWh5cnNZSF9xeDhnLXRfNDBWMV9LZnpMeWU0ejBadk13NXZGVVJGZDFfQkY1blRNMmdEY2MzRGlJcklHajNVcjlfTlFJX0toNzlZSzhqbWgydHJma2xJNlV4QVMxOGNJOGlEYTNGN1RYR2NaZTlJS3BDWWZMY3FWSE9jS1M1NHZpTkg0VlNreXUycEp5WEpTUG9vM2ltQzVqaG81ODEwV3ZMRnFxREZWY05feHRpOVR3ajRvUS00c2FqR2I3Q2gxTHB0dmNRcDJzZl9zV3lWRnl6MjJta3lJei1zWmZiUUFDaURRX1BKS0p3YXRBOGZSTElaZ3BETVRlMktSejh3eHRnbWQ2UDRJakczNnk1SFNIZ1JrcV8za2FLMDlnWEo4Qk5xcHJoekt3aHhka2N2MWE1M1ZqQUxqX2FvNV9uUGNPRm9sR0VhWjFfYUF2TmJZT1NZa0o3Wi05cnNhWDdNaW5EOEJqYg?oc=5",
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVZa3RORmdLZ2t3NkZPNVd2amtLbjJ0X3NETGNxTzBrM00yb3NBbjhtTDUzMzRwZzJhMkFFb3N4TVNCMFdJdG01QmZ2MkhrQjE1dmdMQS1yaF8xb0xUaHVxMWR1MlJWOEE5SURtem1POG5TM1JLOGhBb2tqbnlpQmFWQ3VuMXZieUUxRFhiRURBLTRwR1NqRkRyVHRWemdGYm5nRFh3QzNQWUl0LTZrTFZzWQ?oc=5",
       "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTZIQS04dV8tTTRKaENudjZhQWpaQzhJYmprVXJlUFNMS1M3b0NnckY2QW5SSkRsUTBBSzdlT1Iycy1YWno4cHRpSFdkMm5xNlphSnFaWGZKNUdlMm8ydGZkR2dadmpvLWcya21HdWJhUmxFaEcxQkJlcWFhWi0xOFFmRUxVcUZQYjBUaW9Lb0h1N0MweER4bFU0VVdZN01oLWtBZkM5WVlES1RzTnJJOHJSZE9kQQ?oc=5",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHdsajRSOU05Zzl2VXhxWERMX3dWbkxxXzB6ekF3SVNFOWxuTWpCOTRMRjdiQVlINTdoQVVGck9rcHpxRS1tZmNhNlc3UGUwRFlxaTZZS0pjUDd0U0JzMzJzdVFPQmwwU0tRNFpPRGhCNFVJTnhOM3VJRFdyc2JpX2J3cFJqRzNoaVF3ekJJZVZFTTMtZkk2NWVwQlFza19aVXhRalQ4UkFFaVNGMzRVbG5VRzBXcXM?oc=5",
@@ -336,7 +395,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "ALRIB.PA": {
