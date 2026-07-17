@@ -1,7 +1,71 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-17",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRXB5RGFMLVRmelVzd2xVQ2NlQW95Z0Y0UnhLalNRSVNuU09JQ0tyelB2UWNKOHdoOHF0bFFCWTF0RFBIUWVKN0M2R3hlNkM4X25SYjNNUjlJNVlJT1QwVkVJQjMtUFlsdGp3S0JZa2EtSmRWRkcxVmFZMkRrSWxEaGctOEJGakNQVHZiTnNRMEdfTVhVSjBibzd4NGNWWkpIcFhJR21SSFM0NXp0Yjl3NWJXWjIyNWgyaC0zU09uZ01TSjMySHpEX2t0VlZQWjQzWklob2FHQ3ZlT0tfVmdmaS1pNktsOWpGZl9vNFljREtacUp4eXptckpYT1RWUQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi répond aux accusations du fonds spéculatif Grizzly Research mais sans convaincre la Bourse - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdUlaLXBPa3JQMEZmQ3BuamhNOFFQUG44T1lwV21Jb1VfeVFFVVJUM1cycGo5R1RFaXp4cnZfd3JXR2xfb1FQV0VjTVhEb2JLc09kR3ZNXzlkZDZvaEJOd055LVFkb2NsZGFYb2pwb2RYT0lzeWZrOXI5dkI3OEVpTHIydk03ZnM5NFd5U3g5dUkxNnhoRllZeDFVVWZtUy1hNkhaU3N6ZkJlNUdlMy1vZTBkQjRMMGx1MWQ1TkZOdGtmWURVY041TnE2YUl1Wno5emxjR2VIazlxRjhzQkpBQTZtU1g5TnpXa1c40gHwAUFVX3lxTE55MjR5SVo4a2p6VGhMRHJOQ09MVDM3Rmdsd2hwU3JhbHRJTjlZNEVyX2dOSnVmM2xYYWlyX0s2eXNfVmJEbFRwNjEzWEJzZ2J4aDNsUEZSckRXR0puYzJqTmstYW9SeG5yQ3RmblNVUUYtcXVCcFBjZEVYRkEzWEFaUXlkR2liNDdTWDhKTE1rU2djNlpVQzJFQnUtSG50Z2NDTTBJNFhLZlFjcjItc2ktaTJ3bFpwZmxrWjlXOEVwZlNsQVpzN1U0bnpvOXMyTWZYa2ZZMWRnTm1rdVNydEJ6cDFEdkJPTm04b0pfWWVoNw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Une responsable de la Fed durcit le ton, suggère une \"action\" contre l'inflation - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNd21TVFBRazVwSnpSdWFLLVNscEhIMl91TWQzS1IyVE5mWUtmYmFPWXN2eTFHcmlqWVBmX0xVcVFTMUNxRWswWVluWENqWkVFOFowMkpreGszYlQzX2lXWUEyZWQ2SXpQdzFBUW5OUmx1U3hXQ0lIeGo1RXp0Z1RPclJPMjNCM2lpOGE3Q2tKblRzLU41X00zUHpSelNGUXprLUMtSXdQeVdSRE81Um5TMFNNcm1seXItNlowZEpRc0IwanVnMDVnQ2M2VGpFMkRfaFlMbFdnenpYaVVMeTdONk1ld2o5bzRFRmRuMU9mUTFlTDN4d0FMaGp5d0FheWlqaU90VUZvV3c2RVYySE82LWZxbDRTcy1iTUg5aVZVYklvTjUxNnAw0gGsAkFVX3lxTE1wcDNWZ3BYNE02dFhZejZKSmhWeFlzR0RtajRmMlcwNWd4bnhNUlNXZ0w0MEJlM3NzTFdIR3EtZ2w4ZWpmcEZvd3ozTTBzOXVRN2E4WmFKTWZnVXJwcWRUZWhQdUNMU0J5UTVXNXRBYjJickxMYmNHWnE3SkU2VVZ0RGdWZDVmMWQyRVJNUDRiclZhRG9NUVVFRTRQUGFzU1BWRzkxSWNHMDFfZVpHZFNXdnUzckQtNTU5Zjl0SWFaYmRHYjFJWkxvYTNkWERFZmM4U1N3ZWlzR1dxajZmVUJDT0ZGNElkOXVIZ1Rrcmg5N2NYdDd3a05sYVVvTTRjcFp1alk1MjBpaWgxbFpISGZwZFVmOTVPWTB6MkVFeDVaTlR1d0FnTW91Q0trQg?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Travelers progresse après la publication d'un bénéfice au deuxième trimestre supérieur au - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNnNRUDU0bllXLW1aRWMzOVVWNVAzR1ZFTVZhNmlmU1EzTmtyM2xhSmhmcHBIZzhiZXphMGk5RnlUOGI5c05IUW5yYzk5VTBOeThGLXRvUHd5akJLSU9Xc2ljekt3dWFDdThhb296NDZua0RqS3p5T28tUnRneVFLMXlZOEdQS1k4VDhPWVphRS1UY1A0UWFIbDdHV00wcm9SaVp5TVFjeC0zQTNkcGJOVkhtVGt1UHpvbi1zUmVRNndoTzJSZ29TRGhBeGVoNTlJYkdYN2tOM3FRR1VVNU9QVmFQVEp3ZWprN0NlWnJWRDZPcFdBeXJFTzE3b23SAYICQVVfeXFMTnRWLVVKVFBPVXQxcE04NjBkT3JLQjF6Zy1ZMHhwY1pISkw5OG5NbkpDMGNSQm1XdS0tQ3EwSkJWR1BteGtwNnJLMjVaczRJT1VydWpUNjJUdEUyYV9wb0VraVdFbTVGMDFtd3VpUzRFaC1rZldMUEtjcFVDQkJoTDJyWW1xT05GWWIwZWw2T1J0aUMxOURIRmJTV29YdTM1ZHVKcUpHZThtZ1BOU0ZaYVRqUG1pSGN4bWh3a1VHTVJQd2pqTnZxZE43a1BvWE5UejRjWlJDNlUwN0VRd2dPc3ZPdTdkZXdQWkg3UFY0S0hCS25EWWRBMEF5dkhyNXlCUk1n?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Travelers progresse alors que son bénéfice trimestriel de base bondit - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWxIME90d0pFaE1EVDlRR2lEM0xrbS1mLVFDa0ZHVFRsMkRlSVJpREI2TlVINEpHc1Vmdy04YkRVQk5LSF9wdzZiV0dNSlBQRzE1WTFkelVuOFdhLTNjM3dsdEVDTEdMeUN4QnR5U1Fhbk95ODZrLXpGeFFJOFlIa1ppekhGR010dVpFZ3hnaUUtQlJ4UERmUEQ1YS1TTTJHU2toTGFoaEVhOWo1UEMwcDlmSDE2c0tVeWRhaFB3c0tpcktrUkpVVUJwV2lEOVF6MVHSAdcBQVVfeXFMTy1TOVpocHdWN3o0MHVIUmxVTkNCdnZnb3FjTGdvR08wSmJZR0lTckd5U29TNU9seXZOSFpPTGhPSmFFSmkyckNFSzNzQ3BTZzlkZVRxeXJWdWdwVkVBQlF2aDk1OTYxNWxtSXFTUk44SnVhYXZ3TzA3N0s1ZWk3V0QtRHplalE2WFY0dW56b3dPMWNyMU10V0Q5VVcydEMwRTc5bHhUby0wcFo2UDM2eks3TXd0cEUwZDA0TlF0WDVUMkVkR1NiOVlLZjRmcGJpSFA1UlFLZU0?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Assa Abloy bat les attentes au 2e trimestre, l'action monte - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSDRoYTZnaWNlNFdGQXNETDVRbVdoNnJHQ1p6czdBeGRGYS0zaXh2NXVETGx2QUtjWUp3VlpOT1NLSXpLbHZfWVl3OEVtZ2dxTzNKRkF3MkhGN2ZjQXlqSGNlRnNTUHBqcmY2cjZzUFBRX3dSVi1EZTVUeHo0Um9EN0xPVDRwM2UxcVRJX0ZLN0JPWWJiQS15ckE5NkdkYnBmQnFBTloyc0hVNWNLV3A0Y0M4WGkzdG9QRVZLeXBoRk03UEx5Q0Y4d1VrZXAyUjdOcFJFd9IB2gFBVV95cUxNdUVyYXR2bThQY0cwYWtRWGJJdEM1akpWeFZETGVjTC1Pc3c5OHpVMW5yRHpqbThjRkhJeEREQ2kySTNJS0M5MGdadGdhbHBoblR0Ykk5dVJ0cm1pdG9CX3FzeGVWNkhFTmFWMzZlVU00VExLZDVYWUVYemlzTTNGV1BfZjRRYXo3WkIyRWhGM0QzRXhZMVg0aGRqVnNqNm1hRzFrMmtsUXJkMTJLdWtmZzBWRXA5aXZSRW93b2RPWWJIUjZWOEptQ3BUQVpkN2VFUy0xU2g4UlhGUQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action SpaceX chute ; la fusée Starship avorte son décollage - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTXJTeGdIdHNUOXZ1QXlUUjZROTM5emNXT21rSGxkV2hXbmprQmcxQmYyYl94SjExcEZkNW5Qa3dPWnQtMGprQ0RoY2tONno4TmFJS2ZoQllFeldHME9Gb3V0VmprdzRCOVE2enJVNzZOcHNFUUJrVWF5cjdFajZRQk5XUG8?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion finit en hausse - Boursier.com",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-07-14": [
       "13",
@@ -46,7 +110,7 @@
       "variation": -9.380373651248416
     },
     "LQQ.PA": {
-      "ts": 1784307071.33967,
+      "ts": 1784311344.096681,
       "variation": -4.68488784375662
     },
     "SIVE.ST": {
@@ -298,6 +362,7 @@
       "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRXJPQWY2ZmZCek92Y2FRd0JSU0hueGdpMExpSVVsYTA2RkcxVVNEMjFZamFiMnBqMEFhQWJ1TjZuTGdxTDM0OEU0Z1ozUm9vd0R6NXRyMDFxbDNsQmRUZ3JwZVdoTm5xQ1pqaDNvMHA3R1AweGlSYzRuTVpwUXE2RkFEbnVNNmNRV3VRaVJ1STVwMzltRDRYQ1NScUxZd3Z4aVBzaEFfR0k5SEpUeVVQRmVwc2tGd2dycEUtY05RbkhxQzRVZTVBRXdEdFRBSHdTVUtCOGxEaGVONnpJb1lCbVJkNDloU1lhejJWem9DcC1oemw3Q01WRmF5ckdwOXRi?oc=5",
       "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0RZcmVCNHYyT2t1WUVoOVdIb3hWZklCYlRmaDB4M3ZuWDBUTEE4MFRlNG9qTU9xMHN5V1ZROVdoRHRJTDlseS1TREo5aDZSaENCT3NpeDFWRlRBYmYtT0UwLWVrZHFST1c3TFo2dXdvZEdQcHJqcDE5LVFldUhJNmFzaw?oc=5",
       "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGZUNGthSDZkdHZTSTBRZ1EybHM4aG16bHlGaFV2cHVraHlRMkw0aVN0dDhwbHBObUVIR3Q0QnZQUVdpdVNaNE5HT1E0QURhZVFrclpnS1AxUWF1Y19zb2ZjbGhSOHN2enVaZWZ2VVl0MHlJMmgwVnNhX3NXUnB2NHFtNA?oc=5",
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTXJTeGdIdHNUOXZ1QXlUUjZROTM5emNXT21rSGxkV2hXbmprQmcxQmYyYl94SjExcEZkNW5Qa3dPWnQtMGprQ0RoY2tONno4TmFJS2ZoQllFeldHME9Gb3V0VmprdzRCOVE2enJVNzZOcHNFUUJrVWF5cjdFajZRQk5XUG8?oc=5",
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTloak4yLXpFNldZUW83czZXQ0Jqem5WU3ZwRlUwV1o1MmJZMk9Lak1TZEJzQnFaMnVudGNKSEJSSzdQUms0czBINnBRaF84WDc5eVdzd0QxZ0xXY3ppWXpEU0Q0RExxYmJ1N3A5MW9NdTNTbTI1REpyWXhRVThGR3B0UTFMWEQyYWc?oc=5",
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUx4eFprbXFxSnF6ZnRaRE1XaGxvQVU0U0lJbEcxZXFqeWM0XzVqckFaeWpQMW53a3liYnpEVDBHNTNKSHJCSDhLcGJuQW95bktxay0xMEJXSXdmLU1CR1A3S0JMQVgzMG5JSmhwak0xdUlWOHdPUExpY0hlcTBNSXZjV3hoS1V0YmNRaDNWYUXSAZYBQVVfeXFMT2ZfVHo3VHY3YUsxZlVCclN2Y3NlUk1VY2UzZExZLUtjcEtqd0FfNV9rQS1oT3oxTFptdjlCUEhyeEZuWFNGTDJTaWZiOFZBNXQzdTkwX3ZabXJkWE55REctSEVvMGZiR3RibkhUZUpna3VzNUltQkxjQzZSVV9BVkxqUVBDb21ma2Z2bG1DWVZNU1dnQ0dB?oc=5",
       "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY05pVzN0bmxfbjcwODQzd3BablFBQ0V6RlNneHVXRE5uMGJSOUFPanNrMnlLQ1p2eTVPM1I2enlvWDB4SmhZM1Y2OTNnVWVIOWdQTnkwZ016czNlZTl1WTNEb2YxRXhfX1BpRmxTXzNQMTlwZjN1bDlTYzR3c1V4ZTNZNW95eHVzdHp5UV9qZzhFQV96TFE?oc=5",
