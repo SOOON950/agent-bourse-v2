@@ -1,7 +1,65 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-17",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "label": "baissier",
+      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
+      "nom": "Kalray",
+      "score": -2,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRXB5RGFMLVRmelVzd2xVQ2NlQW95Z0Y0UnhLalNRSVNuU09JQ0tyelB2UWNKOHdoOHF0bFFCWTF0RFBIUWVKN0M2R3hlNkM4X25SYjNNUjlJNVlJT1QwVkVJQjMtUFlsdGp3S0JZa2EtSmRWRkcxVmFZMkRrSWxEaGctOEJGakNQVHZiTnNRMEdfTVhVSjBibzd4NGNWWkpIcFhJR21SSFM0NXp0Yjl3NWJXWjIyNWgyaC0zU09uZ01TSjMySHpEX2t0VlZQWjQzWklob2FHQ3ZlT0tfVmdmaS1pNktsOWpGZl9vNFljREtacUp4eXptckpYT1RWUQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi répond aux accusations du fonds spéculatif Grizzly Research mais sans convaincre la Bourse - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNnNRUDU0bllXLW1aRWMzOVVWNVAzR1ZFTVZhNmlmU1EzTmtyM2xhSmhmcHBIZzhiZXphMGk5RnlUOGI5c05IUW5yYzk5VTBOeThGLXRvUHd5akJLSU9Xc2ljekt3dWFDdThhb296NDZua0RqS3p5T28tUnRneVFLMXlZOEdQS1k4VDhPWVphRS1UY1A0UWFIbDdHV00wcm9SaVp5TVFjeC0zQTNkcGJOVkhtVGt1UHpvbi1zUmVRNndoTzJSZ29TRGhBeGVoNTlJYkdYN2tOM3FRR1VVNU9QVmFQVEp3ZWprN0NlWnJWRDZPcFdBeXJFTzE3b23SAYICQVVfeXFMTnRWLVVKVFBPVXQxcE04NjBkT3JLQjF6Zy1ZMHhwY1pISkw5OG5NbkpDMGNSQm1XdS0tQ3EwSkJWR1BteGtwNnJLMjVaczRJT1VydWpUNjJUdEUyYV9wb0VraVdFbTVGMDFtd3VpUzRFaC1rZldMUEtjcFVDQkJoTDJyWW1xT05GWWIwZWw2T1J0aUMxOURIRmJTV29YdTM1ZHVKcUpHZThtZ1BOU0ZaYVRqUG1pSGN4bWh3a1VHTVJQd2pqTnZxZE43a1BvWE5UejRjWlJDNlUwN0VRd2dPc3ZPdTdkZXdQWkg3UFY0S0hCS25EWWRBMEF5dkhyNXlCUk1n?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Travelers progresse alors que son bénéfice trimestriel de base bondit - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRnAxS3QyNS1ETDdYTXFQMmxNeDFYYl9PM2xvd3lpLTFXcnlFelRYbU9PQlNmR0dUekVidGZyME55Y1JvY0V1cVQweE4tc1NXNlZWd1RzV1d3MTdma0VHUHptcDdQZTRpRkdFSVJHVDBaUG9pbXhaVG5KVGFqOXNIdHo4dEk2cDFIVHJPYUtoVWNydXVfVHpVeXU1N1RkamM0RHlKSnJ3amR3clFtZEQyS2dla0ozVzE1WnpSX3d1QkFWb3haeUFPZGh3UldXcW11X1pFeVlZUnJOZlBkeHYwc1FtLU1SSHFBRDhoNUd2VTNFUjNUZ0V6MDNkTWdVTENweTZxUklfczhLemlScnRVTnh3U21kNndSMmVRMXBEVW1xblFqT0pWV3Y2dkgxNmZRaFFJckNwUWNhMHRQWWNOMldfVk01cG9Dc2RiU0Y5Nzc5Y2VPTEJSelBYUFhLSVRoSjlF?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Les vendeurs à découvert, ces investisseurs qui permettent (parfois) de mettre à jour des fraudes gigantesques, mais dont les techniques sont à bannir pour les boursicoteurs - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-07-14": [
       "13",
@@ -21,8 +79,8 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1784270478.093095,
-      "variation": -8.770615736169365
+      "ts": 1784297336.2529228,
+      "variation": 8.874280336364142
     },
     "ALHAF.PA": {
       "ts": 1783516438.4685757,
@@ -45,12 +103,12 @@
       "variation": -9.380373651248416
     },
     "LQQ.PA": {
-      "ts": 1784290642.0813005,
-      "variation": -4.653585672276735
+      "ts": 1784297336.2529273,
+      "variation": -5.686557331112873
     },
     "SIVE.ST": {
-      "ts": 1784290642.0812979,
-      "variation": -12.535136597890615
+      "ts": 1784297336.2529256,
+      "variation": -8.712764675433403
     },
     "VU.PA": {
       "ts": 1784270478.0930977,
@@ -334,7 +392,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "ALMDT.PA": {
