@@ -1,7 +1,64 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-18",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRXB5RGFMLVRmelVzd2xVQ2NlQW95Z0Y0UnhLalNRSVNuU09JQ0tyelB2UWNKOHdoOHF0bFFCWTF0RFBIUWVKN0M2R3hlNkM4X25SYjNNUjlJNVlJT1QwVkVJQjMtUFlsdGp3S0JZa2EtSmRWRkcxVmFZMkRrSWxEaGctOEJGakNQVHZiTnNRMEdfTVhVSjBibzd4NGNWWkpIcFhJR21SSFM0NXp0Yjl3NWJXWjIyNWgyaC0zU09uZ01TSjMySHpEX2t0VlZQWjQzWklob2FHQ3ZlT0tfVmdmaS1pNktsOWpGZl9vNFljREtacUp4eXptckpYT1RWUQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi répond aux accusations du fonds spéculatif Grizzly Research mais sans convaincre la Bourse - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NRXZVMTVwOTVTU2FzcmRtWFVHLXdNc050V29CQTNPVTJKbkp2c2Y0NUN2OHJZLWhQeXJzNWFBSzVTaFNTalJHQlQyRjJmWEtIRVE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOLUTIONS 30 Cours Action S30, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uMnA4aWJ6Vlh4ZXFKMm1lYnZPRU9xcTlyclEydUNDZXgwSUlKN190UFBoTk5XYnlNWXh5WmU0OUZFTVZyaFM0eW5PRHB2MGlv?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SCHNEIDER ELECTRIC Cours Action SU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNd21TVFBRazVwSnpSdWFLLVNscEhIMl91TWQzS1IyVE5mWUtmYmFPWXN2eTFHcmlqWVBmX0xVcVFTMUNxRWswWVluWENqWkVFOFowMkpreGszYlQzX2lXWUEyZWQ2SXpQdzFBUW5OUmx1U3hXQ0lIeGo1RXp0Z1RPclJPMjNCM2lpOGE3Q2tKblRzLU41X00zUHpSelNGUXprLUMtSXdQeVdSRE81Um5TMFNNcm1seXItNlowZEpRc0IwanVnMDVnQ2M2VGpFMkRfaFlMbFdnenpYaVVMeTdONk1ld2o5bzRFRmRuMU9mUTFlTDN4d0FMaGp5d0FheWlqaU90VUZvV3c2RVYySE82LWZxbDRTcy1iTUg5aVZVYklvTjUxNnAw0gGsAkFVX3lxTE1wcDNWZ3BYNE02dFhZejZKSmhWeFlzR0RtajRmMlcwNWd4bnhNUlNXZ0w0MEJlM3NzTFdIR3EtZ2w4ZWpmcEZvd3ozTTBzOXVRN2E4WmFKTWZnVXJwcWRUZWhQdUNMU0J5UTVXNXRBYjJickxMYmNHWnE3SkU2VVZ0RGdWZDVmMWQyRVJNUDRiclZhRG9NUVVFRTRQUGFzU1BWRzkxSWNHMDFfZVpHZFNXdnUzckQtNTU5Zjl0SWFaYmRHYjFJWkxvYTNkWERFZmM4U1N3ZWlzR1dxajZmVUJDT0ZGNElkOXVIZ1Rrcmg5N2NYdDd3a05sYVVvTTRjcFp1alk1MjBpaWgxbFpISGZwZFVmOTVPWTB6MkVFeDVaTlR1d0FnTW91Q0trQg?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Travelers progresse après la publication d'un bénéfice au deuxième trimestre supérieur au - Boursorama",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-07-15": [
       "13",
@@ -46,7 +103,7 @@
       "variation": -9.380373651248416
     },
     "LQQ.PA": {
-      "ts": 1784389179.8482056,
+      "ts": 1784396437.3420231,
       "variation": -4.684885455590458
     },
     "SIVE.ST": {
