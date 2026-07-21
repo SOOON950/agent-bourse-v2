@@ -1,50 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-21",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdklQVTJRUkROZWZ4T2ZSZmtIdzdqOFFYaTFTMmo3RDhCTTktZllTV1pRUVBiYlRucjlhTjB5U0VqR0xWWDBFT1hjRHhGbjNMak9HQWtIalE5QWVKRnp5SzNtc0lLVlpkSjlGV1lxQUtGdzV6dXdqNy01bUJIVDZldDROdWd5QkxpRWlCRlFvUEI0ejNIbkJla0o4VXhJWlZQd3JKRmVFT2x3UXZHaGlBMWZpMHJhMGo3LVlhMHo1T25lV2pSTER4eTlxbFZScHJmNEg0N0FkbElFS2dqU3FFcHg2a1pTdkllTTFrTk92amd2Q2tJOXdiZFdHaWFqeU1kVG80NUlNRkTSAY4CQVVfeXFMTjZUU1BiSnMtb3ZzV281Y3ZoVk0xNTZGMGdfeDltdGtVYk1KLWZ2NXFiWTRaT3dyekNIVzZUNDRIYl9Wa3BMNldKd2VvZ2VSWkFTeUxuejBRYzJxNXhnd2JVOGQzN21IZ2RmMTREaU9jNWFKQWE1dl9fOWlybWJGLTUzZTg1QkRtbTYzR3M1ckFud3dVYmdoUFZnSnNfQi0ycUtVMDFHU2FQZTNsUE92YzVIT0NPNEtHMkdRTGNmdDZQb3dqU05uZzVrQnUxRnI3SnN6S2hMeHFFZ2lUYi1wRVhNTHFrX1Z3LW9WT2Z1UzlLeEpNVXFtYU9qMUFqMVFmcEZQRy1FYjhYWk44cThn?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le cours de l'action MSCI recule alors que la société revoit à la hausse ses prévisions de dépenses - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONjlPbDZiUDRTVlhCRTFSUTRIaWRpYVlQZ0FGMDEtWDlkenk1blA0MHlfN0JPbE5CVkFSanBnZ0llTkg5cnpkcjRIbmVsSzRKRXFhQnhPMzlVRWd4b3lEUkt2aGQ4dVVZb1VPNkNnQmszTHg1Um13STlFOXFVTDVCc3JISXBXRWU5R2RadWJmMUJCQ0pYSG56MmtjWC14TlBNR2dJNGtVM0JVUUQ4SnczQTltcWxzdWJad1hEWE8yNW9XYzNlNjZhajR5NW9idjZlRHV1cWNnM2ZCcjFsQWdCY2k5eW5vZnowMU8wY2s1Qk16VkVsRi1MYnRuMEJ3T1diQUHSAYcCQVVfeXFMUGdmM0hPbUhpYWVOMm1DX0tPZ25ibEhEU2NGa2ZNSkpRRHB1OWl4WTJhRmgyVHAwd1NTQktWVmxKSmFENTV0OTkyeUdzUmE5bUZrM0ZDejVtSzVzNDdWSFc3TDBZR0ZsYnM3czlyZmxXbDVvU2JJRExEWU5PSnBmVHhOc214bzF2em42QlpXZkZ1YWMtNEFjQ2dKcW5DWEZEYlVsME9NUXJUaUp0dWZ6eGZZSDBGRUI0a01LVGNUekpVeTg0X2QydXk2OEhSRVR3ZThFUjVwMlZSeVJwUjd2SHg3MnR5VTJIQno1aVJmX2N6dTl1NWF1d3ZHZHRpR2ZJR1RrbEUyQnM?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Eduform'Action : mise en ligne du prix d’exercice de la septième période d’exercice des BSA 2025 - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlFEQTZ3XzFOcjEtRnpYc0NCQjVXYmduR2xWUmFaUjJ6M2NhVzNfM19xMXBzQ0RwbTgwaWRzTWtpQW9JdTdMN3N3SDVocG5aSUg5clFacTNCSFNuV3UzQVNlVGZWdkhMYVlYVUtsVHZhS3Z1X2YxUjY1cWpZdGxHZS1OMHdQNGFjMTFZVkxFdVhSbWhtM2tQdXRYMzFiNWE3ZkNXY2hCc3VoYkFJZE42NUttUDBabVNkZ1prRHZocUk2RVNHaWlPeW1jQU1DVDRZbEFj?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "L'action 2CRSI progresse de 6% grâce à un chiffre d'affaires multiplié par 10 en six mois - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRXB5RGFMLVRmelVzd2xVQ2NlQW95Z0Y0UnhLalNRSVNuU09JQ0tyelB2UWNKOHdoOHF0bFFCWTF0RFBIUWVKN0M2R3hlNkM4X25SYjNNUjlJNVlJT1QwVkVJQjMtUFlsdGp3S0JZa2EtSmRWRkcxVmFZMkRrSWxEaGctOEJGakNQVHZiTnNRMEdfTVhVSjBibzd4NGNWWkpIcFhJR21SSFM0NXp0Yjl3NWJXWjIyNWgyaC0zU09uZ01TSjMySHpEX2t0VlZQWjQzWklob2FHQ3ZlT0tfVmdmaS1pNktsOWpGZl9vNFljREtacUp4eXptckpYT1RWUQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi répond aux accusations du fonds spéculatif Grizzly Research mais sans convaincre la Bourse - Les Echos",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-07-18": [
       "13",
@@ -59,12 +16,13 @@
       "18"
     ],
     "2026-07-21": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1784649201.385605,
+      "ts": 1784654319.5479412,
       "variation": 9.077043283648434
     },
     "ALHAF.PA": {
@@ -72,7 +30,7 @@
       "variation": 7.826085000497892
     },
     "ALKAL.PA": {
-      "ts": 1784649201.385602,
+      "ts": 1784654319.5479383,
       "variation": 16.312053590813658
     },
     "ALMDT.PA": {
@@ -80,7 +38,7 @@
       "variation": -6.13065146691886
     },
     "ALRIB.PA": {
-      "ts": 1784649201.3856068,
+      "ts": 1784654319.5479429,
       "variation": 6.584359211821552
     },
     "ALSTI.PA": {
@@ -92,7 +50,7 @@
       "variation": -4.684885455590458
     },
     "SIVE.ST": {
-      "ts": 1784649201.3856077,
+      "ts": 1784654319.5479438,
       "variation": 22.989196804721608
     },
     "VU.PA": {
@@ -345,6 +303,7 @@
       "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZXFGSTVwVmFaVG5GRWFKdGREVmp3MklXMjVkTGZYSEktUmlPTmpLZk1Ka3RUbm9EcnRZVUhxRzg3QnB6TUd4TVdyclU4UGZEOEhsVUVIaW1OWlN1SXJ5bkpXYWhManNKMzFUakY2aWdXVnJ6NlhmaDItcWxpcXhuaGNXa3FZRmFiN0JJbUN0RE82YXZ1alZYUHA3ZU1MdFgtYjFtVkluMGZVTEtkcEM1VnRQN2tGVG1yYUFnamlVZjNhdXpnd3ZWbHRBV0NzdTI0TDBhWDI2N21ldlR3SlBVbjczOG1PVmI1TmtyTzk1TEpWclJ5bnVaWk1hdEFzdmE2V29Tbw?oc=5",
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTloak4yLXpFNldZUW83czZXQ0Jqem5WU3ZwRlUwV1o1MmJZMk9Lak1TZEJzQnFaMnVudGNKSEJSSzdQUms0czBINnBRaF84WDc5eVdzd0QxZ0xXY3ppWXpEU0Q0RExxYmJ1N3A5MW9NdTNTbTI1REpyWXhRVThGR3B0UTFMWEQyYWc?oc=5",
       "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTS1yMU82ZmJzUVpWTzBEWFVaTnVJdVZCbG5iYk4wWm5mdGlnTVlrbkswQjNRTmVvdzhQR1lvZUVyUURJRE9leTBPQTRGckNQRmhncjFXUmdzUkNFZ0RVRThHTnU0S2lnNVkwT3c1T09JMjdtTmFGWkFuSll2OWxrOGRUbUVjX0d3YWlj?oc=5",
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDlSMDJXTVdodkVlajlBQnplSS1JWlBfZkZrZ01RclpMdXFMZFFwVjdwUFRjYTh5YjFrQnNGMUcwVi1BVUI1b0tZRzlMWFJBUEFaaHppc2doR3B1MldTaWJqYTNWVGhUOThXZVBOVVk5dFZRY2E4dTFsMDk1N0ZqX1FfcjA1ZkFIWnVOQ1RR?oc=5",
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUx4eFprbXFxSnF6ZnRaRE1XaGxvQVU0U0lJbEcxZXFqeWM0XzVqckFaeWpQMW53a3liYnpEVDBHNTNKSHJCSDhLcGJuQW95bktxay0xMEJXSXdmLU1CR1A3S0JMQVgzMG5JSmhwak0xdUlWOHdPUExpY0hlcTBNSXZjV3hoS1V0YmNRaDNWYUXSAZYBQVVfeXFMT2ZfVHo3VHY3YUsxZlVCclN2Y3NlUk1VY2UzZExZLUtjcEtqd0FfNV9rQS1oT3oxTFptdjlCUEhyeEZuWFNGTDJTaWZiOFZBNXQzdTkwX3ZabXJkWE55REctSEVvMGZiR3RibkhUZUpna3VzNUltQkxjQzZSVV9BVkxqUVBDb21ma2Z2bG1DWVZNU1dnQ0dB?oc=5",
       "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY05pVzN0bmxfbjcwODQzd3BablFBQ0V6RlNneHVXRE5uMGJSOUFPanNrMnlLQ1p2eTVPM1I2enlvWDB4SmhZM1Y2OTNnVWVIOWdQTnkwZ016czNlZTl1WTNEb2YxRXhfX1BpRmxTXzNQMTlwZjN1bDlTYzR3c1V4ZTNZNW95eHVzdHp5UV9qZzhFQV96TFE?oc=5",
       "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2xkX0VTNEczRWVpUmM4YXV3ZXZVTFlKU1NZVlpVZWpySmNrVHdrZl92V0Y1MnhmRjREMUNoYy16eERsYmxRSHVMVFUwUC1NTTB6T0hHZlh1UkNOT3FDcXBtWTBkU3JQR2l5aXV4TnhlVjR5ZDljZU9FNnIzbkNhTUdKeXBfSlBpMS12RDR5Vzc3eTk0Q2dldg?oc=5",
