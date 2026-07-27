@@ -1,7 +1,71 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-27",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeEVOYjVtd0tpVFZ4Q1pXcUcxYm5RaVNaY1R2NjVTLXJYN1Zvckc2bzVrWjQxbXZlNGs1OGUyOTA4RXo5b0RHTGhhT0dzTk5DRTZRdG1wSUJzUGpWdEVLSjUtUzQ0dmNzYVFybGNiSFVnamhfSjJ4TFgwcEdsOFU5ckdCdGthdEJVWE4tNE1NN0VYclllRDExY0VDVGJOaGdwRXRneWFoQk1DbDg5M08zRkVDaGpGWTFoUjhFeUFiU2JacG5zOU9MLWlkWURSZkkzMFhzQzVDRkp6OG5SMWlXNGJ1LU5PR1VRaEt4d092ZzFLQWZja1JibEdDcUllWFFUT1hwYlRjT01wNnNieGRXQ2JVa2rSAZoCQVVfeXFMT1VXTmpmX09ZbGhsTmppcmtyZi1LSTBJc3hDSTAtREdvTnF3ZDYtQlJUcFBXS0U2dDQ5Z2huTDdXcEl4WFJCUXg0M1FFSDg3dW0zNVdCdjJEZ2hwckkzVnR2dmktUTVmbHdicV9ORmVYZ0dfQ1ByUURzY253S3pEZVZlSVB0RUtTZXVJY04zQUt5TkxHdUVoa1pKRVhjNm4wTEN3Uks4cWg4WV84cUxkYkMta0tuLW5EOEYxWlBLWVFBTUV0ZjZ1eWNDSUoxdFRFVTY1NnVHVzBWVjJGazFNZU1lUU9wcDFnTDZjWmlJTzRYNm81Qlk5cHYtYmJKeFRlN2RndlExRlRwc1B3VlRDUWZPZk14a0g1ZHdB?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "PRÉVISIONS : Bénéfice par action et chiffre d'affaires de Coca-Cola au deuxième trimestre devraient progresser - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaUk3TlpKanZ1SmwtaDFmcHRObWt4QnJxa3kxdGxZLWIwSWlmRDNMb1A3ZWlnemVRM1ltVWR3eXU0LWhVN25nTFROZ0xVYS11UnlVMTl4clVzUFhxdmRaaGxxRjFuZkdLZF9FOUt4N3hCZ1JjQzdSQlpGdmU4LUhwbzVwOThLTnJmY0JnX01JQzBPdGQ1dUVyVDZOWUktTjhlU0ZEbVFfS1lDSVhraElzbVBRLTVIWTR1Y254WGxsTi1JQ1BiNEhDeWZJSEMxbktNMjZIdlhvMUU4Z1Vic2xLVVFYYkJYYXVlRXlCV2R4SFJPU3pnMEFINkg1NmVHWXZob181cG0tZnNWeTU4d0dSWkRvSWxObEhWQmxpNGxB0gGjAkFVX3lxTFBiZFdkX1phOXlhcFMwZjN5dHkzeVhnUzNUME0xUlY0NWxQRHl0aXZEUkJoNHhQZjgtbXFNVGdWR1R3YU4xcHVPdzRnT2twQlNpYzQ5NUtuaHFKcS1EclF5NEs0clZqNW9raFAzOXNiRWVUZjlHeFpVNU1paTdoMzNmT29nOG5kZ00yVUpLaU1SYWZudllta3pCcVJrTTlzTzZNcHFvYy1uWE51VXBLbGRZc3loSWRZSWh5VXowYmx5XzJZaW5zQmhUSW1yRU1LTFAtMHgwTUg5dWl0cmVHSzNxNklNV3VhY0xaMEptRXAwVXpiMWRlVW9USnBYcFp2UHdfdGdfR3NSeFlYV2hsTmNnWTlWeGFwdVhqWl93SFpkN3ZZQQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Tesla obtient gain de cause pour relancer une action en justice au Royaume-Uni concernant une licence de breve - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejBrNmZQZVBEZ1BTY1pkb0V3bGZ2d3ZpVngxNHVPR1Ntdm1ETXlDQ2NKVHBYM05aNnQ1bnpocW9wSWt0OEZhS1dsSVA0aDJCdjhzMF9GTVZFOXViTFlZbWhBZHdOY1NHOVpnSWZzeWZCM0FUdmlaNFdSLTdyWXFqRTQyYVN1YldEdThPVDdVR25Sd1hESEdIbzEzN0RfTUVuVXRj?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Cours 2CRSi : revenus 2025-2026 historiques et stratégie IA - XTB.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHVvbGpLY2J1UTNENHlMNENUQ1hUaU5DQXRmR3dJUjVLbmx0Vl9IR05tZzZsVjNNRjRjNjlEMWtQenZSRU5hTnd5V2U1a2FjcjIteGI3eHRzaWh3RGRzbkVNd1JVU09ITUhfazhHRTg2eW1CWnEwb0JnVC1Vc0ZLV185VkoyREstV1lCX3BYUllocS1vQTJsZ0hSVjFFUXhYM2lMVGVvcFVkQ2Y0OFVHVDZmSmc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi : chiffre d'affaires de 416,2 M€ en 2025/26, en hausse de 88 % - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVU3TTZ0Rm9pTkNQNFRYRVdBczR3N2JGeXM4MVlPUVVmdkg2Nk5HZEMyUGxYT05LSk5TUFFCV1ZEXzJjTWpnck5UbDk3WXQzSjRsQWpUR1p5d0lLMmZhNjF3ajlnNFNOdnQyZVc0M0xCbmhFTEZyeTQ5NzlhLTFaU3NLRTJXZjRqVDVhS1htYmU2VVZGcnJOLVNlb2Z4UWVpeU5yQzl5VDBGRFBXdmNrMjZPRUZQb1VkeU9SMjNrMnNMV3N5a1UzZC1xbmd0MGx2Tm1SZVJpQQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-07-24": [
       "13",
@@ -26,7 +90,7 @@
       "variation": 10.297485725982963
     },
     "ALHAF.PA": {
-      "ts": 1785170292.075862,
+      "ts": 1785175997.6887298,
       "variation": 16.173117952837117
     },
     "ALKAL.PA": {
@@ -46,7 +110,7 @@
       "variation": 0.5681832713529334
     },
     "LQQ.PA": {
-      "ts": 1785170292.0758648,
+      "ts": 1785175997.6887321,
       "variation": -3.2461779541900277
     },
     "SIVE.ST": {
