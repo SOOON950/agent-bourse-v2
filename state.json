@@ -1,129 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-07-29",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSGRMVnBpWTVxbmZNeWJnQzM1VnF1c3Y1eVdJdU5YLXI0U1RvM2VvY2QwY3Exb2F5dzRKTVlMNV9UNjltRjZZXy1vZ1dWb2tYUURFSnZTNmpsQzVsdzhLbV9weHUwUjhaVGVqaVpidTFqbXV0UkR2X3UtdDY1eTdxcy10QXZWZURCN1dySUEyRUZJbktwWU5iYTdrU0Fya2NfZlotN0ZNMzNUTWJFZ3phQWFOUkp6Y1JLYVhIOGxDTTRMS3dTV1RZT2s0MUN2ZWNselV1b2xhazkxelgzVkdHUHNuaE1UanpraHQ4cHhIMUxINEtRc3fSAfsBQVVfeXFMTjVkamNSYkVKaXpLMC1NMm1way14Z05nakpqckZYMkJ5djZXakRCODMzeUVId2hyQ1BuV3FGY0JQd19BTFY5c3JCUl9BUVRhM3U5cFMwWmF6UTluLTdlaFpsOTBSbjJRR0VoWlVfcThYX3VhSGRZYWZrLVA3akptaUZGTVhkaWk5LVdZQVotQlFVY3k4dEZoQXJKbEpUMkhnUUZKME5yNXk0eUpidml5V3dFNW5ETWl3aWtaREZuQnRVYTVYaE5lYmxsUE5vTXRvN0RUUzdBV0NSRTgzamtsNjBmWkczSHJJNTdKdy1iYUJzRDNzR1ZSNHFGVk0?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le bénéfice record de SK Hynix est inférieur aux prévisions ; l'action s'effondre de 10% - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSnRvY09qb0Z3MFNnUmEwNHAzVXdHQjl5TkZ0WUpkQ0ZLNVBDREJSVl9IWXl4U3BPUFNKN1JYRFd2WUFOVWFnZVFhMU9iWnEyUkxSSUFrNVllZUJUY0hoU1AxRERzU0N2VTJQY0NseDVrX2doQmRLTl9Sams2M2FSeDQ5VWNwWlVhUWZ2U21EcHdfa1lDbDc5dVctVmp6dm1OcjRudWJKcnNuNkhRU21kb2stS1Buc2F6dzVtUm9icTk4ZnVrc2liSTFQWVBDeUprNkpyT3BTVUZnT25YbkdXU1FadE5qM09KMTdFdDV4RTRHaEsxbnFHVnNGZUFSblkzNnd5Wk1NaGE1emRxMTFaLTdFMWFuUWvSAZwCQVVfeXFMTy04SXdmek5RQktGc0NiVzlkeDdEQmR1ZWQ2T2NjMUpVV2dLa1FpQzhGbVpLVVo4YzExeVYyZGdrRHR4Y0FoWE5pR0RSY1JEdjJKMVp2MzJ1S2thbC0zUFFCS0RMYjdmc2lrdXlCX3VEcW1iN3MxbExuQWZKU3pVbmFldlBpRG1vYkNqS2hIMThZUDhVY0k2NmJGbmxmdTVMYmRYVWxUMDh1TnI4UkdHdXpGWVI1VlN3UkdEM2EzYUdfaXIyMXYyeFluVGRmZnhrQXpOcjYzbVVKYk9HbFN6QnNuLTVNLWQwNF83dlZDUzlJcjVzVTIwMjFvTmExaE04dlYxVVRWSDN2andVR0Y4VkJRMjJpRDRxZ0NJODQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "L'action Teradyne se retrouve propulsée par des prévisions optimistes autour de la demande de semi-conducteurs - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQNHhDWEtVM0hOUHVnVW8zRnR1UlkxUmdTVy1LbmVvY21yMGw0Y2NLaGY1U0plZEJWR2wwV0diZDYyTWo2XzNMV3Qzb0xWZndZc3pxRExFbTlsUVdHUUVlS1ZnLVNsWjVjeXh3RktLQ1NGUVRMTlJCb2RqLUg1ZnVGYlpsWTdSZERlOEs5c19raHJ2YVNjQmlNUnFsWnVXXzlpVjRoSzZfWjlBUjBOSG9rYUZxOEpLOG1qaXp5VERCblNWRTZSa0JvSkJnaS1OemNCNDNJVFN2SzhSS0JfR3pxV0QyZmdjREU4dFgybmhBY0ZVQ2laWTZxdnBWdGV2cFhaQl96TTB6aWx1ZHc3c3BIMHZ5Uk5BYXlFRHhIcFI0OUxrd2VDVDJvcUNkSFc0S2ljZEdEVDlZNDdxRFdTRkk1S3g5b2VSU1dKRVp2dGdDcERmLU1WbF9DOUpBZ3JibGlNSWloVFd6VGQ4RVBWOHcyT0tKd0JfREFqRVJfeElZVdIBhANBVV95cUxPT0NFS21wMU5tMW4xM2QtQlBsWDEzWjlOVXN4dllFQ3FpSE1HSkZlcE51RUtsNHByeXBpTEluRHZ3Y1ktSHhJa0xEX3kxR2U0Z0ZER2ZiVm44RWVEbTVjYzYzd3I0UXFTa2ZzYmhMNmlPajlMc1dnRjJBSTc4OFk4VkZzZ2Z1Y1ByRW5yaDZJOWhmWGw5alZwSDM1Z0ZFWjk2eG1ta2hHdGwxZ1lGdjJSQVJ0eGxCUnlJZ0hhcWFmV2JNcFVzS1NuTG9zMnRkQzhVV2xTZ241U2NhWWRKZlpCTlBSSGZRS0dMSy1UMFVSd1FsZGZMVGdxcklwTUpMLUd0Tm1PNjlaUWxsV09ISXdQVENDbE0yQzBfUXZGTGhHcWp1SFN2clI5QjZrdGN2UGZGWURDTkVmdEtUQTQ1cnZXZ3BlY0ZLVUUwZC15LWJfUmhOYTh0Mm1ydU9fU1I2Vlk5a3BoVDZHMHZ1TUptSzhzazNTOXVnbUV6bFF1YXVsYkhTQThE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le cours de l'action Amkor s'effondre après la publication de prévisions de chiffre d'affaires décevantes pour - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMFplbll3SGhyYTNJYk41QzBHUEVlUnZ2dHUwajZFaXB1LUFpUnB6Xzd5ZVlYN2MxOTMtR1lnS25VUnVkZzltRzF0dEVoeEZrdWxSQV9JTnFQNU1PU1F3d1lWS0t3NElwVGxKQmZVTkVlcE1KdnNnelpDcXRFRDI3bnUwZ21od3pOTGFpNWdGdXl5ZWZxbUFkc3FGcWVGUXlDY243TFVRd3ZYTXdGZlF5OXRaQ0pXNjhSN2dubkJqOW5EaXAxQUZoc3lhVVFzSGNTcWNlY1ZVa0VESk5oZjVyaFZJTkg4X1FlMnlwYjNyRGnSAfYBQVVfeXFMTkRnV3ZCX3BNN0owakhIMFRleE4xWlBtSFZiM3llQVpYbk9FQ2tlYmZDQjE3VWlCUTRfcWlHdlNyU0RwVWpmeFFrVEF6UEI1Mm9oY0ItV0NicThoWWFSX0lKX2JzSzFITzZ3S3dXUTF2VEVJYUNENVlNWGkxQV9wV3JhMHVScUpqSU14a0c2VW00WHJLV3Q3cFZzYkRPOWJwQlp1U2MzVlFxaVFQeC1Tek9fZDViZ1otZ1BYamI1ZXkxelhKV05QbEJtRHB6amQ1SGQ3WC1KeWcwZUdpeDVjY3V3dTlIakN5d3c0cF9qVmNDUUtKakNB?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "UPS prévoit un chiffre d'affaires stable au troisième trimestre ; son action recule - Boursorama",
-      "type": "actu"
-    },
-    {
-      "label": "fortement haussier",
-      "message": "📈 Cassure d'un plus-haut récent (sortie par le haut).",
-      "nom": "Haffner Energy",
-      "score": 8,
-      "ticker": "ALHAF.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVU3TTZ0Rm9pTkNQNFRYRVdBczR3N2JGeXM4MVlPUVVmdkg2Nk5HZEMyUGxYT05LSk5TUFFCV1ZEXzJjTWpnck5UbDk3WXQzSjRsQWpUR1p5d0lLMmZhNjF3ajlnNFNOdnQyZVc0M0xCbmhFTEZyeTQ5NzlhLTFaU3NLRTJXZjRqVDVhS1htYmU2VVZGcnJOLVNlb2Z4UWVpeU5yQzl5VDBGRFBXdmNrMjZPRUZQb1VkeU9SMjNrMnNMV3N5a1UzZC1xbmd0MGx2Tm1SZVJpQQ?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObkw2MHZZcHVLU2hyYzloMWtnZ0FJa0JFcmppTk1fNDRXWGtmTzZubWVWdnpBQWV2bVhLdm5RTXp6TUIzSlh4YU1raU9YMXBrc2ZFLXgtdVBvUTh5YnhWR0RhZkY1cVJtNW1Na2VBODY5Z1d4dzZla1pOMkMyUVBKRnlyVHNaSnZqRVBRVG5iQ1JZRFloU0tyaEhxMURFSmlRdzJJd3RkVEgzVmRXVWxVS25td3ZMcm42clNsczZJZExxcC1MV3BYOWpaSzdSOVBQT2xtMml5OGZvTThvdXFoZThUbWItSVJDYktadNIB8gFBVV95cUxQNFdXaUJYdVhWdC0xUk8wT0xBSGJDSk02a2FGa082QmF5S1RHTUlsRTJ2RkZpc2VRVjJYSFA1OGIwcGFGLUJCWjZ2ZWxrc1ljQXdsR2laZU5YRG0yZjRDUVBFcUt6SjVTRGhJNHdsN0pQY0tQa3FGd2NCME1SREgtQ0hVWjBYRkZNbmd2NTVRZXVzMGpPMnZkR2szbU1naEdDNjhQVWNSZDh2bmZGaVpBTTJxTnZ4Qm05NnN2UEZHQ2U2UTBJWkx0V0pEaWV0bVFaS0JhcFNORlB5OHktOXRZdV9naTdSTklQS2phcTg1a3k0dw?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Défense: Rheinmetall surprend à la hausse au deuxième trimestre, l'action grimpe - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSGRMVnBpWTVxbmZNeWJnQzM1VnF1c3Y1eVdJdU5YLXI0U1RvM2VvY2QwY3Exb2F5dzRKTVlMNV9UNjltRjZZXy1vZ1dWb2tYUURFSnZTNmpsQzVsdzhLbV9weHUwUjhaVGVqaVpidTFqbXV0UkR2X3UtdDY1eTdxcy10QXZWZURCN1dySUEyRUZJbktwWU5iYTdrU0Fya2NfZlotN0ZNMzNUTWJFZ3phQWFOUkp6Y1JLYVhIOGxDTTRMS3dTV1RZT2s0MUN2ZWNselV1b2xhazkxelgzVkdHUHNuaE1UanpraHQ4cHhIMUxINEtRc3fSAfsBQVVfeXFMTjVkamNSYkVKaXpLMC1NMm1way14Z05nakpqckZYMkJ5djZXakRCODMzeUVId2hyQ1BuV3FGY0JQd19BTFY5c3JCUl9BUVRhM3U5cFMwWmF6UTluLTdlaFpsOTBSbjJRR0VoWlVfcThYX3VhSGRZYWZrLVA3akptaUZGTVhkaWk5LVdZQVotQlFVY3k4dEZoQXJKbEpUMkhnUUZKME5yNXk0eUpidml5V3dFNW5ETWl3aWtaREZuQnRVYTVYaE5lYmxsUE5vTXRvN0RUUzdBV0NSRTgzamtsNjBmWkczSHJJNTdKdy1iYUJzRDNzR1ZSNHFGVk0?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le bénéfice record de SK Hynix est inférieur aux prévisions ; l'action s'effondre de 10% - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSnRvY09qb0Z3MFNnUmEwNHAzVXdHQjl5TkZ0WUpkQ0ZLNVBDREJSVl9IWXl4U3BPUFNKN1JYRFd2WUFOVWFnZVFhMU9iWnEyUkxSSUFrNVllZUJUY0hoU1AxRERzU0N2VTJQY0NseDVrX2doQmRLTl9Sams2M2FSeDQ5VWNwWlVhUWZ2U21EcHdfa1lDbDc5dVctVmp6dm1OcjRudWJKcnNuNkhRU21kb2stS1Buc2F6dzVtUm9icTk4ZnVrc2liSTFQWVBDeUprNkpyT3BTVUZnT25YbkdXU1FadE5qM09KMTdFdDV4RTRHaEsxbnFHVnNGZUFSblkzNnd5Wk1NaGE1emRxMTFaLTdFMWFuUWvSAZwCQVVfeXFMTy04SXdmek5RQktGc0NiVzlkeDdEQmR1ZWQ2T2NjMUpVV2dLa1FpQzhGbVpLVVo4YzExeVYyZGdrRHR4Y0FoWE5pR0RSY1JEdjJKMVp2MzJ1S2thbC0zUFFCS0RMYjdmc2lrdXlCX3VEcW1iN3MxbExuQWZKU3pVbmFldlBpRG1vYkNqS2hIMThZUDhVY0k2NmJGbmxmdTVMYmRYVWxUMDh1TnI4UkdHdXpGWVI1VlN3UkdEM2EzYUdfaXIyMXYyeFluVGRmZnhrQXpOcjYzbVVKYk9HbFN6QnNuLTVNLWQwNF83dlZDUzlJcjVzVTIwMjFvTmExaE04dlYxVVRWSDN2andVR0Y4VkJRMjJpRDRxZ0NJODQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "L'action Teradyne se retrouve propulsée par des prévisions optimistes autour de la demande de semi-conducteurs - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQNHhDWEtVM0hOUHVnVW8zRnR1UlkxUmdTVy1LbmVvY21yMGw0Y2NLaGY1U0plZEJWR2wwV0diZDYyTWo2XzNMV3Qzb0xWZndZc3pxRExFbTlsUVdHUUVlS1ZnLVNsWjVjeXh3RktLQ1NGUVRMTlJCb2RqLUg1ZnVGYlpsWTdSZERlOEs5c19raHJ2YVNjQmlNUnFsWnVXXzlpVjRoSzZfWjlBUjBOSG9rYUZxOEpLOG1qaXp5VERCblNWRTZSa0JvSkJnaS1OemNCNDNJVFN2SzhSS0JfR3pxV0QyZmdjREU4dFgybmhBY0ZVQ2laWTZxdnBWdGV2cFhaQl96TTB6aWx1ZHc3c3BIMHZ5Uk5BYXlFRHhIcFI0OUxrd2VDVDJvcUNkSFc0S2ljZEdEVDlZNDdxRFdTRkk1S3g5b2VSU1dKRVp2dGdDcERmLU1WbF9DOUpBZ3JibGlNSWloVFd6VGQ4RVBWOHcyT0tKd0JfREFqRVJfeElZVdIBhANBVV95cUxPT0NFS21wMU5tMW4xM2QtQlBsWDEzWjlOVXN4dllFQ3FpSE1HSkZlcE51RUtsNHByeXBpTEluRHZ3Y1ktSHhJa0xEX3kxR2U0Z0ZER2ZiVm44RWVEbTVjYzYzd3I0UXFTa2ZzYmhMNmlPajlMc1dnRjJBSTc4OFk4VkZzZ2Z1Y1ByRW5yaDZJOWhmWGw5alZwSDM1Z0ZFWjk2eG1ta2hHdGwxZ1lGdjJSQVJ0eGxCUnlJZ0hhcWFmV2JNcFVzS1NuTG9zMnRkQzhVV2xTZ241U2NhWWRKZlpCTlBSSGZRS0dMSy1UMFVSd1FsZGZMVGdxcklwTUpMLUd0Tm1PNjlaUWxsV09ISXdQVENDbE0yQzBfUXZGTGhHcWp1SFN2clI5QjZrdGN2UGZGWURDTkVmdEtUQTQ1cnZXZ3BlY0ZLVUUwZC15LWJfUmhOYTh0Mm1ydU9fU1I2Vlk5a3BoVDZHMHZ1TUptSzhzazNTOXVnbUV6bFF1YXVsYkhTQThE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Le cours de l'action Amkor s'effondre après la publication de prévisions de chiffre d'affaires décevantes pour - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRnJjVFhnNjZBLWgtWkN0ZHBOeW1NY2JmQmlMQVJWbHRleUg4Um9HdXFhdkZiUG84VTg0NzJvS2loWXJIbGFfYktyRFVORjFo?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVU3TTZ0Rm9pTkNQNFRYRVdBczR3N2JGeXM4MVlPUVVmdkg2Nk5HZEMyUGxYT05LSk5TUFFCV1ZEXzJjTWpnck5UbDk3WXQzSjRsQWpUR1p5d0lLMmZhNjF3ajlnNFNOdnQyZVc0M0xCbmhFTEZyeTQ5NzlhLTFaU3NLRTJXZjRqVDVhS1htYmU2VVZGcnJOLVNlb2Z4UWVpeU5yQzl5VDBGRFBXdmNrMjZPRUZQb1VkeU9SMjNrMnNMV3N5a1UzZC1xbmd0MGx2Tm1SZVJpQQ?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "label": "baissier",
-      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
-      "nom": "LQQ (Nasdaq-100 x2)",
-      "score": -2,
-      "ticker": "LQQ.PA",
-      "type": "technique"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-07-26": [
       "13",
@@ -138,7 +16,8 @@
       "18"
     ],
     "2026-07-29": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -147,8 +26,8 @@
       "variation": 10.297485725982963
     },
     "ALHAF.PA": {
-      "ts": 1785339064.878697,
-      "variation": 13.163064090918503
+      "ts": 1785344049.0048797,
+      "variation": 15.91355523201722
     },
     "ALKAL.PA": {
       "ts": 1785306063.5407455,
