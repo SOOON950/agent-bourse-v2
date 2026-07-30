@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-07-29",
+  "last_digest_date": "2026-07-30",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZU5fY3dQOTVRT2c0QTlaY1lfaEV2RURLNTBRUGRrczVfanFYZzlqVjc1TG9TWnl4VWxlbU85R1JPT1RLamQtQ1Ezb0cwbDJ4TUstclg0UWJUYkc3MTNvRGd6WEVvRmFLNDlzY0M0cWZpc211SVdjRG5SYUlsME1zN2dJUlE4WkFoblRtc2plY3ZiZXlpS2ItanJqcjBsRXB0eHpySldBX2pxaW4tQk10YTFwVm5ITFJlclNWWXRfTWpjem1Zd1VoWEhFV2pXcWt5N3ZJTE1na2U3d9IB3wFBVV95cUxNaTZmeGZvN21vMDlFMl9aT3FGNlFjUjkyb2NvcnBudXA5M1Q0bDFNUEJQOHVKWEhxQU5rUWFzTzdURlpyNi0weDN3MV9abEFJQzVyZ0dQUnBaYkJCSWFSZ2xGT042bENNY3U5QXFjOWg4dS1CQkp3RThVWmNyU0RPYkJRRDZySVZpYkZZWU4yM0V2RUpFRVpZUjMzdHVwdlY1VkdtTE5INjg1d0FLV1pnd0t3Z1FBdUk2U3p0NWx3U2JyTXFoQkd0Z1ZhMWVHNzdlci1Ca1E2UmlEd2VPUU1j?oc=5",
@@ -583,6 +583,91 @@
       "ticker": "SIVE.ST",
       "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - optionfinance.fr",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRnJjVFhnNjZBLWgtWkN0ZHBOeW1NY2JmQmlMQVJWbHRleUg4Um9HdXFhdkZiUG84VTg0NzJvS2loWXJIbGFfYktyRFVORjFo?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uMnA4aWJ6Vlh4ZXFKMm1lYnZPRU9xcTlyclEydUNDZXgwSUlKN190UFBoTk5XYnlNWXh5WmU0OUZFTVZyaFM0eW5PRHB2MGlv?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SCHNEIDER ELECTRIC Cours Action SU, Cotation Bourse Euronext Paris - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTVI1b3VYZjczdFZOQl9ZUXBvOWJDSHo3MV93TjhwYndvc19ZV2twTFhESWNwYUFMNGdDVkJlcTM5VURKYXZjSGtfRHY1dVBZNlhBWU5tLVNIZHBvUFBwaHdYQUhNSThVQm4xLVpBeC1IM3ZoM2FmQzNuUjBqTlRORzIycUlpY0FJeURLVk1nMHFlcE9YTmo2dktqTW5uS1llUG1YSXczRjRHUEpTdHZwc051RUZYeDhrNEw0LUs5dlFsMG1JTVdqcldBS0lKWUR3czNIYXhLWWFyRmt1RzdoRkR6S0VwQ3F4Y2RJSEtQWUpuUHBLM1ZoS1FpYTdVdmRyOEVvX0ZkcXlkN2JCWWt1c0M1bS1TRFYxQXRvNVNIVkvSAaYCQVVfeXFMTUdFaWUweTd3WmFzRklaRjZGb1lMTkh1dV9LZjE2MHUtc1dqd1pMQ29MdnJZTGFSX2lpYjhZelZKclBBczVtcFlvOHpid3RYSFJrdHBqMzV1aVhxQjhtdEpBeDlQMXFaeE1aM3lIRlBBYXZDa0VCZWVONnJtdkZvUEVNVG5LMjFWT1M1WUdtWGNqU29GY0xXelZLeU9VTmQzODlxazFkYUtsU3poT29MN1NnX0NhcWg5TkoxbGVBOGwzZXhvYkhPTlNCczdKNXlmdDdOcThiSy1HbjZQemY5YnEyalNkRkVLanp6RXNGMUFmRUMtNjNCemVjYWw5LVBjZWs5Qk93QS12bDZFakc2T2prWGtBVklCZU9GekFBLS1mdjVMMjNn?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Carvana s'effondre après l'annonce de prévisions de bénéfice de base inférieures aux esti - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZU5fY3dQOTVRT2c0QTlaY1lfaEV2RURLNTBRUGRrczVfanFYZzlqVjc1TG9TWnl4VWxlbU85R1JPT1RLamQtQ1Ezb0cwbDJ4TUstclg0UWJUYkc3MTNvRGd6WEVvRmFLNDlzY0M0cWZpc211SVdjRG5SYUlsME1zN2dJUlE4WkFoblRtc2plY3ZiZXlpS2ItanJqcjBsRXB0eHpySldBX2pxaW4tQk10YTFwVm5ITFJlclNWWXRfTWpjem1Zd1VoWEhFV2pXcWt5N3ZJTE1na2U3d9IB3wFBVV95cUxNaTZmeGZvN21vMDlFMl9aT3FGNlFjUjkyb2NvcnBudXA5M1Q0bDFNUEJQOHVKWEhxQU5rUWFzTzdURlpyNi0weDN3MV9abEFJQzVyZ0dQUnBaYkJCSWFSZ2xGT042bENNY3U5QXFjOWg4dS1CQkp3RThVWmNyU0RPYkJRRDZySVZpYkZZWU4yM0V2RUpFRVpZUjMzdHVwdlY1VkdtTE5INjg1d0FLV1pnd0t3Z1FBdUk2U3p0NWx3U2JyTXFoQkd0Z1ZhMWVHNzdlci1Ca1E2UmlEd2VPUU1j?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Carmila relève son objectif de résultat net récurrent par action - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObkw2MHZZcHVLU2hyYzloMWtnZ0FJa0JFcmppTk1fNDRXWGtmTzZubWVWdnpBQWV2bVhLdm5RTXp6TUIzSlh4YU1raU9YMXBrc2ZFLXgtdVBvUTh5YnhWR0RhZkY1cVJtNW1Na2VBODY5Z1d4dzZla1pOMkMyUVBKRnlyVHNaSnZqRVBRVG5iQ1JZRFloU0tyaEhxMURFSmlRdzJJd3RkVEgzVmRXVWxVS25td3ZMcm42clNsczZJZExxcC1MV3BYOWpaSzdSOVBQT2xtMml5OGZvTThvdXFoZThUbWItSVJDYktadNIB8gFBVV95cUxQNFdXaUJYdVhWdC0xUk8wT0xBSGJDSk02a2FGa082QmF5S1RHTUlsRTJ2RkZpc2VRVjJYSFA1OGIwcGFGLUJCWjZ2ZWxrc1ljQXdsR2laZU5YRG0yZjRDUVBFcUt6SjVTRGhJNHdsN0pQY0tQa3FGd2NCME1SREgtQ0hVWjBYRkZNbmd2NTVRZXVzMGpPMnZkR2szbU1naEdDNjhQVWNSZDh2bmZGaVpBTTJxTnZ4Qm05NnN2UEZHQ2U2UTBJWkx0V0pEaWV0bVFaS0JhcFNORlB5OHktOXRZdV9naTdSTklQS2phcTg1a3k0dw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Défense: Rheinmetall surprend à la hausse au deuxième trimestre, l'action grimpe - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOdG11NFVUZ2s3dWVkWERqR0FDVHBnSVozSUFsTjBsMjc5ZTBTNzNucmFDbDBpSVVwLWxMd01seEh6Z3dvQUZBWXEtYXI3eHprQndyWXlLSGVZNHBqNUY1NlVraFEzR2FIaHVTbkN1TV9zVjZ5dFhVQU1KWXR6MHVKcHIweEVOZEpoSVg1cTJqNlFYUkJ1dTVfbEpteGdlc3dXMC1YenBpRFRTcUxvYTVNUWJDVjhEc01GRWZTYjBVOFpFd0Frb3JHZWVhV0Q0VnZuTzB5dEhCTHdjNW4xWmdNOVdSQ1VvSG9nazhvZE5sbnVjTFl1OXE1U2czZUJDNGE4YUxzb3p1REVjcW9GenBHV1dZaEhQcl94MHB1YjU0TktnYlpIVUw0VtIBrgJBVV95cUxNS0FoZFY2bTk3WF9yaElPS01hWmJDaHFPcVZlQnR2cW4zUHNSNzkzQVlrOGtwVEFncWlCTTU3MVBkb3VKOHlSNTBtZXBHdkZfb0JPRWVuMDk5QjJLcUFydGRVclZEWEFsSnM1OHF2UkZzMENISVBTaDFETExzTFd5cU1yUjh5dDJaZ2RXWVoxUk41aDBMelJEYzlxdF9ybUdKYS1EY3Y3WnNYOVM3TWRlX1hTNmVvUkZjQnZ6elZyR3JyZ1NKb01MNlMzRmNERC1ESGs0WFdKN2VmNXFCdERsejBiWll5VDdfbXNYek9WU3BWVGdUZUZ0R3RuTHh5UVVUUW5Bb0NDem9CV0pJRno0M1lHUDNqM2I5T05wQ2J4a0t2VG5JeWpyZXZ4NW5Ddw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Chipotle progresse après que la société a revu à la hausse ses prévisions de chiffre d'af - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "label": "baissier",
+      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
+      "nom": "Riber",
+      "score": -2,
+      "ticker": "ALRIB.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - optionfinance.fr",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQmlDUDdhZi1fVktKQjFaT21IV2pOaDJ5QWFUYmdvaTlIbG9qRkJFTDBHM2JCZ2x5cXZjN1A4R1V4TjBYcUpUblBZUFBERjZuZUp2SkhDZk5Ob2N2WXhmTjF3N3IyY0pNekhkV0JyTFZjR29jbl9UbjZKeklNWTVhckhja2VSZWRhMHEyeTQybldJOHEzLUNQZFJFWjYzaXpCMVhMVVd6UXk0bV9FZ19VYXRVVHdmUWxaTmh1RnVhNkNHOFN5c1V0Z0FkanB6bjJRbTdaci1qRdIB3AFBVV95cUxNVmNMOFVKbkl5UGh0TzNpUmVhZWxKVExFV2pNN1V1RTM1MTVueS1DNG9jR2tRSEVlVHVfYnRUYjVtNGFDNDEwT08xcUdpLTdrTUgxcjYtUTZXTTZZdUhQVkNZMTZVQlhaVHB0Y1ItQzdWV051c2dEV3hEcGhZRnlpdVFvZXp4NEQyTEdOR1FiNk1weE1FbUNOU1hqN0NPRnNTSmxuNDJzdmVtdkd5eExJbkFqaklJc2g2TUI1Vkx4UkFnNGVHdmE3dm04ZjhGNnQ5Vkc2bFpKZFFWTHJu?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors remporte une commande auprès d'ALL.SPACE - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVU3TTZ0Rm9pTkNQNFRYRVdBczR3N2JGeXM4MVlPUVVmdkg2Nk5HZEMyUGxYT05LSk5TUFFCV1ZEXzJjTWpnck5UbDk3WXQzSjRsQWpUR1p5d0lLMmZhNjF3ajlnNFNOdnQyZVc0M0xCbmhFTEZyeTQ5NzlhLTFaU3NLRTJXZjRqVDVhS1htYmU2VVZGcnJOLVNlb2Z4UWVpeU5yQzl5VDBGRFBXdmNrMjZPRUZQb1VkeU9SMjNrMnNMV3N5a1UzZC1xbmd0MGx2Tm1SZVJpQQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - ch.zonebourse.com",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -605,7 +690,7 @@
       "variation": 10.297485725982963
     },
     "ALHAF.PA": {
-      "ts": 1785385131.466707,
+      "ts": 1785395241.1703217,
       "variation": 15.91355523201722
     },
     "ALKAL.PA": {
@@ -957,7 +1042,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "ALSTI.PA": {
