@@ -268,6 +268,62 @@
       "ticker": "SIVE.ST",
       "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - Zonebourse Suisse",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUGozZDNiclJNWm9aTDkyOGRNSkc4dDhRTEJ0ZVhBU0FHbGJoUGVqMDRBWW9jWWttcWczMklOd2xqWlRVNWY3dmh6QnhfVll5Y0xhZFJLR0RPc1dGXzN1UFUzSVFiWWVCQ1F4enB2dTNULWRQNG41aVNwVjVhWjFfYVp2U1hzMnM1X2NYcHpua2ppR1Jpd1JqaEJzUnJtZGJfT0tkbnNtSkZQV3BwaWpsb1laY2ZJNUFtc21HRDdrUjNuWDd4WmRLVGRZaHhvQ2lTQlZBQmRPWmxwZFpIYzEtR3o5djVtdE0tV3FXSmVVMS0yQmF2SUQ5ejh30gH_AUFVX3lxTE5nQXVhSE9RYTVZMnNaMHBfenU1OG5sVnllUUZ3RW4zMnNFUWJxYWhtS1hTVU1XN0lmVUl2MF92dzNFRjBZaVVHT05mNDRDMVdpdHZMTjJ2VUhabzVXYUF3X1NadEFCd0dDWXFscFVWUkQzRU40SHlsYU9GU0w2S2V0X1hkeVhhLWxWZWlNc25ZQ3V5MkZfb0licWxULWtmWHI2SGVRcV9qX1g1VEZVdUhSNEZYN21IVm13WGt0VXVDeXZEZkRGa3dmZU9ZZzJHcUh3MnF3SGZ3UFN0YmlvQUhfTkI4b2R1a0V6d0hVdDZlb0ZQT0RFLTFZb3ZxdUZqaw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi et Quanthor unissent leurs expertises pour sécuriser les infrastructures critiques - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPT0sxTmt6QUFVQ2RWNUpuMUJwVE96RkJ0UHNqWTRaenhBQkRJYWR1NDd0aHdwYXJkRHQxdUNBMlRvYlRESmJ0QVJlMGhmcERZZGhSUTl2MERGSEktaGcwbHlZS095b3hMbnViVERUSnVydmdWNEdXcWZ5MnBhV1R3cmlkWTFvbWhVWWN0NG5VYzRqZ1RFWVpoUDRFWkU0X0NObEFCOFY1ZnZlaVpJWGl1MEFrRndWN2VoTHpZaDNaYmVhYlZQXzZyLUlLbVFKZnU0c1hBWFFDN0pPaEJWY3JwWlRaYWZkRUhNbUdzZktSSTJaTmFpUG5USjFURkhUaFZGLWs5VkR1T2VFYTNyMjhvSTZDTnZkSnNkUFFkWWJHMF9NYmt6Q016UVlCTldfcFI4N2oyNFFR?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi promet de premières conclusions en septembre sur les accusations de Grizzly Research - boursedirect.fr",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSU9EY2ZPaUNkNFZ1QUMtRTF0cndlYmR0M0JkdjRUOVpBaGVrUEdBbk5UWW90c2h0WWVqNWw2RmdyZDBub1pFRHhIeVNPR21VQkNmTGFvMDBlNXJBcFVZTXFzSkYweU51VnJoSjc4RHg1MkJyTE5mTXVScEEyZW1yU3hLTHhCU0tmS2Zma3l2SWhPZEtvRVhaa0JEMW5Bckt2bkFKQzFubGt0bFRLOXJvVTc1aVktWW5DcHdTVlRDemd1NU1SdkQwSTVGOFJGQk1C?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi continue d'afficher une remarquable dynamique commerciale - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjJMUmxqSy1raEdjYmx0MzE4QWMzS2ZrTm14MjdLelF6NUdoZElqMzNYdFRzWXRIVFZrLURhWnlPd1ZDd3UwU2xyYk83djlkQjY3TTJGQ1RaNVlKckU5bnlQNE9rcHJBcDBWUjhIUFFiSHhkSTVnc2tYQ3FrTVVSSHRUYk5RR2M0cG4yNHpGQ2JlSWN3WHBXbl9zZU9HeVZF?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Action 2CRSi : l'effondrement boursier face à Grizzly - XTB.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVU3TTZ0Rm9pTkNQNFRYRVdBczR3N2JGeXM4MVlPUVVmdkg2Nk5HZEMyUGxYT05LSk5TUFFCV1ZEXzJjTWpnck5UbDk3WXQzSjRsQWpUR1p5d0lLMmZhNjF3ajlnNFNOdnQyZVc0M0xCbmhFTEZyeTQ5NzlhLTFaU3NLRTJXZjRqVDVhS1htYmU2VVZGcnJOLVNlb2Z4UWVpeU5yQzl5VDBGRFBXdmNrMjZPRUZQb1VkeU9SMjNrMnNMV3N5a1UzZC1xbmd0MGx2Tm1SZVJpQQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - Zonebourse Suisse",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -310,11 +366,11 @@
       "variation": 0.5681832713529334
     },
     "LQQ.PA": {
-      "ts": 1785883554.9255803,
+      "ts": 1785887301.7540786,
       "variation": 5.993616664684433
     },
     "SIVE.ST": {
-      "ts": 1785883554.925577,
+      "ts": 1785887301.754076,
       "variation": 18.858241299786517
     },
     "VU.PA": {
