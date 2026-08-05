@@ -1,80 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-08-05",
-  "orange_queue": [
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb2trMVcxbGhIMkdia2w3OTdFRjlKZ0ZHQm5OUGtuVHBCeDF2anA5bG1sX1F0ODJ3LVN6cWgxbkNUU1J0RGJJVEY2aFpxbGktM3FjZmJLOHZtYmVxME1sZmprSDNUZHBMem1VQUpGbWNlSmM5Rm9mendjMXdHY0tuSXZicWxNczU5SDJSNFZYYTVwMTNPTFc2d3lCMWp4a1lqN2t0OS0wLUI1OU10aWowQkRrd1lxeURmZWhsZ0lWaDhUTzloODR0Vmw1UEY5dkJnam41TTZRNmg2bU5lU2VaWC1kbHFBUVlPeUM3T3lwTnpLMXF5eUZSZmlR0gH6AUFVX3lxTE5va2sxVzFsaEgyR2JrbDc5N0VGOUpnRkdCbk5Qa25UcEJ4MXZqcDlsbWxfUXQ4MnctU3pxaDFuQ1RTUnREYklURjZoWnFsaS0zcWNmYks4dm1iZXEwTWxmamtIM1RkcEx6bVVBSkZtY2VKYzlGb2Z6d2Mxd0djS25JdmJxbE1zNTlIMlI0VlhhNXAxM09MVzZ3eUIxanhrWWo3a3Q5LTAtQjU5TXRpajBCRGt3WXF5RGZlaGxnSVZoOFRPOWg4NHRWbDVQRjl2QmdqbjVNNlE2aDZtTmVTZVpYLWRscUFRWU95QzdPeXBOeksxcXl5RlJmaVE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi accélère dans la cybersécurité post-quantique et poursuit son rebond en Bourse - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkY1c3dYa2pmVmxmbEg4ck0tak92LUZGS0pZRXREUy1rMTR2Vjl4a3kzbGxoc0pYdXFUOU1WN0gzVTdneExoelZKdTdzR0NDM3JEZC0xR0drUHNESlcwdW43S1hrVEJqX09iTmZrOTd4MzhCekR5Q09GQm1RM29BYVd1OUNZeWJiMUlYVThJMkhlSnlndkZiMklvdUdZWXd4ejVPdF80eVA3TGNlc2JjT1p6Nmg0aC1IcE4taFNscjc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi s'allie au Canadien Quanthor pour les infrastructures critiques - Idéal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejBrNmZQZVBEZ1BTY1pkb0V3bGZ2d3ZpVngxNHVPR1Ntdm1ETXlDQ2NKVHBYM05aNnQ1bnpocW9wSWt0OEZhS1dsSVA0aDJCdjhzMF9GTVZFOXViTFlZbWhBZHdOY1NHOVpnSWZzeWZCM0FUdmlaNFdSLTdyWXFqRTQyYVN1YldEdThPVDdVR25Sd1hESEdIbzEzN0RfTUVuVXRj?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Cours 2CRSi : revenus 2025-2026 historiques et stratégie IA - XTB.com",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NRXZVMTVwOTVTU2FzcmRtWFVHLXdNc050V29CQTNPVTJKbkp2c2Y0NUN2OHJZLWhQeXJzNWFBSzVTaFNTalJHQlQyRjJmWEtIRVE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOLUTIONS 30 Cours Action S30, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "label": "fortement haussier",
-      "message": "RSI entré en zone de SURACHAT (> 70).",
-      "nom": "Haffner Energy",
-      "score": 8,
-      "ticker": "ALHAF.PA",
-      "type": "technique"
-    },
-    {
-      "label": "neutre",
-      "message": "📈 Cassure d'un plus-haut récent (sortie par le haut).",
-      "nom": "Vusion Group",
-      "score": 0,
-      "ticker": "VU.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVU3TTZ0Rm9pTkNQNFRYRVdBczR3N2JGeXM4MVlPUVVmdkg2Nk5HZEMyUGxYT05LSk5TUFFCV1ZEXzJjTWpnck5UbDk3WXQzSjRsQWpUR1p5d0lLMmZhNjF3ajlnNFNOdnQyZVc0M0xCbmhFTEZyeTQ5NzlhLTFaU3NLRTJXZjRqVDVhS1htYmU2VVZGcnJOLVNlb2Z4UWVpeU5yQzl5VDBGRFBXdmNrMjZPRUZQb1VkeU9SMjNrMnNMV3N5a1UzZC1xbmd0MGx2Tm1SZVJpQQ?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQmlDUDdhZi1fVktKQjFaT21IV2pOaDJ5QWFUYmdvaTlIbG9qRkJFTDBHM2JCZ2x5cXZjN1A4R1V4TjBYcUpUblBZUFBERjZuZUp2SkhDZk5Ob2N2WXhmTjF3N3IyY0pNekhkV0JyTFZjR29jbl9UbjZKeklNWTVhckhja2VSZWRhMHEyeTQybldJOHEzLUNQZFJFWjYzaXpCMVhMVVd6UXk0bV9FZ19VYXRVVHdmUWxaTmh1RnVhNkNHOFN5c1V0Z0FkanB6bjJRbTdaci1qRdIB3AFBVV95cUxNVmNMOFVKbkl5UGh0TzNpUmVhZWxKVExFV2pNN1V1RTM1MTVueS1DNG9jR2tRSEVlVHVfYnRUYjVtNGFDNDEwT08xcUdpLTdrTUgxcjYtUTZXTTZZdUhQVkNZMTZVQlhaVHB0Y1ItQzdWV051c2dEV3hEcGhZRnlpdVFvZXp4NEQyTEdOR1FiNk1weE1FbUNOU1hqN0NPRnNTSmxuNDJzdmVtdkd5eExJbkFqaklJc2g2TUI1Vkx4UkFnNGVHdmE3dm04ZjhGNnQ5Vkc2bFpKZFFWTHJu?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors remporte une commande auprès d'ALL.SPACE - Boursorama",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-08-02": [
       "13",
@@ -89,13 +16,14 @@
       "18"
     ],
     "2026-08-05": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1785924722.08739,
-      "variation": 11.491438383314568
+      "ts": 1785946983.8474722,
+      "variation": 8.06577529611699
     },
     "ALHAF.PA": {
       "ts": 1785941037.8025515,
@@ -118,12 +46,12 @@
       "variation": 0.5681832713529334
     },
     "LQQ.PA": {
-      "ts": 1785941037.8025572,
-      "variation": 7.863186578877869
+      "ts": 1785946983.8474765,
+      "variation": 6.9393990918646455
     },
     "SIVE.ST": {
-      "ts": 1785941037.8025558,
-      "variation": -9.82191375717095
+      "ts": 1785946983.8474746,
+      "variation": -8.36481721105702
     },
     "VU.PA": {
       "ts": 1785941037.8025541,
@@ -132,7 +60,6 @@
   },
   "seen_news": {
     "AL2SI.PA": [
-      "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczRUM0JUQk43b0ZYenNBTVVvM1gwQTRVbUFHSTZRLTYxWlRqdDJWekplMTFnd0k5em9BaTM4aHBMcVVmVjBLZktiYm53Q2dONE1CS1d2VEpKYnBKSlhKRF9MOWpXSF84UEtkR2pxS19hTzRvNjNkV0l4ZXlocUM2dzJ0VlhuM0pWMDl4YVpuVGZ0Z1dUMDF2dnBOQXJOTkhOU1JtU3hPM2N4cWZRMEgxOXJmU0pOcXBQTlE?oc=5",
       "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNEh5SFNqeTRFT0l3aUJZNmlCd1BScHQ2T1lzeE5jZ1ZxT0laVnVlT0pFdmVQcUZ2am9TVFd4RU9sVk5NXzJFRlRJampCRUFsd2ZNTmNjNGtDNGd0Zm5qbEM1OFZvNDdSLXN1eVRYcWFhMzVWZExtSmUwM053OUEzSm1CMkFMWFEwMzZxQ1RUd0Z0clh0SzlfMDI2VW1SX0lIeFdueV82bnd2MU9PanpvdUZiSUdYRXRzRklGVmFGV2xxWmozNVE3VkFVR2MyNTVzY1RQcHR5UHZjUGttekprVklJeTRkRmFfNGNGYkRjRExnNi1wYWUzd0FwU2FvNm1VRFE4dzNlS0x3WHdMcFdNRjhuLWx5MVUyclp1bVZfa2I3M3RrdUZiemU0ZlBQMlpqdUVXNGtnclJkQdIBvwJBVV95cUxQbHJSd3Y2VnphTVFyZ3FPMVZ5R2tEam94N01fLUpYZXE0UHlQcTE5MDRzZTNOOXI0THpNVGlQeFNSNW9RdF8tZDJPRnl3RXY2dmFieVlhWmk3eVNqQ2N5Y0cyemVGeHZ2MUJpS1dJdUdxZ1JXckliXzdib1k5NDVONDRUZG4wNVdIclVRVGZnRTVqN3h5UW83c3BtenJGRUdXS0ZtaTJlZVZ5VHdmWXdiVjlFUUJUekFla08xbmNxQUk3OGd3SUsxaWE2bzMwaE5IU0djSmtsRWgzak1hYkVBRmhpT3QyRldwZU1XZktSekJKNW5BM05qcHZOVGZwaF9YVmlJOHVSQzFPTHYwamdpY1V0Zm9WRUI4SW00TlFDLTE2cGJ1QW5vQm15NWgwZG5mZEJHSEttbzZHZDZ1ZTFN?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORHhHU05YZlhPbDBCVkhxd01QWHNUbVJYeEJKaGRhM09DdnNwWkNVUWY1N3d4VjItWC1WNTZjS3llZFRUcTFwZ2hyaDl4N2NPcFN2c1RWVHVXbW42N2xSYjdac0stVFBRVmg4NDh1aFlLMWNQVGZhajZ6LWZBcl91Q2l4SEh3ZzJHWEdXRHRKNUJzeV9CMHd3NFdSUGZsaUhrZklkLXU1b1BfQ2xZM2Q1ZzJBSzFFNldyMXEw?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2pfS0JTMXRUc3hJOE9Ha2pOeXZnVHM2RDFvSVNUUFlNUVFGV3RXZjFXLWlBTkZIRUZRVTNoUWhXMnpvVzJ4MmxpZ3RGUzJtdG55UWMzZmk2V2N1UGVrSS1MWVB4TURka3BuSllXeXJlcHg0ZHVVelo1R3h5QUlEMUhKNXJ0NzNSdmpIaUtlOGU3endCV0cyWDNrUmpXd0JURWJaVDIxMjViaEZJSXMwb2g1QldlbEl4dkM0?oc=5",
@@ -160,6 +87,7 @@
       "https://news.google.com/rss/articles/CBMixAJBVV95cUxPUEpPUFZnOWtsVVpKbG5tTGpNb0JQVDRCX3NkYzRHRC1NRUhHbU4xMmRUbmFqZ0VFWWJZNGFfaDAzRnlwNW5VX090SENVSGJVTG5qa21kNnlpN1N3ZUEtaDF6NFhoRUd0dlhCaHpVWk9ycFBwVXN6dDlqNWdlOGlnajVROUFTWWIyemxmV1RtSmlJb2hVMS0tYWhWMVhCSEJsdzJtTmRhc19KMGNTM0tEV3BSUGl3Z0czY2ZYbXFaTzF1a0dvSTNPaGpwbzVBNm9aM1JoY0FDV1hHRnNuYXZwS0x1V25saWx5MFVCaE9WcURqUGYtVEpDRm1ZY2FYNnpWNjNsaU82bE91RFRqdndQWkVfVThWNm52OXlwRnc5cmxQb1NSY2xfYzRoa2xEVmZXYmoxVTZwZGhWNUQ3VjgwR0hqU2TSAcoCQVVfeXFMTUhxazZCNUkxSXpwX25CMW9oeFJNdjlxb2dDMkdCTzVvbTBUYl9zZnZqTTFCYThSdG1qdU1kSVBDalYwU3BOY3JJSXVZMjNadnVweUs1WFB6NzdCaWo2UXc3LVlhRW5FLXk0N0VTUTdBUFVPWE5JZGRkTS1XRzY3T0Q0X0YtRy1Lb1MtUVVYLTcyVW5UY2F0WTMzemdDNllBc29PRmFHeldsQWtjX3ltTk8xUlpaZWlTWXNsNXg4TUQwM1FiRU51T0FaYXBPTVV6OEZuMlBRamNMM24tR0xWLVk2S3l2d2xLTGltM25HeWxTMnVHR0hjZEt2aHpZRTJxWmpEaThrLW13WnlyWDlVVVZRSDBKSTZaWGhFRWVidlphN1o3Qk9YVXZwYkxRVlpOR3Q0MHJjSnlGa044TEt5cF93YWJZNUhMWW93?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcGI1V0VwSFVQcDgzZ3B1RnBkVEVrY21yNXBiRTU5YmY3cHNrdmI0XzZhUUg3R0M5X3MtN2lkR2FoLUxvQWd1ZU1ZM3BzQzZybzM0d18zY0Nqbnp5WW01NGM3b09INDVDMW1MVll2UmxfelBwUnRLaHZNMnBfNE5mUEFGdDBYWXJ3NEg3RHhUclpZZk1JRm5POURacW5JYzQwOFhEYW0zYjdGNUd1dGRDR0hVMmlYdWwta2hWQnNzY3BEU2lZSkE?oc=5",
       "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSTZRdEsySll4M1ptc291MmFOLW1Jc1ZIR09sTFpSQ3lJLXBVQjltUWNsVzAxQnc1ekFEemhrek9DbGhZQ1pJZVZNWUZYSW5RVHRhdmpkZlZPS0ZRV2UtQUhuamMwTmFUNURvTE0wa0h1RzVaOEJOX2dHVTBUTGRtQ3NPelRVelZPa1hTZC1pX2Z3emloMy1aQTlrZVlZMHRnMzBYSWxDa0hxMW9PX09vRndLQ21icUdfeGlwV01pa01NRmkzQXRz?oc=5",
+      "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMUlxd1FuUnh5S3kzUTFGWEZkTzRWc3lJeGQ4Y28xc3pYSTJzbzhPdjNTMEVSZ25YYk91ZzZXLWRaS1FCTVJ4NlcxMklWaXJfV3F4NVRTZ2lfb3Jtd1RhYlM2VlI0ekhwOWUyZTh2WjliU1U5Xzh3WGRLOTdqcVZfMk9DZi1tTVJiOEp2NGN4RlZ0Uk1DUHU4Z0lmU1NRZ2lUTW90N3NFbmJpdld6VThGUV9sTFFNbng1NGtCZkRmYU5pNHM0NlI5S1I4UlFtNmlYblRTdW42YWZfUzhOalJqcHlzU0ExVnFBX1VDVVZhaUlBS0gtOHB5Z1RfUEdjTmFZcndxQjNTVGFvOUNGZnpILXJxODZDclF4eUhqeC1GNmxucjhKVE9lN3FHTGNhTVhYUjBRYWl4ZG5hbzY2elRrU2ZJZTB1OW_SAcwCQVVfeXFMT09aR3RsMGZoVWhhTTZwTks3a0trY1JtS2h1bUVTU3JTNVoxOFlZUkhTYU9ZaHN2M1V2SkVraVhOLUk0czhDWkc2ckFmOG9TTmo5U0ZNMTlVVDlOTXJQWXBFSTZ2VlJ5dmtfREliek12a3RMR204amxNVGVpWS1hdHJXQU9GdGJXUVk0eFgwTEZSVXVnV3M5bUpyb1E0bGJfOFY4QkFCMEZ6RHY4cHZzLS05dXBfdzNWSHRBYzFUSndGQ1UwcEtxYVpZeHRNYVo3amctendTTWhrX1k0VVk0THVzSVl6ejlFSlB6cWpsT2FUMHFBd043d0tUTS0zMU1oZXJ6Tk15Qm5Cd19pMFBnZjVzZjgyRE01T2FLWG1ubndyODhodUFLQ2J2bkNQMHgtNHZMRFpNR1VKQURQQVRiZmRubE1XM00ycWlpVXc?oc=5",
       "https://news.google.com/rss/articles/CBMixwJBVV95cUxPajlVSFRWcURuN25Ka1o5OWoySDRHTGVtalViUlk4RkVLa2NFdnE5LXY5TTlMTDFrRkxPelJzOGJyOUJNcUdLNlE1QWMyd0VPVm83SEpiNHRYZXEwbnZoQlNEQnJmZmdLRmNtYlBDUE95TWNrM2IwbGdBM3ZKdjMwRW9BLVVVdG9yOTgxTXV0NU5wVklaMm9GLWNBdkZ2bk1VLXU2UjdMLTN1bWx5SDNIeXJQWW5OaUtVT0RtdEdxcnFhSmJJOF9PNndKY0RHVk15aVR6YzVlajJ5ZDNNekdTLXdJQWZqd0stYkhnb1AyWlozZ0o4Y2NzRjdMX2RMMkdXNEpSWVZJTE4wQ3BWcXdkcGNzYTh2TFRZMVEwaVFTLUVtS2dlV2JZRm5oam1QekxNVzZMZ09aS3dhU0FGLTU2NzA0bjN3RG_SAcwCQVVfeXFMUG5LM2pwWDdjYXNjRHh2MFZaS0dKMkUwZy1wUnk2YnVhemtfai1kUG1JM0hJVlBxcTRlblZBOFluRlI3Z0tLbUoxNGRERVpkZV85TWxCTkFRWmlkdTV4MU5VQnhPZG9XbVY4ODFMTS1GLXowZnRNcURScjZxRWdLbU5Xd0JfOUxNTmpXSkhxWjExTl9tR1NXTEc5X0N3U1k1eDlwYktaajZiSE9YbkdfSHc0VWF5V09INjFnX0VDcnd0VHVjSjZpR001di01NEk5cUNMMk8yRE8xUm1nODFsZlctZS1lWXU1clE1bDJxaV9GMTR1cFFBRHZOMHNYeDdjY1Z6akVHRXJvSmlCTVZnUEp1Y3hCTzdjelI5cXlUem0zS0tEZjAweHl0TjlOaDJpNGlCakplaWtkM3VnSVBvNG9YdWJsdU9SVWVvZm0?oc=5",
       "https://news.google.com/rss/articles/CBMixwJBVV95cUxQZ09vRzlraC1xMGgzcm5ZMW5jd0dOTDZmNDhvTG4tSUNLdnJ0bTVmXzlOUlNKdk80dG13V2pzTWFYM2RaT01nOXZzbDRJVHZJX1pKRjcxWEswdnhrQmNrY0ptMVlJMDVweFRtSGRpYzEzU0hNUVBSOHlFQ1dZSjlVRkt4NTRfd1Z5a3l0enBQWlJMQTMyZ3NGb2hQcEZxX3RHcHMxdnNRX2NqRDBpRU8wMHFPb3FRQ09OajRpUlFndG9qTWpFSFc3WWNDTnFUN1lIN0dOSDg2SXBHNVVHeTNnRENBemVST0hzZmJnYU1kZFN0SUFNZEpFSUs0OFJPNk9WZFZ6anZmWDl3enJuWWRVZHZVMXVLZDE1OGJXR2IxUFlqYU9Ra28tV1BuMldtVDF4dllXdmhzTnplYUNjVVhNYnkzdHJhUknSAcwCQVVfeXFMUGlmX2F4OW55RTFVWFlkXy1yRGlpaXB6aHZsYV9zWkhtLWxvMTUyeUQ5TndERV9vbkhxdEdtWWdnOWh4TTJFX2NKRmxYaGlFUkJpcTdMUVhfa3k2dWFYekFlYm5ncE9zYjM5QXEzYlh5cUttNF9XMXF0SWlXOURsdm0xVG1QLVJzcFlxaFN3cGYyVGNTMTY2VUNUb1A2dm03SDJKTEo0SUFpdG96b1EweUlZeWh6SFVad1NtVGI4YWVaZmp3MG9vaFFvSHRnQ0w1RnlQamZKcWJKRHY4aVNKXzkwWk1SWU9RNFlHbDdWZ1hXMVNxMnJfQkFOM3d3Y1U2NjNyOUgyX2g5aVliT3ZIRWg2eG5rN0RLVjlMal9KX1NCaDdGZTFMb01ibElhM3p0Vm90V0cySzM5NmtPLUhsY3Boa2tRT19BeDMxYUs?oc=5",
       "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNTUtTam4wc2JmdU5VcjhISGhiSlZMUkxQTFBkWkxzX2lJYXF4Y1lUUEhvT1BEY3ZlUXluek5NU0pUY0ZxTkRuemRUNDBLQ211cXBYeXRIRk92SzJGeWVUOTBqZG9EZFZPeUdfYlhWcXJXbktRX0RHbXVKTW56TjhtMmVtNUdhankxSTc4LXdRZXBvN2ZoSENBbG4wWmw4dzNCZjZIR29VSFE1TWlfRVRVdW9Dc09mbS1USFNDSmFQNnllUWpSMVk4WlItU0tkSUV4MjQzN3VpSU9hbkloM0toTGpVa09xWmJrZWZicF9CQTdzX0N0Y2txMDhXVzhWX3c1T0FQSkRHUG5DUndGS1J5QlBibmdsWXliQm9JNGdOYXJjazJlQmFzTTk2VzgyMGVwUlc5Q3hDR3JKNDZzLWItdzM0a0NxeG140gHOAkFVX3lxTE54aWh0MEg4eG5NZU53UkR0aDRCaWJCNjRkQXpId2FCZjFWR21WYlptZlVtTlhhUUYtT0tZSloxNkdGdVh2T1JQdGVRWTZxalRaRmhsU01xTmJaQTRQMy1kOUZzM1ZFdjRCWlVQSl9tTlBqUFlzTG8wS3JsOEF0NElrYXk4TEJ4UU9idENsV0VzeTNkWTJqbHpvNTJxd09FZnJEYTIzQ1lLOUNkbE51aXFxWDRpcGdLV1RmdE9HMVpiaTREc1BjOU5KZ2xoci01YjdvbzBvTVBGelpyZHUxOFBoN1Ryak5Yd1Z6YVZwaGtZYWVfY1psUm04Rnh1VUp0a212XzFlZktiekdMT09Wbnc0aHhjNzM2bVhrVEpwaFNiRGQ3cTFPTUpsSS1lbXZYT0pDWXRCRnlmZ2pCZHZQMnpMT1RuUUlRWWpOZkRSMUE?oc=5",
@@ -388,6 +316,7 @@
       "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZlRwVE1ZYk5jSkpvZDQ4akU4aVl0UGtobjU3bW1tdmdiemtOVjJUU21NdHVSTjU1VW13Z2N4b0d5aTNnOXN2bEhiS2dBa09TSGFTSGZDMnVOVDU4Mk93TWRwOS1pSEN0Z3U4Y1A0ZkNMS2l6VzZob0V5LWxWUmRXMXg3NnphS3BTMGpWVXlZQ01NeGJkREhtbXhJWldoVHdaQy01OElHYXBkSkg2ZE9Hb0RSc1dvSXlUbzQ5VjZYci1JQnhPN0tkVi1CYXFoTzJXdFBEUkl2TGhwbDBTSkRUVUQzRk5RMXBOVkVCY1lXaDA?oc=5",
       "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ2RrWGtuclV5UF9nMDFiSGw5dXBmSGNtOTNEdzdUREp6ckNJa3FSTHdlWXBCTTZqa2luTUt5RGEzRzcxbDhTM2t6Qll2S1BEaGs4NkxXYTFhRGhjOFEybDV4Z1dfOFJpeVk2Y1RNSGdBT2hORkZlSi1PMXZxQXlLaFdyU0JtOGtHdktnTGcxbmJOOWJjZDM3NDdyay1xeERYdUxhcGdfcEM0aWxYazh0NUJHbk1RRjh2SzJMTWNvTkRzdDJ3SldqZGpoNzhxN2xMdEkySnZweXFvSjVBbDdtUTNZdGFQbHIyYVd0aFJ6YTVHUQ?oc=5",
       "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTzhtbmt1R2h3bGFUNFZQM2ZSYkhzcHVrVkpDbTkzbGtpaW1KOHhWYVdqc21LcjRackRXeVJLZ29jMzhIbHg3QlpuU0JVUnVta3pRa0NRV2RfMDBJSF9xd1RyekptSy1mYXIwQXlsWm9aQ2ZHN1MxUWsxMlp6SDh4cmhLaWVxTDdacmxob2RZV1VGU3JFYnVIMlhDVFFTc2FDWTBlR3hWclp2V0NpVFNPNG8tT1RvNjlGQkMyQko2VTNpRk9BU1MxUG9nSmVDRS1MbWpJbGVJTzZSVmpIRHg2LXNCZE9TaUsyaTdRYTFpSjF4QQ?oc=5",
+      "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObU9GYkNqOUVtRWt5U0RSdnl4QTFHYUpockpfOFVCUTJYZzJ0WkhNYUR6d0RJWlI4YzJxazJaeThhYjBqYzJMcFBJYlVEeFE2UktJOGVMa3pCSWNmS3c1WnJPeWdVMHdzZkxucWNOVWFFdUZ1YkJ2U0MwZGItd1ZMdGk5V2dvcDVNS2plaHRScXlkZ2tzWm5lb2EtYThnWnNaV19Pb2U5SHBnZnZ6Slg2R1RVNVREMlVoVVV0b1pnWGwyTFp0bl9qYkZTbEQxc0xONV9HTU5nSThQMW93MENmRU1ETVJzVUVPMmlkdVdWd2RmLXk4UG1V?oc=5",
       "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94ZHdqc2RvclpHbkFTYkRJVjloZkJDWUkyR1dqcXZZVlBzOWdCd3Y2OTdCSV95b0lSS3Z0My1iYUMwX0Qwa2EtSXotU3FnQ1Rqd3BLdE1RVFB4R1FR?oc=5",
       "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MOUVCU2RpeU12cFVBZzY4R2w4MlV2Rk56cXhhaS1VTXZCWVdKZ0tLVVd1T01LRjV1UjF6UXJoR1h5NVJhU2dmbTNmQ3owY0VCallFRS1Md0szb043X2doZldyQk5haTAzZEFMZ2o0bnBIX19mdWpkeVNkclI?oc=5",
@@ -488,7 +417,7 @@
       "zone_rsi": "neutre"
     },
     "VU.PA": {
-      "au_dessus_res": true,
+      "au_dessus_res": false,
       "croix_mm": "death",
       "signe_macd": "pos",
       "silence": false,
