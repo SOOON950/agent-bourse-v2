@@ -1,7 +1,16 @@
 {
   "initialized": true,
   "last_digest_date": "2026-08-08",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "label": "fortement baissier",
+      "message": "😴 Calme inhabituel (volatilité très faible) — la valeur s'endort.",
+      "nom": "STIF",
+      "score": -9,
+      "ticker": "ALSTI.PA",
+      "type": "technique"
+    }
+  ],
   "orange_slots_sent": {
     "2026-08-05": [
       "13",
@@ -49,7 +58,7 @@
       "variation": 6.9393990918646455
     },
     "SIVE.ST": {
-      "ts": 1786204177.5743778,
+      "ts": 1786208615.1539342,
       "variation": 10.081745738479121
     },
     "VU.PA": {
@@ -399,7 +408,7 @@
       "au_dessus_res": false,
       "croix_mm": "death",
       "signe_macd": "neg",
-      "silence": false,
+      "silence": true,
       "sous_support": false,
       "zone_rsi": "neutre"
     },
