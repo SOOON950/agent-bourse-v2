@@ -1473,6 +1473,14 @@
       "ticker": "SIVE.ST",
       "titre": "Arrowstreet Capital, nouveau vendeur à découvert déclaré chez Sivers Semiconductors - Zonebourse Suisse",
       "type": "actu"
+    },
+    {
+      "label": "baissier",
+      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
+      "nom": "Kalray",
+      "score": -2,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
@@ -1856,7 +1864,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "ALMDT.PA": {
