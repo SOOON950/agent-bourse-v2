@@ -15,7 +15,8 @@
       "18"
     ],
     "2026-08-31": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -24,8 +25,8 @@
       "variation": 8.06577529611699
     },
     "ALHAF.PA": {
-      "ts": 1788176772.0137715,
-      "variation": 13.135592534568804
+      "ts": 1788199938.4213264,
+      "variation": 13.559321345559699
     },
     "ALKAL.PA": {
       "ts": 1785924722.0873873,
@@ -48,8 +49,8 @@
       "variation": 4.186451938331809
     },
     "SIVE.ST": {
-      "ts": 1788176772.0137742,
-      "variation": -21.792035068208282
+      "ts": 1788199938.4213297,
+      "variation": -26.43805278692858
     },
     "VU.PA": {
       "ts": 1786103968.6517744,
@@ -231,6 +232,7 @@
       "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGVYRXRRWWpyWUlOeVRhZTZ0UU9sUTFlem9fU21FajhualllZlFVcFEwajQxNFRSeUMxOGlzbWRkN1loQXU4YzNfSTEtVzc1NTYzT3ZwOTV5aEJPb2VKMTZqMUtfeWZGQnQ3bUJRU0VmUDI5Ml8zWnFzcF91OWVvLXZHeW9GNHlOcTlGUWdQbmp4ajk1bHRXV3Zkdl9wYW94UkxQSVZGdFJWVkQ5Ty1wdkxlcDJ3UQ?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX24tVi00V0xuUlZ4SXBLY0VkeUxmUjh0VHIwSG4wSGVlNnVwRjg5eHF3c3R3anlhVXhXUU1vc2taSTAzYjloejk2YjlGXzMzVUFWTF9qMk1SeUFmVE80NXFWZGQ1Rk1IUFRqSHFkYkdOSzJBYkxyNVZOZ3ltZmhZUkZFeE1GVktFb1p5bHk5RVN0RzRjM0lKcEJ0N0J3WEM3U1VmbFMxZ0JvTVlacVRZQnlDT0pMeENmZ01B?oc=5",
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRnA2bzF6U21hS1VmUkM3Y0xLRmRDNHhXYzN2NFRDZUhjOVRXVFkxa0MzWnZtLXotd0ZFOS1oQVpQWnF1ellZR2NyaVJ6Nm84TEJlcVQtYTlNZjVYQmhFQlZfTDZVbW02S0lFSWdkYVJHazFzQ0NTMWdobGNFOWNlMktCQXVVOVp1ak5jQ2ZpbUxVOVpFYk50TGdZdFZBelEtS0NJVTUxZGE4LTBGQUNtaDV2VGltUzVnX1lJNw?oc=5",
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczVSd3VaR3I4QTZBbDBBNE1seGN2ZkpuVDNaZFplOFBvMHJDeG44MGF0ZkVsR3hiclczYzVDOFNzb3Vwb2R1d2hMVXBtclVDM0lnaEQ5bDNZX3I3M0NsMHpGekZvNTU2ZVZGOHNVWnE4Z0VUWVVoaGNUQlotRXRxcUxPWG9EdjdJclNybnhIdlpJYzdmX0xQQ04tb1FQeWlMaEt0VzhlcUxBUUZReGkxd0hfUjFXUnNlbmN3ODBWUdIBxAFBVV95cUxQQU5fZVVaN2NrUHBCT0JIeWdzY2RrbTlFZVd6SV81alplU0JESjZnbmVDWmhCREhiWjA5V0NCRTI3eUdveVFzR2ZfdHRQMHNwV1NvalZ6Nkc4Znc0eWRsNUY2MjZEWHRILVZpY25xMV9JeFJVRWhRX3k4bk0zcDV2dUZVbWRUZjZlempIX3hyTGVfazRvWktoY2k5WFoxZElhYWZfRk4xUFJqY2puV0RjUE4wenVCbmJPbGJ1eW5ucE9zWFZt?oc=5",
       "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHY0ZDJWdzVuZmlMdldpUS1MejItQXpLQVNwZzFSWlJDWEdrbkdBcFdLZ0UtT0k5dnU1VWotcWNpNFdDcWJYV0NHd2FQTDZpWmFRQzQxUlNrU00tczc5UlZvZ1hNZE1SZ3dVUm1Del9DQVQ3SWR1dVBHM1ZfcHpOVmZobkxNRkxLekh2b045ZlVkY0l3aDhYbDNCaGxFQlBrcGhTTXdoV3RGLUEzaXM5VGlEZ3pFcDd5c1NfY2FDMA?oc=5",
       "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd19MQWZUd1Fjd1pod2ZxMVp4ak5IdEVuamZHRGhJcU1fSjk2STRyN2c1T1Rnanp2RnFQbjB1eGt0Um9Za0I2cXk4Wjc2SDRnS3Q1MV9mWG9vV1h0LTYzZURZNE1aMGVmOUpZQXZtaXlLYWIwZzhHWkpVZ2lkdFRvMlhPMi1MaVl1aUxQMUpwQThBaUItSHBTd0cwaFVDbTZuWXlrTFItTVBLWWZZT092cDlPZUdVYmNVRDhrX045VUk1QU04aTI4?oc=5",
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREs5SVRrbTRMRHZzaXZrdFZlenI3d2JUa0tPLS1YQmNjVUQxbkFDcGdTV0FoeXNjVngzU0NoTEd2YW5ibHFRMWNOWE13Q0NFTzUwc0F1b1JLdmNIbkJoVk5NeHNEREtESEJjVWo5ZE1RdWNzZ1NZUlRiLXNzbzdFbFpwWnhhdXhVWVpSbUdwdGJfU2Rrd3EwdWZubjNfVmNFU0oza3g0ZFBvVTNVdmpSbS0ydXh3NWdhUVZRYnJvUzJtd3ozbFBpOTVaMHc?oc=5"
@@ -391,7 +393,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "ALMDT.PA": {
@@ -407,7 +409,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "ALSTI.PA": {
@@ -415,8 +417,8 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
-      "zone_rsi": "neutre"
+      "sous_support": true,
+      "zone_rsi": "survente"
     },
     "LQQ.PA": {
       "au_dessus_res": false,
@@ -437,7 +439,7 @@
     "VU.PA": {
       "au_dessus_res": false,
       "croix_mm": "death",
-      "signe_macd": "pos",
+      "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
