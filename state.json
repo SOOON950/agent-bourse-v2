@@ -16,7 +16,8 @@
       "18"
     ],
     "2026-09-01": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -45,12 +46,12 @@
       "variation": 0.5681832713529334
     },
     "LQQ.PA": {
-      "ts": 1788264795.623575,
-      "variation": -3.9664470990266745
+      "ts": 1788281074.531041,
+      "variation": -3.5418406427622577
     },
     "SIVE.ST": {
-      "ts": 1788199938.4213297,
-      "variation": -26.43805278692858
+      "ts": 1788281074.5310383,
+      "variation": -7.4436103499045325
     },
     "VU.PA": {
       "ts": 1786103968.6517744,
@@ -418,7 +419,7 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
-      "zone_rsi": "survente"
+      "zone_rsi": "neutre"
     },
     "LQQ.PA": {
       "au_dessus_res": false,
