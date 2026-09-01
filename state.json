@@ -1,7 +1,92 @@
 {
   "initialized": true,
   "last_digest_date": "2026-09-01",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlFEQTZ3XzFOcjEtRnpYc0NCQjVXYmduR2xWUmFaUjJ6M2NhVzNfM19xMXBzQ0RwbTgwaWRzTWtpQW9JdTdMN3N3SDVocG5aSUg5clFacTNCSFNuV3UzQVNlVGZWdkhMYVlYVUtsVHZhS3Z1X2YxUjY1cWpZdGxHZS1OMHdQNGFjMTFZVkxFdVhSbWhtM2tQdXRYMzFiNWE3ZkNXY2hCc3VoYkFJZE42NUttUDBabVNkZ1prRHZocUk2RVNHaWlPeW1jQU1DVDRZbEFj?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action 2CRSI progresse de 6% grâce à un chiffre d'affaires multiplié par 10 en six mois - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Investir Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejBrNmZQZVBEZ1BTY1pkb0V3bGZ2d3ZpVngxNHVPR1Ntdm1ETXlDQ2NKVHBYM05aNnQ1bnpocW9wSWt0OEZhS1dsSVA0aDJCdjhzMF9GTVZFOXViTFlZbWhBZHdOY1NHOVpnSWZzeWZCM0FUdmlaNFdSLTdyWXFqRTQyYVN1YldEdThPVDdVR25Sd1hESEdIbzEzN0RfTUVuVXRj?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Cours 2CRSi : revenus 2025-2026 historiques et stratégie IA - XTB.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDNjYTd1RUFKcmVJaG5MMEV6TzA3b0JxYUJ4Y3FRSGc4ZVJrd1hnckJZWUFjVEdxSmJQS3BaN29GeUtUVjMtYUF4Rll0bm1CaXh1TXNBR0FNVERMbFpHeFVZY3E4MTlQUnNoaW9xUHhlblo5S0w1cWloRS1uZnBpRjlfZFR5d0dfa1M0RllUV2tRLUlHWHNBc0VqRW1iYlFBUkVuTVZEQmtyQmR0VHcydG5lMHpabDN4eVlR?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion confirme ses ambitions pour 2026, les revenus bondissent mais les prises de commandes reculent - ABC Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSlRiZnhFYmRfN1V2eWFCMWVTVlRmQjFzVUNEeE1oajA1MTg3bGxXdDUtb0pkSWdXejVmbnUydlY3ZmFjcWxIUjJkamR3ejdXTWRBRHVLa3lVMnFGdFJCTVpIYUplUnNqQUhvaUc1Z3k2d0puaDBITlprUzRtNGs3QnBBdEJWSWFwRzhCZW5SUk5jLW5lc2J6U1ZYQkRRTmNZR2NYWHRiSmd0a1BaYlZuOGdEM1N0YnFHekFCNFQxbkdqaVlqM1dfNmJvMDRUckEyNkk1Wnh3Mk5sQQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Arrowstreet Capital, nouveau vendeur à découvert déclaré chez Sivers Semiconductors - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVU3TTZ0Rm9pTkNQNFRYRVdBczR3N2JGeXM4MVlPUVVmdkg2Nk5HZEMyUGxYT05LSk5TUFFCV1ZEXzJjTWpnck5UbDk3WXQzSjRsQWpUR1p5d0lLMmZhNjF3ajlnNFNOdnQyZVc0M0xCbmhFTEZyeTQ5NzlhLTFaU3NLRTJXZjRqVDVhS1htYmU2VVZGcnJOLVNlb2Z4UWVpeU5yQzl5VDBGRFBXdmNrMjZPRUZQb1VkeU9SMjNrMnNMV3N5a1UzZC1xbmd0MGx2Tm1SZVJpQQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - Zonebourse Suisse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-08-29": [
       "13",
@@ -46,11 +131,11 @@
       "variation": 0.5681832713529334
     },
     "LQQ.PA": {
-      "ts": 1788281074.531041,
+      "ts": 1788291531.9936187,
       "variation": -3.5418406427622577
     },
     "SIVE.ST": {
-      "ts": 1788281074.5310383,
+      "ts": 1788291531.9936163,
       "variation": -7.4436103499045325
     },
     "VU.PA": {
@@ -369,6 +454,7 @@
       "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTZIQS04dV8tTTRKaENudjZhQWpaQzhJYmprVXJlUFNMS1M3b0NnckY2QW5SSkRsUTBBSzdlT1Iycy1YWno4cHRpSFdkMm5xNlphSnFaWGZKNUdlMm8ydGZkR2dadmpvLWcya21HdWJhUmxFaEcxQkJlcWFhWi0xOFFmRUxVcUZQYjBUaW9Lb0h1N0MweER4bFU0VVdZN01oLWtBZkM5WVlES1RzTnJJOHJSZE9kQQ?oc=5",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHdsajRSOU05Zzl2VXhxWERMX3dWbkxxXzB6ekF3SVNFOWxuTWpCOTRMRjdiQVlINTdoQVVGck9rcHpxRS1tZmNhNlc3UGUwRFlxaTZZS0pjUDd0U0JzMzJzdVFPQmwwU0tRNFpPRGhCNFVJTnhOM3VJRFdyc2JpX2J3cFJqRzNoaVF3ekJJZVZFTTMtZkk2NWVwQlFza19aVXhRalQ4UkFFaVNGMzRVbG5VRzBXcXM?oc=5",
       "https://news.google.com/rss/articles/CBMitwJBVV95cUxOeUZveXMzWURZc0VqLWtZejhwUjI3VEVKeWU2VDlyT3RGMDdTem1xVlduZEVRNUlUbE9rNUktbnR1S09KSk9PdGdETEtaY01FcnFka2diQnRnWXFyRGNuMGNGb0t6V18tRzk3bkh5NlR0RXFOOFFoU3U4SGtDNWZvbzBjNnNYNmdEOG9NUkdtRFY2blhMcEV5d04yUjEyRXd4Y3cyVU9ia2dVM2lfV09UVGNmaGlfMlFGTV83cXR5OE9XeDg1Qm41UEwwUnBybHFUaklscGhyTTdNS05TOENscEtSRC1tbHd0Rlc4SXhXZW9iQ1U5QjRsWkIydmxrZVZVdGdwM0FwZl9talc5VU1xMFRON2JXaG1nWkFCdFI4OWNRRjY4c2VpZUw3TkIzLTA4bElXWnZ5cw?oc=5",
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDNjYTd1RUFKcmVJaG5MMEV6TzA3b0JxYUJ4Y3FRSGc4ZVJrd1hnckJZWUFjVEdxSmJQS3BaN29GeUtUVjMtYUF4Rll0bm1CaXh1TXNBR0FNVERMbFpHeFVZY3E4MTlQUnNoaW9xUHhlblo5S0w1cWloRS1uZnBpRjlfZFR5d0dfa1M0RllUV2tRLUlHWHNBc0VqRW1iYlFBUkVuTVZEQmtyQmR0VHcydG5lMHpabDN4eVlR?oc=5",
       "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQY1g4RlpTZ2RnSnBYaGh3OURhS2YtTWJqcjRUU01XUWV5VzBBdG1VV2NkdGVRd056Y0F2VmZGcWhTSTF3ODhJZi1kUjlzWjBRNldYdENqaXhZQ2l3VURfY0o5aGdydXFPazVvME9iYlZwR0s4X3RIU1UzNXhSQ2s4WUtEWTJTOXBjOUd5ZGdBRjNubWlPN25vM1liSlhCOU1ncmlLeVktT2lDSmdNVVFjSDdVSnFLTk5kSTNDN3c3RFFoSkZ5M2pEVWFQOW9uSGx6RmhpWV9OMGtMR2I1cFlGdzdlcjQzQkFna2lhby05TW5KemliYk0zUm1TQlRTM2ZQc0hneGYyT0xVcGZTTUh3am01bExPUmlyanVwNENpRDFoQW41Qk5qMEVBdUpjNGk4UVFhdi1odGl6eEE?oc=5"
     ]
   },
