@@ -106,13 +106,73 @@
       "ticker": "SIVE.ST",
       "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
       "type": "actu"
+    },
+    {
+      "label": "neutre",
+      "message": "RSI entré en zone de SURVENTE (< 30).",
+      "nom": "Kalray",
+      "score": 0,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3FRREs3WDlHV3EzSTNXY0wzLXVZLVdMZmJuaFVwMzNEUE9pMHlLT2VyNDI4ZjBKMURkSmtNdm5PYUd4amZDTXpkYkpZcjVIS2NCQXo3alZQNzZyNHFCc0tCWnFwNDZTZ0hubUl3ZTZiclFCZHZPZjZSY2hEX0NCcENRTjEtcXZTbWtxX1ZuY2VqN3hKR2w4RnRzSElQUU1WcEhuMjNUc2FCMXNaYk1wV05Fa0ZOM3lr?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi gagne plus de 125 % en 2026, Portzamparc voit encore un potentiel de 148 % - ABC Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMFlEVms1YVJCYXYzenhjUk1GVTAyZXkyUlNrNUhOeDdzaHBYRGwxemVQUkh6dk9qd3k4dGN2b1g0Qmk3X1EtSUVtTlVtVHQ3RHU0bUhndlRMTDY3NTh5VThfTmpoZDVrWGwxcHFpQjB4aS1XQlh5aWFGS0dfTjI5TXc0SkNuUllPUWJpcUhfY1BCTFRSRm9qcWN1M0s0VlZiaEhvbGE2Q3Jzd0lDUzlSVEVybjhZa09kRUNBMGVSS1M1RXN6bXI0UjdfWXVxeHhyeGJrNDhxb0hCbE5TSDZYNWJGV2pjdUFZa3hZZkN0NUZYMzl2RzhPVk1mMkJaMVVxYllMOW5IZ3UySHh5LVhHUmtac3A0a0ZjMlVhMy1nLTF1QnMtRkVmeTl0VTNmZzBXbHpfdUs0UTd1aExDVlhxTFlLU051LWVZYkctQXN0dUh0UDI3US05ZThWUGhMWnBuLW9aUHBaSdIB7AJBVV95cUxQQVZmSUZBVXlQWThUQVF3TWpZYzd4ZldQZHJTYU5HejBtRVF4SDYxNk1xMTVVcktoUHM0VXNKZGlCS0ltUU4wdWM1SWx6Q2lfSFJmeEdMbVRWc2ZHd2t4dkV1TzBjeE56eUhRMW55U2JXRzIwWlNybm84NU92THNycmF0cC00MUhNY3RGbmxwRGNaQ0Y3bjc3QnI1TUZTUTdTaFlJZ2ZHMlBaMm9LTDZGNXlYM0JZNG1vQktJMmVaVmUyZXFEYnNPaTdtRWJ1NjRndVQxeE13RHhaTHhoS0pqdzVBTDduVldGb2NXVlJyQi1TblR3Rm1HN3FmTHE4NTk5bjhzRHBSNkxuajRQUndWTnB2VVphZFJHYzJ5WUNYLUNId1V1Mjg4UVZEelhqazdLbW9OM1JBOEFZZGFjM2ZxRjdSR3VCVDhnSEtUV2RhTXNoYkxTVEdacmJzS3ZxTl9mRWk5OXFxVlFhRi1I?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Apple fait l'objet d'une action en justice au Royaume-Uni pour un montant de 2,7 milliards de dollars en raiso - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlFEQTZ3XzFOcjEtRnpYc0NCQjVXYmduR2xWUmFaUjJ6M2NhVzNfM19xMXBzQ0RwbTgwaWRzTWtpQW9JdTdMN3N3SDVocG5aSUg5clFacTNCSFNuV3UzQVNlVGZWdkhMYVlYVUtsVHZhS3Z1X2YxUjY1cWpZdGxHZS1OMHdQNGFjMTFZVkxFdVhSbWhtM2tQdXRYMzFiNWE3ZkNXY2hCc3VoYkFJZE42NUttUDBabVNkZ1prRHZocUk2RVNHaWlPeW1jQU1DVDRZbEFj?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action 2CRSI progresse de 6% grâce à un chiffre d'affaires multiplié par 10 en six mois - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQSHFWbnZRT01KVHF5ZXBZMzgySTk0VUZhMl95ZEJFVklFMHNKeVpxbDJ0aFBkZDBRNnd3VU5rcWo5VVFDR3YzSzZhaFFubHgwTHJWYVEyYV93RERkVHE5MVdVeEV3Qm9SYmhEbi1vcFIyLWdSZW9IVXpjM1RUckpHcjRkZ291Zktmb21aVEctLUR1M1MtYS0tMmRqOGZLTmlIVXJnUVZlV0pYUnRFRmlMTE1FTTJLRHA1UVpCa3NobU93OU8tVnA2MkdZX2JrdE83NnNUMXNRZGFjbEZ4S29LZkY5VHliUjlMcE5Zc3pqZjc0U1FsZk5nSFR6YlpNRVpVeHFzNjNuZHBtSFR2YUJmQ0JMUmRRZEppNUpuTTNrYWpmWm85TDl4QVdSUzlOV2ZHcjhLTTRZM2ZnWGFwb1g3WF84cnIzSEVNSjM1Vk50amh1eERtUnNidmFqbw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Après l'ultra-violente attaque d'un vendeur à découvert, le doute sur le beau parcours boursier du fabricant de serveurs 2CRSi (+2.200% sur trois ans) est désormais jeté - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONUVJUWh2bWxaRXBwVmtVWGc2S3o1SHl2bVlNdktRZ1AwTmFWOGVvY1hvbkZQcFhfTFhweXRGQkpXTUZuMTNWUkMyWjZSYjd6TEFjbFp0V2s0Y1Zrci1pMjlaVG5ncjZFQmx2cVlKZnV3aEhUblhEOW1rUWpmWWNSUXd3eEpRbEpPQnp1Ty1ldUFhV1J4dUt4SE0wWTJjWVREOTJEalRjREtnMkxCYWc1bEI2TDVwNGc4cTNnMlZRdFl3MlZkaGFrWE9MbGhXVU81QWZYOVJVbEVadE4zbmFscjhKSi1lTWpDYy13LXR3bnM4SnZzNWRnWlQ5NHhBVkVEX0FNalVCUdIBjAJBVV95cUxPOGxUdVpmUEVYM3dRQVN0UW41NzZad1lfMDZfbjFXZDM2NkNFTzVOUWpNVHBHOXZRMjVpdHVsSGhaZHdvcXc4SGNEaC1Oalo3MGFzSDFyUEJYRmpuVUpIS1Z5TmFna1Q5WEFWa0Z3SXl0eTBFN18xLUdGVTdZSlEzZHlveThyWG93dHJqeVlCMzFYX2Q3Rnp2dHlmdzhRaXQ4ZU02aUVvbk5MOHR4Z3QwVWxIc1JwWWhNdFJaZGozZjdBMDUwVEFRaE1hSUh3YXFka1lzTmxDMTdxVExBV2VxNGlOUTk5Tm5SazNUV21BNGg0Z0lYaXpBNEhOVmdmY3BnbUxJTmh4YjlLN2Yt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Snowflake bondit de 24 % grâce à des prévisions de chiffre d'affaires en hausse - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR1NCX1kxYzRKY1RKcWE5cExQMlJQTWZRQTlJQ1VkY0pGeHJkVGMzbFlNbkFvc2ZjOFBFQ09JVnlMMWI1cDNwWHRmVjhGWkFlZkQybXo4WVNPWFM3blJHMmJtenp1c0xxbVF5LVMwOWlHUnllN3p2cEhQOFFIbk16MzVRbUgxcTlDZ0NLYjk1UFd3VVdXdHZsbUk3NmRINEFSQ1Zhak9NZDNmYlhhS0x1VEhsY3hTamFjeVdVdVJua2l0SFU4Z2FCNkpOSF9mVkRiS0pOT0h2Nm0?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Redeye maintient sa valeur théorique à 7,40 couronnes pour Sivers Semiconductors - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
-    "2026-08-31": [
-      "13",
-      "18"
-    ],
     "2026-09-01": [
       "13",
       "18"
@@ -132,7 +192,7 @@
       "variation": 9.253502139130116
     },
     "ALHAF.PA": {
-      "ts": 1788466688.4489193,
+      "ts": 1788475179.8262875,
       "variation": -6.338031235561216
     },
     "ALKAL.PA": {
@@ -156,7 +216,7 @@
       "variation": -3.5418406427622577
     },
     "SIVE.ST": {
-      "ts": 1788466688.448922,
+      "ts": 1788475179.8262906,
       "variation": 15.203617920964138
     },
     "VU.PA": {
@@ -510,7 +570,7 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
-      "zone_rsi": "neutre"
+      "zone_rsi": "survente"
     },
     "ALMDT.PA": {
       "au_dessus_res": false,
