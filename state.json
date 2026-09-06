@@ -246,6 +246,90 @@
       "ticker": "SIVE.ST",
       "titre": "Citadel Securities ne figure plus parmi les vendeurs à découvert déclarés de Sivers Semiconductors - Zonebourse Suisse",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oZGRqT0RwNDhIdzJYcEN1XzdPa3VfRzlGcmI0OGlhOHk3aVJjdUU5aDE3NUVJS0g5aUdHR3dCaTQtSW9xeVFLUFZCcHVNVkRY?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3FRREs3WDlHV3EzSTNXY0wzLXVZLVdMZmJuaFVwMzNEUE9pMHlLT2VyNDI4ZjBKMURkSmtNdm5PYUd4amZDTXpkYkpZcjVIS2NCQXo3alZQNzZyNHFCc0tCWnFwNDZTZ0hubUl3ZTZiclFCZHZPZjZSY2hEX0NCcENRTjEtcXZTbWtxX1ZuY2VqN3hKR2w4RnRzSElQUU1WcEhuMjNUc2FCMXNaYk1wV05Fa0ZOM3lr?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi gagne plus de 125 % en 2026, Portzamparc voit encore un potentiel de 148 % - ABC Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpRFpKYkphLVVKSlV6Z1NNTUNMdXlwV0lwQ2NOUm93YXNaOTVRcWtmSDN5ZmE3cmVGcDdPeE54aG9KQUs1NFplU19ZZ2Qyc0VZ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOWTJObS1JVHlIRUZLemtGd1pVZU00SVhyMnpvX3Zid0xINzQ1OU9UMXRpV3JUT3lHNzhhMHlWZXY2d2ppV1BZUFdHc1RvTUZpYWwtMl9MbUs2eWhRelhxMFMyM2JBWk1zNmE5X0pWQmhpT2hibWo3ZmhUeFpvV1FPLXFlVUlWSzRYNVh4ZTJzUy1iT3hZbEpiYnNPY0dmT0s3bDgxLWRLWkVabk1Ed1FRMVh5cTlqY2tfZFVvcmxXNHJybjVXazZ3Wlg0MU8wNDhNVzdEMkFwck9JV3VYM2pLSXVVSUV2TU5OOWRfQV93dG5vcldCS0ZkdVBfYkh2RWdKRHpyRWlZbGhya2lyVTQ1TlZxNDM2Mm4zWlBGbTlOZmtHcllVT3hhVmNDMGdyYXlYa2sycW1EcU9Jal84UHFEaVVpVUNhOUxvd0hrX21jTG9XbWJ0eHktbDBxa0VPcDJVNXhB?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion (ex-ses imagotag) : Le partenariat avec Carrefour n'apaise pas les craintes du - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX2ZOX3VWLXd5blY0djZwRUhSZk8tRUNXU1I3ZUVYam1jSzBSd19HN0xnU1ExNDRZeFEtUnpXMUdvQjI0RzVldEhZZjNjMW5sUS10WHJZMDJxT2tSMkdHZUVCRDMzajhNNUZNa192SWQ5ZEhCa3V5T0VMd2xiZDh4MU1IbHRoRUZlTUZ1NnkweGFKRUY0VnVHVlNBamJyZDVtNmZMTzFjY3ZEN2t3N1VOV3F3empPcXpuOXM0TjdFd1hzLWVxTl9kcjhLS19NY3hnYWk3c3I2UEFJajBKQUlMQk9lZVdwZm0yM3VZLVE4dFJiOGJQc25XcmdLaw?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion maintient ses objectifs annuels après un bond de son chiffre d'affaires au 1er trimestre - Investir Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcENsY1dJLWZScmYzTG1hak5sWkhud2tRMmg4dGlocFBwS20wV2pRMDZELVFnYlFNWkhZcERJNURjakRLejFfc0c1Tk9ZX0hJMV9oOHhWSzlJaUJPc2NHZmtIMXpoQXF5Q09MOGdWdGhBajFudGhBYVBQUmdtTmd6Z0pzcUZGUVJGeVFVVnNaNXVpQkpjUzhkR0V2eTVaRHppNENfTjAxRHMxaTc3eWZJd1FyRGROekV0ZkVLSFdGZ0NSYlV2QTNXSkNBWG5jODRtdjRCYnBNYw?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Redeye maintient sa valeur théorique à 7,40 couronnes pour Sivers Semiconductors - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - optionfinance.fr",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObzdZMFZmbzM2TzhwRFQ5WXRZY0U0NXREaVV2OXJuVEdDYjRTZTZqaWdNRFNsYzlEVWxIMjdIMk1vR1lTX0QzLWF5VEZCM2dUdDhfTzdiajRBUFR0UkZUVjg5R0hjYUtGa1JuVWZkS0cwZFB2dEdlNEV5QzFlMWZqUzkxb2luam5DeHlqS1NMdndYTzRvcUFONWpEd3ZLdm5NM3Mxc0lTLXVXNThqM1o1dzJuM01sUGczZVVQMDRkck1yT1M3elc4V0Y2MUxVSHBseUtJdFpZVzkxbjY3cU1vWlVTNW44bW5XeHdxbHpZWQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Citadel Securities ne figure plus parmi les vendeurs à découvert déclarés de Sivers Semiconductors - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUtTNGdvUUFvQk1VR2Q3ajZnMHh6dVhBblRST0xpMEo4Qjdfb1Z1SW9SQ2RzeUI4N3ZEMFo1a1dLVmx2aWNvQXRhTnZ0NXRCbGpBVEpoTERRWWY4ZUptb2VOazMteGFldjRELUVraVgzbTNMaFZpMkZ1YjNhSGlkZnN4bmxRbE1aakx0VUZpX0YzSHF3d2lFdC1ibS1tLXF2T1h6ckwxZFpFdXlERDdvSEp3a2lRYnQ3ZFM0c29YdmNQWG4td0t2R1RSdVJBcFk2OUk3RE9EdFdGNk56cF9MUE1BdE9LOWdlT2JoRVJRbw?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Privata Affärer met en garde contre Sivers Semiconductors : une augmentation de capital pourrait se profiler (actualisé) - Zonebourse",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -268,7 +352,7 @@
       "variation": 9.253502139130116
     },
     "ALHAF.PA": {
-      "ts": 1788646817.6508474,
+      "ts": 1788653101.078253,
       "variation": 11.278195825680616
     },
     "ALKAL.PA": {
@@ -292,7 +376,7 @@
       "variation": -3.5418406427622577
     },
     "SIVE.ST": {
-      "ts": 1788646817.65085,
+      "ts": 1788653101.078256,
       "variation": 7.069918339105323
     },
     "VU.PA": {
