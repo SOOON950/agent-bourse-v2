@@ -99,13 +99,25 @@
       "ticker": "SIVE.ST",
       "titre": "Redeye maintient sa valeur théorique à 7,40 couronnes pour Sivers Semiconductors - Zonebourse Suisse",
       "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "RSI sorti de la zone de survente.",
+      "nom": "Kalray",
+      "score": -6,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "😴 Calme inhabituel (volatilité très faible) — la valeur s'endort.",
+      "nom": "Median Technologies",
+      "score": -6,
+      "ticker": "ALMDT.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
-    "2026-09-12": [
-      "13",
-      "18"
-    ],
     "2026-09-13": [
       "13",
       "18"
@@ -514,13 +526,13 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": true,
-      "zone_rsi": "survente"
+      "zone_rsi": "neutre"
     },
     "ALMDT.PA": {
       "au_dessus_res": false,
       "croix_mm": "death",
       "signe_macd": "neg",
-      "silence": false,
+      "silence": true,
       "sous_support": false,
       "zone_rsi": "survente"
     },
