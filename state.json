@@ -15,7 +15,8 @@
       "18"
     ],
     "2026-09-15": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -413,8 +414,8 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
-      "zone_rsi": "neutre"
+      "sous_support": true,
+      "zone_rsi": "survente"
     },
     "ALMDT.PA": {
       "au_dessus_res": false,
@@ -461,7 +462,7 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     }
   }
