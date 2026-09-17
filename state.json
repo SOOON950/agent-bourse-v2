@@ -1,11 +1,79 @@
 {
   "initialized": true,
   "last_digest_date": "2026-09-16",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkpFVUd5cEVEYjlCblFBX3pkancteFZnaGRMVDc1VExqVm5RODNOS3BRUVY3ZVAyMVV4T0pqV01PRVVJOHhXMk4ydHlMSmNKaTRoM1BXdm5idnkzM0pYLWItem1aNGpaa3NINXZaWnJEZ3FhVTQ3cGg2TVVfbjhJdWsyYVNMTFBFOTgxWFh0dw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi rassure ; gros rebond - Boursier.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQai13WjM2SzZjb0g2MEk3YXlxS3B4WmZaV3I3SnVjZFBncDM5cWZKU2dNbFVBWXlUcVlVa1N0a3FnNFVUYV9scXFqWUNBUXhOcFN4TlpXcUlaSDVVeXJiNmk3aEVxZURPMDlpRVVMSG1GZUZrNVJ3eG9zMWZtZ01FdU5JcGFCZUdTcFYySzRDc29WSHNUWmVZRERpNEJYV0EyZlpaSXlYZmwzLU5UTUJiNG4tR1ZLSTg2WnlPWUhSSGlRRnh6SWpmUnFNbVpIbHdncDVGWExoTDFkN01HYzZtU3dR?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi : l'expert indépendant confirme la réalité de la vente de 194 serveurs en Allemagne - Boursier.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWk9kR3R0NVg4azZCc1VTNE9TeklRWWl0emtJUk44emRVVWFHdmJsYmhxWUJTb2p6dW9fWHFqR0FVdmpLYWpzMFA4Q0c3V21iRE9nLXZCUmFieFptUF9hN1ZaNWRWR2NRVk0tMnhHYlVZd0t5NDFWNm5BcEtWTWVBYjRFRWRUaEVJNDdhZlBRQkllVU5VZllUVzRLMkNvZmpLdmVSemwwTDFGRXdPdG8yeVJyUGVBZnFBYmc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Action 2CRSi : commande allemande contestée puis confirmée par un expert, que peut faire l'actionnaire - Kohen Avocats",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUh5bWc0YjJkMjRlRzFvTzVtZlFZbWE5M2xoMGp6NVRiS1pualN6Z3BfM0pUbEItSExfNkFLSzB4MERQS0VnMkk2aWxtTzRWdndHbnZYU3RsVDdrZ1M1QXUwNjg1UjJWeUFLNnJoalduYUZtTm9jZWpDSGpCWXNiYjRLVF9KMXlaUmtvTGM5LS1BbzgtSlJsLXpqTkZLU2h1VFNRYXZobVBUT0NWekV3Z2ZfbldNMkU4RHR5R29sZkJZTjc1SHRtR2o3WWxfMDRKUndmQWZpbFgwdTVvczZmag?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi : la société porteuse du projet Aether a obtenu l'accord du vendeur pour un site de 25 MW - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - cryptoast.fr",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNd1FzZk9fNEhlTDRFQXBibzZYRFBlZVVTNTFXdF9vU1dnaTZ2cnYzbTFSbnFqUWhHcTk1MkNFYXpUMWcwRTUzR0V1aG5UWUN6Z3h1eXJUTlF1OU9WNklhdmp1Y3FZSGItTVQ2Wi1HR3Z1X0d0dzhlNHdEdWlsamtodF9FcnNvN2JoTmxxa2lvQWhkY0ZEc1NUazBDZVptVnh4RFVGRWE1N2p5UzhpR25KemdKa1ROd0U0bm8wY2d1d29WdG12R0pUaFd6S2pOLVhHV1B3aV90ME96MUFSRjVtdTBnaXF4T0VHckYybk14MFpHZTlsdklESHdEWnM3OXJ3YTUzd0xzdUYzaW9yei0zN2Y5WW1tYlpNZUZVZURneGxPckZwMTQ3Sy1mSQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le contrat allemand de 2CRSi est avéré - boursedirect.fr",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUtTNGdvUUFvQk1VR2Q3ajZnMHh6dVhBblRST0xpMEo4Qjdfb1Z1SW9SQ2RzeUI4N3ZEMFo1a1dLVmx2aWNvQXRhTnZ0NXRCbGpBVEpoTERRWWY4ZUptb2VOazMteGFldjRELUVraVgzbTNMaFZpMkZ1YjNhSGlkZnN4bmxRbE1aakx0VUZpX0YzSHF3d2lFdC1ibS1tLXF2T1h6ckwxZFpFdXlERDdvSEp3a2lRYnQ3ZFM0c29YdmNQWG4td0t2R1RSdVJBcFk2OUk3RE9EdFdGNk56cF9MUE1BdE9LOWdlT2JoRVJRbw?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Privata Affärer met en garde contre Sivers Semiconductors : une augmentation de capital pourrait se profiler (actualisé) - Zonebourse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
-    "2026-09-14": [
-      "18"
-    ],
     "2026-09-15": [
       "13",
       "18"
@@ -24,7 +92,7 @@
       "variation": 9.248118734028193
     },
     "ALHAF.PA": {
-      "ts": 1789672004.2416916,
+      "ts": 1789682949.1885858,
       "variation": -10.801964202289376
     },
     "ALKAL.PA": {
@@ -32,7 +100,7 @@
       "variation": -13.651879100463816
     },
     "ALMDT.PA": {
-      "ts": 1789672004.2416945,
+      "ts": 1789682949.1885886,
       "variation": 8.190222117294246
     },
     "ALRIB.PA": {
@@ -44,7 +112,7 @@
       "variation": 0.5681832713529334
     },
     "LQQ.PA": {
-      "ts": 1789672004.241696,
+      "ts": 1789682949.18859,
       "variation": 3.5209774778640157
     },
     "SIVE.ST": {
