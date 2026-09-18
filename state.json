@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-09-16",
+  "last_digest_date": "2026-09-18",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkpFVUd5cEVEYjlCblFBX3pkancteFZnaGRMVDc1VExqVm5RODNOS3BRUVY3ZVAyMVV4T0pqV01PRVVJOHhXMk4ydHlMSmNKaTRoM1BXdm5idnkzM0pYLWItem1aNGpaa3NINXZaWnJEZ3FhVTQ3cGg2TVVfbjhJdWsyYVNMTFBFOTgxWFh0dw?oc=5",
@@ -239,6 +239,105 @@
       "ticker": "SIVE.ST",
       "titre": "Privata Affärer met en garde contre Sivers Semiconductors : une augmentation de capital pourrait se profiler (actualisé) - Zonebourse",
       "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkpFVUd5cEVEYjlCblFBX3pkancteFZnaGRMVDc1VExqVm5RODNOS3BRUVY3ZVAyMVV4T0pqV01PRVVJOHhXMk4ydHlMSmNKaTRoM1BXdm5idnkzM0pYLWItem1aNGpaa3NINXZaWnJEZ3FhVTQ3cGg2TVVfbjhJdWsyYVNMTFBFOTgxWFh0dw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi rassure ; gros rebond - boursier.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQai13WjM2SzZjb0g2MEk3YXlxS3B4WmZaV3I3SnVjZFBncDM5cWZKU2dNbFVBWXlUcVlVa1N0a3FnNFVUYV9scXFqWUNBUXhOcFN4TlpXcUlaSDVVeXJiNmk3aEVxZURPMDlpRVVMSG1GZUZrNVJ3eG9zMWZtZ01FdU5JcGFCZUdTcFYySzRDc29WSHNUWmVZRERpNEJYV0EyZlpaSXlYZmwzLU5UTUJiNG4tR1ZLSTg2WnlPWUhSSGlRRnh6SWpmUnFNbVpIbHdncDVGWExoTDFkN01HYzZtU3dR?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi : l'expert indépendant confirme la réalité de la vente de 194 serveurs en Allemagne - boursier.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - Cryptoast",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNd1FzZk9fNEhlTDRFQXBibzZYRFBlZVVTNTFXdF9vU1dnaTZ2cnYzbTFSbnFqUWhHcTk1MkNFYXpUMWcwRTUzR0V1aG5UWUN6Z3h1eXJUTlF1OU9WNklhdmp1Y3FZSGItTVQ2Wi1HR3Z1X0d0dzhlNHdEdWlsamtodF9FcnNvN2JoTmxxa2lvQWhkY0ZEc1NUazBDZVptVnh4RFVGRWE1N2p5UzhpR25KemdKa1ROd0U0bm8wY2d1d29WdG12R0pUaFd6S2pOLVhHV1B3aV90ME96MUFSRjVtdTBnaXF4T0VHckYybk14MFpHZTlsdklESHdEWnM3OXJ3YTUzd0xzdUYzaW9yei0zN2Y5WW1tYlpNZUZVZURneGxPckZwMTQ3Sy1mSQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le contrat allemand de 2CRSi est avéré - boursedirect.fr",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcUkxdTRCWGtsOTBqSEYyY05EVks1TjBVUXU2MkRmRnBzMkRhQ1RTV1ExT2JxZkZvblZHaU5YeGdLeEMwTWh5a1NyUEtadEN3TjFsbGdkZEdQTHZreElLNC1jQ0JZb3FXVnRvRWRucFFvSGI2a2xCYUFpUndLYjJZRmdiVzFzbHJQQzVGc0UzUEwteWhudjRMOEFJOWpMN3A5ZmkyZk0zRHpSdXVMc0YyYmRUNTlBQ2c3ZHIzNXVfb1NjZk1aelhEM2hoRWtrTmpLNHhjYTlyN0xGLTl5SlFzMTJLT3FZY3J50gHuAUFVX3lxTE5oQzdZS010OW9ZOWs4bjBJTElzWFZ2YnVrZmNldWJBa194ekwwUUFlZFVLQ0F3ajhLcVNibk5vUUlDVHhOVjFicXV2c1FoeWRxdmhGX2ZYVWhHYi1OS1U0NUJLV0ZZV3FPRmNkZDgzQzFVVXNGN0VRSW5YWjFRQzk1UURWTEw4YllyOXF6NklaWk1WQUxqaXFaaVpyZGlHajBQRjk4V0EtZFQ1WnV0Y2doc1pCVER3VHJqWS1ZeDRzMk5KTUt1MnkyYkYwdzJudl9wZ0tTSkhVbXV0cF92M1M5QlQ2V19FQzhGbk9wbnc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi porté par une note de Portzamparc, qui voit un point d'entrée \"inespéré\" - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbGlOaUl3QWEtWFVZNzVnQ1NxUWpXUVktNThweWd4c0VyZi1fLW5IOVF1MlBNSS1IMlJiSW0xSGF4NUo4ZmpBQlB2Z3VPdTJ6cDRjSGllckd5MldrZVpRdjQ1OGdDbG12R3BNYjM5b3ZRR0JZUTQzOGJVRkZyR0NreWR1V1FHZkVyeXJ5UUE0RkwwNFMydXZDS055eFhmR01GM25jTVU5cVpFX19pRm14QndHSFJodHVHMmFEVVF3RWZmS3F6RndXYW1CUXBBc1hPb1JwbDZjelNPaXBDUmpyZUJmWktSRW5VUVk0ZkZiNm5yMEE?oc=5",
+      "nom": "Haffner Energy",
+      "ticker": "ALHAF.PA",
+      "titre": "Haffner Energy vise 500 millions d'euros de chiffre d'affaires pour son programme CORE100 - Option Finance",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUmsxTFAzTFQzOWdjYXg1SXdQQzJSNkdaQWV5dEI2blg4T3ljRmRTbnNfLWUwekkyNkhybm02aU80N0VTT1YzUDNHWGdnZ0dGQUJJZFdQWWtnSTA5aWtmVmhmdVNTUFFqRkczenpsT2pXenJwQl9GbVE2YlhXUGppSXFHa096bENHbENuaWhKcWlJTXdiQzYySVRkRnU1cUVzbFlBSWRSTC11QTk1SVBDaFktUUM0bTh0Z1JJTlJEMno3SmhSWmtrX0pfUG9oYk5kMWtUd3F2OGRfN0Rka2JR?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion signe un accord pour acquérir l'entreprise espagnole In-Store Media - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObkpoZF9UWlA1MDdZRkdtSThYcGk1MDQ4TlFyXzNoQk9OTjZjQXRkc0NRWEVWSFpjSUZGVEhTdWZ3azJNTllCLW1sWEhRb05OdEYxZG9pNEd4ZmpSajZ3U1NHVkZ3djZsYTJ6ZW5TSXBFOEkyOXlBWGVOcjhvYU1fX2pFT2dfRjJDakJLa2hWLW0tZ0VTWG5fVVV3UW5tMVBPZVNQTEw4Y3dSVEtDQUZuc0otVl96dEtualRyRnZDdGVzRFZlQ0pFajFkeHNYd2NpaDVyeExpV0xmeTFTbnV3VGJzeFFncHEzcDVuUnhXN2t5VXhYRDhsck9MZEg0ZlNKbVlXd09ZUkNBSW9teS1PdkVQbkJsbXBWb1VqRmRTTnJfZHF3aHVJNWVDQlJRUjVMREFVR2tIVkVSMlNwMFExZ0JSUEJDLXd2cTA0UHVRNjU4UV9VYkE1WkxmbTc5YXM2NzNqZ1hR?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion (ex-ses imagotag) : Un contrat avec Walmart Mexico d'un potentiel de plusieurs centaines de millions d'euros dès 2027 redonne des couleurs à Vusion en Bourse - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUtTNGdvUUFvQk1VR2Q3ajZnMHh6dVhBblRST0xpMEo4Qjdfb1Z1SW9SQ2RzeUI4N3ZEMFo1a1dLVmx2aWNvQXRhTnZ0NXRCbGpBVEpoTERRWWY4ZUptb2VOazMteGFldjRELUVraVgzbTNMaFZpMkZ1YjNhSGlkZnN4bmxRbE1aakx0VUZpX0YzSHF3d2lFdC1ibS1tLXF2T1h6ckwxZFpFdXlERDdvSEp3a2lRYnQ3ZFM0c29YdmNQWG4td0t2R1RSdVJBcFk2OUk3RE9EdFdGNk56cF9MUE1BdE9LOWdlT2JoRVJRbw?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Privata Affärer met en garde contre Sivers Semiconductors : une augmentation de capital pourrait se profiler (actualisé) - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "label": "haussier",
+      "message": "😴 Calme inhabituel (volatilité très faible) — la valeur s'endort.",
+      "nom": "LQQ (Nasdaq-100 x2)",
+      "score": 4,
+      "ticker": "LQQ.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
@@ -260,16 +359,16 @@
       "variation": 9.248118734028193
     },
     "ALHAF.PA": {
-      "ts": 1789707538.834865,
-      "variation": -10.801964202289376
+      "ts": 1789724267.3991702,
+      "variation": -7.528641787694508
     },
     "ALKAL.PA": {
       "ts": 1789456533.3232021,
       "variation": -13.651879100463816
     },
     "ALMDT.PA": {
-      "ts": 1789707538.834868,
-      "variation": 8.190222117294246
+      "ts": 1789724267.399173,
+      "variation": 9.247025263739124
     },
     "ALRIB.PA": {
       "ts": 1788843840.6628022,
@@ -280,12 +379,12 @@
       "variation": 0.5681832713529334
     },
     "LQQ.PA": {
-      "ts": 1789682949.18859,
-      "variation": 3.5209774778640157
+      "ts": 1789724267.3991756,
+      "variation": 3.3090564639926705
     },
     "SIVE.ST": {
-      "ts": 1789559747.1861198,
-      "variation": 8.29629629629629
+      "ts": 1789724267.3991745,
+      "variation": 10.986704285080947
     },
     "VU.PA": {
       "ts": 1786103968.6517744,
@@ -353,6 +452,7 @@
       "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNmJ3Nm16RE9jOHdIdENwaDEzemV3YXZSMzVUVWl5c1BaeXhQYTgtZWNpSHNYbUNUR253VWxUV1Y4ajZxdGY5di1nMVFERm9XX3ZuVlZLcjMwcTJUckVodnRmVV9tcG5iUVJjY2FvNldaellPb0huZUVyVFBhbnhubThZR1FuX3ZHV2tOTzRyOVprR05nczQycF9HQnV3ZGlVQ2Jycmh6OGU5all0V0FWYWV1THpmdmtSUzBvYlV3QnpEN2pTUV9XM0t6VTFXVEpFZ0IyWTZBMlIwZFZxOWdNT0Jn?oc=5",
       "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSmVqQ3VUUVJDelNpbnZYcGFHMVlQODNMV1dtUk53RnUyUi1hYTNuQ0lob3pVdEtKVDMwM3pramhQeU5xQmhGclptcVBYUVhwR3ZVd3RRRm5SaGVHS2NlV1RnblpLZm5fendBXzM1LU15ck1RcWgtWmE2aEtkc08za25hWUNIZVNMbU9iazh0MnVraTRtdFU4aU1xN3Mwck1BS2I2UVZ3bm9MOHp1MG9hY2FQUDZNZTZQWk5lYzVSLVR2a0VYNVJoMkppb01Ca2owS2pTOFRYWGhQSXYxVG1aUEdVRXlWc192dkUyUGpXR0U?oc=5",
       "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTzktampPdEMwY0ptbE0tQTRtcUs2VUdOcWJFUGN3UnRxN1U1dGRQaGktSFpLdHkwQmJTdE9TRHd5M3NJbWM2TlNiNkcxWkY1NlVCd3JONmhQTjJQeXhUSjVzNWh5TEZvWUs0TmtOUkpGX3VMUU1URWhsa0hTUU51RHNBQ0x4OWR0M1BMTm91QnpmejBXVmowSm0yazd4TEREenAtZC12eEtHOXpGbHQ2SWJvWEdVeU9ScGZlYnh0TVFKcmtLNkU0V19WYVRfZnc5NlVxNS1zZFBXUFEzNDQxOTNxaUJlX19pc18zUlBsVnlrOVU?oc=5",
+      "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbGlOaUl3QWEtWFVZNzVnQ1NxUWpXUVktNThweWd4c0VyZi1fLW5IOVF1MlBNSS1IMlJiSW0xSGF4NUo4ZmpBQlB2Z3VPdTJ6cDRjSGllckd5MldrZVpRdjQ1OGdDbG12R3BNYjM5b3ZRR0JZUTQzOGJVRkZyR0NreWR1V1FHZkVyeXJ5UUE0RkwwNFMydXZDS055eFhmR01GM25jTVU5cVpFX19pRm14QndHSFJodHVHMmFEVVF3RWZmS3F6RndXYW1CUXBBc1hPb1JwbDZjelNPaXBDUmpyZUJmWktSRW5VUVk0ZkZiNm5yMEE?oc=5",
       "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eFF0YU1oX1k3ck9oUHhBd3dPc3FuR1VxLWNQcktrazZJWFNOczU4R2ViSGpQU2h5U19na2huLWZ6ekg2UWticS1FV0xicjBRWERF?oc=5",
       "https://news.google.com/rss/articles/CBMiakFVX3lxTE05TVRWUE80bjB2YVAybVJZQXEtaTdRMGZ6d3Z5eDI2Y0FIUjIxSUt6by1HaXBVc01HQksyXzlza2ZpQ21sMFIwNkxpMl9zYkZEdWNWV1NhYkZSWjFnYnJ3Tzh2V1VNMEJzcGc?oc=5",
       "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vaE5uN19udllhZS11RmlLUldQdTFZblluaFlrYUdrY21VaTBQakxsTVpBcjcyUGdrUFppeFhoQVZZUV9HQTR1TXUwUXBXRHBiaDFKUk9rcTVLdXVBT1gzRGlNSjNBenZqb3o5Sw?oc=5",
@@ -682,7 +782,7 @@
       "au_dessus_res": false,
       "croix_mm": "golden",
       "signe_macd": "neg",
-      "silence": false,
+      "silence": true,
       "sous_support": false,
       "zone_rsi": "neutre"
     },
