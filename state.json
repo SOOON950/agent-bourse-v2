@@ -1,7 +1,99 @@
 {
   "initialized": true,
   "last_digest_date": "2026-09-26",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdkc3cW1vMkYtYTExRm5fYzVpYUdrTGNHSjJNQ1Y2X0RVX0R5bnJUTklrbEZOTXhaT2lrOUpBWWNFaHFDMmlPT0c4cVBZTGtwYnpSaFJlcS1vLUtTMG1MdWlzV2p3U0h2SXFCN1dMY2dIUVM2alpVREFnbFpnT3NCRkhTdDlHa3d2WnFxUGVfNGh2N2trTUZ5cFh0RGk2dENxMVZVUW43ZTNTaTRUa0VQZVJ5aUVQdTNfM1pHOWptX2k3dWFZQXZ2XzR5MWZJQ0FjNDFVbXRuWnN6OHJWOHh2X1RvVzg2UFJDa2dPRDJqUVlDNUxfZVlYSFY2clpGZjlNbV96SnJOVVPSAY4CQVVfeXFMUEdaNlVKZGc0c2htQXNabWYwMUgxSmJ2ek5VS0xScEZDSl9LZ1lIYWVEcW4xNk5WUGVwenJOOWZ2YU9oTzg1MTRheWQ3X2g0UGZzQi1nQmVmbmVyenc3Z0dHTDcyYmtTaFVPNGVFU1VrZUxwVUpZWHR5TmhvSTNQZEZsV1Y1U2o0djhnZGlwNHQwRVRhbnhtbW1FQjRlQzhBV19hV18yelZCZkNYOFA2SF9ETXh0Z1puWlRnenN5Y082ZDVBZlY4T1IzUkpldkpEYU1EcEo0OG8tWURRMTRzSXlXM2M0djU0ODNjMnR1dElibkJKZktPYUwtZ3AwcUVQZEg2TVhxMlNDVEdaazB3?oc=5",
+      "nom": "Kalray",
+      "ticker": "ALKAL.PA",
+      "titre": "KALRAY : FORTE PROGRESSION DES RÉSULTATS AU 1ER SEMESTRE 2026 - CONFIRMATION DES PERSPECTIVES POUR 2026 - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObF9yY0Z0M0hZZGgwTHFuZVc4UGZhMTY3ZkZGakdjaUk3d0FFRjBhbUQyMmc0dXMybjRhQTZoM2VUUkxVZy1jMm55OTg0SDd4aWh1enRtYVNNQzhUZjJkTUJVVWNkTmU4c1ZCWXFDV0V0elVMUHZuMF96Zl93WUJSY0x1NUFFTGpaU05Oa29ybmF2NUUwYzlENEoxcC1qcmo4dnVWMzYzVzNCSkNlYVd6cENOTzZySUphSmhnMEhfbWIxZFZ3V3JORUF2TVNxc0JzYzVFdnMtRXRvQmtlZFF5ejZ6aE1OVDZS0gHuAUFVX3lxTE4xcGZrNy04Q3NkeF84ZmVYRXBQcFZIVG03OVdIb0RJbWlHZ0Q0V2JxREU4M2hiSGFLRzk5NmlyX25pcDFBRzhDUFZFMU1ULWhiaWZyYmNtX0NCcHhvVXdxWUVtMlZWNlA4Y0RBUjNJa0NBQ0ZtT2hZWkpxN2NaMHZvaE1nWXVqdE0wYlVHUjI3SXEwcnpnN3BzeDNTSGtZZTRBZzhUM1NsQ0Y4SXNRbW9NdVJFSnVkM0NneFQ3Vllxc01sX0FRVlZsWWMtWF9EWUNxalIyUVJweUNILTEzM21JcUIxN19rajFRY2swSFE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Jefferies dégrade la note de Roblox à “sous-performance” ; l'action recule de 3% - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oZGRqT0RwNDhIdzJYcEN1XzdPa3VfRzlGcmI0OGlhOHk3aVJjdUU5aDE3NUVJS0g5aUdHR3dCaTQtSW9xeVFLUFZCcHVNVkRY?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpRFpKYkphLVVKSlV6Z1NNTUNMdXlwV0lwQ2NOUm93YXNaOTVRcWtmSDN5ZmE3cmVGcDdPeE54aG9KQUs1NFplU19ZZ2Qyc0VZ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WlZRN0ZxanJKSXNxYmE2WlgzcGRVNGhublZBWjhxS2YwT19NSzh1aWYwYWdTWlltRkdiZ3VjRlhvMDlmRFRDTndhY0ctc3U5U2JV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VIRIDIEN Cours Action VIRI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3X2xHSUdDQmNGajdkdTRNUXZFZU5tTGpDcnFUU2p1S2JucGVpYVFrbTNuSk1Vc2hiYkx5VjJlZU9yYnZVVThpT2o1NG01NGxfR1E?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VEOLIA Cours Action VIE, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ieFVPRVM5TGxmaUg5SUJrRVdIdlFhaFNXaVZZaHJraHI4ZWNqaDlJV3JPODFXUk4yUzR6bjBJZ3JIQzRPNVJqMnJPTjUtVkRXSGc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "ALSTOM Cours Action ALO, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa0R1YUVMYmx2enhJbC1GOWdRR1dzTzl0LThnT1RKN3Q1SFBPUWtOVTJIRVJaN1N3RmdNWlJqWTdlWkNIZUtjS1BqYlpMSk1uQVh0ZkIyTkJNQWdHTTlMa056MFhoRTNXWWhvVTdweU02TlFuaHhYeGZnY3dHUVk4bzRoaFZGS2xrQVhrdUh3MW51dWJwLWtTb0s0NmsydzlZSWNtRW5ScVVVWFhlcDZrRzNYWmtwRkk3eC1YSjJqRUhaVEZJNFhSdldOMGwxLTBHWUpFYVRWOGt1UGZJQWltNm92cw?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion grimpe après ses résultats du premier semestre et l'optimisme sur 2027 - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUmsxTFAzTFQzOWdjYXg1SXdQQzJSNkdaQWV5dEI2blg4T3ljRmRTbnNfLWUwekkyNkhybm02aU80N0VTT1YzUDNHWGdnZ0dGQUJJZFdQWWtnSTA5aWtmVmhmdVNTUFFqRkczenpsT2pXenJwQl9GbVE2YlhXUGppSXFHa096bENHbENuaWhKcWlJTXdiQzYySVRkRnU1cUVzbFlBSWRSTC11QTk1SVBDaFktUUM0bTh0Z1JJTlJEMno3SmhSWmtrX0pfUG9oYk5kMWtUd3F2OGRfN0Rka2JR?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion signe un accord pour acquérir l'entreprise espagnole In-Store Media - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjd3Ull2ZWd2S1kyVVNRRXR5LTVlOUlrOEdqNHNRSXJSNmZocnNsZmtOTmd4a3hfZkNWLXUyUkhXQjltQjVRYkhNczdzUm5RV2VIeWhQWnZtZzRoLUtfS1ZfV0NJZFNpNjltU1VMUXlVd3hFRXpOWmxoU3BmcnBnVGoxRVlQOEVtOTJuMmVwNUZKMXZheTRjbjhZT2M1OFhRdGNBNzUzX2NjaDU2UEoyNGRBTGFHUlFLRlJ1RHJLWjBaM1Vwa3U2d3ZRQW44ODRnSWFfSQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors remanie sa direction en vue d’une expansion commerciale - Zonebourse Suisse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-09-25": [
       "13",
@@ -24,12 +116,12 @@
       "variation": 9.248118734028193
     },
     "ALHAF.PA": {
-      "ts": 1790602969.680058,
-      "variation": 12.467535253438955
+      "ts": 1790626539.1224244,
+      "variation": 12.20779498726473
     },
     "ALKAL.PA": {
-      "ts": 1790602969.6800551,
-      "variation": -12.300000000000004
+      "ts": 1790626539.1224215,
+      "variation": -12.699999999999994
     },
     "ALMDT.PA": {
       "ts": 1789739531.292667,
@@ -164,6 +256,7 @@
       "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OeVhwUVFic0g1SUZuZ1hCU3JOUTBUSnNSLWQwT1NMU3FKV1JUQUFBd09QdHlEQjZnZFVsYTBYNU9aYnBFODJNanRHd3hIaWZ6Y3lZRHQ0NmhQT2NXOEQxQ09CN2NWVnMwZzh4VkJfVmpteVo3YUpybDBubHc?oc=5",
       "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOG1PaGtFQ1NLSG1GYjlpMzcxeEVBbTQ5LXhDZXVTU0h4elYyWFg1TWFKU0t1LXNyOEJkQ2RuSTVsVC1UODZfLXFycC1raU9UeHV3XzdfZjdYQkpOakVJNTRWVFc0SHM4THpBanduU3RyOFNiQ1ZpQm9TSTRobHBRemlzWGstdV9RMk12eUtVMnd6SC1mTDFQRFlhVnk0OWxZVndMZFF6ZnVSdGRWSHA4VldERTNVQ0dKTTZvZjBlZDlUMG93TjQ5MlJGRmZpWG50UFhCOXpkMk9MWFlJS1RFQUdrcHFTTDA5bHhLd0xHVTNYeFJpSHFOSC12aGZJcDdi?oc=5",
       "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDRFTHFKcjlwMHBYUVhVWXVRWFhtM3BxYlZ0dWpsbVQzeGtBYXhOZ091bmR2RnZ1VjlrX2t0eUpiRDFVVDZCZ2xJeDdSM0VDLTVGY2dadjAzaVZUNENOY1hPeVZXVkVkVGdwVWdPWDBLeExHQ01EMFhhTklGNmxMc0dR0gGHAUFVX3lxTE16YmtOZng1NWk5UWtBWHZKUkZ1VHlMWTR0eS02ZW5yVG5uVmJ3UUtEVmh3SmczbnkyYkJiSWtvSU1MQlJPOUVkVU5iU1NHYVNYeFEtMWtoUVZXYlMtVHUtSjRQS3ltblE0b1kwdmc5SmI0RVNzRlBnSmxfWlI4bWZpRnVhVDlWMA?oc=5",
+      "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdkc3cW1vMkYtYTExRm5fYzVpYUdrTGNHSjJNQ1Y2X0RVX0R5bnJUTklrbEZOTXhaT2lrOUpBWWNFaHFDMmlPT0c4cVBZTGtwYnpSaFJlcS1vLUtTMG1MdWlzV2p3U0h2SXFCN1dMY2dIUVM2alpVREFnbFpnT3NCRkhTdDlHa3d2WnFxUGVfNGh2N2trTUZ5cFh0RGk2dENxMVZVUW43ZTNTaTRUa0VQZVJ5aUVQdTNfM1pHOWptX2k3dWFZQXZ2XzR5MWZJQ0FjNDFVbXRuWnN6OHJWOHh2X1RvVzg2UFJDa2dPRDJqUVlDNUxfZVlYSFY2clpGZjlNbV96SnJOVVPSAY4CQVVfeXFMUEdaNlVKZGc0c2htQXNabWYwMUgxSmJ2ek5VS0xScEZDSl9LZ1lIYWVEcW4xNk5WUGVwenJOOWZ2YU9oTzg1MTRheWQ3X2g0UGZzQi1nQmVmbmVyenc3Z0dHTDcyYmtTaFVPNGVFU1VrZUxwVUpZWHR5TmhvSTNQZEZsV1Y1U2o0djhnZGlwNHQwRVRhbnhtbW1FQjRlQzhBV19hV18yelZCZkNYOFA2SF9ETXh0Z1puWlRnenN5Y082ZDVBZlY4T1IzUkpldkpEYU1EcEo0OG8tWURRMTRzSXlXM2M0djU0ODNjMnR1dElibkJKZktPYUwtZ3AwcUVQZEg2TVhxMlNDVEdaazB3?oc=5",
       "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTmJPMXZDdzUzbHlET3Zab3RER2lHeWV6T18zU0xhbTFYSUM0MEpXZk0tMWhncHV1VkJCWlFTel9MbGpQckZTVjZtb3RtVm5RVVh6dy1ZY3dsUkhvUmFWSFhrTnlHTThtY19YWG5NRVVaSkdPSXFFNldPYXNrRy1CeHlnSWlMeV8zZEt3eE5WV0xEc2ROQnF6THZ6UkR2ZmNndmtxYjlMSzhGeFk1QlF5Ylc4QVpwSThfRVQyNmc0UWxMLUlFQ0pLZDU1ejZHcWlqY09NbDRabUhad1ZaeDJybnhlZ1V5U0lHY2V4SXJhNWxBOWpqLV9Uem9tSGNyb2ZWekU3TVdTekJGZw?oc=5",
       "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2VuLVlRRXk0Sm1Kek9vR25keFdxc0VkNnZlQXducXBCWnBZSFBqaWFSTngtTDVjeU02VzlWaG1Gd2l6QktIRFVQb1h5c05xOVdyNnBWRldjbUhNQmpxcVoyTzEtbjc2YlRqb2Yya3hpTi1Mb1FlV2xucWRmTk5od19CWDFiMWwxMkZn?oc=5",
       "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlRsSjUtN1EwRE9QTHhoZWo0OWJ0ei1wbXE5bGJQNEFIYUxJMGd0LUFTSnp1MHFXRW03d1Axa3lPT1drUFQwREs5bDhveV8ybl9YSlZWVkZadGF3Ulp1emM5WmZNRTEzSk1JU1NnaUxfbXVHZzd5TGZyLUE4Rjh0VnBxLWlJdi11YkYxOA?oc=5",
