@@ -1,12 +1,110 @@
 {
   "initialized": true,
   "last_digest_date": "2026-09-29",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "label": "baissier",
+      "message": "RSI entré en zone de SURVENTE (< 30).",
+      "nom": "Kalray",
+      "score": -4,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGN0dmFoRndlUWNQZDR1VUk3b3F6TlVETmNWbFdfcVVQeFBvUGw5b3JxME03NEhuZzg3ZURxNEVxTndnZHdJX0hqdVhBLTUzU3UyMGczbk5GUXBkU2pxQk9UR1pQQTRiRnMtUmZ5bkNwTjk0RWM1bllESmIwMnU1YlQ1dUI3R015UXdBMXFQZ3F6bjVZeEdUeWNmSFNpYXZ1em9lcTgzcWEyTXNaYWRmU051UDBfM2FxbUJ3T29pRHllQTJVQU9NNDZPVG9vQTk4UTBzTTZOdUh3OGpw0gHiAUFVX3lxTE1QdFNKTGVicTIzMWktUVJQZlJiN2NaYjloTW9Wd2NWcUN3b2JVX0dSWXp6Z1VMMkN5V3Fxekp3cXR3T2ZFZVZQbzZmbnlUbF9EaTBqZWc2MGI5R1dGNXNEWU10Q25nMEg3ZFlqcncyYm5jVXl6NV9STllLZjd0VlpVNVU4Zlk3U2djdGtoR2dvNlVlUmFKc191VUk0SFdTR0ZXMjdRdkhhM2RhY3pJNGVjbFdPLWFQMkRvZXA3cjctcWQxcV9BQzNQbUJpeVJQUGo0amJ3SFZCeVVnS3NWcGEtM2c?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Lindt abaisse de nouveau son objectif de croissance, l'action chute - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NRXZVMTVwOTVTU2FzcmRtWFVHLXdNc050V29CQTNPVTJKbkp2c2Y0NUN2OHJZLWhQeXJzNWFBSzVTaFNTalJHQlQyRjJmWEtIRVE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOLUTIONS 30 Cours Action S30, Cotation Bourse Euronext Paris - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odmctWmg5ZFRUNkZDekxGUTFjZGo1X0dZNGJ1U2NUU04yN09hYzNPUXoxRTA0U3dVOE05S2g3ZWxHM0NRSGtFVGVuQ0JVd3VVOE5mTA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Faut-il acheter l'action 2CRSi, ce fabricant français de serveurs pour l'IA ? - cryptoast.fr",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkpFVUd5cEVEYjlCblFBX3pkancteFZnaGRMVDc1VExqVm5RODNOS3BRUVY3ZVAyMVV4T0pqV01PRVVJOHhXMk4ydHlMSmNKaTRoM1BXdm5idnkzM0pYLWItem1aNGpaa3NINXZaWnJEZ3FhVTQ3cGg2TVVfbjhJdWsyYVNMTFBFOTgxWFh0dw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi rassure ; gros rebond - boursier.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3X2xHSUdDQmNGajdkdTRNUXZFZU5tTGpDcnFUU2p1S2JucGVpYVFrbTNuSk1Vc2hiYkx5VjJlZU9yYnZVVThpT2o1NG01NGxfR1E?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VEOLIA Cours Action VIE, Cotation Bourse Euronext Paris - boursorama.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhNdzhyNjVnNWdWaFZ2MTNtN1BoODJyWGx5b2dqUDZPN0FaTVB6T29iWG5aQ2gyZmxJZ2pYNl9KSzQ4S2s5UWhuM21nSGNXbTZxSlY4N24ycmw1ZWt3Q0lRTmVQNHF5eF85MTZYS1BsOVhtT3gteTJmZzh5MDg4T3JWcmNBV1ZiN3BDM2kxNFlySkRMNFlWa0I1d2dhaGxiSEFSOHpUVlFwUG92NFNhQlkzN3Q5a1d3anBZTGdZNXdCWUhyVXNRZUV3Z3RKVjZQSnhmcWF4Nks2X1diN3JoclJaSEIzeWgtRXYwSVdkLVZwd3lTV2lkc0p5clVSYlo4V01KNXhVNmJ1UzRybnozaUZORzFpb0ZmVWlzRUtKSG95RVk?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Accusé d'être «presque entièrement une fraude» par un vendeur à découvert, ce fabricant strasbourgeois de serveurs qui flambait en Bourse s'effondre de 40% - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "label": "haussier",
+      "message": "MACD repasse sous 0 (le momentum devient négatif).",
+      "nom": "Riber",
+      "score": 2,
+      "ticker": "ALRIB.PA",
+      "type": "technique"
+    },
+    {
+      "label": "baissier",
+      "message": "MACD repasse sous 0 (le momentum devient négatif).",
+      "nom": "Vusion Group",
+      "score": -5,
+      "ticker": "VU.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa0R1YUVMYmx2enhJbC1GOWdRR1dzTzl0LThnT1RKN3Q1SFBPUWtOVTJIRVJaN1N3RmdNWlJqWTdlWkNIZUtjS1BqYlpMSk1uQVh0ZkIyTkJNQWdHTTlMa056MFhoRTNXWWhvVTdweU02TlFuaHhYeGZnY3dHUVk4bzRoaFZGS2xrQVhrdUh3MW51dWJwLWtTb0s0NmsydzlZSWNtRW5ScVVVWFhlcDZrRzNYWmtwRkk3eC1YSjJqRUhaVEZJNFhSdldOMGwxLTBHWUpFYVRWOGt1UGZJQWltNm92cw?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion grimpe après ses résultats du premier semestre et l'optimisme sur 2027 - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUmsxTFAzTFQzOWdjYXg1SXdQQzJSNkdaQWV5dEI2blg4T3ljRmRTbnNfLWUwekkyNkhybm02aU80N0VTT1YzUDNHWGdnZ0dGQUJJZFdQWWtnSTA5aWtmVmhmdVNTUFFqRkczenpsT2pXenJwQl9GbVE2YlhXUGppSXFHa096bENHbENuaWhKcWlJTXdiQzYySVRkRnU1cUVzbFlBSWRSTC11QTk1SVBDaFktUUM0bTh0Z1JJTlJEMno3SmhSWmtrX0pfUG9oYk5kMWtUd3F2OGRfN0Rka2JR?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion signe un accord pour acquérir l'entreprise espagnole In-Store Media - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMnlNaTRXSUFhSXVNQktad2pqV0lqQnJGc0VpbkxNeVc2eEk2aUl2b3dxQ0NpTTNnUG5uZ01iUVBlY0NPRjRaQkZOOG5LRlJmR3owa04xV1FUTkQ3WWgwc1FKM0ZSUHd5LWRTOWNLUVVhSWhuZWlsZ3hNQjNjMVJlMWQ1RFl6aHUyaXhRSGRiRkRNNlNwUTI3d1FQamxFeWVFb05leW01eFdSM0R1X3k4VlZpbGQ4dHJEOXNKYXFCVktuQW5XT0NlcC1VcUpQQUVVOHFHQ2VXV0pVUQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "D E Shaw, nouvel investisseur vendeur à découvert déclaré de Sivers Semiconductors - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
-    "2026-09-26": [
-      "13",
-      "18"
-    ],
     "2026-09-27": [
       "18"
     ],
@@ -52,7 +150,7 @@
       "variation": 6.289709296555518
     },
     "VU.PA": {
-      "ts": 1790706001.315705,
+      "ts": 1790720975.1770256,
       "variation": 5.497173176651757
     }
   },
@@ -430,7 +528,7 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
-      "zone_rsi": "neutre"
+      "zone_rsi": "survente"
     },
     "ALMDT.PA": {
       "au_dessus_res": false,
@@ -443,7 +541,7 @@
     "ALRIB.PA": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "pos",
+      "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
@@ -475,7 +573,7 @@
     "VU.PA": {
       "au_dessus_res": false,
       "croix_mm": "death",
-      "signe_macd": "pos",
+      "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
