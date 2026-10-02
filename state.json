@@ -15,7 +15,8 @@
       "18"
     ],
     "2026-10-02": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -32,15 +33,15 @@
       "variation": -12.699999999999994
     },
     "ALMDT.PA": {
-      "ts": 1789739531.292667,
-      "variation": 6.8692181842381554
+      "ts": 1790965210.0130122,
+      "variation": -10.40221961413094
     },
     "ALRIB.PA": {
       "ts": 1790686011.5152845,
       "variation": 6.5701613345154115
     },
     "ALSTI.PA": {
-      "ts": 1790945821.1157746,
+      "ts": 1790965210.0130153,
       "variation": 0
     },
     "LQQ.PA": {
@@ -48,8 +49,8 @@
       "variation": 3.287784128471209
     },
     "SIVE.ST": {
-      "ts": 1790686011.5152867,
-      "variation": 6.289709296555518
+      "ts": 1790965210.013017,
+      "variation": 6.05481481850678
     },
     "VU.PA": {
       "ts": 1790731757.5751421,
@@ -423,7 +424,7 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": true,
+      "sous_support": false,
       "zone_rsi": "neutre"
     },
     "ALHAF.PA": {
@@ -447,8 +448,8 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
-      "zone_rsi": "neutre"
+      "sous_support": true,
+      "zone_rsi": "survente"
     },
     "ALRIB.PA": {
       "au_dessus_res": false,
