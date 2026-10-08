@@ -1,7 +1,106 @@
 {
   "initialized": true,
   "last_digest_date": "2026-10-08",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmo2VjdySk5hMXBkNHdiQ1BOcGR5d1ppaExhd3FTdWNGTmJ4clVfU0MtNWtPd3lrelp2b2ZOYlU5eWRDVUUwVnNfdkRYcUEtM2tsbk5pZU5Gbm91NWVlbE9URWpwcThlNzE3ZkNRMU1VcnAyTjRwTVV5c3JWSGpGeG9OTGszQ3hWTWVkN3MzeGstTzZibDFZX0VqdDZuakd0UkJzSURuWGJ2Rk5SLWwtajNtd25MeGZNZThz?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi chute encore de -7.7% : opportunité à +87% ou piège spéculatif ? - Investing.com France",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uMnA4aWJ6Vlh4ZXFKMm1lYnZPRU9xcTlyclEydUNDZXgwSUlKN190UFBoTk5XYnlNWXh5WmU0OUZFTVZyaFM0eW5PRHB2MGlv?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SCHNEIDER ELECTRIC Cours Action SU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRnJjVFhnNjZBLWgtWkN0ZHBOeW1NY2JmQmlMQVJWbHRleUg4Um9HdXFhdkZiUG84VTg0NzJvS2loWXJIbGFfYktyRFVORjFo?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ScHN4SVU1SWpDdHRfSTY4b3MzWmZ5cDlsNTdnbzI5NDJZeWhJd3BuYkpUMXQ5ZTdWLWtWUFZZOTBIZTRoVFFDbDQ3aUdfRmJud3NnS1pjNElFZTZqcHRSMi12eTZfREhTVjBkaHRoYw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSI (ENXTPA:AL2SI) - Analyse des actions - Simply Wall Street",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WlZRN0ZxanJKSXNxYmE2WlgzcGRVNGhublZBWjhxS2YwT19NSzh1aWYwYWdTWlltRkdiZ3VjRlhvMDlmRFRDTndhY0ctc3U5U2JV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VIRIDIEN Cours Action VIRI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FTHkyZWhJRkFQRVVIM3R0WlhkRWR4YVZjbVp3RHFHVTZHYVJna2sxUFd2aldYR1ZlMGFibW8xRjlWbmxzeVQ1TUdLN2hONGRSaEE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VALNEVA Cours Action VLA, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQzBXX1VSOTFqdUFtY1JtTTU0X1Jyb2tXd0l4ZUcwN05FaV9aWjltZmptZWg1aUNFRWVzZDUwNGtBdGozWU9aNkstUDUxdmZ0ZmRGc3phM3VQRGRrWm5HQk5ITnZTbVdTQzFKXy1vR1BGN3d6X0I5QmJ0S2JVY0NZMFE2cFowY0xvSnVnUzg1cjRvMHIzWHBwS0E2UldqV0JjWEFoUzBudm90bUphWVFzUmxDMFBrel9LS1B1X1pzd0ZENE8tLW9rSld3SVZHUU9RSUZvTzZ4WGtfNl8tQ1BxT2RZazlsX1dxNlN5YjFTY3hRRmdvVHdGY3p5WEpjQTlS0gGGAkFVX3lxTFB6SkZ3UGRzSllsR3JPSHhyczZud3o0ZkN0MHl0c3dfcWFrTHJrUm1oLTJIT1R3T2MwQ2M0R2VZdVRvbmJJejVoSVpVckl1M19CRXlXZ2x4ckdLVGVVZk04VUxrMGp2a0Y3cC05MEU4U2F6MmttZlVneDk1aVYtMnZiTlNjd1V5cWVYQ0JndllGT0M0OFlxN0tNV1RoOTNIT254Vlg2M0ZFVkRoMXZCc1FSczVMakdvYkRzdXVJRHc1c25ZNGEwM1JHbjQyUnJxMlN5U1FPeEZid3ZhQzY4Ry1KQ0djZnB6QU96TG5ka3RUZ1ZDTy1ETk9hVE93MzhXcVU1aHJYVXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Henry Schein recule après la nomination d'un nouveau directeur financier - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNR0g0TWotV2xuVkdFWktjeDU5VUp2ZzdZRzFpS1k0LUstQWNyWXlUQlBpMVdkUjJRaVJScUx0YzhUUVlfbkE1RmNEa1VtbXBmS0NGOTlnSVBYbE5IMVpoM08wZ2x5YkJuUkpGZU91aThnM1FOdkFhSktCbGxoZ1NoQ0Z5OTkybmdiZUdNOHYxc1FBNWVSUFRvdHZLTVI5Q0ExTjlTUHpRSzc1V3VZVXlPRHhTVndQU1lwaGFlMS01ZnpJc05leGlON1EyRllxRC1wdVhFS3VjOE5HUFMyVDZHbkhSYnRraXlqc0dhREpWTnpuUTFNdC1HWHhtcjRKeVFuZEF2RGxoSjNoRDVfLTRBTU4wVnJTcnAwTEpsOWRHTFRBOTZyOG1nd0g5cVdGQ3BwLXhGbVVB0gG7AkFVX3lxTE9tWFlNZUJ5SlhIX1VfUV9Mb1d4cVJVS1VSRllPWjZTMGNsZDhBcUlsS0gyUzNfQkNDYzBVTHFTUUFORXY3QklmX013NEx4MldkOHFINFlyVzl6QTNrMm43UWlTWDh4YjgtaC1QTVNDNTJoNTdkMWNnbTlXMDFPQ3ZNTno1MXQzbFBxRm9Ia1BWeFE0T2xqVndtVlBCVFdfZlcxcGU0SWI5WDlSUk9ZVExmMXladmU2M2JwYmtacjVQV3VtYjNkay1xTWRCOG9pelVxcmpPbUU5MVlXczlzQlJ2VG5iUmRqcEM5am9lTE5iQ0tKTTVBd2w0cm9NWE9MNjZ4ZGVvVjBxMWdCeVQ4dnlVeHhWb002Wmw2cEtiYUVJbTJzbHZTRm9CVFlrR1lLVlVGTlpJVnJyVVNaOA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "PRÉVISIONS : le bénéfice par action de PepsiCo devrait rester stable ; les investisseurs surveillent de près l - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnBPVW5FWnR6VFlGRm9uY0ctcHcxUmFqZ19yd0VubS10RHlSZ0dVanBkQUhjV00zWnlUczlSYXdpa3ZaU1VpbnNVcmpSRDZZWWRoT3hPREF5TUdKMkFwNFpwVUZNU19zLWJYN2VNS0pfMlI4MXlxX3pLZy1DMDZyZGhPNXpLS2NlYlYzZDRRbDNtamRnOWcyVGtrWmxWS0NYWWZkcEJfdlhaWUwwX0ZZNjIwVVE4bEplWTVlNmh3azVQZVMwTXlDR1VTeS0tamY4RjdtcVQwVHB6LVMyeVNITWRzM1lER0p4?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion garde le cap pour 2026 après un bond de ses résultats au premier semestre - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa0R1YUVMYmx2enhJbC1GOWdRR1dzTzl0LThnT1RKN3Q1SFBPUWtOVTJIRVJaN1N3RmdNWlJqWTdlWkNIZUtjS1BqYlpMSk1uQVh0ZkIyTkJNQWdHTTlMa056MFhoRTNXWWhvVTdweU02TlFuaHhYeGZnY3dHUVk4bzRoaFZGS2xrQVhrdUh3MW51dWJwLWtTb0s0NmsydzlZSWNtRW5ScVVVWFhlcDZrRzNYWmtwRkk3eC1YSjJqRUhaVEZJNFhSdldOMGwxLTBHWUpFYVRWOGt1UGZJQWltNm92cw?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion grimpe après ses résultats du premier semestre et l'optimisme sur 2027 - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOS2d2aGlaMU9PQkpzb3c0cWM5a3o5YzhNRDRVajJoNWpSZmkxR0VVbkd2b2xpMnpBbHVmS3pablNhaVVtSGZ0M3EzbXBwbDhjZ2hRY3RIa2w5Y2dCeUFwdEdETXFZZThwTW1IaFZuX3hscnplN0Z0SnU5bnc2eFgxTjlCYXM1NWF3R2tYcTRDWXc1c2U3Vl9hUUI1UElsUGNyQjVFUzJVZ3hGeWFiWjVXRHVCTVVPQ1JNLWVEdlE1a2gydkQ0WU1qVVotOUdRckdQREt6VFp3MjBlN1Eteml2emFjY3Iyb1dKNDFkR2x5TWI3QkNWX0dvNWpoQkV5S3ducG1rS2xaMTNXYy03WGJpRkhmTXhsTmVmSWtRSEtGYktPR21qdW5GVWRKOVRYX2VYS3p2LTRuNWJXNHlycGstMDBrd0xwZjlGeHhtU1owanN3eHdZalE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Bourse Direct",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOazI0YnJtb01WN3ZhUkFjcGVtYnZKNUJCSnRtUTEwa3JiU3NxcGR2WURtVkNpdGFpQ3I4VjlvZzFNdVhid21TY3hBRzVJMXg3bE5EcjQyWjJWcHVpdzdmV3g1VjB1WUtJOE4tNWJ4Z2x3WTJ3NkoyVlJYOXZ2ZkY1LXBfQ0tjYUxUdmt6enk0c3dWR24wYi1SNnV6eEc5RzcwWk1jRzhMOTVCZ01RMU1CUko1RUpQNVdUQnhiYUN4UHJUbzFpVndxRGtpbUljWjUxU09KWW5fMWt4Nmc?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors AB (SIVE) Sets EGM To Replace Auditor And Launch 2% Option Plan - TradingView",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQmlDUDdhZi1fVktKQjFaT21IV2pOaDJ5QWFUYmdvaTlIbG9qRkJFTDBHM2JCZ2x5cXZjN1A4R1V4TjBYcUpUblBZUFBERjZuZUp2SkhDZk5Ob2N2WXhmTjF3N3IyY0pNekhkV0JyTFZjR29jbl9UbjZKeklNWTVhckhja2VSZWRhMHEyeTQybldJOHEzLUNQZFJFWjYzaXpCMVhMVVd6UXk0bV9FZ19VYXRVVHdmUWxaTmh1RnVhNkNHOFN5c1V0Z0FkanB6bjJRbTdaci1qRdIB3AFBVV95cUxNVmNMOFVKbkl5UGh0TzNpUmVhZWxKVExFV2pNN1V1RTM1MTVueS1DNG9jR2tRSEVlVHVfYnRUYjVtNGFDNDEwT08xcUdpLTdrTUgxcjYtUTZXTTZZdUhQVkNZMTZVQlhaVHB0Y1ItQzdWV051c2dEV3hEcGhZRnlpdVFvZXp4NEQyTEdOR1FiNk1weE1FbUNOU1hqN0NPRnNTSmxuNDJzdmVtdkd5eExJbkFqaklJc2g2TUI1Vkx4UkFnNGVHdmE3dm04ZjhGNnQ5Vkc2bFpKZFFWTHJu?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors remporte une commande auprès d'ALL.SPACE - Boursorama",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
     "2026-10-05": [
       "18"
@@ -23,8 +122,8 @@
       "variation": -9.057436897027474
     },
     "ALHAF.PA": {
-      "ts": 1791471239.5169609,
-      "variation": -7.366982522502781
+      "ts": 1791491654.2369595,
+      "variation": -9.004090342429096
     },
     "ALKAL.PA": {
       "ts": 1790661870.917247,
@@ -35,20 +134,20 @@
       "variation": -10.402219085046717
     },
     "ALRIB.PA": {
-      "ts": 1791471239.5169573,
-      "variation": -11.157457096589809
+      "ts": 1791491654.2369566,
+      "variation": -12.513035802862488
     },
     "ALSTI.PA": {
-      "ts": 1791444689.007722,
-      "variation": -9.340663141076092
+      "ts": 1791491654.2369611,
+      "variation": -6.457245489076251
     },
     "LQQ.PA": {
       "ts": 1791313540.0126817,
       "variation": 3.233079375726964
     },
     "SIVE.ST": {
-      "ts": 1791471239.5169623,
-      "variation": -8.809798386342933
+      "ts": 1791491654.2369623,
+      "variation": -9.334885919626958
     },
     "VU.PA": {
       "ts": 1790731757.5751421,
