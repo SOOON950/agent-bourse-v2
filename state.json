@@ -14,7 +14,8 @@
       "13"
     ],
     "2026-10-09": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -23,8 +24,8 @@
       "variation": 9.385663036764228
     },
     "ALHAF.PA": {
-      "ts": 1791553933.296785,
-      "variation": 8.545727834824175
+      "ts": 1791573376.7101028,
+      "variation": 15.14242952644333
     },
     "ALKAL.PA": {
       "ts": 1790661870.917247,
@@ -457,7 +458,7 @@
     "ALRIB.PA": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "pos",
+      "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
