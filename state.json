@@ -1,12 +1,109 @@
 {
   "initialized": true,
   "last_digest_date": "2026-10-12",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSktGOEZDZ2lGems5Z0I0UzZEYmhKS1ZyWG5NVEc2UVNKd3NqNXF5Y2N1Sll4M1pZU1FtZWtxMzF0ZkZYUWUtdWViVG9lcWlHVENwU3oxN1hkMzAtVHlnRUx6UFhlLTI1WDJkNE4zVFpLQ2txbXAtUy1fTTF3YU10M2RmRjJvQkhSeHVmNGV0ZDB4eWFwZzlRUnNpZnJ5NWh6?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi carbure à l'IA, les raffineurs et le travail temporaire baissent - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQngxVVlHdWZpVDByNUs3VmdXMkQ2ZEpieUplU2hXOF9KWHhad0FpN2hjeTFINmxzeEt2cU9aZEJUakhCNHRGSkI1dklsTkQzOFNTaVFrQy1wdHJ5TlVIQWdKWWFTSHpWSE1ScDREYlFjdXR2RWZhWWJjaE90RHVDQkdOUV9TOFlTd21IN1JTMTd2NldFTDQyTTNfY0kwdExqa3VPeTR3R2tJdHZzMkRQVWdQNDdpMGtyOVVFOVZkS2ptdXpzY2Q5T19iMTk4OGN2T3hsTkF2U0I?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSI : l'action, plus que doublée en un an, s'envole de 18,5 % après l'annonce du projet Aether - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQXk1VkdYZV83MkdJaVE2ejkzRWp0cUFhSVdxVE5hQ3JMc2k1X3ZlUFBEbWotdWVJb29LSml1OElOUEV1THY2NmFzWU5xa3V4MFFMVzl0Q3VGalJsTVppUDllVDJWMkFtTnBZSU9NaTFFcWVYWVE0WVNPajZ0X0lmUWU5bFR2Qi1icXVrd3JyOU5WdHZ0T3BIX2xIWE1oSHB1Tld1NGVRTDZicjlieXFSTVktV2l1YVJuRmUzd2xPUF9rbV85eXFPaS1UcU5PM1U1eFRhZXZtc1FxcGZWMkJzSnI4NDNaaUtodFU3VU5pbkxOdjRta1pFM2NsNWVFZU5uNjM5cjVvMFA3dUQzbF9MZjZJb3Z0bDFiVkpDeXNxRVZfaGvSAagCQVVfeXFMTzd5R2xnZmVseGJ6ZDhGeEhRRVlNUEhObzZzVHlVNzBJRXd4eUVQTGExUDMtWDU5dWs0cmZrdmFMTTdqeXNPejdrcUFkLTlXbHY1Rk5VNnE3WWRRSTFBTW5qRVduQVVnZTg3NHhjcS1hQ0dJNk1ubWwtMWc2MlFaR056RVBlZmowZnZHa05XMUVmekxqdUptU1BOY2pCbkh2dW1uR0EyN2FrUE9YTy1UV0lmZ0l6UGdvV2IxblpvTTdscWdTRkswWXhHbEYxTXNnV3NjUUtyOHhfYTZSekJUWWpYcEtadGVWY1FVZWNmdXk2dllpd3RMVDdUMEJ6Y2NvTEpFek9UQ0F3RWJUaWFvWUNacktWX2ZSWUpBbk9rYVoyd1U4TWMzaU4?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "PRÉVISIONS : Le bénéfice par action et le chiffre d'affaires de Goldman Sachs devraient progresser au troisièm - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGNlUUpPd3ZrTUk0bUJuUlRYQVdEN0Q4T3h3MTR3TUZSZXhnaWJ5Q3lYN3lKREJuempRdGtYNjhKRnQyUExmdGNzZWQ5TlNpOV9WeXdxT3F2dXNvbzNpdG1DNHgxNG5FbWVURG8wSWlyenM2dTdOWGdKOUdPeVpQVnZiTUc0dlhYZ2VnTTFVSTNiMFdXd055TURJZkVITEVMWk1yQm5VWnRNOHBsR2RWSkZyZE82RHpLS3FB0gHAAUFVX3lxTE1sdVBVN3VneTR5bm9sTkdEaVBEbWdiOWs1dEpYa3A1bFdDVHgxZmdOX2hKTkhUYVN1WDkzN2VZN1RaV2lrVDVzb3c3cFJHaHlVeUtSVDZQT2dNUzIxcVdrODdyN2Q0OUVwbG1WejRCaTFoMHliWmN1dndYR1l4VUxhQ0RzSlNpc2FIR1EyR0xFVDh2VVVkM3VhXzNmNFBlWVVHWG1JUlNqZFN5anE4NnlSN0paQUZ5ZERKVHgyVWtXRQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Eduform'Action : résultats semestriels 2026 - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oeTNKWE9QclczWEJvTlFRaG9URHBkX1dNTnI5T05JOG1CUUhEcVpFUkdCbExQTmpDb3JyQjk3Unpvdk1xMHNNTVlhVDJ6UjdfTUJjcFNYczFiaU91QnYtSW5EQnk?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Action 2CRSi | Cours AL2SI Bourse Euronext Paris - Zonebourse Suisse - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlFEQTZ3XzFOcjEtRnpYc0NCQjVXYmduR2xWUmFaUjJ6M2NhVzNfM19xMXBzQ0RwbTgwaWRzTWtpQW9JdTdMN3N3SDVocG5aSUg5clFacTNCSFNuV3UzQVNlVGZWdkhMYVlYVUtsVHZhS3Z1X2YxUjY1cWpZdGxHZS1OMHdQNGFjMTFZVkxFdVhSbWhtM2tQdXRYMzFiNWE3ZkNXY2hCc3VoYkFJZE42NUttUDBabVNkZ1prRHZocUk2RVNHaWlPeW1jQU1DVDRZbEFj?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action 2CRSI progresse de 6% grâce à un chiffre d'affaires multiplié par 10 en six mois - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "🟢 Golden cross : la MM50 repasse au-dessus de la MM200 (signal de fond haussier).",
+      "nom": "Riber",
+      "score": -6,
+      "ticker": "ALRIB.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU3dXYy1aRWJXOURReDV1YmRyQjhSZnRIUjlIeHFLTXhKc3k1TlpVRUxHUDVvZ0wxSFVrOHNSRXJGSklsbk5GelBtRUFIRWRwVUZST0wtamRlU1g3bDBra2RBTjJDdlcyb0JnVjdxT0hWUnFETl9MU0ljQ0YySHl2TEVIYlBCZVdhWnBkWFh4SXJ5TndKWHp5ZkZzV1NLLXJsdDVnQ1E2NXgwdFNNN0RtdDFkM0Vub3h2UEVFdFlzSXlkWkstaHNoWllJRVp5NG9Kay1venIzOFlpOTZa?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion annonce un CA en hausse de 34% au S1 et confirme ses perspectives - Investir Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnBPVW5FWnR6VFlGRm9uY0ctcHcxUmFqZ19yd0VubS10RHlSZ0dVanBkQUhjV00zWnlUczlSYXdpa3ZaU1VpbnNVcmpSRDZZWWRoT3hPREF5TUdKMkFwNFpwVUZNU19zLWJYN2VNS0pfMlI4MXlxX3pLZy1DMDZyZGhPNXpLS2NlYlYzZDRRbDNtamRnOWcyVGtrWmxWS0NYWWZkcEJfdlhaWUwwX0ZZNjIwVVE4bEplWTVlNmh3azVQZVMwTXlDR1VTeS0tamY4RjdtcVQwVHB6LVMyeVNITWRzM1lER0p4?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion garde le cap pour 2026 après un bond de ses résultats au premier semestre - Les Echos",
+      "type": "actu"
+    },
+    {
+      "label": "baissier",
+      "message": "MACD repasse au-dessus de 0 (le momentum devient positif).",
+      "nom": "Sivers Semiconductors",
+      "score": -2,
+      "ticker": "SIVE.ST",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNamZMQS1fRVJqTkliYUxuOWNhZERhM0JxX05kY3luSHZiaUEtZmNoU0ZJOFdsUVBrYXZZSU8xQTFQSlQ2T2Q4T19LZ3pLekdzb0ZRUkhYMGdOLTdXeHd2V1lBNVJ1eEpndDNqTjJ6TU1nTWI3M01tSmlXdGQ3dDNpTk5nS29jU2RzV3FXbWE1VE0xbndjQm9ydjJxNG5hb3BHTGlwOHlhXzdkUGwwQVFHTWNPWlFKVDI0WE9JNFo2RHpYclVNQXJVVXc3d3JBX3k0SkFSM2o0T2rSAd4BQVVfeXFMTzkyaGNDMmRGUEk1S3h2eU1obEhnWG9GeS1mS2p6SFp3S09aM1VMTl9yU2szeE9BQ2NQWThJMWNsSXpqV3NYQW1qdFJ3QjRxUXB2Ym5VWXVmb3JDbVdGSjFqQVJDVFdLSGNvaFlId2RUVXkxZkJDUmZEZ0V3dlN6VktZekxsejB2cUFZTjlmRXpxR0lJNnREcFQ4N0NLUTJVUkhqX2U1YlpMN3ZjWGdqWWtzb2pyNS1iblhSUzZBaG5sWGtUVEc3NlJrV0xOWHpoUk1Dd0lUcnR5TFVHYnRR?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Quand Jane Street remballe ses shorts sur Sivers Semiconductors - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
-    "2026-10-09": [
-      "13",
-      "18"
-    ],
     "2026-10-10": [
       "18"
     ],
@@ -20,7 +117,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1791832066.9247804,
+      "ts": 1791854512.3743606,
       "variation": 17.661293942275936
     },
     "ALHAF.PA": {
@@ -32,7 +129,7 @@
       "variation": -12.699999999999994
     },
     "ALMDT.PA": {
-      "ts": 1791832066.9247823,
+      "ts": 1791854512.3743632,
       "variation": 10.719531033101672
     },
     "ALRIB.PA": {
@@ -48,7 +145,7 @@
       "variation": 3.233079375726964
     },
     "SIVE.ST": {
-      "ts": 1791832066.924784,
+      "ts": 1791854512.3743649,
       "variation": -6.324902988086308
     },
     "VU.PA": {
@@ -457,7 +554,7 @@
     },
     "ALRIB.PA": {
       "au_dessus_res": false,
-      "croix_mm": "death",
+      "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
@@ -482,7 +579,7 @@
     "SIVE.ST": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "neg",
+      "signe_macd": "pos",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
