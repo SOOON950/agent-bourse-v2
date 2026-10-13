@@ -201,6 +201,114 @@
       "ticker": "SIVE.ST",
       "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
       "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "RSI entré en zone de SURVENTE (< 30).",
+      "nom": "Kalray",
+      "score": -8,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
+      "nom": "Kalray",
+      "score": -8,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSktGOEZDZ2lGems5Z0I0UzZEYmhKS1ZyWG5NVEc2UVNKd3NqNXF5Y2N1Sll4M1pZU1FtZWtxMzF0ZkZYUWUtdWViVG9lcWlHVENwU3oxN1hkMzAtVHlnRUx6UFhlLTI1WDJkNE4zVFpLQ2txbXAtUy1fTTF3YU10M2RmRjJvQkhSeHVmNGV0ZDB4eWFwZzlRUnNpZnJ5NWh6?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi carbure à l'IA, les raffineurs et le travail temporaire baissent - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQngxVVlHdWZpVDByNUs3VmdXMkQ2ZEpieUplU2hXOF9KWHhad0FpN2hjeTFINmxzeEt2cU9aZEJUakhCNHRGSkI1dklsTkQzOFNTaVFrQy1wdHJ5TlVIQWdKWWFTSHpWSE1ScDREYlFjdXR2RWZhWWJjaE90RHVDQkdOUV9TOFlTd21IN1JTMTd2NldFTDQyTTNfY0kwdExqa3VPeTR3R2tJdHZzMkRQVWdQNDdpMGtyOVVFOVZkS2ptdXpzY2Q5T19iMTk4OGN2T3hsTkF2U0I?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSI : l'action, plus que doublée en un an, s'envole de 18,5 % après l'annonce du projet Aether - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNNmRqWUVFWDg2VThBeV9fNzQ0cXdLNDVRUjE3WGdEU28tOEcwek5pcGJLQlUwYUxBNEJEX3ZnWTRuLUhkUHZBRWpld1g0d0xncklDLUVqQl9vN05JMjIzNkNnUTRtbmZFd2g2MVQ4VHFDT2h0MHRMY25QMUJYR3BkWi0xWFNBYlZxWVJaWUtZYmc5ZG1GRzZkckNwd3lVb3ZNSldEWHhYVzdsaWpEbnB3RU92R0NlTWQ1aVlvbk00S3Njb3RxaXdvQ0Y4cHRZT09vWTJ4dUNrVGpDM0VVRHNpUFpZS2hiN2NwYnZJUW5mUzNhMnZ0cVlYcWItN2JxSnJTWFRFTXo3U3FPRklWQ0toVU9tRXgxMXRleTE5TUNEMWlaYXNWb1I00gGsAkFVX3lxTE12X3hkWFZ4WmhCYU84bmlNbEhEVjR5ZEt3LU55MU1CZF9rQ1ZkQzNLZUlWbEhxa05vQkl6eElDVmpsWTJ1b1dDaUhOc1ZGaEpNdWlvUTd4U0ZZRi12WlpXdkFOVlJOQ3dFTWpYRXdsOFBTVVNNZEdkSlhiWUpKRjY3UHNfM1hDNU1nN2NQbV80T0phbEJCc3piQjFGMWtUTkpwaDZvSlZLZGotUDRiWWRhM1hDQXpDVkNrUXFnN1BjRmVmbXpGQjA3TDNjM3YzRHAteXJJX3p4eDJnMHVaNnZUY19vVEdNQVhjT2xQREJDa2VYMTFUT25uaDU4amZNeVd0Zm9pcV9Mb2QyMXN5VnJybTZTakxpR2dab0VsOXA2NTRKTmk4ZHRpTHk0VQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Six Flags recule après que CNBC a fait état d'un accident survenu sur des montagnes russe - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTnRjN0U2bTVKREQyaWFxUXROU1R4eFdoeTBsSHVrZ3k3YTF1d2hYcEVxakJ2OUhmR2RWMjhJb3RLOGRNVHZxWkFOdkFxTHowVWxOcEh4V2pMbzNKRWIzcUlBZHdtUjB3TGdXQTdjTkI2RlVraGVTbmJZMjFYQ2swaFdLVmt6ME9rSXVMa2VFLTRuNURjdHRFbU5QcjhyWC1GR2k0UENLSGVHU0FlUjEwLWx5cnVEbjRZRGJzQWtVYm1nZ0twMlJNTTJCQ204Z0VxRmJadzFGc1BIX0RYUVBNQkJnXzRuT3RoMlNTLWQ5SGVDVXhxTnkwZXBLMnBpVnJ5elBBcmQwSEVLSFVvNS1FSEhyUzJwVG83MF9LVGFuY3ZfYWPSAagCQVVfeXFMTTREdlg2RnBGVlF2RGhWbVJEZVA2d1YxMGl4MEJhY2FBRzJwZm5ES3NMZGpvR3FOaTRmcjJIQ2x2OUVSMHk5cnJDZ0Y0NFpidWpidDJ3SEdIeVAwUExkRTFFT2RIZmFUakQ2QWlhUURsZ04wX3RBZFhOaENoNjBtdC1wby0xYi1kV2tuR0JrbHFGVnFtREt3cVJJWEZEb0NtX3EtLWhXNGZNTWlWSFJUMmRSOGN0bk43ckxYTFFYTVplYmFuTS0xUU9PZVEtU1dFUTBKNnlSWnVPUEh0OHpjQm9xTGhRaUhBRTRaX3l3dFJwb3dUeTdYYlY5Ni1CX0pHSUtEUWpEMjB0NTdNcjZJVmxvNy1haHJZeE1PazFzZ2dyNzh0T2xQbC0?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "PRÉVISIONS : Le bénéfice par action et le chiffre d'affaires de Goldman Sachs devraient progresser au troisièm - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlFEQTZ3XzFOcjEtRnpYc0NCQjVXYmduR2xWUmFaUjJ6M2NhVzNfM19xMXBzQ0RwbTgwaWRzTWtpQW9JdTdMN3N3SDVocG5aSUg5clFacTNCSFNuV3UzQVNlVGZWdkhMYVlYVUtsVHZhS3Z1X2YxUjY1cWpZdGxHZS1OMHdQNGFjMTFZVkxFdVhSbWhtM2tQdXRYMzFiNWE3ZkNXY2hCc3VoYkFJZE42NUttUDBabVNkZ1prRHZocUk2RVNHaWlPeW1jQU1DVDRZbEFj?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action 2CRSI progresse de 6% grâce à un chiffre d'affaires multiplié par 10 en six mois - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYX1FyYW1xal80am53OU5CS2xYQ1V4dWo0S2Z6R0xoMEdJYmU2R1lwNm5KOTEtUFcwSmhPR1JIV3FReDltMHNGZ2Vvb2F6RlRwSmRz?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "X-FAB SILICON Cours Action XFAB, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRTl3d0FJWmphcFh0NUpjVF85bmNMaHNHSjJvRUxOTG1lcFNZSzgza2FfYjJ4ZFo5Q1pTd0g3TmItMklvN2h4Rlk1SFR6ZVNfWGhDMDZSeERsM2t2Y2tmY29yU3UxWDk4anBUZG4zOUt0WWhVRUNPRGI5M3RWLTFzR0lTc1k2bkxXc01QeHc5U2ZGS25uaHUxNFA4a1IxVzAzY1lvUFpwM0JweVJvdXNsVnNWazlKQWlCTzNpT0RqNWtweHNTTHQxZVNKc1h6ODFSSlpLa3E3M0JiUTNxbjhrV2lDblFXdEnSAewBQVVfeXFMTmp6QWFYWWZUSkR5Y0RJc0JZOUlsMDBkRXZqaXlBVjVXNjd5V3dSc0dXQkZQMWNBRnI3WmdMUXJBbjlKYVJTZE5uU2pyTHc4UGpnakdFVlFUb2x3UTlUX3FSV2VKUTFiNUdvNmpxOHBRTGl1eThFT0J6R2lQM1c1Wlhfekc5Vmdfa2NrRjVFWVlEV1FlTVdGRG1WVmZMR25LSjZBOTVKSnFXc1AtRTlkQ2RfQXQ0cWZQVV9ILWRuQ2o0VS1wNHJUdlRoS2NWdTdxLU03X0ZOQk16MFV0Q19LbXkzdTFwaUw0Yk1iMS0?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action LVMH reste stable malgré une croissance organique décevante au T3 - Boursorama",
+      "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
+      "nom": "Riber",
+      "score": -10,
+      "ticker": "ALRIB.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU3dXYy1aRWJXOURReDV1YmRyQjhSZnRIUjlIeHFLTXhKc3k1TlpVRUxHUDVvZ0wxSFVrOHNSRXJGSklsbk5GelBtRUFIRWRwVUZST0wtamRlU1g3bDBra2RBTjJDdlcyb0JnVjdxT0hWUnFETl9MU0ljQ0YySHl2TEVIYlBCZVdhWnBkWFh4SXJ5TndKWHp5ZkZzV1NLLXJsdDVnQ1E2NXgwdFNNN0RtdDFkM0Vub3h2UEVFdFlzSXlkWkstaHNoWllJRVp5NG9Kay1venIzOFlpOTZa?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion annonce un CA en hausse de 34% au S1 et confirme ses perspectives - Investir Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnBPVW5FWnR6VFlGRm9uY0ctcHcxUmFqZ19yd0VubS10RHlSZ0dVanBkQUhjV00zWnlUczlSYXdpa3ZaU1VpbnNVcmpSRDZZWWRoT3hPREF5TUdKMkFwNFpwVUZNU19zLWJYN2VNS0pfMlI4MXlxX3pLZy1DMDZyZGhPNXpLS2NlYlYzZDRRbDNtamRnOWcyVGtrWmxWS0NYWWZkcEJfdlhaWUwwX0ZZNjIwVVE4bEplWTVlNmh3azVQZVMwTXlDR1VTeS0tamY4RjdtcVQwVHB6LVMyeVNITWRzM1lER0p4?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion garde le cap pour 2026 après un bond de ses résultats au premier semestre - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNamZMQS1fRVJqTkliYUxuOWNhZERhM0JxX05kY3luSHZiaUEtZmNoU0ZJOFdsUVBrYXZZSU8xQTFQSlQ2T2Q4T19LZ3pLekdzb0ZRUkhYMGdOLTdXeHd2V1lBNVJ1eEpndDNqTjJ6TU1nTWI3M01tSmlXdGQ3dDNpTk5nS29jU2RzV3FXbWE1VE0xbndjQm9ydjJxNG5hb3BHTGlwOHlhXzdkUGwwQVFHTWNPWlFKVDI0WE9JNFo2RHpYclVNQXJVVXc3d3JBX3k0SkFSM2o0T2rSAd4BQVVfeXFMTzkyaGNDMmRGUEk1S3h2eU1obEhnWG9GeS1mS2p6SFp3S09aM1VMTl9yU2szeE9BQ2NQWThJMWNsSXpqV3NYQW1qdFJ3QjRxUXB2Ym5VWXVmb3JDbVdGSjFqQVJDVFdLSGNvaFlId2RUVXkxZkJDUmZEZ0V3dlN6VktZekxsejB2cUFZTjlmRXpxR0lJNnREcFQ4N0NLUTJVUkhqX2U1YlpMN3ZjWGdqWWtzb2pyNS1iblhSUzZBaG5sWGtUVEc3NlJrV0xOWHpoUk1Dd0lUcnR5TFVHYnRR?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Quand Jane Street remballe ses shorts sur Sivers Semiconductors - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -217,8 +325,8 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1791878749.3316174,
-      "variation": 18.54839074375985
+      "ts": 1791906972.2050679,
+      "variation": 14.112906736340273
     },
     "ALHAF.PA": {
       "ts": 1791770847.5292144,
@@ -229,8 +337,8 @@
       "variation": -12.699999999999994
     },
     "ALMDT.PA": {
-      "ts": 1791878749.3316197,
-      "variation": 11.600588309227145
+      "ts": 1791906972.2050712,
+      "variation": 17.474303483396998
     },
     "ALRIB.PA": {
       "ts": 1791528376.2654202,
@@ -245,8 +353,8 @@
       "variation": 3.233079375726964
     },
     "SIVE.ST": {
-      "ts": 1791854512.3743649,
-      "variation": -6.324902988086308
+      "ts": 1791906972.2050729,
+      "variation": -10.719043999306141
     },
     "VU.PA": {
       "ts": 1790731757.5751421,
@@ -641,8 +749,8 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
-      "zone_rsi": "neutre"
+      "sous_support": true,
+      "zone_rsi": "survente"
     },
     "ALMDT.PA": {
       "au_dessus_res": false,
@@ -657,7 +765,7 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "ALSTI.PA": {
