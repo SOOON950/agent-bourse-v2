@@ -1,12 +1,93 @@
 {
   "initialized": true,
   "last_digest_date": "2026-10-13",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSktGOEZDZ2lGems5Z0I0UzZEYmhKS1ZyWG5NVEc2UVNKd3NqNXF5Y2N1Sll4M1pZU1FtZWtxMzF0ZkZYUWUtdWViVG9lcWlHVENwU3oxN1hkMzAtVHlnRUx6UFhlLTI1WDJkNE4zVFpLQ2txbXAtUy1fTTF3YU10M2RmRjJvQkhSeHVmNGV0ZDB4eWFwZzlRUnNpZnJ5NWh6?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi carbure à l'IA, les raffineurs et le travail temporaire baissent - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZjN5N2ZRbzhzNWVVc092X0dvZVJoSzd2V2tIOXV2UmVJSlc1Nkl5ay1TSkdEQ0w3WXhvTXNVdThsVU4ydGRkdldFT3pMV2Y0S3BWZ0FHd0xFVWxJTnJ3bEM2bFFFcnpzbmMyUng1d3ppZ3MwYVNWX2tOVzdYaFdvUkJYY2duazJ3UDB6cktwQjc3a0Y0Z3QyN1BvbUxtSjJBdWJLTUpYeDBKMXpEUUpucjhhMmJUOHo0RFdUY1k4blNwbDVYWHNFdE1kLUNjWTN4SHU2Z3puZ3FSZEp5Z21zX0QzUklhSmhpSUtCa1VMUUJmRzQ4WlhPSndoM194TFlwbndv0gGIAkFVX3lxTE8tZjRlRjRNV0c3cjkxNWRkZVpHM1RCUTFPUVVyZ1hyX3FkOXc4QUlHM1Z6WV9SU2hpWGFkTXZTS0JwekFNNFJJb1pZMExLZ09IdURfMDYtSDZ4Mll3emQxWm03N1NqOU9SV3Z6WEo0R2hULUF4MVhzZFJ3WDB0WG9NdGE4dWVIZDhNSDB3NlNhODRRX3FmVU5aSXlUb1JGdm4zZ3EzbDc0NEkxbXpwRDVZSHhqeHMtckpsZ0FjdWlSNW12Z0lJaGtqOU43RWdwZEE5TkxGZ1lKeHlwWG52Snh0VDFGcDNkOUtnLXUxamZtV2RldlBwZThmX2hPZG5MbW5pT3JlREhXQg?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action BlackRock progresse grâce à une forte hausse de ses bénéfices trimestriels - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTmhSREVGUkliSm5sUnlMcC1DOUVyUFd4NV9TMF9uZmExUURYRk9wWmVua1lKN1ZjRmFQYjdGQnZFdWkza3JqUkZmVTBpZmFlWGRQVFZFaWlhSzZ5dUFBRGlvVzVlN05DcG9uX1ZUSHBQRlU3WU9pTGVEbFl0b1N5WHRCWjhhN05sLTl0SnF5UnF0azBWc0M2dWtPN0stY1lzWXlnS3c2UlhZN3JhWkRYVGZ1d1ZXcmxMRjNHS0hQS2JDLUVMSExHSG5OdFpQQlA3VTdYOEMzdnFsTWZhQkZUd2txWS0tYmlObl9sc2M0dXlUc0swSVlfQUROdVN2d9IBgwJBVV95cUxNaHk4djY4cWFRVzhKaC1MZlAyQmp0ejltd0wzazd5NHdnVVRJTVlTQXpjNHhpTjZHU0dBR0VlNzJxTnlDYnhrLVdKVWQ2aDExVWwtQU1BU0pwQUZOUEV4N2dDOTFBUGxLaFd3S2lvM3E3dF9lWDN4VTlxT1BaSTdyaW9LWmFGZHc4bEJEOF93Nng2OFR2dGM2ZzAyNXEzRWx6ZkJpZU5JbnhoNmlVaVJmOXRsVFBVUi1pYms3M2tROWhJZjB4bjU1dkVHdG1EaURqOUR6MF9TRDBJbm1XR2paUkhsbG9fUFkzN2lXanJuRnMtelNWUjh0M0l3NDZfcDFFYnQ0?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Eaux minérales : Nestlé a payé 2 millions d'euros d'amende, l'action publique éteinte à Epinal - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOQThJREdPem1TR25hN0pzNFZtclE1dlpuUEhTMkRORGdQV3lMaWVMU1Z3eHpqMjREZUROQ0NiRFJ5dGN4TDMzQko2TERtR1ZuN3BPYVBpektJRl80cXRBVWtxdzFGM1d2X2lzdVR5Q216aTRzRWNBVW45dVpWdGRhTUJwcDVaem5DSHhxNm9GeFowczVqanVobjlhMGFQc0ZWODJOWFlrdEJoUFliSnFwWWl0X0NkeVF0dkduQ2g3eC02SU5IYmhxaFZicTdPZWZ4cTdzZUYzRTZfRWlkRDhtTXEza3poRS1ydThBM1A0NGNnNTRqdVJHNi1ZVm1IbUxqcUswT0d1cmxWZkJreGJGcmhWN0s5ZzFYMzc3M2tEZFd0YmFERFpsUDR6eVU5WGEzRm5CcXlqazc3eVdPRFZMa2NNbEN2Q3dhU0s4ajBsZFJscGwxVkZvdVNQVEpaVmhFV2NMRXFLajJTSThzQjBidGk5dndjaHB1UXVoQTRn0gGDA0FVX3lxTE8xdnVreS12NU9WclZ2NUpKLWxGNjNuNkY2THk5Y2pEalNUaTFLS1ZBeHlLSm1DclIwRF9fU3ZIckxqZ2pseXBFYldJZTBKczk1dEhKYTRPakRDLW1sSlNmcnAyM0ZhbEdaUDRWNmZ5YkUtSjBhYjZLdzNBbjZJakZ1dmRUTE51bTRkZ3gtUFFpbnRFU1NaM2lVNlFMTUhlMnVFMkxHMUNPNDJVN19NMEs2bnpTM0IxRDFqRnNvVW1QWElvVW5KOWVJSlJhS0NvTl9kaUZHSTFxQlJIWmtxTUdYaGZObm43V1dBMkZ2RkgtV01WNTM2LUNWMjctX19CTS1jdVpKTHJGQWxfbHotNEpqRzhOWDhUZ1ZBYmVjMGprR0kwSjlDOEZoVWdtQnRZejU1UHVidThuRmNSbmR6MHVncjZBV1FST0g1Vm1nX0xDcHZZRFowLXNQTl9CM2poS1IyWFprMzNXdVZVZVNOWDFFTE9Ycm1rSks4TGpnczMwaWNNWQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Liquidia s'envole après la conclusion d'un accord à hauteur de 381 millions de dollars av - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxQSDlvbzdZZEFTZjhqX0FIZHdwX2Q0NzhXRndYVE9nT0NiMUxkdEpELV82dUlQb245UjhKdXFpRV9ubExLU0VhMFhHeG55N3VZZTVBSklraWlMS3VMTlhrc2ZuTko3QU95YjhaNmdWR2txWGkzY1dKVEl2NlAtNnI1TG5EYWNuZ0dheVUtdHREanMwajd4NV92MG15dUd2NFBnZDZhd1Z0LW9Cb044Z2Z0XzFkRFJpdUoxUmg4dEFYZk5FYlhWMW0xbm1zV2Q3UzZydUd3dDQzMmlUTGw4cHF1bFVaTF9nVkl4dHpSV2ZOeFZPOXMyOGtuczVQS1IyV1A3Q2RPMWhhR1Z3bWVGbzJCTXEwZ0dOdU5PcWQzclZB0gGjAkFVX3lxTE1hQ2h6alh1bHJlTTVFVkNXV3MycEFWeXBubkxGMlhmcm5UcGpxeE1kZ2doZEFkR0w4RkpicEM0U0VjZVM4SW9uTDhZcVBaQ2pSaTIxbHZuQUlqalJYd0JqZ1JCQzdsaVZ4VFJYbmJFN2tzWFdUZ2JXVllSZFhoelR6TW1XT05rVThsbjc0QzNGY0Q1SmFWb2xMZHVGN0UxZlJMb3JwVF93MThJWjBnWVJJSHA5VnBvbmdtTkNvckJ4OTNrR1pGT0NWaFpldTByU1JOV1l0VGFQV0swVGZ6UTdGRXI1bUo2a2s1YVJTbmQ5NVlZd3J1VmdVTEVpN0hfLUlmR2g0WXk4eGNoOTZ2MVkwM2VkWTcyNEVoeVVhRUZtTWMzaw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action du laboratoire pharmaceutique Liquidia rebondit après l'accord conclu avec United Therape - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnBPVW5FWnR6VFlGRm9uY0ctcHcxUmFqZ19yd0VubS10RHlSZ0dVanBkQUhjV00zWnlUczlSYXdpa3ZaU1VpbnNVcmpSRDZZWWRoT3hPREF5TUdKMkFwNFpwVUZNU19zLWJYN2VNS0pfMlI4MXlxX3pLZy1DMDZyZGhPNXpLS2NlYlYzZDRRbDNtamRnOWcyVGtrWmxWS0NYWWZkcEJfdlhaWUwwX0ZZNjIwVVE4bEplWTVlNmh3azVQZVMwTXlDR1VTeS0tamY4RjdtcVQwVHB6LVMyeVNITWRzM1lER0p4?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion garde le cap pour 2026 après un bond de ses résultats au premier semestre - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU3dXYy1aRWJXOURReDV1YmRyQjhSZnRIUjlIeHFLTXhKc3k1TlpVRUxHUDVvZ0wxSFVrOHNSRXJGSklsbk5GelBtRUFIRWRwVUZST0wtamRlU1g3bDBra2RBTjJDdlcyb0JnVjdxT0hWUnFETl9MU0ljQ0YySHl2TEVIYlBCZVdhWnBkWFh4SXJ5TndKWHp5ZkZzV1NLLXJsdDVnQ1E2NXgwdFNNN0RtdDFkM0Vub3h2UEVFdFlzSXlkWkstaHNoWllJRVp5NG9Kay1venIzOFlpOTZa?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion annonce un CA en hausse de 34% au S1 et confirme ses perspectives - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNamZMQS1fRVJqTkliYUxuOWNhZERhM0JxX05kY3luSHZiaUEtZmNoU0ZJOFdsUVBrYXZZSU8xQTFQSlQ2T2Q4T19LZ3pLekdzb0ZRUkhYMGdOLTdXeHd2V1lBNVJ1eEpndDNqTjJ6TU1nTWI3M01tSmlXdGQ3dDNpTk5nS29jU2RzV3FXbWE1VE0xbndjQm9ydjJxNG5hb3BHTGlwOHlhXzdkUGwwQVFHTWNPWlFKVDI0WE9JNFo2RHpYclVNQXJVVXc3d3JBX3k0SkFSM2o0T2rSAd4BQVVfeXFMTzkyaGNDMmRGUEk1S3h2eU1obEhnWG9GeS1mS2p6SFp3S09aM1VMTl9yU2szeE9BQ2NQWThJMWNsSXpqV3NYQW1qdFJ3QjRxUXB2Ym5VWXVmb3JDbVdGSjFqQVJDVFdLSGNvaFlId2RUVXkxZkJDUmZEZ0V3dlN6VktZekxsejB2cUFZTjlmRXpxR0lJNnREcFQ4N0NLUTJVUkhqX2U1YlpMN3ZjWGdqWWtzb2pyNS1iblhSUzZBaG5sWGtUVEc3NlJrV0xOWHpoUk1Dd0lUcnR5TFVHYnRR?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Quand Jane Street remballe ses shorts sur Sivers Semiconductors - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
-    "2026-10-11": [
-      "13",
-      "18"
-    ],
     "2026-10-12": [
       "18"
     ],
