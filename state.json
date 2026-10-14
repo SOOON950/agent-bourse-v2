@@ -393,12 +393,101 @@
       "ticker": "SIVE.ST",
       "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
       "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "RSI sorti de la zone de survente.",
+      "nom": "Kalray",
+      "score": -10,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSktGOEZDZ2lGems5Z0I0UzZEYmhKS1ZyWG5NVEc2UVNKd3NqNXF5Y2N1Sll4M1pZU1FtZWtxMzF0ZkZYUWUtdWViVG9lcWlHVENwU3oxN1hkMzAtVHlnRUx6UFhlLTI1WDJkNE4zVFpLQ2txbXAtUy1fTTF3YU10M2RmRjJvQkhSeHVmNGV0ZDB4eWFwZzlRUnNpZnJ5NWh6?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi carbure à l'IA, les raffineurs et le travail temporaire baissent - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WlZRN0ZxanJKSXNxYmE2WlgzcGRVNGhublZBWjhxS2YwT19NSzh1aWYwYWdTWlltRkdiZ3VjRlhvMDlmRFRDTndhY0ctc3U5U2JV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VIRIDIEN Cours Action VIRI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNE00Vmt5ejdXaDM5ZjFseGZfcG45cVJiazhlSTV1U3lDX251M0N2eVVIRkViaXBWVG1xWllrSU1TaUpnZ3RQbWJ4WUpMeWNvbjYxR1ZzRi1HdVlXV1FKVmdVQkRreE42dE9INjF1c1BCR0VHaWprVUZ3V045MDlqakItbmN1WV9zZDlLZE14OU15RUpvUlR6RHQ5XzhPYnNSVnhSYWk5ckg5LTk5QVRLM1dfTlJYcnlDS3N4dTZQNHd3UVBfaFpJWUhBT3g0YllFOEd2QXVXZ0o5WnVjRENjSTlpcGxnRldvY21Bem1SRkpUbzUwV0JXalB2VkrSAYICQVVfeXFMT2E2dDlNck5yeV9BT05YZ01ueHNpMEltSEg1eEs5QWNhQlJLMEl0Z0Mxbm9kOFF2MmxrdFVuREw4clhtakxHS194NzlCQk42WkFwdUFab18zUlpwRVd6VnByWVNPNzN0Q0FIdEVJQkhQdEc5THZGaXFFSURqZXcwa1Y3a3d1RkprZ0VSZlhhZmFwY3QyM2RUanNubjQzRTRDSkhVM3Qwekc0eTRHaE9ibldMcG9nZDJQbTZMRXQ3SDMzdkVkUE1DS25Ob2FHVzM3Q3pBUmViaGw2S0ZjTFpVUU80NVkzSk5JVGpPQnozQkJ2SVZYaUwtX0NfeWw2QlZoNTJ3?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Six Flags s'effondre après un accident de montagnes russes en Géorgie - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlFEQTZ3XzFOcjEtRnpYc0NCQjVXYmduR2xWUmFaUjJ6M2NhVzNfM19xMXBzQ0RwbTgwaWRzTWtpQW9JdTdMN3N3SDVocG5aSUg5clFacTNCSFNuV3UzQVNlVGZWdkhMYVlYVUtsVHZhS3Z1X2YxUjY1cWpZdGxHZS1OMHdQNGFjMTFZVkxFdVhSbWhtM2tQdXRYMzFiNWE3ZkNXY2hCc3VoYkFJZE42NUttUDBabVNkZ1prRHZocUk2RVNHaWlPeW1jQU1DVDRZbEFj?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action 2CRSI progresse de 6% grâce à un chiffre d'affaires multiplié par 10 en six mois - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Iai05empDS0VnRDFOdUxRQk5lcU5UVHBqbmZ0ZmZiaEJZUGVhOWNjT01XYkp4MUdQNlhxekdkRTQ5WERyTkhNbUN0cnVtUTk5R0Zsb05pZG13WG9vMXdN?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Action 2CRSi : faut-il encore investir après son envolée en Bourse ? - Cafédelabourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNNmRqWUVFWDg2VThBeV9fNzQ0cXdLNDVRUjE3WGdEU28tOEcwek5pcGJLQlUwYUxBNEJEX3ZnWTRuLUhkUHZBRWpld1g0d0xncklDLUVqQl9vN05JMjIzNkNnUTRtbmZFd2g2MVQ4VHFDT2h0MHRMY25QMUJYR3BkWi0xWFNBYlZxWVJaWUtZYmc5ZG1GRzZkckNwd3lVb3ZNSldEWHhYVzdsaWpEbnB3RU92R0NlTWQ1aVlvbk00S3Njb3RxaXdvQ0Y4cHRZT09vWTJ4dUNrVGpDM0VVRHNpUFpZS2hiN2NwYnZJUW5mUzNhMnZ0cVlYcWItN2JxSnJTWFRFTXo3U3FPRklWQ0toVU9tRXgxMXRleTE5TUNEMWlaYXNWb1I00gGsAkFVX3lxTE12X3hkWFZ4WmhCYU84bmlNbEhEVjR5ZEt3LU55MU1CZF9rQ1ZkQzNLZUlWbEhxa05vQkl6eElDVmpsWTJ1b1dDaUhOc1ZGaEpNdWlvUTd4U0ZZRi12WlpXdkFOVlJOQ3dFTWpYRXdsOFBTVVNNZEdkSlhiWUpKRjY3UHNfM1hDNU1nN2NQbV80T0phbEJCc3piQjFGMWtUTkpwaDZvSlZLZGotUDRiWWRhM1hDQXpDVkNrUXFnN1BjRmVmbXpGQjA3TDNjM3YzRHAteXJJX3p4eDJnMHVaNnZUY19vVEdNQVhjT2xQREJDa2VYMTFUT25uaDU4amZNeVd0Zm9pcV9Mb2QyMXN5VnJybTZTakxpR2dab0VsOXA2NTRKTmk4ZHRpTHk0VQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action Six Flags recule après que CNBC a fait état d'un accident survenu sur des montagnes russe - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU3dXYy1aRWJXOURReDV1YmRyQjhSZnRIUjlIeHFLTXhKc3k1TlpVRUxHUDVvZ0wxSFVrOHNSRXJGSklsbk5GelBtRUFIRWRwVUZST0wtamRlU1g3bDBra2RBTjJDdlcyb0JnVjdxT0hWUnFETl9MU0ljQ0YySHl2TEVIYlBCZVdhWnBkWFh4SXJ5TndKWHp5ZkZzV1NLLXJsdDVnQ1E2NXgwdFNNN0RtdDFkM0Vub3h2UEVFdFlzSXlkWkstaHNoWllJRVp5NG9Kay1venIzOFlpOTZa?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion annonce un CA en hausse de 34% au S1 et confirme ses perspectives - Investir Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnBPVW5FWnR6VFlGRm9uY0ctcHcxUmFqZ19yd0VubS10RHlSZ0dVanBkQUhjV00zWnlUczlSYXdpa3ZaU1VpbnNVcmpSRDZZWWRoT3hPREF5TUdKMkFwNFpwVUZNU19zLWJYN2VNS0pfMlI4MXlxX3pLZy1DMDZyZGhPNXpLS2NlYlYzZDRRbDNtamRnOWcyVGtrWmxWS0NYWWZkcEJfdlhaWUwwX0ZZNjIwVVE4bEplWTVlNmh3azVQZVMwTXlDR1VTeS0tamY4RjdtcVQwVHB6LVMyeVNITWRzM1lER0p4?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion garde le cap pour 2026 après un bond de ses résultats au premier semestre - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaFZBZnlKMDFLV1U2bTE0UXVOZGYyTmhhbGpHZDVTbEtVUFRCal9QQ1BIS1NQLVRVQnV0cXhBaFg4blo1cTY4bVpJTFFHRzdSalljb05XT25WTDhiVEFNcF93TTF5ZjFaandsMmlHQ1lpRWhNZ1B4Z0hzTDlOcTBreWQ2RE5RdmxHT0s3ZnM4VzlxNGl3dGExWXgwa2hBRk0wSjNGRjFlRVdqcG81ODVydmxuTU51TUdCc0dISF9YSDRBa2ZTMFViTE5LdWRTTFAxbkIydmZvaFJmdm5FOGZyeV9R0gHnAUFVX3lxTE9rbWJseUtiV2szcGVJR05PZlp4YlVxYjZQelF2NWtYdUR6Yk5NRDd0SVVpMExoS0RLZkZmR0JaYWhnVUlWNU5ESXhGcGZjZDFBQWJjMjhjaFF0aDdxUDNFN1VGMTVJaTZ3NzFMTy05aktGTDJKRUQ0OUN3em1yT3VEOW14dVNCRWUwcnJkVjVDeDBKS3VTaUM4dDI1YlpXd2psejgwRUJkQ0R2NnlubnZYLUJTZFBGM25oWFdETExZYmNnRHgyd196ZWEyTmp6X2tJXzkyZkd6ZjhYbWN6cjBValpmQ2gydw?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
-    "2026-10-10": [
-      "18"
-    ],
     "2026-10-11": [
       "13",
       "18"
@@ -421,7 +510,7 @@
       "variation": -12.699999999999994
     },
     "ALMDT.PA": {
-      "ts": 1791925753.9623291,
+      "ts": 1791937135.1505592,
       "variation": 6.100796292761826
     },
     "ALRIB.PA": {
@@ -834,7 +923,7 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": true,
-      "zone_rsi": "survente"
+      "zone_rsi": "neutre"
     },
     "ALMDT.PA": {
       "au_dessus_res": false,
