@@ -1,11 +1,93 @@
 {
   "initialized": true,
   "last_digest_date": "2026-10-13",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ieFVPRVM5TGxmaUg5SUJrRVdIdlFhaFNXaVZZaHJraHI4ZWNqaDlJV3JPODFXUk4yUzR6bjBJZ3JIQzRPNVJqMnJPTjUtVkRXSGc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "ALSTOM Cours Action ALO, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYX1FyYW1xal80am53OU5CS2xYQ1V4dWo0S2Z6R0xoMEdJYmU2R1lwNm5KOTEtUFcwSmhPR1JIV3FReDltMHNGZ2Vvb2F6RlRwSmRz?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "X-FAB SILICON Cours Action XFAB, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQngxVVlHdWZpVDByNUs3VmdXMkQ2ZEpieUplU2hXOF9KWHhad0FpN2hjeTFINmxzeEt2cU9aZEJUakhCNHRGSkI1dklsTkQzOFNTaVFrQy1wdHJ5TlVIQWdKWWFTSHpWSE1ScDREYlFjdXR2RWZhWWJjaE90RHVDQkdOUV9TOFlTd21IN1JTMTd2NldFTDQyTTNfY0kwdExqa3VPeTR3R2tJdHZzMkRQVWdQNDdpMGtyOVVFOVZkS2ptdXpzY2Q5T19iMTk4OGN2T3hsTkF2U0I?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSI : l'action, plus que doublée en un an, s'envole de 18,5 % après l'annonce du projet Aether - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlFEQTZ3XzFOcjEtRnpYc0NCQjVXYmduR2xWUmFaUjJ6M2NhVzNfM19xMXBzQ0RwbTgwaWRzTWtpQW9JdTdMN3N3SDVocG5aSUg5clFacTNCSFNuV3UzQVNlVGZWdkhMYVlYVUtsVHZhS3Z1X2YxUjY1cWpZdGxHZS1OMHdQNGFjMTFZVkxFdVhSbWhtM2tQdXRYMzFiNWE3ZkNXY2hCc3VoYkFJZE42NUttUDBabVNkZ1prRHZocUk2RVNHaWlPeW1jQU1DVDRZbEFj?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action 2CRSI progresse de 6% grâce à un chiffre d'affaires multiplié par 10 en six mois - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpRFpKYkphLVVKSlV6Z1NNTUNMdXlwV0lwQ2NOUm93YXNaOTVRcWtmSDN5ZmE3cmVGcDdPeE54aG9KQUs1NFplU19ZZ2Qyc0VZ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRnJjVFhnNjZBLWgtWkN0ZHBOeW1NY2JmQmlMQVJWbHRleUg4Um9HdXFhdkZiUG84VTg0NzJvS2loWXJIbGFfYktyRFVORjFo?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa0R1YUVMYmx2enhJbC1GOWdRR1dzTzl0LThnT1RKN3Q1SFBPUWtOVTJIRVJaN1N3RmdNWlJqWTdlWkNIZUtjS1BqYlpMSk1uQVh0ZkIyTkJNQWdHTTlMa056MFhoRTNXWWhvVTdweU02TlFuaHhYeGZnY3dHUVk4bzRoaFZGS2xrQVhrdUh3MW51dWJwLWtTb0s0NmsydzlZSWNtRW5ScVVVWFhlcDZrRzNYWmtwRkk3eC1YSjJqRUhaVEZJNFhSdldOMGwxLTBHWUpFYVRWOGt1UGZJQWltNm92cw?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion grimpe après ses résultats du premier semestre et l'optimisme sur 2027 - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnBPVW5FWnR6VFlGRm9uY0ctcHcxUmFqZ19yd0VubS10RHlSZ0dVanBkQUhjV00zWnlUczlSYXdpa3ZaU1VpbnNVcmpSRDZZWWRoT3hPREF5TUdKMkFwNFpwVUZNU19zLWJYN2VNS0pfMlI4MXlxX3pLZy1DMDZyZGhPNXpLS2NlYlYzZDRRbDNtamRnOWcyVGtrWmxWS0NYWWZkcEJfdlhaWUwwX0ZZNjIwVVE4bEplWTVlNmh3azVQZVMwTXlDR1VTeS0tamY4RjdtcVQwVHB6LVMyeVNITWRzM1lER0p4?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion garde le cap pour 2026 après un bond de ses résultats au premier semestre - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaFZBZnlKMDFLV1U2bTE0UXVOZGYyTmhhbGpHZDVTbEtVUFRCal9QQ1BIS1NQLVRVQnV0cXhBaFg4blo1cTY4bVpJTFFHRzdSalljb05XT25WTDhiVEFNcF93TTF5ZjFaandsMmlHQ1lpRWhNZ1B4Z0hzTDlOcTBreWQ2RE5RdmxHT0s3ZnM4VzlxNGl3dGExWXgwa2hBRk0wSjNGRjFlRVdqcG81ODVydmxuTU51TUdCc0dISF9YSDRBa2ZTMFViTE5LdWRTTFAxbkIydmZvaFJmdm5FOGZyeV9R0gHnAUFVX3lxTE9rbWJseUtiV2szcGVJR05PZlp4YlVxYjZQelF2NWtYdUR6Yk5NRDd0SVVpMExoS0RLZkZmR0JaYWhnVUlWNU5ESXhGcGZjZDFBQWJjMjhjaFF0aDdxUDNFN1VGMTVJaTZ3NzFMTy05aktGTDJKRUQ0OUN3em1yT3VEOW14dVNCRWUwcnJkVjVDeDBKS3VTaUM4dDI1YlpXd2psejgwRUJkQ0R2NnlubnZYLUJTZFBGM25oWFdETExZYmNnRHgyd196ZWEyTmp6X2tJXzkyZkd6ZjhYbWN6cjBValpmQ2gydw?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSXl2NUI2b1hIalpTRmJ4VHVLUmZkOWlZaUlQNkhhejRaSTRNR2pwa3k2RG05ekhuSldHMFIySXNyLS01NXNJUExIeGJYNi1FbzVIWkFnUW13Zm0xNnFrN1VvQ2hOR1Z3aXRIamlINVVGNzVPNGV0czVRNlROTV9pRVk2eTNvNE52bnkyTVlGZUkxTDJ4SFlXbW9Za01qY3c4TFIyckswYnoyT2JnbHJJRGV0a3hBT2ZGODR4cWR0akRmdHk3Tm50bFpJbnIzNkdPU2k3cEZwWmlJc3VxSHFpMm02ckplVGliQnc4R2VvR2Z0UQ?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors lève 700 millions de couronnes via une émission réservée, avec une décote de 9,7 - Zonebourse",
+      "type": "actu"
+    }
+  ],
   "orange_slots_sent": {
-    "2026-10-12": [
-      "18"
-    ],
     "2026-10-14": [
       "18"
     ],
@@ -39,11 +121,11 @@
       "variation": -6.457245489076251
     },
     "LQQ.PA": {
-      "ts": 1792091218.413779,
-      "variation": -4.61789889880651
+      "ts": 1792102613.2154145,
+      "variation": -3.524959447080055
     },
     "SIVE.ST": {
-      "ts": 1792091218.4137764,
+      "ts": 1792102613.215412,
       "variation": -8.652376595022071
     },
     "VU.PA": {
