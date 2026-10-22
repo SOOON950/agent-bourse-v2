@@ -13,7 +13,8 @@
       "18"
     ],
     "2026-10-22": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -26,28 +27,28 @@
       "variation": 15.142430527300938
     },
     "ALKAL.PA": {
-      "ts": 1790661870.917247,
-      "variation": -12.699999999999994
+      "ts": 1792685099.2484946,
+      "variation": -8.333335574875472
     },
     "ALMDT.PA": {
       "ts": 1791954450.1514208,
       "variation": 6.100796292761826
     },
     "ALRIB.PA": {
-      "ts": 1792669400.939606,
-      "variation": -7.378334285760049
+      "ts": 1792685099.2484975,
+      "variation": -9.262164774863237
     },
     "ALSTI.PA": {
-      "ts": 1792473594.1604283,
-      "variation": -7.423308550281575
+      "ts": 1792685099.2484992,
+      "variation": -6.26262867057033
     },
     "LQQ.PA": {
-      "ts": 1792669400.9396086,
-      "variation": -3.337685381419407
+      "ts": 1792685099.2485025,
+      "variation": -4.544079323616991
     },
     "SIVE.ST": {
-      "ts": 1792126570.5789535,
-      "variation": -8.652376595022071
+      "ts": 1792685099.2485008,
+      "variation": -10.945276730418657
     },
     "VU.PA": {
       "ts": 1792648961.951811,
@@ -271,10 +272,12 @@
       "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNbG5BcmRIbUdpMTVXZ2FKU2F6MHdSX3A2d0gxUTBPdVhBamhPdFZOU2U2WWtfZEx1NnFOUnQ1MlVGalNrcHR2aGlWdFd5a1BsVmI0MTlfeVQzSG5NRXU3VjlHSlk0NE03TmlZOVFoV3lTcXphVEJBdGFGV2l2ZzZVRnM0MWx6Qjc2b1dfZ2QzeXJKRFVqM0V0b1FOVDUzX194UlEzTlNkc2lqakUyeUsxWklHS3NvdkRSSDc4RklmcGJSZDZ6Wks0VzB2NFh2aFFkTjEyM2NaWWhUYWR5THNtWHd2OFZWSWJ2emltbDZKQnZYaXRSX0N0cEw5VnNCNWpyMWY2Sk9STkRhMWwwWkRoSWZIV2VrZDJaOVIyRFJHeWFlTU9XbUdsMnEwTEdpUV9abjdPQTFZbkxvczNPcnVsMzhCNjVuNDhtNWdJR25ETmxYdXF2QU5uWUZlcjlSZ3ZB?oc=5",
       "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWlPY0U4ejV0czZjYVBqV0NfcHl2UWVvamJ5dnh0RlBjNVM0MXctdFFVdGExNEZXRGVmUDFSSlFveWhKNkVkczhjcXdaelY4YlR6UEhrU2UtUmwtN0M1YTBvTG9LcGhVWUtlLXNhQXI5NW4zUzRvVGhWN3l5Mk1VamdfXzFOVElxemZUV1JqRUJVQm52eTF2a1NJUlE1U0YzbUpkYm5jWEV2M0E2SFNLLTlwYV9HSmI0MDBhNkxqWGxVU0NCdXlzWUJTMXNEVUUxRTNkX2psNUtMeVZmczc5YXp4SGFsZ1N6?oc=5",
       "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdnNRNTE4X0wwTlNhRGd2UTZnTWdlZDRKWGFVaWtSOFIzMy1NaVZvcEpjU25YLWE3ZUlidGZmY3kxeWkyLXl4RGZTTldaTmREc1RsaTNkWmU2azVWckZwNXo1UmZQaXNzWFpFSHRwVjBWNVdFaFFtNGZwS1FUMDJiUFl2RlZlTjl5VzRIbWFoMkFxTEoydDk1ZWFDZThNaFZvX2UyNWgtVGFfYUU3Zkd5eUpGbjJNV1hLZThteGM2ekVIdGVqTENKREtGWTBmUmZDRk5jY05Ub052Y05KYTI3Wnh2bUZWcGR1Q2RhVVdUd3I?oc=5",
+      "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wVGlGbWNVQXhKcXh1Q0JOMkl1Vks0LW5rT3pSX2RjUURvNlA0cjc4Y3d1b1dBOWw3ODFORW1nTVFIUEItdkY3Vy0zU3NtNmR4RFY4ag?oc=5",
       "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fN0xJVTJ5bWFBWmQwUnlSTmJPamNnYnNxVUx4clgyS1FHY3dxelRTUWEyVzhSQzFuRXFSQmpqX3p0WXktc1dTVVVUQkU0bnhDck1WRlRNTmVvOE5sZGpCdA?oc=5",
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNS1Rc21Fb2FLUW55UG1xaWRFczdTQ21VU0VJcWdFRW5xdjdaelNLV1kzYU5aS000eXc4WVk5WTNjaS1ueTdMQlNTWTNqLTBVZkRzTWloaUx6ZEJBbVZUZVBtazdSS2w0cEh5andjYngwMTlOTi15VllTZ0NSZk9lSEcxRTdSd2JIdEdvenRYUGl0MlQ2WEVCc1hB?oc=5",
       "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTdUYzZxNHAzMkYwZVZVNDFZcmpOdG5EQ1Q2S3BrZnJ3QmZKNzBDN09kZ3NwTktYaFo0eTZleTQwNl9qSDhNWndBNEdrZlM4d3dPVmJUV1p5WDRkM2JqUnNqRU44WkF0dWpGTTVIODYwbkRwQzdlVHUyRFJzVmlEQ0JucWhtY3FUd1FSZEFnUmNZMUlRWng4TVd6OA?oc=5",
       "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOWhyWkJtV3d2SkR6bzlxZkE4ZkNIUjBWd251NlNfV25FMHdOUFJ3dDdzcUZDZkFtd0JyTnhlSUlvT1AzQU0zMTBtUTk3VVJ0bm50XzBNMFd6SmphQmp4c1pTOG1faDQzWXUyeVhfQ3I2SUpRRjhLQ2ZrUU9uRE1sUldIRWVVRVROZmZhYU1WTzFjM2hyQnFpT0NKVDBXaTd4WTVfNEdrd19FUHEtX2ZhYTdNejBDY1hhRk4zaUhJXzRXV2FuekZ1anREUl9EblVJY1UxU1lTZUttd3EySjdrWnJ5NGx5S3RGaGdieDVQOVh1UDJoaW41eFQ5RU9QY01LclIyLUl6bzdFNDVfMzllQzhRTUhkUENNUWgwOHhVWWdndlh1NXd2bmUtaw?oc=5",
+      "https://news.google.com/rss/articles/CBMirANBVV95cUxNdE4wZlNnNFN6ZDlROGh5bVRRb0dDYVAxZDEyUHdGdm1fTlBNdnZQSDZ0WFlaYmZqdFdNYUZBeER6TEpuWTZpV2Y5N1Q0b3BHajA1VndDVXNNcGtrMXdUWFlmRmVXZGIxWER3d0p4N0lBOFJfdl9lanBfMFpvejdTcWotNlFxejl6bFVYRVlsZFoxRE44MVY5dk9NMHNIcm5na24wOWhFTzZUVVh0T1h4MXhfNXE4MXpRa3JWeXdTZWFqZGEtREFuWi01NTk4cVdLU2RKNjFxVUVRMDBuby16RkxuajRmTGw4SnZEbDdVazQ1eFB0M0RHRDRvQW5ROE9wT0dCaDRJdkszU1c4UXEwRGJJcV9vMTRGU19jeW0xTEFrV1pKQll6bVdTQWM1VGd6U283d2x3M3RaSGlpcG82Z0xGc3ZEaEFKa2U4LUIzYVpSV0ZKVnpWTXZvNW1tYnJQMUJFWE92c1ZFQUhJMDNDTXB6ZUN2S3pyNUpIX2FiUWRFZWZCQjVRbEM3elVWX2pma25SY2ZMalJycWNTZGlGcXBqREZNbjZyNDU4LQ?oc=5",
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnlmQm1GYjRXQVhEaW1aX1NYVkZCbGNfVDdaSk82V0xYM3k2dEsxUm5ITWR5QkRHTjZFdFVSUWp3emhfSm9oWURaVFNHaEd1alFzc2RsTXhiYUZuYndnSnlnNTdKOWJiaWN4ZEQxYVNva093Z3k3WmdvNTdreWFSalJtb3pqTWJxemdRM1lkaXRhUjhsM1U0Q0pYWWpFdEg0b2IzdzNaSksxOVl2ZllLekZsYw?oc=5",
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZm80RmY2QUJyWnpPZm4yZVJkNWc3ZzkwYWVpV0tiN3VBQ2FZV3psWDdLa2YwclRoX1FBVnRvckh2eWYyVWtHMy1ySGxhUjZTd0tOb05BTHJqc053MFd5TGRzUV9hUEY1Y2QyYm9oU1hERG9DaEFXWE1jRFBLMzd6MF9VcDVvbzhOajhNWWxEa1QtQUtlN0NTa0ZaaGJrR21pckxMQnBGc2t1SC1sanZra2hiNA?oc=5",
       "https://news.google.com/rss/articles/CBMiswJBVV95cUxPYTVZMGFCWjVwWTlLZ2huU05waDhNNC1YUk5GZWNMeHVtUDhwNzl0ellUVFhiMlVmVGlDbjRkeHZKQzQyR1hzZWVxcGtzQ3NRTzR6QlZ6VVJXc0dKVWExbDlnSzFMMTdRd0hfMi1SX3BGNzBCQlRyaXcyT1d6c0czNEtiVEhkM3FuajAzWHpxaVVlM0VwZmdJQTY2Y0pDcEUxQ21XNWlvbFhmS2xySm5xZVllZ0paSmJQUlJQbERQOE5ZQXdmWnk4MmZzZHJRbVo2U29hZXdvMEMydVlzQTdGMHVTeV9hcUpJZTFzTWNKSFlPTWtXVnhtWm1sVVlRSWtwYmZqWnI2T0hEX3hkbWU0dEp4THNwVmVXakJtX0dzZ1pPTXVOZTZ1M2Itd1ZBRktSMFEw?oc=5",
@@ -450,7 +453,7 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "survente"
     },
     "ALMDT.PA": {
@@ -474,7 +477,7 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "survente"
     },
     "LQQ.PA": {
@@ -482,7 +485,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "SIVE.ST": {
@@ -490,8 +493,8 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
-      "zone_rsi": "neutre"
+      "sous_support": true,
+      "zone_rsi": "survente"
     },
     "VU.PA": {
       "au_dessus_res": false,
