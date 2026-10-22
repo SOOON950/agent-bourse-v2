@@ -1,303 +1,7 @@
 {
   "initialized": true,
   "last_digest_date": "2026-10-22",
-  "orange_queue": [
-    {
-      "label": "fortement baissier",
-      "message": "RSI entré en zone de SURVENTE (< 30).",
-      "nom": "Kalray",
-      "score": -8,
-      "ticker": "ALKAL.PA",
-      "type": "technique"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHhrb0hJRDA2QVZWVXdYT3JaQ3JmYVdPUTg2NDJGeHlIamxfelhheFJMNDRITnVUTzFKcjlxWFJ1MlNYOGZvX3B5Y0RnUU1iTVpsVUtoNGttNVFmRjQzemE2SnZXQllaNjN4YTBSaXVTTW51M1FDOC1KbE8wRXRPQVhSYjdVRlZyWVMwWU9Wd3FvX2UwU0RmQUNDRVJKX2c2eG5yZGJIQmg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "L'action 2CRSI grimpe de 4 % et affiche +107 % sur un an - Ideal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oZGRqT0RwNDhIdzJYcEN1XzdPa3VfRzlGcmI0OGlhOHk3aVJjdUU5aDE3NUVJS0g5aUdHR3dCaTQtSW9xeVFLUFZCcHVNVkRY?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ad1dZVGJtUmR1Q0NOSEl4dHY3akowT25ncm1LcVJEVEVZSGJZRXlVS09Wc1FGMC1rSG9zZlNHTEN5M1c0NnE0cVpWeWhSQUJH?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "LEGRAND Cours Action LR, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WlZRN0ZxanJKSXNxYmE2WlgzcGRVNGhublZBWjhxS2YwT19NSzh1aWYwYWdTWlltRkdiZ3VjRlhvMDlmRFRDTndhY0ctc3U5U2JV?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VIRIDIEN Cours Action VIRI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRnJjVFhnNjZBLWgtWkN0ZHBOeW1NY2JmQmlMQVJWbHRleUg4Um9HdXFhdkZiUG84VTg0NzJvS2loWXJIbGFfYktyRFVORjFo?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3X2xHSUdDQmNGajdkdTRNUXZFZU5tTGpDcnFUU2p1S2JucGVpYVFrbTNuSk1Vc2hiYkx5VjJlZU9yYnZVVThpT2o1NG01NGxfR1E?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VEOLIA Cours Action VIE, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpRFpKYkphLVVKSlV6Z1NNTUNMdXlwV0lwQ2NOUm93YXNaOTVRcWtmSDN5ZmE3cmVGcDdPeE54aG9KQUs1NFplU19ZZ2Qyc0VZ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHlNQVIwQTh0cmIySDcyejFyYUxaZEJYdWhXTGlweDlQcjJ2Wno0MW1FTEYwMko1emZjNkgyVmRJMXVzRTJOSk93Ul96ZlFIVERjUWpYMjlvZ3VHUWpaYU1JcWUwSnB0eFg2UGFTb0dmeXJ5bVUwM3hidDlKOGVmdzVpNy1laXloTUlaSklrSHF1RDNxLS1CLVZxN3ZHbUM1Q3BXaEJOZ3hRS0kyN00wT3hkUFNFcDFCbUZUeG9KS1E5Z0V5VEptb2JtY3ZTT25aMkMxRVJn?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies s'assure une visibilité financière jusqu'en 2028 - Investir Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa0R1YUVMYmx2enhJbC1GOWdRR1dzTzl0LThnT1RKN3Q1SFBPUWtOVTJIRVJaN1N3RmdNWlJqWTdlWkNIZUtjS1BqYlpMSk1uQVh0ZkIyTkJNQWdHTTlMa056MFhoRTNXWWhvVTdweU02TlFuaHhYeGZnY3dHUVk4bzRoaFZGS2xrQVhrdUh3MW51dWJwLWtTb0s0NmsydzlZSWNtRW5ScVVVWFhlcDZrRzNYWmtwRkk3eC1YSjJqRUhaVEZJNFhSdldOMGwxLTBHWUpFYVRWOGt1UGZJQWltNm92cw?oc=5",
-      "nom": "Vusion Group",
-      "ticker": "VU.PA",
-      "titre": "Vusion grimpe après ses résultats du premier semestre et l'optimisme sur 2027 - Investir Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVqb1JCTHc2Vm16WWMzUlJhZlE1QnFBZmZuand4allIOWhmTWdhUmp6WjNMRTlRRkFXTW4xZzAtUHdvQ3pYZTNWc1I5TnVoRjRNenhfLXg2VFVhUE9hSjZQRF9tNEpubXBKSzF2Z0tZWWlFRHk1VWszbjV1X0g1UFdYdUM0MEt2ZGhjdlVNbnBKUzZ3eTc0ZFU0ZVZrRTY1SG5ad2M3VWFMT1JndGJXbnJBQlBBYW5jUnctMTluR3MwQ3dRMlhpWUwzdlZNVWR2RXJKUGpPdTdkaW5FYnNDLXNEYw?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors AB (SIVE) Gets First Production Orders From Strategic LiDAR Customer - TradingView",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaFZBZnlKMDFLV1U2bTE0UXVOZGYyTmhhbGpHZDVTbEtVUFRCal9QQ1BIS1NQLVRVQnV0cXhBaFg4blo1cTY4bVpJTFFHRzdSalljb05XT25WTDhiVEFNcF93TTF5ZjFaandsMmlHQ1lpRWhNZ1B4Z0hzTDlOcTBreWQ2RE5RdmxHT0s3ZnM4VzlxNGl3dGExWXgwa2hBRk0wSjNGRjFlRVdqcG81ODVydmxuTU51TUdCc0dISF9YSDRBa2ZTMFViTE5LdWRTTFAxbkIydmZvaFJmdm5FOGZyeV9R0gHnAUFVX3lxTE9rbWJseUtiV2szcGVJR05PZlp4YlVxYjZQelF2NWtYdUR6Yk5NRDd0SVVpMExoS0RLZkZmR0JaYWhnVUlWNU5ESXhGcGZjZDFBQWJjMjhjaFF0aDdxUDNFN1VGMTVJaTZ3NzFMTy05aktGTDJKRUQ0OUN3em1yT3VEOW14dVNCRWUwcnJkVjVDeDBKS3VTaUM4dDI1YlpXd2psejgwRUJkQ0R2NnlubnZYLUJTZFBGM25oWFdETExZYmNnRHgyd196ZWEyTmp6X2tJXzkyZkd6ZjhYbWN6cjBValpmQ2gydw?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVU3TTZ0Rm9pTkNQNFRYRVdBczR3N2JGeXM4MVlPUVVmdkg2Nk5HZEMyUGxYT05LSk5TUFFCV1ZEXzJjTWpnck5UbDk3WXQzSjRsQWpUR1p5d0lLMmZhNjF3ajlnNFNOdnQyZVc0M0xCbmhFTEZyeTQ5NzlhLTFaU3NLRTJXZjRqVDVhS1htYmU2VVZGcnJOLVNlb2Z4UWVpeU5yQzl5VDBGRFBXdmNrMjZPRUZQb1VkeU9SMjNrMnNMV3N5a1UzZC1xbmd0MGx2Tm1SZVJpQQ?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHhrb0hJRDA2QVZWVXdYT3JaQ3JmYVdPUTg2NDJGeHlIamxfelhheFJMNDRITnVUTzFKcjlxWFJ1MlNYOGZvX3B5Y0RnUU1iTVpsVUtoNGttNVFmRjQzemE2SnZXQllaNjN4YTBSaXVTTW51M1FDOC1KbE8wRXRPQVhSYjdVRlZyWVMwWU9Wd3FvX2UwU0RmQUNDRVJKX2c2eG5yZGJIQmg?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "L'action 2CRSI grimpe de 4 % et affiche +107 % sur un an - Ideal Investisseur",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oZGRqT0RwNDhIdzJYcEN1XzdPa3VfRzlGcmI0OGlhOHk3aVJjdUU5aDE3NUVJS0g5aUdHR3dCaTQtSW9xeVFLUFZCcHVNVkRY?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ad1dZVGJtUmR1Q0NOSEl4dHY3akowT25ncm1LcVJEVEVZSGJZRXlVS09Wc1FGMC1rSG9zZlNHTEN5M1c0NnE0cVpWeWhSQUJH?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "LEGRAND Cours Action LR, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uMnA4aWJ6Vlh4ZXFKMm1lYnZPRU9xcTlyclEydUNDZXgwSUlKN190UFBoTk5XYnlNWXh5WmU0OUZFTVZyaFM0eW5PRHB2MGlv?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "SCHNEIDER ELECTRIC Cours Action SU, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRnJjVFhnNjZBLWgtWkN0ZHBOeW1NY2JmQmlMQVJWbHRleUg4Um9HdXFhdkZiUG84VTg0NzJvS2loWXJIbGFfYktyRFVORjFo?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WlZRN0ZxanJKSXNxYmE2WlgzcGRVNGhublZBWjhxS2YwT19NSzh1aWYwYWdTWlltRkdiZ3VjRlhvMDlmRFRDTndhY0ctc3U5U2JV?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VIRIDIEN Cours Action VIRI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHlNQVIwQTh0cmIySDcyejFyYUxaZEJYdWhXTGlweDlQcjJ2Wno0MW1FTEYwMko1emZjNkgyVmRJMXVzRTJOSk93Ul96ZlFIVERjUWpYMjlvZ3VHUWpaYU1JcWUwSnB0eFg2UGFTb0dmeXJ5bVUwM3hidDlKOGVmdzVpNy1laXloTUlaSklrSHF1RDNxLS1CLVZxN3ZHbUM1Q3BXaEJOZ3hRS0kyN00wT3hkUFNFcDFCbUZUeG9KS1E5Z0V5VEptb2JtY3ZTT25aMkMxRVJn?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies s'assure une visibilité financière jusqu'en 2028 - Investir Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa0R1YUVMYmx2enhJbC1GOWdRR1dzTzl0LThnT1RKN3Q1SFBPUWtOVTJIRVJaN1N3RmdNWlJqWTdlWkNIZUtjS1BqYlpMSk1uQVh0ZkIyTkJNQWdHTTlMa056MFhoRTNXWWhvVTdweU02TlFuaHhYeGZnY3dHUVk4bzRoaFZGS2xrQVhrdUh3MW51dWJwLWtTb0s0NmsydzlZSWNtRW5ScVVVWFhlcDZrRzNYWmtwRkk3eC1YSjJqRUhaVEZJNFhSdldOMGwxLTBHWUpFYVRWOGt1UGZJQWltNm92cw?oc=5",
-      "nom": "Vusion Group",
-      "ticker": "VU.PA",
-      "titre": "Vusion grimpe après ses résultats du premier semestre et l'optimisme sur 2027 - Investir Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVqb1JCTHc2Vm16WWMzUlJhZlE1QnFBZmZuand4allIOWhmTWdhUmp6WjNMRTlRRkFXTW4xZzAtUHdvQ3pYZTNWc1I5TnVoRjRNenhfLXg2VFVhUE9hSjZQRF9tNEpubXBKSzF2Z0tZWWlFRHk1VWszbjV1X0g1UFdYdUM0MEt2ZGhjdlVNbnBKUzZ3eTc0ZFU0ZVZrRTY1SG5ad2M3VWFMT1JndGJXbnJBQlBBYW5jUnctMTluR3MwQ3dRMlhpWUwzdlZNVWR2RXJKUGpPdTdkaW5FYnNDLXNEYw?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors AB (SIVE) Gets First Production Orders From Strategic LiDAR Customer - TradingView",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaFZBZnlKMDFLV1U2bTE0UXVOZGYyTmhhbGpHZDVTbEtVUFRCal9QQ1BIS1NQLVRVQnV0cXhBaFg4blo1cTY4bVpJTFFHRzdSalljb05XT25WTDhiVEFNcF93TTF5ZjFaandsMmlHQ1lpRWhNZ1B4Z0hzTDlOcTBreWQ2RE5RdmxHT0s3ZnM4VzlxNGl3dGExWXgwa2hBRk0wSjNGRjFlRVdqcG81ODVydmxuTU51TUdCc0dISF9YSDRBa2ZTMFViTE5LdWRTTFAxbkIydmZvaFJmdm5FOGZyeV9R0gHnAUFVX3lxTE9rbWJseUtiV2szcGVJR05PZlp4YlVxYjZQelF2NWtYdUR6Yk5NRDd0SVVpMExoS0RLZkZmR0JaYWhnVUlWNU5ESXhGcGZjZDFBQWJjMjhjaFF0aDdxUDNFN1VGMTVJaTZ3NzFMTy05aktGTDJKRUQ0OUN3em1yT3VEOW14dVNCRWUwcnJkVjVDeDBKS3VTaUM4dDI1YlpXd2psejgwRUJkQ0R2NnlubnZYLUJTZFBGM25oWFdETExZYmNnRHgyd196ZWEyTmp6X2tJXzkyZkd6ZjhYbWN6cjBValpmQ2gydw?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVU3TTZ0Rm9pTkNQNFRYRVdBczR3N2JGeXM4MVlPUVVmdkg2Nk5HZEMyUGxYT05LSk5TUFFCV1ZEXzJjTWpnck5UbDk3WXQzSjRsQWpUR1p5d0lLMmZhNjF3ajlnNFNOdnQyZVc0M0xCbmhFTEZyeTQ5NzlhLTFaU3NLRTJXZjRqVDVhS1htYmU2VVZGcnJOLVNlb2Z4UWVpeU5yQzl5VDBGRFBXdmNrMjZPRUZQb1VkeU9SMjNrMnNMV3N5a1UzZC1xbmd0MGx2Tm1SZVJpQQ?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Kairos Ventures poursuit ses cessions de titres au sein de Sivers Semiconductors - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRnJjVFhnNjZBLWgtWkN0ZHBOeW1NY2JmQmlMQVJWbHRleUg4Um9HdXFhdkZiUG84VTg0NzJvS2loWXJIbGFfYktyRFVORjFo?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VALEO Cours Action FR, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WlZRN0ZxanJKSXNxYmE2WlgzcGRVNGhublZBWjhxS2YwT19NSzh1aWYwYWdTWlltRkdiZ3VjRlhvMDlmRFRDTndhY0ctc3U5U2JV?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "VIRIDIEN Cours Action VIRI, Cotation Bourse Euronext Paris - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Iai05empDS0VnRDFOdUxRQk5lcU5UVHBqbmZ0ZmZiaEJZUGVhOWNjT01XYkp4MUdQNlhxekdkRTQ5WERyTkhNbUN0cnVtUTk5R0Zsb05pZG13WG9vMXdN?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Action 2CRSi : faut-il encore investir après son envolée en Bourse ? - Cafédelabourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVmFvMVdpNFU3c2EwTjZIZ0RiV0phVHJja1RPYTN3NEFETUlNWThpQjRPbVZXWTdqMUhXMjNmWVE2U3hQb1hsTXRYS25SX19XUWVVQ1Y5VjA2OE9jbkFCMUc5b3hjQTUzSDY0el9EQkRuSGExbHc0QVViRDQ5REJHY0RWS00xOUpTODdUR3NPR0FFOVR0dFQ0TzJVbG4ySkRlX2hvWThNM05XeVpSUlExVWlRSks3WVcwVmgyR3Jwc1E0cE5McVBoYTdLYjJ3YWdEa2x6bjJ1OHBLZUJIWWQwaklmWVFMbm5k0gHuAUFVX3lxTE9FVkNHNDdSWGVlY28yQkZjaGxpUktBWjViUFpjVl9pbFdSNEM4dEZ0cHVvNFpfSGI3NlBPbWktZFVqUi1LMVhKUllsWUNad2lfc25LSjA5OVlJMmpPSjNPUkNUcG50REVpa0RSRmRTQjBKeVhoSFdhS2xFSXRJanRnbkdNMW0yaGFPbXVZWXNCTzZBSEtFaEd1d1NlbUhJRXc2S0ptZXJzWGkyOTBrVVBqSklEemNJaDk1OEFIbV9tYVFuMVhoSEdoT3ZHeDVFU0lGZ3pkY01lUFJuV2RDaXdBRkZMQV9MSmhXR1dHeUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Wendel-Hausse de l'ANR par action au T3 avec les cessions de Stahl et d'IHS - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHRpQzlOcG1JMl81QXV2WWR3aXNJYkVETGxYWDNJRTFESF9UN2pIb0VIZDZlbWV4alRhcWNMVVRiNW1zZHdTY2FjaExqN25qRXhBS093NmE1MVJaN0o4aUtrTlNVd045X1VsZUNKTjU2TnBvQy1LS1JPZUlLUHZtSkdOUXUxOGotYzZIbTUxQ1NjNlJhcDRvOXh0RUkxVEdMaHpsSm1vUGhfZ0x0STdVSGkyV2x4ckR0TE9SN1FNbS1JeDZkN2FIRnBubVhKMlc3RUE?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "2CRSi ciblé par des accusations de fraude, la cotation suspendue, ce que nous conseillons de faire si vous êtes actionnaire - Investir Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWTFucDNfTmRUZ0k2WHNaS3N3c1VZMDNtRGRYSUNmTVBkTHBaZ1RFaTBsTDBxZmI2UnRSZTRkblpPdVNCekh2eWVVRTMtU3JBQk9zcnFha0YxTzdwSGNZU0ZqYjBENHBxWUV6VHc3MzRjbGE0ZDAxUHozQVFLYVRZU2dWS2RBWWx3NVI1QUNhSnNwTTJqazRMcTN0dTExQQ?oc=5",
-      "nom": "2CRSI",
-      "ticker": "AL2SI.PA",
-      "titre": "Réponse de 2CRSi et avis d'analystes - Zonebourse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHlNQVIwQTh0cmIySDcyejFyYUxaZEJYdWhXTGlweDlQcjJ2Wno0MW1FTEYwMko1emZjNkgyVmRJMXVzRTJOSk93Ul96ZlFIVERjUWpYMjlvZ3VHUWpaYU1JcWUwSnB0eFg2UGFTb0dmeXJ5bVUwM3hidDlKOGVmdzVpNy1laXloTUlaSklrSHF1RDNxLS1CLVZxN3ZHbUM1Q3BXaEJOZ3hRS0kyN00wT3hkUFNFcDFCbUZUeG9KS1E5Z0V5VEptb2JtY3ZTT25aMkMxRVJn?oc=5",
-      "nom": "Median Technologies",
-      "ticker": "ALMDT.PA",
-      "titre": "Median Technologies s'assure une visibilité financière jusqu'en 2028 - Investir Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnBPVW5FWnR6VFlGRm9uY0ctcHcxUmFqZ19yd0VubS10RHlSZ0dVanBkQUhjV00zWnlUczlSYXdpa3ZaU1VpbnNVcmpSRDZZWWRoT3hPREF5TUdKMkFwNFpwVUZNU19zLWJYN2VNS0pfMlI4MXlxX3pLZy1DMDZyZGhPNXpLS2NlYlYzZDRRbDNtamRnOWcyVGtrWmxWS0NYWWZkcEJfdlhaWUwwX0ZZNjIwVVE4bEplWTVlNmh3azVQZVMwTXlDR1VTeS0tamY4RjdtcVQwVHB6LVMyeVNITWRzM1lER0p4?oc=5",
-      "nom": "Vusion Group",
-      "ticker": "VU.PA",
-      "titre": "Vusion garde le cap pour 2026 après un bond de ses résultats au premier semestre - Investir Les Echos",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVqb1JCTHc2Vm16WWMzUlJhZlE1QnFBZmZuand4allIOWhmTWdhUmp6WjNMRTlRRkFXTW4xZzAtUHdvQ3pYZTNWc1I5TnVoRjRNenhfLXg2VFVhUE9hSjZQRF9tNEpubXBKSzF2Z0tZWWlFRHk1VWszbjV1X0g1UFdYdUM0MEt2ZGhjdlVNbnBKUzZ3eTc0ZFU0ZVZrRTY1SG5ad2M3VWFMT1JndGJXbnJBQlBBYW5jUnctMTluR3MwQ3dRMlhpWUwzdlZNVWR2RXJKUGpPdTdkaW5FYnNDLXNEYw?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors AB (SIVE) Gets First Production Orders From Strategic LiDAR Customer - TradingView",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaFZBZnlKMDFLV1U2bTE0UXVOZGYyTmhhbGpHZDVTbEtVUFRCal9QQ1BIS1NQLVRVQnV0cXhBaFg4blo1cTY4bVpJTFFHRzdSalljb05XT25WTDhiVEFNcF93TTF5ZjFaandsMmlHQ1lpRWhNZ1B4Z0hzTDlOcTBreWQ2RE5RdmxHT0s3ZnM4VzlxNGl3dGExWXgwa2hBRk0wSjNGRjFlRVdqcG81ODVydmxuTU51TUdCc0dISF9YSDRBa2ZTMFViTE5LdWRTTFAxbkIydmZvaFJmdm5FOGZyeV9R0gHnAUFVX3lxTE9rbWJseUtiV2szcGVJR05PZlp4YlVxYjZQelF2NWtYdUR6Yk5NRDd0SVVpMExoS0RLZkZmR0JaYWhnVUlWNU5ESXhGcGZjZDFBQWJjMjhjaFF0aDdxUDNFN1VGMTVJaTZ3NzFMTy05aktGTDJKRUQ0OUN3em1yT3VEOW14dVNCRWUwcnJkVjVDeDBKS3VTaUM4dDI1YlpXd2psejgwRUJkQ0R2NnlubnZYLUJTZFBGM25oWFdETExZYmNnRHgyd196ZWEyTmp6X2tJXzkyZkd6ZjhYbWN6cjBValpmQ2gydw?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Boursorama",
-      "type": "actu"
-    },
-    {
-      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX2oxc1FGRWd3VFhGQjVNa1I2TTh0ZlF2R0x4M0VlRlpOQXZmM1FQeldzbGdnajJwUUxOaGRWZXNRaG5WcTRiRGNabmNYbDJHQXN2YTJVVW9EWTNJQWhic0VuWi1GcEgyRzJCRHM2R1RDeHo3SG9FRS1SSDVXdF9fRm4zbUtJa3BVeG1pNU9uUjI5UTl5RmNpNVc2NEhQVUZUSlZoSFI0dm1DcmthbU8zUTExRlAyVGQtN0VYUUlFM1pONWl1UzZpdm0xZFV0Y2I0VzBTRVgzdFFJal9aZnUwSkpFc0NWMERrMlFYcnlzdDh6Zw?oc=5",
-      "nom": "Sivers Semiconductors",
-      "ticker": "SIVE.ST",
-      "titre": "Sivers Semiconductors AB reçoit des commandes de production de la part d’un client stratégique dans le domaine du LiDAR - Zonebourse",
-      "type": "actu"
-    }
-  ],
+  "orange_queue": [],
   "orange_slots_sent": {
     "2026-10-19": [
       "18"
@@ -307,6 +11,9 @@
     ],
     "2026-10-21": [
       "18"
+    ],
+    "2026-10-22": [
+      "13"
     ]
   },
   "red_cooldowns": {
@@ -327,16 +34,16 @@
       "variation": 6.100796292761826
     },
     "ALRIB.PA": {
-      "ts": 1792385435.830757,
-      "variation": -7.310347721494477
+      "ts": 1792669400.939606,
+      "variation": -7.378334285760049
     },
     "ALSTI.PA": {
       "ts": 1792473594.1604283,
       "variation": -7.423308550281575
     },
     "LQQ.PA": {
-      "ts": 1792185522.795614,
-      "variation": -5.360267214015322
+      "ts": 1792669400.9396086,
+      "variation": -3.337685381419407
     },
     "SIVE.ST": {
       "ts": 1792126570.5789535,
@@ -565,6 +272,7 @@
       "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWlPY0U4ejV0czZjYVBqV0NfcHl2UWVvamJ5dnh0RlBjNVM0MXctdFFVdGExNEZXRGVmUDFSSlFveWhKNkVkczhjcXdaelY4YlR6UEhrU2UtUmwtN0M1YTBvTG9LcGhVWUtlLXNhQXI5NW4zUzRvVGhWN3l5Mk1VamdfXzFOVElxemZUV1JqRUJVQm52eTF2a1NJUlE1U0YzbUpkYm5jWEV2M0E2SFNLLTlwYV9HSmI0MDBhNkxqWGxVU0NCdXlzWUJTMXNEVUUxRTNkX2psNUtMeVZmczc5YXp4SGFsZ1N6?oc=5",
       "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdnNRNTE4X0wwTlNhRGd2UTZnTWdlZDRKWGFVaWtSOFIzMy1NaVZvcEpjU25YLWE3ZUlidGZmY3kxeWkyLXl4RGZTTldaTmREc1RsaTNkWmU2azVWckZwNXo1UmZQaXNzWFpFSHRwVjBWNVdFaFFtNGZwS1FUMDJiUFl2RlZlTjl5VzRIbWFoMkFxTEoydDk1ZWFDZThNaFZvX2UyNWgtVGFfYUU3Zkd5eUpGbjJNV1hLZThteGM2ekVIdGVqTENKREtGWTBmUmZDRk5jY05Ub052Y05KYTI3Wnh2bUZWcGR1Q2RhVVdUd3I?oc=5",
       "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fN0xJVTJ5bWFBWmQwUnlSTmJPamNnYnNxVUx4clgyS1FHY3dxelRTUWEyVzhSQzFuRXFSQmpqX3p0WXktc1dTVVVUQkU0bnhDck1WRlRNTmVvOE5sZGpCdA?oc=5",
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNS1Rc21Fb2FLUW55UG1xaWRFczdTQ21VU0VJcWdFRW5xdjdaelNLV1kzYU5aS000eXc4WVk5WTNjaS1ueTdMQlNTWTNqLTBVZkRzTWloaUx6ZEJBbVZUZVBtazdSS2w0cEh5andjYngwMTlOTi15VllTZ0NSZk9lSEcxRTdSd2JIdEdvenRYUGl0MlQ2WEVCc1hB?oc=5",
       "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTdUYzZxNHAzMkYwZVZVNDFZcmpOdG5EQ1Q2S3BrZnJ3QmZKNzBDN09kZ3NwTktYaFo0eTZleTQwNl9qSDhNWndBNEdrZlM4d3dPVmJUV1p5WDRkM2JqUnNqRU44WkF0dWpGTTVIODYwbkRwQzdlVHUyRFJzVmlEQ0JucWhtY3FUd1FSZEFnUmNZMUlRWng4TVd6OA?oc=5",
       "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOWhyWkJtV3d2SkR6bzlxZkE4ZkNIUjBWd251NlNfV25FMHdOUFJ3dDdzcUZDZkFtd0JyTnhlSUlvT1AzQU0zMTBtUTk3VVJ0bm50XzBNMFd6SmphQmp4c1pTOG1faDQzWXUyeVhfQ3I2SUpRRjhLQ2ZrUU9uRE1sUldIRWVVRVROZmZhYU1WTzFjM2hyQnFpT0NKVDBXaTd4WTVfNEdrd19FUHEtX2ZhYTdNejBDY1hhRk4zaUhJXzRXV2FuekZ1anREUl9EblVJY1UxU1lTZUttd3EySjdrWnJ5NGx5S3RGaGdieDVQOVh1UDJoaW41eFQ5RU9QY01LclIyLUl6bzdFNDVfMzllQzhRTUhkUENNUWgwOHhVWWdndlh1NXd2bmUtaw?oc=5",
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnlmQm1GYjRXQVhEaW1aX1NYVkZCbGNfVDdaSk82V0xYM3k2dEsxUm5ITWR5QkRHTjZFdFVSUWp3emhfSm9oWURaVFNHaEd1alFzc2RsTXhiYUZuYndnSnlnNTdKOWJiaWN4ZEQxYVNva093Z3k3WmdvNTdreWFSalJtb3pqTWJxemdRM1lkaXRhUjhsM1U0Q0pYWWpFdEg0b2IzdzNaSksxOVl2ZllLekZsYw?oc=5",
@@ -758,7 +466,7 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "survente"
     },
     "ALSTI.PA": {
@@ -772,7 +480,7 @@
     "LQQ.PA": {
       "au_dessus_res": false,
       "croix_mm": "golden",
-      "signe_macd": "pos",
+      "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
