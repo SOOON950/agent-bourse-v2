@@ -14,7 +14,8 @@
       "18"
     ],
     "2026-10-23": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -486,7 +487,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": true,
+      "sous_support": false,
       "zone_rsi": "neutre"
     },
     "SIVE.ST": {
