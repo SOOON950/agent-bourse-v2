@@ -372,6 +372,105 @@
       "ticker": "SIVE.ST",
       "titre": "Citadel n’est plus un vendeur à découvert déclaré de Sivers Semiconductors - Zonebourse",
       "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "RSI sorti de la zone de survente.",
+      "nom": "Kalray",
+      "score": -9,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYmx2QlhHcXBsSHQ2QTJVeThQS2k2OFJqVEFuUUJmSlp3Mmo0ZEpJZ0RPYTBuSDRmdzhlUzdwSl8zUG9CRUs3b2JyVDBqdkVsWldTbzZSTkQ4bVpDa2dZNDlYTUF3c1ZFTmF3Ni1lclhJOXdjeFFIU1h1TmJaZFJKV3hpd1dIUk5VSjFyZFIzTDlKaTF1ZnE0SDBGRVBZWEZZT2o1Ni0yOXNFTlhVc29ETDBWSGdtNnMwcTFHd0Y3bTd2UlV6STR5WUQzbWpPQ19GNUhn0gHYAUFVX3lxTE9NTTUtN21HNUVHNlJQajRvOVR0UUgteF9ERWtpRnhJWE1INElkSXItV2s0SnptYkhMREhtSnpzTnU1RTd0dlo3Y2Fwc2pYX3dqT3ZCWTN5ZWlXMWttU3ZBbWcwclN1UGNWclhJcFFOTXFCS2ZGdEE1TWZ4V2llVTIyU0NyT29JT0drSVpyekw3NFlqUk42TVIxb18yTHkzamlaa0ppQW5sbmN3NmUzTlVqYm1iNHZaSS1CbklDc2lHRjFHcm9GOWNsYWx0VkkyOEV0aDVESDZRRw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Plus500 confiant pour ses objectifs annuels, l'action grimpe - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vVW9tczdYQ1pXZGRObDc2NXRiaTY5Z0xCQ1U0WHVla0RlUGJwaklWaFkxcnhEYkhLWi1McnFEMXBwa1hEMVBLM2VBMGZzWDFLLW96bG83d0JXRFMwRDI4dENqVEs4d3B2N1R4RXdpVUNvcjA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi: Objectif de Cours et Consensus des Analystes | AL2SI | FR0013341781 - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVzFlS19xNVdOQjROekpwcWZUbzA2dmlsLWdFRE5rOUdLN3NWUEJFZmw4Z0ZEWVQtY0hzbjhrVTdxLUZIcDQ5VmFnaTFKX3JHc1JHQXAxUklTaTZZXzNtWjFaYmljak45TmdLcjNpN09uQi1fRUtKZUpFWG1uck9uR3JsNEtibmtQNU5OejN4SGdNTndWM2hTUG91UDA2anNDbDFNYnpSOU03SHNZZ3hlNDktOUhCdWZYc29LaGV6R3MxMnFVRjVsMEY5ZDdyUnIyTVlZaFU3VDQ4UFBBSUExZ1UzdTRrMUZVV2V2WmRCcDNwZlFpeEExR3Bod2s4bUNvdVpyXzZlcDg5TENaODhOa1g2TnA1Ynd4RTFqSW9ITmQxUWZKb05ybTQxaktLbjdYcUHSAbcCQVVfeXFMUEI4NmdwSTJndEtQSjVTN0E1UVBPRll5SDd5ek5IR3VwOFNYSEpyRU5GVzVLQzY0Q254eWVkb3U5RFQtcUJudFA4b3pVYzR2Wjl0TWxOMTNjNW1RY25WcDZEZzczSTBTYXY2R0hkTExQZjdLWGhMcnhOSWZRdTQwRFBQaHMycUlZTlJLMnpKdTdhU1JJc196V0lpX3BpZHdQcXFNS0p6S2FyU1h1UEJZdzBrUGxIOVhvY1dCMHRabXFkSjd5WW11QVRVME9ySXRYODR0bzE0VENQcExmRlBRcDRPUlB4TVBpdTZITkoxUHJiZjZDY1FSVEdGNTNZZnZKTEd1aERrWUE5Z0h5UmJuc3pfN0xWSzRuVGw3bkFhNDFTUHcyWDRSU2FUR1dGNDR0U3E4Z2FWWmc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action Surgery Partners progresse après l'annonce selon laquelle Bon Secours serait sur le point de conclure - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Iai05empDS0VnRDFOdUxRQk5lcU5UVHBqbmZ0ZmZiaEJZUGVhOWNjT01XYkp4MUdQNlhxekdkRTQ5WERyTkhNbUN0cnVtUTk5R0Zsb05pZG13WG9vMXdN?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Action 2CRSi : faut-il encore investir après son envolée en Bourse ? - Cafédelabourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQngxVVlHdWZpVDByNUs3VmdXMkQ2ZEpieUplU2hXOF9KWHhad0FpN2hjeTFINmxzeEt2cU9aZEJUakhCNHRGSkI1dklsTkQzOFNTaVFrQy1wdHJ5TlVIQWdKWWFTSHpWSE1ScDREYlFjdXR2RWZhWWJjaE90RHVDQkdOUV9TOFlTd21IN1JTMTd2NldFTDQyTTNfY0kwdExqa3VPeTR3R2tJdHZzMkRQVWdQNDdpMGtyOVVFOVZkS2ptdXpzY2Q5T19iMTk4OGN2T3hsTkF2U0I?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSI : l'action, plus que doublée en un an, s'envole de 18,5 % après l'annonce du projet Aether - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oeTNKWE9QclczWEJvTlFRaG9URHBkX1dNTnI5T05JOG1CUUhEcVpFUkdCbExQTmpDb3JyQjk3Unpvdk1xMHNNTVlhVDJ6UjdfTUJjcFNYczFiaU91QnYtSW5EQnk?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Action 2CRSi | Cours AL2SI Bourse Euronext Paris - Zonebourse Suisse - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWl95T0VFbDdBQWdsXzIteXdmNXNWcjUwa242SGtlNEdOREE3SkdTcTlmUUUzWXlzdVdOTm9zX2YwVkR0YzljN2YwZG96MjdvUERBQlBKNElIZ3BKYk0wVHMydVpWV3RzZXp2cTZjNTRyWUlGdl80MUVsSjlGX0M1QlhPdmMzakVMakxmV1p5dkE4d0JCeWxxUFN6bnRxZ3NFd0tZYTlnNXZaRHFxSnp2Q3piOHJZWW9mUjRUZndYRVpuWXl3eVlCTWY0OFdudVU2STB0czdlLUI?oc=5",
+      "nom": "Median Technologies",
+      "ticker": "ALMDT.PA",
+      "titre": "Median Technologies présentera eyonis LCS lors de la 50e conférence de l'I-ELCAP - Boursier.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnBPVW5FWnR6VFlGRm9uY0ctcHcxUmFqZ19yd0VubS10RHlSZ0dVanBkQUhjV00zWnlUczlSYXdpa3ZaU1VpbnNVcmpSRDZZWWRoT3hPREF5TUdKMkFwNFpwVUZNU19zLWJYN2VNS0pfMlI4MXlxX3pLZy1DMDZyZGhPNXpLS2NlYlYzZDRRbDNtamRnOWcyVGtrWmxWS0NYWWZkcEJfdlhaWUwwX0ZZNjIwVVE4bEplWTVlNmh3azVQZVMwTXlDR1VTeS0tamY4RjdtcVQwVHB6LVMyeVNITWRzM1lER0p4?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion garde le cap pour 2026 après un bond de ses résultats au premier semestre - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUlJpcVJSY3pSblFlX2s1M3hldVZOakh4Z0wxOGpxMXQ5aXVOcURJMEZHVHlOazNjU2gyM0RVSm1TS0pILThXYXJ4cEFNMWV3a0hyR0ttWS1sQnRocFZaUUNqSVdXczBUUHp2ckprMkVxUGl1TExVOTdPZV9NOFgwZmYtT05ncml3WHR6YUVIWnlHbU5NRktWRTFpZVVTR0FSWmNVc0IxYnF5YzNjdHplSzFOYlhCSjNxRnJrTjZNQ3V2NF9qWmZwQXJMWnlLak81c1paag?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors AB (SIVE) Okays 7.28M Options Plan; Switches Auditor to EY - TradingView",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSC1vWkZzd0RVLVEyYndXdExOS0ZRaTFVOGZkektrbW1PMk1kYVhKMUQ4bzVpSHd2N216bWdiNVl2Y3hwM3pNaUtObm9hY1ozNm9GQm5LR2RoXzNfNUhOWVlRRE1WSnRQSGVDOXl1clliZE9IVF9xWFNqWlR6a1ZHZ3laRjl3Y1NOZEJ4OWFWRjc1WkJOY1ZfcjNBSTNNeW5TTkt2bGo2VHpOcHZ6ZzduS3JMMkhOVFVtbkZuR2JHNkxSZUNMa1NHa0VEZFFoLWhx?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Citadel n’est plus un vendeur à découvert déclaré de Sivers Semiconductors - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVqb1JCTHc2Vm16WWMzUlJhZlE1QnFBZmZuand4allIOWhmTWdhUmp6WjNMRTlRRkFXTW4xZzAtUHdvQ3pYZTNWc1I5TnVoRjRNenhfLXg2VFVhUE9hSjZQRF9tNEpubXBKSzF2Z0tZWWlFRHk1VWszbjV1X0g1UFdYdUM0MEt2ZGhjdlVNbnBKUzZ3eTc0ZFU0ZVZrRTY1SG5ad2M3VWFMT1JndGJXbnJBQlBBYW5jUnctMTluR3MwQ3dRMlhpWUwzdlZNVWR2RXJKUGpPdTdkaW5FYnNDLXNEYw?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors AB (SIVE) Gets First Production Orders From Strategic LiDAR Customer - TradingView",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
@@ -828,7 +927,7 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
-      "zone_rsi": "survente"
+      "zone_rsi": "neutre"
     },
     "ALMDT.PA": {
       "au_dessus_res": false,
@@ -843,7 +942,7 @@
       "croix_mm": "death",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": true,
+      "sous_support": false,
       "zone_rsi": "survente"
     },
     "ALSTI.PA": {
