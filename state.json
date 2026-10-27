@@ -120,13 +120,122 @@
       "ticker": "SIVE.ST",
       "titre": "Citadel n’est plus un vendeur à découvert déclaré de Sivers Semiconductors - Zonebourse Suisse",
       "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "RSI entré en zone de SURVENTE (< 30).",
+      "nom": "Kalray",
+      "score": -8,
+      "ticker": "ALKAL.PA",
+      "type": "technique"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYmx2QlhHcXBsSHQ2QTJVeThQS2k2OFJqVEFuUUJmSlp3Mmo0ZEpJZ0RPYTBuSDRmdzhlUzdwSl8zUG9CRUs3b2JyVDBqdkVsWldTbzZSTkQ4bVpDa2dZNDlYTUF3c1ZFTmF3Ni1lclhJOXdjeFFIU1h1TmJaZFJKV3hpd1dIUk5VSjFyZFIzTDlKaTF1ZnE0SDBGRVBZWEZZT2o1Ni0yOXNFTlhVc29ETDBWSGdtNnMwcTFHd0Y3bTd2UlV6STR5WUQzbWpPQ19GNUhn0gHYAUFVX3lxTE9NTTUtN21HNUVHNlJQajRvOVR0UUgteF9ERWtpRnhJWE1INElkSXItV2s0SnptYkhMREhtSnpzTnU1RTd0dlo3Y2Fwc2pYX3dqT3ZCWTN5ZWlXMWttU3ZBbWcwclN1UGNWclhJcFFOTXFCS2ZGdEE1TWZ4V2llVTIyU0NyT29JT0drSVpyekw3NFlqUk42TVIxb18yTHkzamlaa0ppQW5sbmN3NmUzTlVqYm1iNHZaSS1CbklDc2lHRjFHcm9GOWNsYWx0VkkyOEV0aDVESDZRRw?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Plus500 confiant pour ses objectifs annuels, l'action grimpe - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHhrb0hJRDA2QVZWVXdYT3JaQ3JmYVdPUTg2NDJGeHlIamxfelhheFJMNDRITnVUTzFKcjlxWFJ1MlNYOGZvX3B5Y0RnUU1iTVpsVUtoNGttNVFmRjQzemE2SnZXQllaNjN4YTBSaXVTTW51M1FDOC1KbE8wRXRPQVhSYjdVRlZyWVMwWU9Wd3FvX2UwU0RmQUNDRVJKX2c2eG5yZGJIQmg?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action 2CRSI grimpe de 4 % et affiche +107 % sur un an - Idéal Investisseur",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVzFlS19xNVdOQjROekpwcWZUbzA2dmlsLWdFRE5rOUdLN3NWUEJFZmw4Z0ZEWVQtY0hzbjhrVTdxLUZIcDQ5VmFnaTFKX3JHc1JHQXAxUklTaTZZXzNtWjFaYmljak45TmdLcjNpN09uQi1fRUtKZUpFWG1uck9uR3JsNEtibmtQNU5OejN4SGdNTndWM2hTUG91UDA2anNDbDFNYnpSOU03SHNZZ3hlNDktOUhCdWZYc29LaGV6R3MxMnFVRjVsMEY5ZDdyUnIyTVlZaFU3VDQ4UFBBSUExZ1UzdTRrMUZVV2V2WmRCcDNwZlFpeEExR3Bod2s4bUNvdVpyXzZlcDg5TENaODhOa1g2TnA1Ynd4RTFqSW9ITmQxUWZKb05ybTQxaktLbjdYcUHSAbcCQVVfeXFMUEI4NmdwSTJndEtQSjVTN0E1UVBPRll5SDd5ek5IR3VwOFNYSEpyRU5GVzVLQzY0Q254eWVkb3U5RFQtcUJudFA4b3pVYzR2Wjl0TWxOMTNjNW1RY25WcDZEZzczSTBTYXY2R0hkTExQZjdLWGhMcnhOSWZRdTQwRFBQaHMycUlZTlJLMnpKdTdhU1JJc196V0lpX3BpZHdQcXFNS0p6S2FyU1h1UEJZdzBrUGxIOVhvY1dCMHRabXFkSjd5WW11QVRVME9ySXRYODR0bzE0VENQcExmRlBRcDRPUlB4TVBpdTZITkoxUHJiZjZDY1FSVEdGNTNZZnZKTEd1aERrWUE5Z0h5UmJuc3pfN0xWSzRuVGw3bkFhNDFTUHcyWDRSU2FUR1dGNDR0U3E4Z2FWWmc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action Surgery Partners progresse après l'annonce selon laquelle Bon Secours serait sur le point de conclure - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb1F0eERTU2FjdlYzeVZySm1sNkJyUW9PdzhwdThleXZXTTdLUVB6RnpTOFM4QnFfbW5VRDBFQ2NIUzIzM0QzTnExYzNETEF5ZXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SOITEC Cours Action SOI, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oZGRqT0RwNDhIdzJYcEN1XzdPa3VfRzlGcmI0OGlhOHk3aVJjdUU5aDE3NUVJS0g5aUdHR3dCaTQtSW9xeVFLUFZCcHVNVkRY?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uMnA4aWJ6Vlh4ZXFKMm1lYnZPRU9xcTlyclEydUNDZXgwSUlKN190UFBoTk5XYnlNWXh5WmU0OUZFTVZyaFM0eW5PRHB2MGlv?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "SCHNEIDER ELECTRIC Cours Action SU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ad1dZVGJtUmR1Q0NOSEl4dHY3akowT25ncm1LcVJEVEVZSGJZRXlVS09Wc1FGMC1rSG9zZlNHTEN5M1c0NnE0cVpWeWhSQUJH?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "LEGRAND Cours Action LR, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWY0UWY1TzdSZGsxMnBSaTE5M01JWGhmV201NkFMVW9XQnZLaERVR0tDOUFCc2dPU3ZoNGZjX1Z1aUJxRjhnd2JhUm9qb1c3dDYtM25jbDY1VDg3QVdxQzdaUWIxYXNpWlZoMERpelJnNWMyQ2ZFVUVWR0NMbC1tR1YzakZUbHc3OWxqLTlJS2F3V2RmUGJvbkNjdkptS2ViWXViOHBwR1VkLTBBVi01TlktUXlpb0pRdnJJNGExdld3WmVDZ3RiMTFsVU54TlRpdDQ2OGx2a2_SAd4BQVVfeXFMTWctRXNTZTBRV2J2ekFwSm1ZMVhINmhUeERGbHVWUVVveHhUZW9OMjdkeXhHb2tTQTAyS3NGZU1WdDJYM29MbVZoRkk5LTZzQlN4a2dZZWJBR0FjTnFubXRTWm5OdEMtWFNHMWZNcWxyVTg3UVQ2NVNiemxDRDAzLU1fWThOaVZtOFlQNS1aTGZWcERkT1JuZXNvdFNQNWdjT053VVdqZ2tUeTBCZWZIMlExS1ZoNVZfWkd1RTRZMkxoVnA2WmdTUWRrQ29vZXJOaEdBR3A5QWdJdGZkR2JB?oc=5",
+      "nom": "Median Technologies",
+      "ticker": "ALMDT.PA",
+      "titre": "Median Technologies : l'augmentation de capital déjà sursouscrite - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHlNQVIwQTh0cmIySDcyejFyYUxaZEJYdWhXTGlweDlQcjJ2Wno0MW1FTEYwMko1emZjNkgyVmRJMXVzRTJOSk93Ul96ZlFIVERjUWpYMjlvZ3VHUWpaYU1JcWUwSnB0eFg2UGFTb0dmeXJ5bVUwM3hidDlKOGVmdzVpNy1laXloTUlaSklrSHF1RDNxLS1CLVZxN3ZHbUM1Q3BXaEJOZ3hRS0kyN00wT3hkUFNFcDFCbUZUeG9KS1E5Z0V5VEptb2JtY3ZTT25aMkMxRVJn?oc=5",
+      "nom": "Median Technologies",
+      "ticker": "ALMDT.PA",
+      "titre": "Median Technologies s'assure une visibilité financière jusqu'en 2028 - Investir Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ2IxejNURjlHZVVMcVFCWkhmV21wd18wNWRXbUdLTjhzUFQtR2NRMklWckZ1eUpWV2Rrb1RxWEV2eDVhN1NSejYteDd5QVBIMWxqUW91RVR1akxmcXl5U2VXN3FJY2M1RzN6OGo0a2pERF9JdDZmSm5UUjJaVW1NZEkwNWduUVVlTjBTbElrbGVpTWJEczlHRjd0dzFJZWJkRXNaazNJU1UzdF85RlBvRzk3Rm1TY25tWlV3bUx4QU5QRUJGOXctaGkxMkV4bmVfeGZVOGpEYlBZcWdJX0NmTDRDNEhGeElKVlI0empuTkJldw?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion maintient ses objectifs annuels après un troisième trimestre en forte croissance - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnBPVW5FWnR6VFlGRm9uY0ctcHcxUmFqZ19yd0VubS10RHlSZ0dVanBkQUhjV00zWnlUczlSYXdpa3ZaU1VpbnNVcmpSRDZZWWRoT3hPREF5TUdKMkFwNFpwVUZNU19zLWJYN2VNS0pfMlI4MXlxX3pLZy1DMDZyZGhPNXpLS2NlYlYzZDRRbDNtamRnOWcyVGtrWmxWS0NYWWZkcEJfdlhaWUwwX0ZZNjIwVVE4bEplWTVlNmh3azVQZVMwTXlDR1VTeS0tamY4RjdtcVQwVHB6LVMyeVNITWRzM1lER0p4?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion garde le cap pour 2026 après un bond de ses résultats au premier semestre - Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOWTJObS1JVHlIRUZLemtGd1pVZU00SVhyMnpvX3Zid0xINzQ1OU9UMXRpV3JUT3lHNzhhMHlWZXY2d2ppV1BZUFdHc1RvTUZpYWwtMl9MbUs2eWhRelhxMFMyM2JBWk1zNmE5X0pWQmhpT2hibWo3ZmhUeFpvV1FPLXFlVUlWSzRYNVh4ZTJzUy1iT3hZbEpiYnNPY0dmT0s3bDgxLWRLWkVabk1Ed1FRMVh5cTlqY2tfZFVvcmxXNHJybjVXazZ3Wlg0MU8wNDhNVzdEMkFwck9JV3VYM2pLSXVVSUV2TU5OOWRfQV93dG5vcldCS0ZkdVBfYkh2RWdKRHpyRWlZbGhya2lyVTQ1TlZxNDM2Mm4zWlBGbTlOZmtHcllVT3hhVmNDMGdyYXlYa2sycW1EcU9Jal84UHFEaVVpVUNhOUxvd0hrX21jTG9XbWJ0eHktbDBxa0VPcDJVNXhB?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion (ex-ses imagotag) : Le partenariat avec Carrefour n'apaise pas les craintes du - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaE9oYzYzYW5NS2prZXUycVhhbUFhdVRjSUk0RmJ5MEkzNjRrWXVnZDd6eElFWDJaNVJpR0hacWdQLUZkVnU3VllDWVpEdElwLU83d25mdGVZdjcxVFhjSkpNMDhjeE1BR1o3SFFON29IQi1lZ2hfaXNvUkFOcnVHbDVJelB3STdKWk92VWFwOWhGSk9GdXp5Slc0Q3pFeUlmN2l4Q3pZSWNIWXZqMW82bk5scS1TRlo3eUVSTjVsNkRyZ0xaMkhFNU9KODlKd2N0NXc?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Citadel n’est plus un vendeur à découvert déclaré de Sivers Semiconductors - Zonebourse",
+      "type": "actu"
     }
   ],
   "orange_slots_sent": {
-    "2026-10-23": [
-      "13",
-      "18"
-    ],
     "2026-10-24": [
       "13",
       "18"
@@ -157,7 +266,7 @@
       "variation": 6.100796292761826
     },
     "ALRIB.PA": {
-      "ts": 1793051512.322447,
+      "ts": 1793063262.3858333,
       "variation": 6.548670767916262
     },
     "ALSTI.PA": {
@@ -579,7 +688,7 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
-      "zone_rsi": "neutre"
+      "zone_rsi": "survente"
     },
     "ALMDT.PA": {
       "au_dessus_res": false,
