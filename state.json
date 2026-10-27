@@ -15,7 +15,8 @@
       "18"
     ],
     "2026-10-27": [
-      "13"
+      "13",
+      "18"
     ]
   },
   "red_cooldowns": {
@@ -32,24 +33,24 @@
       "variation": -8.333335574875472
     },
     "ALMDT.PA": {
-      "ts": 1793104081.7535448,
-      "variation": 10.000000000000009
+      "ts": 1793124710.8412714,
+      "variation": 11.125000000000007
     },
     "ALRIB.PA": {
       "ts": 1793081807.5856209,
       "variation": 6.548670767916262
     },
     "ALSTI.PA": {
-      "ts": 1792737223.1177356,
-      "variation": -6.26262867057033
+      "ts": 1793124710.8412743,
+      "variation": 9.965873170556417
     },
     "LQQ.PA": {
       "ts": 1792823828.6058404,
       "variation": -4.544080474123901
     },
     "SIVE.ST": {
-      "ts": 1792737223.117737,
-      "variation": -10.945276730418657
+      "ts": 1793124710.8412762,
+      "variation": 7.794672115543258
     },
     "VU.PA": {
       "ts": 1792648961.951811,
@@ -212,9 +213,9 @@
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSDlRX1pTTXVWUVY0ODVmV0hteUhKZktqUVVpaG5CdDNHTFpyVnFTdkJ3N0J5dEN2VmlXeEg3OXdlcWEycmYzME1JbnZMWlpfbzFUa3FXT2k1cHBib3hfX05xem5PRXNRZVpRMl80MThBVDV1ZEdkdmxZTllKdTFJYzJPYldCSTNLRXI3bEpoeFg5cUFKY0pKdTVLLXUwX2VVUVpGMXhRNHpPMVkzRlE0QU9KTldidE0zQXViX2Uyekhla3hwbWJNTnFPZEM?oc=5"
     ],
     "ALMDT.PA": [
-      "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkgtV1lTMFNPbTltQWhXSnVGdzRYVEdENks5cTBIOXhBVWEtM29FTGZVZEE1Uk9oZFpWNk9yQ1BJcDliQmpLY2xXeEtGamY5MC1CSFR1WlFiVXVFSGdlTjZjbmJhcWhxXzlpRkdWdDFyb1NoOEV3blQxdTBDUFdlUlJfTXNCNGtTOFNJRDJpNkZqZ0FfUVZKXzl6TFM2V0wzdzhGbG1ESDRwQmV6SWZOSm9vdWo3eDIwNVowSkxfSWxYLXRNZDQ4XzJKYWhtbnlEU0YtVVNlckxHdHphUFhN?oc=5",
       "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZEVLU0ZLUTN4bkZubjEzcC1mazhvSU1TRHZheUhxWWJwOTZBeW1oMzBpYktBaGFBOGo1MWRJOEswNFYxQWlVMjVZYm13bHNjMFFvRVhNcWl6N2RNM1RvckNVT09Fa051NEh6QkF3ZnNoUGN6RXVGclFRaFk4N1Z6MXo3dkNPb3YwSUNfbTlBYURQc0hzMUpHZ3l4NDlUTjRPYTZJY1dGakNJdC1KTW50RmUtV2M2UTd6MFdJNkNDVHc4QWppU01yc3QzZ0FRNHlFMEthVW9reTNQUUFXaEdlcThn0gHnAUFVX3lxTE9JdUJjUjIyU2RQVjZKUm94T3NxLUgzVWhsOV9hdHN5cHNLNEE2ZEJLaGVldUdrdkEtaEZVUW1fdDdiREVUc1AxWDQyMWFaOWozamtza01VcndlbXlUdXlDOEZtYnZFWUl6VWJxTnFjMDdLeHFyRUNSbUxCM3U2THlpUFJ1cjQwYWNwTHlpUUZ5bUVYaFNhdVNwM0gtdWZfRUxlUEJybGI2TXB2VXJTZzNpRWt2Tm92aVpKWnZsTkx2WUxhMFpNanRabkNlem51a1BrMmxtOHJNR3JCWDdWS0g1VTZ5dDNHTQ?oc=5",
       "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd0s0RVZjcW1zYnNJQVlGb3llSEs1bkVCck1GLXV6TldZak1uWkd5VExFdVViSElFWlpRVk1lRk0zcGNCZVJRWGNCZ3IteGNxQm9PUlhvZEE0OTRNaTdjYll5eExYaF9vY1FyU2ZibFJmYllUNDFlZ2FTLVV1b3V5UEZCakZ3SDRsLXZ6MFdHV2lRVFpqMXI2emhQWmVsZ0xUOVVUSHc4ckFKdGtYVmZjcXQwTkQwbUMzZDB1eGFqS2h6SW55YUNLNFhuVDIxZnRrZlpHUzZZVWlsS0sxLVZicUMxX0EwLTg?oc=5",
+      "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORkNWOFVxM0Y2ZGp0V0M1VXVqeXpXeXhjVVBaNWxVTzJGdXZkOE5mc1V1bzFTUDlvQS02NjdwQnA0RFEtQ1U2cFkxTVI3RkpVUFJoVjF3a2RRUzVheEd3SEp0alFJcURnQ2JlQW8tQ21ySDRYakN5TGpnRGl5cHhtN3h4VnBMZ0xrWlJOM25YaG5rUldITXFXeDNSREpDS2lTX0Y3SzBrQjlkOGw1a2E3MEZsTlhnT2dXcFZmTWI0MEw4VFlaOFFGYmZ6dkFBcDJPNFV4Yk12a05nVmRfVnQ1b25OSHU5bXhwS0t1eEln?oc=5",
       "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQzlTRE1zVXdZNTZZVTdVdUZCSS1nNDQ5YWxiMjVhVEtJclZITlBDdXBPWmpkb2lhaHlNTzBLUWtDMW83MUEzYksyM3ViYnk3NlBQZU1OV2FyaFFjSXNRNndtamFGUVgtRTB0WmhfOVJuZ202eTEwbkVqbEM3Y0x3NlZSM2tBWlNtbDJjNnBNU0RreU5WYUdFOTVXWUI4VU5iQ1c4S0Nyd1otVXk4UFhpWGpzanJ3WTRVWTFMWG11UE9vTTVBZWVnVEJLYk5LZ0xUX2NNVTlRdkJRZ0Y2UFpnVzFvNzVvV1MtOE1MOFdn?oc=5",
       "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNDU1dE1iZkNLZ29YRHlKNUU5alozMWdhSmlSYTd4Q0Iza3E3Zm8xby16djk4VGFPWGVxWUp6cFg1bmRFeS1qYmFEVUw0S1hVMjVVek9iNHNvZ21YZHBXOEdZSUE1QmR2R0dfMEllYmVwVFNZaXlkVjRTTEM0cW1YQUVzS3Z0WUJfOVk3YXkxakk4Qkh0WG9CbXNmNnluOTFPSWU4TjA4T0ZFU1ZWNmZpZG9JNXk3b0V3YXRGT1Z3VXJ5ZGFZZUtDUldmR3ZoMXFZWDVWendNclFtaWZRSFVyM1Q1Y3RCWjBfS1NOVUhCVQ?oc=5",
       "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zR3EyZ1ZLNDhUM3E4MWFpYnF4TWY3U3pQeWlkY2h6RFRtODNfTm50bU85NjJvTGV0d295eDJLOGtkdU5VTmVPalZGWTBiLVJ5RlRRbXRNU0JPY0VpUVdv?oc=5",
@@ -474,7 +475,7 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
-      "zone_rsi": "survente"
+      "zone_rsi": "neutre"
     },
     "ALSTI.PA": {
       "au_dessus_res": false,
@@ -503,7 +504,7 @@
     "VU.PA": {
       "au_dessus_res": false,
       "croix_mm": "death",
-      "signe_macd": "neg",
+      "signe_macd": "pos",
       "silence": false,
       "sous_support": false,
       "zone_rsi": "neutre"
