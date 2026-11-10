@@ -1,12 +1,143 @@
 {
   "initialized": true,
   "last_digest_date": "2026-11-09",
-  "orange_queue": [],
+  "orange_queue": [
+    {
+      "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObWgtMk5fclVOSlFuTTEwMmVSdzk1Tk9TX1hCS0hkbDF6QTh6QXE3VUU0SzlmQUhLemdBZFFEbjBMTTV6V2d2aHBFaEFuNFhDZzAyYWdiOG9POXJYNVd3NEJqV2F1djBNTllnMWZIc05nT0VDMXV3R1Uwc1V6M3hhTGE4WUkzdWJHV2pGZ3NnVVpEZlZNLTl6OFBRZWx4Zmd0ejFDaDU3RjNjWjd6TFdtMVRKT2VpUko2Smg4emZHOGFKSDBzZlZYSzE0UURLa3hjZlIyNGdNRFhneGdKREd0WWVwYWJEbU9PcktSUGluMC01RmxhZ1hvdzlaUTd1R1d2ZkdmTVVralNxVUpHb1Q3NzhB0gGXAkFVX3lxTE14aEJmOTdXSzdpLU5WdXB4ZlNPOFYwNDhBWVFIc0R3dTBKUGpmaGJBbnFUSXpJWUd3OXRkbzVBN0VWXzNsTEFmbkd2b0dLMzZpdWgyN19EOExNcVFGVVkwcTM5QTV3cFg0LVBhb25pdUtwaUgxellPd1FBVUoyRG1wZ1ZtV2RBTXd3V19PUXliUFVwaGJXRDlOR1lPUWV5bW94a1RhMkVoRUxCZDR4cTZNcTFhZGN0V3pSa2FsRTNQRkdoTGRHRHUweDhhN2ZSUFFqcElyZnhTSU4za004RDZJalBvZGx1RlhwRHFPUDluWmVRakVndWJNbjlydW12Z05mMnoyTlNIT2h4Y2R1dUVocXE2N3BTOA?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "L'action LifeStance Health chute alors que des sponsors se déchargent dans le cadre d'une offre secondaire - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcE95VE1weTBhR1QxMkwwYUhHeGhFcENoa3RKaFhJd0t6Y0c2dG5ianR0RTY2S1ZCNkl5d0RzZ294ckMtOVc5Wk9JaUpRR1NPNDc5LVM5bFFpTHVMRkloTzNQZEZuWnBwWFlkV0VSUVJqNXhOOEs3QTNhTE5NeU14Z0w0cVIzM0l6ckNldTJXYkZnRURKNm5Ic09xLXpVOGJOV0wwdERGaWVQck9hN2EySk9QMnYzcnVTVUkxeFE1WGJsam45OG1MaEpTamNiRFl2ZnJCb2J1c0JGMm9QWnVTUWJBQm45SU5JQkFfLVhEcFJrajA0Y0RGN2Fva0FicGFBTkHSAYcCQVVfeXFMT29EV1U3d05SN2YtcGlOTkJ3VXFlNTdvNGxDV293cEZPbEl1cmpZSVAwaXRodTgzdmpETVpPLVdxZlhKOHJrdVloS3FLOVpMV3huV3Ytd1pDM01rNGpDR1dzRDN6Q2c3eG1kcDhRV2ZpUWtWdkFnZXdUbzhPa1JDVHhLNlZSTl9yeEtCc19ZVnVBM1NwZV9pa3FlT1V6MTVRU3V0a3JCZHdBa3d5djgxdF9OR0UxLTVOSFZKcXB2czNMVlhCeG9rWldEV2w5R2RKMld2a0NCUFJPY2RveWJEYzMwdXAwaEwxWmpGRjBRZkg0dGc0UGZ0UDVXQlctQmp1TC15ZlBLNlk?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "Le cours de l'action KKR progresse alors que son bénéfice trimestriel atteint un niveau record - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2hXXzBFZFMyZ0lNd3hpRkdQS01Oa3pUWGpJMHdybkxoRGRNVUdGNFNKXzVwSXgtYmZlTlhYdWtIUUZYNHE4NVNxeXAwUXJOaGFxNjJiZmh2ck5YM0FwbzhvZlZkYzA4WTd0UG9kNG9NUVZ6dGVOdGhZMUl2UGsxbU9qY2FXMVNRcldUSlhRWjd0NDVJR00xZzQ1Um9CazBsUDlpNDVHRXJhNXpKM0sxUGltaGVaUzJmZmxzVmI3c0hZeHJfdkY4QmNqMTJpWUpMbkhCWmlqbjJXQzQ?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "En cinq mois, l’action 2CRSI a dévissé de 60€ à 10€ : voici la leçon que l’épargnant doit en tirer - Le Figaro Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1RpX0d1ZUNubFUtZVdpNkROYktLWFFfQzhJNmZhNEZ2REpyOUE4S0lJNkREZEI3TlQ0TVZSaXhXMTNkVWYtTmZ0MXRPWExiSVNIWUtJaHF5WEh3c1VHVE0wWTVhbjdYbzlmV1hZMHFEZ1FFSWF5UFNHZ0xIMk92LThISXBfbXJJRFBETk9NdTVzVjh0eGxjRnFzVjZKU3M?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi : un rapport de Grizzly Research fait plonger l’action - Tout Sur Mes Finances",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3FMWXRCd3M4T0k0TF9iRHQxQUFDTjczeWc1QlBMMHNremd0VEhibWdIYTlGeHBONWJKbUdIZ2lSQlpXS0tKbXpibEpmamNqdm5Uakotck1CV1pyTnVvMVVKcUVRSWJfUUlNclRCM1VZV1g2WXNuWmdJTHo0dThDVENybXJ1MzBBLXc?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSI : rebond confirmé - Boursier.com",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQMDNGaUF4NmxvQl9vTjlDRmdRT3ZXWXhfUjhpbHh4Z2pBY0VGUmJ5ZmxqbnhseC16amhKZE5uRGJnOFJHbjQtLWdzNXNTbXNxSTdLV3VtNS1ldndMdnJNcHF0elNpM0w0d05uRGl1bWMwcmU0aHowNHFxZl9ZSmpfckZwWG9zOUUwdUI2YkVuUGhaejdIYU5IbWNRZ1d5c3NFUjVPRWZ5bW42TkRXdlBoVUJJWFhxVmpYSk9jQmFsQ2w5TmZlZWJtRWRBckdmRC1ycU1yWm1xZVpPQmhsVzVUbkQ1U0xYWlBnTDYyWWpwc0FueHlOR1BFbVhHWXhmcnoyRVRHWUZsU3pWLW1qQUc3WnJIN0RXWmNpckZBRmxRcGVtcHl4b09FSVlrZXI3cXJpOXFCVy1DTWpyUUVpTlZlMXJEX1U2VEZUUm5qSG12VzhSeDFTSmtVdFFMWUVyUlR5NjJV?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2crsi : Son action a pris plus de 3.000% en trois ans avec l'IA...Qui est 2CRSi, ce fabricant strasbourgeois de serveurs haute performance et économes en énergie pour les data centers? - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQOUtGZVptQVpYQS1NUXJmZDBKRENJYVJLRzBXWkp4MFUxbndpWVRkaTZoMDliOHhjZ0huNFVCWUdWZlF1d0tNNF9jMkw2MzhBUXFSLU1YWGNwYTF2a01OTUlmeFUwdnhIU0RudGoyUGRySExFclFNSkVMYV9TcmNTYUpYOTFWcUpsMmpIcmgyeWxGMm9qWnM2dlh4M01zWk54VTZBSkEtUURKQ0s2R1ZmeHZBQktBYXdiZ2hsQmh4bDhxZ3JwYWMzZGNWWHRMQTVPMEdiZE9mQVdZZ0dhczlfaER0T1MxZzlTWXAwQi1RUlV0cEIzLUg3RW9zdnpFa2tCcEU1V2ZkQ3F3b0QwUTE0cHRZWnlETUE?oc=5",
+      "nom": "2CRSI",
+      "ticker": "AL2SI.PA",
+      "titre": "2CRSi publie des résultats annuels en forte hausse, mais le commissaire aux comptes juge impossible de les certifier, l'action plonge de 50% - Investir Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWY0UWY1TzdSZGsxMnBSaTE5M01JWGhmV201NkFMVW9XQnZLaERVR0tDOUFCc2dPU3ZoNGZjX1Z1aUJxRjhnd2JhUm9qb1c3dDYtM25jbDY1VDg3QVdxQzdaUWIxYXNpWlZoMERpelJnNWMyQ2ZFVUVWR0NMbC1tR1YzakZUbHc3OWxqLTlJS2F3V2RmUGJvbkNjdkptS2ViWXViOHBwR1VkLTBBVi01TlktUXlpb0pRdnJJNGExdld3WmVDZ3RiMTFsVU54TlRpdDQ2OGx2a2_SAd4BQVVfeXFMTWctRXNTZTBRV2J2ekFwSm1ZMVhINmhUeERGbHVWUVVveHhUZW9OMjdkeXhHb2tTQTAyS3NGZU1WdDJYM29MbVZoRkk5LTZzQlN4a2dZZWJBR0FjTnFubXRTWm5OdEMtWFNHMWZNcWxyVTg3UVQ2NVNiemxDRDAzLU1fWThOaVZtOFlQNS1aTGZWcERkT1JuZXNvdFNQNWdjT053VVdqZ2tUeTBCZWZIMlExS1ZoNVZfWkd1RTRZMkxoVnA2WmdTUWRrQ29vZXJOaEdBR3A5QWdJdGZkR2JB?oc=5",
+      "nom": "Median Technologies",
+      "ticker": "ALMDT.PA",
+      "titre": "Median Technologies : l'augmentation de capital déjà sursouscrite - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHlNQVIwQTh0cmIySDcyejFyYUxaZEJYdWhXTGlweDlQcjJ2Wno0MW1FTEYwMko1emZjNkgyVmRJMXVzRTJOSk93Ul96ZlFIVERjUWpYMjlvZ3VHUWpaYU1JcWUwSnB0eFg2UGFTb0dmeXJ5bVUwM3hidDlKOGVmdzVpNy1laXloTUlaSklrSHF1RDNxLS1CLVZxN3ZHbUM1Q3BXaEJOZ3hRS0kyN00wT3hkUFNFcDFCbUZUeG9KS1E5Z0V5VEptb2JtY3ZTT25aMkMxRVJn?oc=5",
+      "nom": "Median Technologies",
+      "ticker": "ALMDT.PA",
+      "titre": "Median Technologies s'assure une visibilité financière jusqu'en 2028 - Investir Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ2IxejNURjlHZVVMcVFCWkhmV21wd18wNWRXbUdLTjhzUFQtR2NRMklWckZ1eUpWV2Rrb1RxWEV2eDVhN1NSejYteDd5QVBIMWxqUW91RVR1akxmcXl5U2VXN3FJY2M1RzN6OGo0a2pERF9JdDZmSm5UUjJaVW1NZEkwNWduUVVlTjBTbElrbGVpTWJEczlHRjd0dzFJZWJkRXNaazNJU1UzdF85RlBvRzk3Rm1TY25tWlV3bUx4QU5QRUJGOXctaGkxMkV4bmVfeGZVOGpEYlBZcWdJX0NmTDRDNEhGeElKVlI0empuTkJldw?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion maintient ses objectifs annuels après un troisième trimestre en forte croissance - Investir Les Echos",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaWZCdktqQU8yYUFGZUJzOW1reTN2SVMxMWI1MS1fVWUyRnQ2ZUxVOGdzVTFxWFBHalFJX2tVZnJsa1Q2SmxlVVpyeFR4Zk1Wa1l2U0VoS3BGcHIyaWx5VURMWmlqOE5V?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Action VusionGroup | Cours VU Bourse Euronext Paris - Zonebourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObkpoZF9UWlA1MDdZRkdtSThYcGk1MDQ4TlFyXzNoQk9OTjZjQXRkc0NRWEVWSFpjSUZGVEhTdWZ3azJNTllCLW1sWEhRb05OdEYxZG9pNEd4ZmpSajZ3U1NHVkZ3djZsYTJ6ZW5TSXBFOEkyOXlBWGVOcjhvYU1fX2pFT2dfRjJDakJLa2hWLW0tZ0VTWG5fVVV3UW5tMVBPZVNQTEw4Y3dSVEtDQUZuc0otVl96dEtualRyRnZDdGVzRFZlQ0pFajFkeHNYd2NpaDVyeExpV0xmeTFTbnV3VGJzeFFncHEzcDVuUnhXN2t5VXhYRDhsck9MZEg0ZlNKbVlXd09ZUkNBSW9teS1PdkVQbkJsbXBWb1VqRmRTTnJfZHF3aHVJNWVDQlJRUjVMREFVR2tIVkVSMlNwMFExZ0JSUEJDLXd2cTA0UHVRNjU4UV9VYkE1WkxmbTc5YXM2NzNqZ1hR?oc=5",
+      "nom": "Vusion Group",
+      "ticker": "VU.PA",
+      "titre": "Vusion (ex-ses imagotag) : Un contrat avec Walmart Mexico d'un potentiel de plusieurs centaines de millions d'euros dès 2027 redonne des couleurs à Vusion en Bourse - BFM Bourse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTZ2OUREUmVpSlVockpXeGVPMUF6cS05ZXR6MW5vLVZKcXNwNkxMb2FDU3BHRDlCamZpOC1YZGE0UWFBX3V5XzgtQXI4MldKaDhEVDVhRFhtREtsdUFzbm9UVmlCdHlwMkpUaHJIT1dLRTZWVnhQbGdzb21SeC1YTmZ6bzZfOU4wVGxnR0lSeWJsaXBQS3lzXzItZjVjSUFuVEtwR01rTDJtcGRRd29zQUYwdjdIMjAzTzI5SUozcEVVaVpENy1DVXNFRVJzMHlK?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors : baisse du chiffre d'affaires et creusement des pertes - Zonebourse Suisse",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaFZBZnlKMDFLV1U2bTE0UXVOZGYyTmhhbGpHZDVTbEtVUFRCal9QQ1BIS1NQLVRVQnV0cXhBaFg4blo1cTY4bVpJTFFHRzdSalljb05XT25WTDhiVEFNcF93TTF5ZjFaandsMmlHQ1lpRWhNZ1B4Z0hzTDlOcTBreWQ2RE5RdmxHT0s3ZnM4VzlxNGl3dGExWXgwa2hBRk0wSjNGRjFlRVdqcG81ODVydmxuTU51TUdCc0dISF9YSDRBa2ZTMFViTE5LdWRTTFAxbkIydmZvaFJmdm5FOGZyeV9R0gHnAUFVX3lxTE9rbWJseUtiV2szcGVJR05PZlp4YlVxYjZQelF2NWtYdUR6Yk5NRDd0SVVpMExoS0RLZkZmR0JaYWhnVUlWNU5ESXhGcGZjZDFBQWJjMjhjaFF0aDdxUDNFN1VGMTVJaTZ3NzFMTy05aktGTDJKRUQ0OUN3em1yT3VEOW14dVNCRWUwcnJkVjVDeDBKS3VTaUM4dDI1YlpXd2psejgwRUJkQ0R2NnlubnZYLUJTZFBGM25oWFdETExZYmNnRHgyd196ZWEyTmp6X2tJXzkyZkd6ZjhYbWN6cjBValpmQ2gydw?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Boursorama",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVdyanV3X3l3VVZoUHptblZIZnV0Y2FMbkx2a2FuMW4zdmZIME96WEx0SEtWY3gxSTg2MkdvMGE4MWU2RVJmZ3lnZDdoOWFIR1lMa2NhUzg3d0Z5X3hNMUd2ZllZWTBVOHR5ZnZ3dFBXUzcwUF9hZVl6Vmc1dWNLUHNpakVob0R5QUxYY3QtWUhiUjFweUVvU0NNb0dMS0V2UWxiYWVxN2dHT001eUQwQmhtd3lYZ0ZGTmR6NG9FN01ad2dyU0xEMkU5b1VoZzMwZzVRSkZIOTUzakE?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors s'auto décote et CMC market dépasse les attentes - Option Finance",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOGVqb1JCTHc2Vm16WWMzUlJhZlE1QnFBZmZuand4allIOWhmTWdhUmp6WjNMRTlRRkFXTW4xZzAtUHdvQ3pYZTNWc1I5TnVoRjRNenhfLXg2VFVhUE9hSjZQRF9tNEpubXBKSzF2Z0tZWWlFRHk1VWszbjV1X0g1UFdYdUM0MEt2ZGhjdlVNbnBKUzZ3eTc0ZFU0ZVZrRTY1SG5ad2M3VWFMT1JndGJXbnJBQlBBYW5jUnctMTluR3MwQ3dRMlhpWUwzdlZNVWR2RXJKUGpPdTdkaW5FYnNDLXNEYw?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors AB (SIVE) Gets First Production Orders From Strategic LiDAR Customer - TradingView",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpTWlTdUxyN01MNUpLU0ZmeGwwWWwxeFFDN1lUa1hGNjEzWUlQWkVlbFJTbnB6MHRWbV9lcXk2UkJEM2FwRzJpQ3dFM3FfemgwRXlr?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Cours, actualités, cotation et historique des capital-actions Sivers Semiconductors AB (publ) (SIVEF) - Yahoo Finance France",
+      "type": "actu"
+    },
+    {
+      "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQmlDUDdhZi1fVktKQjFaT21IV2pOaDJ5QWFUYmdvaTlIbG9qRkJFTDBHM2JCZ2x5cXZjN1A4R1V4TjBYcUpUblBZUFBERjZuZUp2SkhDZk5Ob2N2WXhmTjF3N3IyY0pNekhkV0JyTFZjR29jbl9UbjZKeklNWTVhckhja2VSZWRhMHEyeTQybldJOHEzLUNQZFJFWjYzaXpCMVhMVVd6UXk0bV9FZ19VYXRVVHdmUWxaTmh1RnVhNkNHOFN5c1V0Z0FkanB6bjJRbTdaci1qRdIB3AFBVV95cUxNVmNMOFVKbkl5UGh0TzNpUmVhZWxKVExFV2pNN1V1RTM1MTVueS1DNG9jR2tRSEVlVHVfYnRUYjVtNGFDNDEwT08xcUdpLTdrTUgxcjYtUTZXTTZZdUhQVkNZMTZVQlhaVHB0Y1ItQzdWV051c2dEV3hEcGhZRnlpdVFvZXp4NEQyTEdOR1FiNk1weE1FbUNOU1hqN0NPRnNTSmxuNDJzdmVtdkd5eExJbkFqaklJc2g2TUI1Vkx4UkFnNGVHdmE3dm04ZjhGNnQ5Vkc2bFpKZFFWTHJu?oc=5",
+      "nom": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "titre": "Sivers Semiconductors remporte une commande auprès d'ALL.SPACE - Boursorama",
+      "type": "actu"
+    },
+    {
+      "label": "baissier",
+      "message": "RSI entré en zone de SURVENTE (< 30).",
+      "nom": "LQQ (Nasdaq-100 x2)",
+      "score": -4,
+      "ticker": "LQQ.PA",
+      "type": "technique"
+    }
+  ],
   "orange_slots_sent": {
-    "2026-11-06": [
-      "13",
-      "18"
-    ],
     "2026-11-07": [
       "13",
       "18"
@@ -21,7 +152,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1794255119.6290665,
+      "ts": 1794278791.0854619,
       "variation": 8.249369496967438
     },
     "ALHAF.PA": {
@@ -45,7 +176,7 @@
       "variation": 22.93750000000001
     },
     "LQQ.PA": {
-      "ts": 1794255119.6290796,
+      "ts": 1794278791.0854654,
       "variation": 3.3797684032858237
     },
     "SIVE.ST": {
@@ -53,7 +184,7 @@
       "variation": 7.28477055417571
     },
     "VU.PA": {
-      "ts": 1794255119.629069,
+      "ts": 1794278791.085464,
       "variation": 5.000000000000004
     }
   },
@@ -493,7 +624,7 @@
       "signe_macd": "neg",
       "silence": false,
       "sous_support": false,
-      "zone_rsi": "neutre"
+      "zone_rsi": "survente"
     },
     "SIVE.ST": {
       "au_dessus_res": false,
