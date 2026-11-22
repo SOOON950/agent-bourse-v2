@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_digest_date": "2026-11-21",
+  "last_digest_date": "2026-11-22",
   "orange_queue": [
     {
       "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzhCWEJBdk1qVWZWMzByUVBqeHFYeGNlWno4X1FmOXVOMnY1b3ExNGlnX2tTN2YwREs0MWpGNGhBdWdYNEtLLXVRNHdKUFdPbG93WkJES3hPNzVidkR2dWo3ek5qZjUxUVVmMDNxaEk0Q1NSdTBkR0R0MmhJV3hsQWZlV3gzXzk1cUZmaHFlc0hXdTMzYzA2RWMzWDgtV2NuR3gwUnNIYjlXUWx4LUNYVHdIbU1BMzUtc0Vrc3dEd0FIdw?oc=5",
@@ -240,7 +240,7 @@
   },
   "red_cooldowns": {
     "AL2SI.PA": {
-      "ts": 1795310556.9734113,
+      "ts": 1795336412.9219253,
       "variation": -9.325769079450685
     },
     "ALHAF.PA": {
@@ -248,7 +248,7 @@
       "variation": -9.021118073248504
     },
     "ALKAL.PA": {
-      "ts": 1795310556.9734085,
+      "ts": 1795336412.9219217,
       "variation": -9.011626093693232
     },
     "ALMDT.PA": {
@@ -256,7 +256,7 @@
       "variation": 7.44949391442603
     },
     "ALRIB.PA": {
-      "ts": 1795310556.9734125,
+      "ts": 1795336412.9219272,
       "variation": -8.864692224595203
     },
     "ALSTI.PA": {
@@ -264,11 +264,11 @@
       "variation": 22.93750000000001
     },
     "LQQ.PA": {
-      "ts": 1795310556.973415,
+      "ts": 1795336412.9219291,
       "variation": -11.061786768034942
     },
     "SIVE.ST": {
-      "ts": 1795310556.973414,
+      "ts": 1795336412.9219282,
       "variation": -16.65449089011115
     },
     "VU.PA": {
