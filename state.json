@@ -127,6 +127,14 @@
       "ticker": "LQQ.PA",
       "titre": "Amundi Nasdaq-100 Daily (2x) Leveraged UCITS ETF Acc - EUR, Cours Tracker LQQ, Cotation Bourse Euronext Paris - Boursorama",
       "type": "actu"
+    },
+    {
+      "label": "fortement baissier",
+      "message": "📉 Cassure d'un plus-bas récent (sortie par le bas).",
+      "nom": "LQQ (Nasdaq-100 x2)",
+      "score": -6,
+      "ticker": "LQQ.PA",
+      "type": "technique"
     }
   ],
   "orange_slots_sent": {
@@ -160,8 +168,8 @@
       "variation": 22.93750000000001
     },
     "LQQ.PA": {
-      "ts": 1795574204.5582848,
-      "variation": -6.36588557323016
+      "ts": 1795607113.742041,
+      "variation": -3.8415817371930374
     },
     "SIVE.ST": {
       "ts": 1795574204.558283,
@@ -610,7 +618,7 @@
       "croix_mm": "golden",
       "signe_macd": "neg",
       "silence": false,
-      "sous_support": false,
+      "sous_support": true,
       "zone_rsi": "neutre"
     },
     "SIVE.ST": {
